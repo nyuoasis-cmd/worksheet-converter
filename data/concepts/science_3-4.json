@@ -1,0 +1,491 @@
+[
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-1-1단원. 물질의 성질",
+    "concepts": [
+      {
+        "concept": "물체와 물질",
+        "easy_explanation": "물체는 물건이에요. 물질은 재료예요. 컵은 물체예요. 유리는 물질이에요.",
+        "related_terms": ["물체", "물질", "재료"]
+      },
+      {
+        "concept": "물질의 단단한 정도",
+        "easy_explanation": "물질마다 단단함이 달라요. 쇠는 아주 단단해요. 고무는 말랑해요. 긁어서 비교해요.",
+        "related_terms": ["단단하다", "무르다", "긁기"]
+      },
+      {
+        "concept": "물에 뜨는 성질",
+        "easy_explanation": "나무는 물에 떠요. 쇠는 가라앉아요. 물질마다 달라요.",
+        "related_terms": ["뜨다", "가라앉다", "물"]
+      },
+      {
+        "concept": "물질의 선택",
+        "easy_explanation": "알맞은 재료를 골라요. 우산은 방수 재료예요.",
+        "related_terms": ["재료", "성질", "쓰임새"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-1-2단원. 동물의 한살이",
+    "concepts": [
+      {
+        "concept": "한살이",
+        "easy_explanation": "태어나서 자라는 과정이에요. 한살이라고 해요.",
+        "related_terms": ["태어나다", "자라다", "새끼"]
+      },
+      {
+        "concept": "완전 탈바꿈",
+        "easy_explanation": "알에서 애벌레가 나와요. 번데기가 돼요. 그다음 나비가 돼요. 모습이 다 바뀌어요.",
+        "related_terms": ["알", "애벌레", "번데기", "나비"]
+      },
+      {
+        "concept": "불완전 탈바꿈",
+        "easy_explanation": "알에서 애벌레가 나와요. 번데기가 없어요. 바로 어른이 돼요. 메뚜기가 그래요.",
+        "related_terms": ["알", "애벌레", "메뚜기"]
+      },
+      {
+        "concept": "알을 낳는 동물과 새끼를 낳는 동물",
+        "easy_explanation": "닭은 알을 낳아요. 개는 새끼를 낳아요. 방법이 달라요.",
+        "related_terms": ["알", "새끼", "닭", "개"]
+      },
+      {
+        "concept": "배추흰나비의 한살이",
+        "easy_explanation": "알에서 시작해요. 애벌레가 돼요. 번데기가 돼요. 나비가 돼요.",
+        "related_terms": ["배추흰나비", "알", "애벌레", "번데기"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-1-3단원. 자석의 이용",
+    "concepts": [
+      {
+        "concept": "자석",
+        "easy_explanation": "쇠를 끌어당겨요. 클립이나 못이 붙어요.",
+        "related_terms": ["자석", "끌어당기다", "쇠"]
+      },
+      {
+        "concept": "자석의 극",
+        "easy_explanation": "N극과 S극이 있어요. 같은 극은 밀어요. 다른 극은 붙어요.",
+        "related_terms": ["N극", "S극", "끌어당기다", "밀어내다"]
+      },
+      {
+        "concept": "나침반",
+        "easy_explanation": "바늘은 자석이에요. 남북을 가리켜요. 방향을 알 수 있어요.",
+        "related_terms": ["나침반", "방향", "남쪽", "북쪽"]
+      },
+      {
+        "concept": "자석의 이용",
+        "easy_explanation": "냉장고에 자석이 있어요. 필통에도 있어요. 생활에서 많이 써요.",
+        "related_terms": ["냉장고", "필통", "생활"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-1-4단원. 지구의 모습",
+    "concepts": [
+      {
+        "concept": "지구의 모양",
+        "easy_explanation": "지구는 둥글어요. 공처럼 생겼어요.",
+        "related_terms": ["지구", "둥글다", "지구본"]
+      },
+      {
+        "concept": "육지와 바다",
+        "easy_explanation": "땅과 바다가 있어요. 바다가 더 넓어요.",
+        "related_terms": ["육지", "바다", "땅"]
+      },
+      {
+        "concept": "공기",
+        "easy_explanation": "지구에 공기가 있어요. 공기로 숨을 쉬어요. 눈에 안 보여요.",
+        "related_terms": ["공기", "숨쉬다", "대기"]
+      },
+      {
+        "concept": "달",
+        "easy_explanation": "달은 지구를 돌아요. 공기가 없어요. 물도 없어요.",
+        "related_terms": ["달", "지구", "공기"]
+      },
+      {
+        "concept": "지구와 달의 비교",
+        "easy_explanation": "지구에는 물이 있어요. 공기도 있어요. 달에는 둘 다 없어요.",
+        "related_terms": ["지구", "달", "물", "공기", "생물"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-2-1단원. 동물의 생활",
+    "concepts": [
+      {
+        "concept": "동물의 서식지",
+        "easy_explanation": "사는 곳이 달라요. 물고기는 물에 살아요. 새는 하늘을 날아요.",
+        "related_terms": ["서식지", "물", "하늘", "땅"]
+      },
+      {
+        "concept": "동물의 특징",
+        "easy_explanation": "생김새가 달라요. 다리 수가 달라요. 이동 방법도 달라요.",
+        "related_terms": ["생김새", "다리", "이동"]
+      },
+      {
+        "concept": "동물의 분류",
+        "easy_explanation": "동물을 나눌 수 있어요. 다리 수로 나눠요. 사는 곳으로 나눠요.",
+        "related_terms": ["분류", "기준", "나누기"]
+      },
+      {
+        "concept": "사막과 극지방의 동물",
+        "easy_explanation": "사막은 뜨거워요. 낙타가 살아요. 극지방은 추워요. 펭귄이 살아요.",
+        "related_terms": ["사막", "극지방", "낙타", "펭귄"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-2-2단원. 지표의 변화",
+    "concepts": [
+      {
+        "concept": "흙",
+        "easy_explanation": "바위가 부서져 생겨요. 흙은 곳마다 달라요.",
+        "related_terms": ["흙", "바위", "모래"]
+      },
+      {
+        "concept": "침식",
+        "easy_explanation": "물이 땅을 깎아요. 침식이라고 해요. 강 윗쪽에서 많아요.",
+        "related_terms": ["침식", "깎다", "물"]
+      },
+      {
+        "concept": "운반",
+        "easy_explanation": "물이 흙을 옮겨요. 운반이라고 해요. 물이 세면 더 옮겨요.",
+        "related_terms": ["운반", "옮기다", "물"]
+      },
+      {
+        "concept": "퇴적",
+        "easy_explanation": "물이 느려지면 쌓여요. 퇴적이라고 해요. 강 아래에서 많아요.",
+        "related_terms": ["퇴적", "쌓이다", "강"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-2-3단원. 물질의 상태",
+    "concepts": [
+      {
+        "concept": "고체",
+        "easy_explanation": "모양이 안 변해요. 손으로 잡을 수 있어요. 나무, 돌이 고체예요.",
+        "related_terms": ["고체", "모양", "나무", "돌"]
+      },
+      {
+        "concept": "액체",
+        "easy_explanation": "그릇 따라 모양이 변해요. 흘러내려요. 물이 액체예요.",
+        "related_terms": ["액체", "그릇", "물", "흐르다"]
+      },
+      {
+        "concept": "기체",
+        "easy_explanation": "눈에 보이지 않아요. 어디든 퍼져요. 공기가 기체예요.",
+        "related_terms": ["기체", "공기", "퍼지다"]
+      },
+      {
+        "concept": "물질의 세 가지 상태",
+        "easy_explanation": "고체, 액체, 기체예요. 세 가지 상태가 있어요.",
+        "related_terms": ["고체", "액체", "기체", "상태"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "3-2-4단원. 소리의 성질",
+    "concepts": [
+      {
+        "concept": "소리와 진동",
+        "easy_explanation": "물체가 떨리면 나와요. 이것이 진동이에요. 북을 치면 떨려요.",
+        "related_terms": ["소리", "진동", "떨리다"]
+      },
+      {
+        "concept": "소리의 크기",
+        "easy_explanation": "세게 치면 커요. 살짝 치면 작아요. 떨림이 클수록 커요.",
+        "related_terms": ["크기", "세게", "살짝"]
+      },
+      {
+        "concept": "소리의 높낮이",
+        "easy_explanation": "짧은 줄은 높아요. 긴 줄은 낮아요. 높이가 달라요.",
+        "related_terms": ["높은 소리", "낮은 소리", "줄"]
+      },
+      {
+        "concept": "소리의 전달",
+        "easy_explanation": "공기를 통해 전달돼요. 물속에서도 들려요.",
+        "related_terms": ["전달", "공기", "실 전화기"]
+      },
+      {
+        "concept": "소리의 반사",
+        "easy_explanation": "벽에 부딪혀 돌아와요. 메아리라고 해요. 산에서 들을 수 있어요.",
+        "related_terms": ["반사", "메아리", "벽"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-1-1단원. 지층과 화석",
+    "concepts": [
+      {
+        "concept": "지층",
+        "easy_explanation": "흙과 모래가 쌓여요. 층이 만들어져요. 줄무늬처럼 보여요.",
+        "related_terms": ["지층", "쌓이다", "층"]
+      },
+      {
+        "concept": "퇴적암",
+        "easy_explanation": "쌓인 흙이 굳어져요. 단단한 돌이 돼요. 퇴적암이라고 해요.",
+        "related_terms": ["퇴적암", "이암", "사암", "역암"]
+      },
+      {
+        "concept": "화석",
+        "easy_explanation": "옛날 생물의 흔적이에요. 돌 속에 남아 있어요.",
+        "related_terms": ["화석", "흔적", "옛날", "돌"]
+      },
+      {
+        "concept": "화석으로 알 수 있는 것",
+        "easy_explanation": "옛날 생물을 알아요. 옛날 환경도 알아요.",
+        "related_terms": ["화석", "옛날", "생물", "환경"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-1-2단원. 식물의 한살이",
+    "concepts": [
+      {
+        "concept": "씨의 발아",
+        "easy_explanation": "씨에서 싹이 나와요. 발아라고 해요. 물과 온도가 필요해요.",
+        "related_terms": ["씨", "발아", "싹", "물", "온도"]
+      },
+      {
+        "concept": "식물의 자람",
+        "easy_explanation": "싹이 나면 자라요. 줄기가 커져요. 잎이 나와요.",
+        "related_terms": ["줄기", "잎", "자라다"]
+      },
+      {
+        "concept": "꽃과 열매",
+        "easy_explanation": "식물이 자라면 펴요. 꽃이 지면 열매가 돼요. 열매 안에 씨가 있어요.",
+        "related_terms": ["꽃", "열매", "씨"]
+      },
+      {
+        "concept": "식물의 한살이",
+        "easy_explanation": "씨에서 싹이 나요. 자라서 꽃이 펴요. 열매와 씨를 남겨요.",
+        "related_terms": ["씨", "싹", "꽃", "열매", "한살이"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-1-3단원. 물체의 무게",
+    "concepts": [
+      {
+        "concept": "무게",
+        "easy_explanation": "얼마나 무거운지예요. 저울로 잴 수 있어요.",
+        "related_terms": ["무게", "무겁다", "가볍다"]
+      },
+      {
+        "concept": "양팔저울",
+        "easy_explanation": "양쪽에 올려 봐요. 무거운 쪽이 내려가요. 같으면 수평이에요.",
+        "related_terms": ["양팔저울", "비교", "수평"]
+      },
+      {
+        "concept": "용수철저울",
+        "easy_explanation": "매달면 늘어나요. 무거울수록 더 늘어나요. 눈금을 읽어요.",
+        "related_terms": ["용수철저울", "늘어나다", "눈금"]
+      },
+      {
+        "concept": "무게의 단위",
+        "easy_explanation": "g과 kg을 써요. 1kg은 1000g이에요.",
+        "related_terms": ["g", "kg", "단위"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-1-4단원. 혼합물의 분리",
+    "concepts": [
+      {
+        "concept": "혼합물",
+        "easy_explanation": "물질이 섞인 거예요. 콩과 쌀을 섞은 거예요.",
+        "related_terms": ["혼합물", "섞다", "물질"]
+      },
+      {
+        "concept": "크기로 분리하기",
+        "easy_explanation": "체로 걸러요. 큰 것은 남아요. 작은 것은 빠져요.",
+        "related_terms": ["체", "거르다", "크기"]
+      },
+      {
+        "concept": "자석으로 분리하기",
+        "easy_explanation": "자석에 붙는 것을 골라요. 철 가루가 붙어요.",
+        "related_terms": ["자석", "철", "붙다"]
+      },
+      {
+        "concept": "물에 녹여서 분리하기",
+        "easy_explanation": "녹는 것을 분리해요. 소금은 물에 녹아요. 모래는 안 녹아요.",
+        "related_terms": ["녹다", "안 녹다", "소금", "모래"]
+      },
+      {
+        "concept": "증발로 분리하기",
+        "easy_explanation": "가열하면 물이 날아가요. 소금만 남아요. 이것이 증발이에요.",
+        "related_terms": ["증발", "가열", "소금물"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-2-1단원. 식물의 생활",
+    "concepts": [
+      {
+        "concept": "잎의 생김새",
+        "easy_explanation": "잎 모양이 달라요. 둥근 잎, 긴 잎이 있어요. 잎맥도 달라요.",
+        "related_terms": ["잎", "잎맥", "모양"]
+      },
+      {
+        "concept": "식물의 분류",
+        "easy_explanation": "잎 모양으로 나눠요. 꽃 색깔로도 나눠요. 기준을 정해요.",
+        "related_terms": ["분류", "기준", "잎", "꽃"]
+      },
+      {
+        "concept": "들과 산의 식물",
+        "easy_explanation": "들에는 풀이 많아요. 산에는 나무가 많아요. 장소마다 달라요.",
+        "related_terms": ["들", "산", "강아지풀", "소나무"]
+      },
+      {
+        "concept": "연못과 사막의 식물",
+        "easy_explanation": "연못에 연꽃이 살아요. 사막에 선인장이 살아요. 환경에 맞게 살아요.",
+        "related_terms": ["연못", "사막", "연꽃", "선인장"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-2-2단원. 물의 상태 변화",
+    "concepts": [
+      {
+        "concept": "증발",
+        "easy_explanation": "물이 수증기로 변해요. 빨래가 마르는 거예요.",
+        "related_terms": ["증발", "수증기", "마르다"]
+      },
+      {
+        "concept": "끓음",
+        "easy_explanation": "가열하면 끓어요. 수증기가 나와요.",
+        "related_terms": ["끓다", "가열", "수증기"]
+      },
+      {
+        "concept": "응결",
+        "easy_explanation": "수증기가 식으면 돼요. 찬 컵에 물방울이 생겨요.",
+        "related_terms": ["응결", "수증기", "물방울"]
+      },
+      {
+        "concept": "얼음과 물",
+        "easy_explanation": "물이 차가워지면 얼어요. 얼음이 따뜻하면 녹아요.",
+        "related_terms": ["얼음", "물", "얼다", "녹다"]
+      },
+      {
+        "concept": "물의 세 가지 상태",
+        "easy_explanation": "얼음, 물, 수증기예요. 온도에 따라 변해요.",
+        "related_terms": ["얼음", "물", "수증기", "온도"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-2-3단원. 그림자와 거울",
+    "concepts": [
+      {
+        "concept": "그림자",
+        "easy_explanation": "빛을 가리면 생겨요. 어두운 부분이에요.",
+        "related_terms": ["그림자", "빛", "어둡다"]
+      },
+      {
+        "concept": "그림자의 크기",
+        "easy_explanation": "빛에 가까우면 커요. 멀면 작아져요.",
+        "related_terms": ["크기", "가깝다", "멀다"]
+      },
+      {
+        "concept": "거울의 성질",
+        "easy_explanation": "빛을 튕겨내요. 반사라고 해요. 얼굴이 비쳐요.",
+        "related_terms": ["거울", "반사", "비치다"]
+      },
+      {
+        "concept": "거울의 이용",
+        "easy_explanation": "내 모습을 봐요. 치과에서도 써요. 자동차에도 있어요.",
+        "related_terms": ["거울", "치과", "자동차"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-2-4단원. 화산과 지진",
+    "concepts": [
+      {
+        "concept": "화산",
+        "easy_explanation": "뜨거운 것이 나와요. 화산이라고 해요. 용암이 흘러요.",
+        "related_terms": ["화산", "용암", "분출"]
+      },
+      {
+        "concept": "마그마",
+        "easy_explanation": "땅속에 녹은 돌이에요. 아주 뜨거워요. 마그마라고 해요.",
+        "related_terms": ["마그마", "뜨겁다", "땅속"]
+      },
+      {
+        "concept": "화산 분출물",
+        "easy_explanation": "용암이 나와요. 화산재도 나와요. 뜨거운 가스도 나와요.",
+        "related_terms": ["용암", "화산재", "가스"]
+      },
+      {
+        "concept": "지진",
+        "easy_explanation": "땅이 갑자기 흔들려요. 지진이라고 해요. 건물이 흔들려요.",
+        "related_terms": ["지진", "흔들리다", "땅"]
+      },
+      {
+        "concept": "지진 대처 방법",
+        "easy_explanation": "책상 밑으로 숨어요. 머리를 보호해요. 밖으로 대피해요.",
+        "related_terms": ["대피", "보호", "책상"]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade_group": "3-4",
+    "unit": "4-2-5단원. 물의 여행",
+    "concepts": [
+      {
+        "concept": "물의 순환",
+        "easy_explanation": "물이 돌고 돌아요. 수증기가 구름이 돼요. 비가 내려요. 다시 바다로 가요.",
+        "related_terms": ["순환", "수증기", "구름", "비"]
+      },
+      {
+        "concept": "증발과 구름",
+        "easy_explanation": "바다 물이 올라가요. 수증기가 돼요. 모이면 구름이 돼요.",
+        "related_terms": ["증발", "수증기", "구름"]
+      },
+      {
+        "concept": "비와 눈",
+        "easy_explanation": "물방울이 커지면 비예요. 추우면 눈이 내려요.",
+        "related_terms": ["비", "눈", "구름", "물방울"]
+      },
+      {
+        "concept": "물의 소중함",
+        "easy_explanation": "생물에게 꼭 필요해요. 마시고, 씻어요. 아껴 써야 해요.",
+        "related_terms": ["물", "소중하다", "아끼다"]
+      }
+    ]
+  }
+]
