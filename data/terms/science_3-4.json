@@ -1,0 +1,858 @@
+[
+  {
+    "term_ko": "관찰",
+    "easy_ko": "눈, 귀, 코 등으로 자세히 살펴보는 것",
+    "translations": { "vi": "quan sát", "zh": "观察", "en": "observation" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "측정",
+    "easy_ko": "자나 저울로 길이나 무게를 재는 것",
+    "translations": { "vi": "đo lường", "zh": "测量", "en": "measurement" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "예상",
+    "easy_ko": "앞으로 어떻게 될지 미리 생각해 보는 것",
+    "translations": { "vi": "dự đoán", "zh": "预测", "en": "prediction" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "분류",
+    "easy_ko": "같은 것끼리 나누어 묶는 것",
+    "translations": { "vi": "phân loại", "zh": "分类", "en": "classification" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "실험",
+    "easy_ko": "궁금한 것을 직접 해 보고 알아보는 것",
+    "translations": { "vi": "thí nghiệm", "zh": "实验", "en": "experiment" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "탐구",
+    "easy_ko": "궁금한 것을 찾아보고 알아가는 것",
+    "translations": { "vi": "khám phá", "zh": "探究", "en": "inquiry" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "가설",
+    "easy_ko": "실험 전에 결과를 미리 짐작해 보는 것",
+    "translations": { "vi": "giả thuyết", "zh": "假说", "en": "hypothesis" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "결론",
+    "easy_ko": "실험이 끝나고 알게 된 것을 정리한 것",
+    "translations": { "vi": "kết luận", "zh": "结论", "en": "conclusion" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "물질",
+    "easy_ko": "물건을 이루고 있는 재료",
+    "translations": { "vi": "vật chất", "zh": "物质", "en": "matter" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "고체",
+    "easy_ko": "딱딱하고 모양이 변하지 않는 물질",
+    "translations": { "vi": "chất rắn", "zh": "固体", "en": "solid" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "액체",
+    "easy_ko": "물처럼 흐르는 물질",
+    "translations": { "vi": "chất lỏng", "zh": "液体", "en": "liquid" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "기체",
+    "easy_ko": "공기처럼 눈에 보이지 않는 물질",
+    "translations": { "vi": "chất khí", "zh": "气体", "en": "gas" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "무게",
+    "easy_ko": "물건이 얼마나 무거운지 나타내는 것",
+    "translations": { "vi": "trọng lượng", "zh": "重量", "en": "weight" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "부피",
+    "easy_ko": "물건이 차지하는 공간의 크기",
+    "translations": { "vi": "thể tích", "zh": "体积", "en": "volume" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "성질",
+    "easy_ko": "물질이 가지고 있는 특징",
+    "translations": { "vi": "tính chất", "zh": "性质", "en": "property" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "탄성",
+    "easy_ko": "눌렀다가 놓으면 다시 원래 모양으로 돌아오는 성질",
+    "translations": { "vi": "tính đàn hồi", "zh": "弹性", "en": "elasticity" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "자석",
+    "easy_ko": "쇠붙이를 끌어당기는 물체",
+    "translations": { "vi": "nam châm", "zh": "磁铁", "en": "magnet" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "극",
+    "easy_ko": "자석에서 힘이 가장 센 양쪽 끝",
+    "translations": { "vi": "cực", "zh": "极", "en": "pole" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "인력",
+    "easy_ko": "서로 끌어당기는 힘",
+    "translations": { "vi": "lực hút", "zh": "引力", "en": "attraction" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "척력",
+    "easy_ko": "서로 밀어내는 힘",
+    "translations": { "vi": "lực đẩy", "zh": "斥力", "en": "repulsion" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "나침반",
+    "easy_ko": "방향을 알려 주는 도구",
+    "translations": { "vi": "la bàn", "zh": "指南针", "en": "compass" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "알",
+    "easy_ko": "동물의 새끼가 들어 있는 껍데기",
+    "translations": { "vi": "trứng", "zh": "卵", "en": "egg" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "애벌레",
+    "easy_ko": "알에서 나온 어린 벌레",
+    "translations": { "vi": "ấu trùng", "zh": "幼虫", "en": "larva" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "번데기",
+    "easy_ko": "애벌레가 어른 벌레가 되기 전 단계",
+    "translations": { "vi": "nhộng", "zh": "蛹", "en": "pupa" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "성충",
+    "easy_ko": "다 자란 어른 곤충",
+    "translations": { "vi": "thành trùng", "zh": "成虫", "en": "adult" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "한살이",
+    "easy_ko": "생물이 태어나서 자라고 죽는 과정",
+    "translations": { "vi": "vòng đời", "zh": "生命周期", "en": "life cycle" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "edu4mc"
+  },
+  {
+    "term_ko": "곤충",
+    "easy_ko": "다리가 6개이고 몸이 3부분인 작은 동물",
+    "translations": { "vi": "côn trùng", "zh": "昆虫", "en": "insect" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "변태",
+    "easy_ko": "곤충이 자라면서 모습이 완전히 바뀌는 것",
+    "translations": { "vi": "biến thái", "zh": "变态", "en": "metamorphosis" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "탈피",
+    "easy_ko": "자라면서 낡은 껍질을 벗는 것",
+    "translations": { "vi": "lột xác", "zh": "蜕皮", "en": "molting" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "동물",
+    "easy_ko": "스스로 움직이고 먹이를 먹는 생물",
+    "translations": { "vi": "động vật", "zh": "动物", "en": "animal" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "식물",
+    "easy_ko": "땅에 뿌리를 내리고 자라는 생물",
+    "translations": { "vi": "thực vật", "zh": "植物", "en": "plant" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "서식지",
+    "easy_ko": "동물이나 식물이 사는 곳",
+    "translations": { "vi": "môi trường sống", "zh": "栖息地", "en": "habitat" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "적응",
+    "easy_ko": "살기 좋게 몸이나 행동이 변하는 것",
+    "translations": { "vi": "thích nghi", "zh": "适应", "en": "adaptation" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "포유류",
+    "easy_ko": "어미 젖을 먹고 자라는 동물",
+    "translations": { "vi": "động vật có vú", "zh": "哺乳类", "en": "mammal" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "조류",
+    "easy_ko": "날개와 깃털이 있는 동물",
+    "translations": { "vi": "chim", "zh": "鸟类", "en": "bird" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "파충류",
+    "easy_ko": "비늘이 있고 배로 기어 다니는 동물",
+    "translations": { "vi": "bò sát", "zh": "爬行类", "en": "reptile" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "양서류",
+    "easy_ko": "물과 땅 두 곳에서 사는 동물",
+    "translations": { "vi": "lưỡng cư", "zh": "两栖类", "en": "amphibian" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "어류",
+    "easy_ko": "물속에서 사는 지느러미가 있는 동물",
+    "translations": { "vi": "cá", "zh": "鱼类", "en": "fish" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "척추동물",
+    "easy_ko": "등뼈가 있는 동물",
+    "translations": { "vi": "động vật có xương sống", "zh": "脊椎动物", "en": "vertebrate" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "무척추동물",
+    "easy_ko": "등뼈가 없는 동물",
+    "translations": { "vi": "động vật không xương sống", "zh": "无脊椎动物", "en": "invertebrate" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "잎",
+    "easy_ko": "식물에서 납작하고 초록색인 부분",
+    "translations": { "vi": "lá", "zh": "叶", "en": "leaf" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "줄기",
+    "easy_ko": "식물의 몸통 부분",
+    "translations": { "vi": "thân", "zh": "茎", "en": "stem" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "뿌리",
+    "easy_ko": "땅속에서 물과 양분을 빨아들이는 부분",
+    "translations": { "vi": "rễ", "zh": "根", "en": "root" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "꽃",
+    "easy_ko": "식물에서 예쁜 색으로 피는 부분",
+    "translations": { "vi": "hoa", "zh": "花", "en": "flower" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "열매",
+    "easy_ko": "꽃이 지고 나서 생기는 것",
+    "translations": { "vi": "quả", "zh": "果实", "en": "fruit" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "씨앗",
+    "easy_ko": "새로운 식물이 자라는 작은 알갱이",
+    "translations": { "vi": "hạt giống", "zh": "种子", "en": "seed" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "싹",
+    "easy_ko": "씨앗에서 처음 나오는 작은 줄기",
+    "translations": { "vi": "mầm", "zh": "芽", "en": "sprout" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "광합성",
+    "easy_ko": "식물이 빛으로 양분을 만드는 것",
+    "translations": { "vi": "quang hợp", "zh": "光合作用", "en": "photosynthesis" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "양분",
+    "easy_ko": "생물이 자라는 데 필요한 영양",
+    "translations": { "vi": "chất dinh dưỡng", "zh": "养分", "en": "nutrients" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "토양",
+    "easy_ko": "식물이 자라는 흙",
+    "translations": { "vi": "đất", "zh": "土壤", "en": "soil" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "암석",
+    "easy_ko": "단단한 돌",
+    "translations": { "vi": "đá", "zh": "岩石", "en": "rock" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "풍화",
+    "easy_ko": "바위가 바람이나 물에 의해 부서지는 것",
+    "translations": { "vi": "phong hóa", "zh": "风化", "en": "weathering" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "침식",
+    "easy_ko": "물이나 바람이 땅을 깎아 내는 것",
+    "translations": { "vi": "xâm thực", "zh": "侵蚀", "en": "erosion" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "퇴적",
+    "easy_ko": "흙이나 모래가 쌓이는 것",
+    "translations": { "vi": "trầm tích", "zh": "沉积", "en": "sedimentation" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "지구",
+    "easy_ko": "우리가 사는 둥근 행성",
+    "translations": { "vi": "Trái Đất", "zh": "地球", "en": "Earth" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "육지",
+    "easy_ko": "바다가 아닌 땅 부분",
+    "translations": { "vi": "đất liền", "zh": "陆地", "en": "land" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "바다",
+    "easy_ko": "소금물이 아주 넓게 펼쳐진 곳",
+    "translations": { "vi": "biển", "zh": "海洋", "en": "ocean" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "공기",
+    "easy_ko": "우리 주위에 있는 눈에 보이지 않는 것",
+    "translations": { "vi": "không khí", "zh": "空气", "en": "air" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "지층",
+    "easy_ko": "흙이나 모래가 겹겹이 쌓여 만들어진 층",
+    "translations": { "vi": "địa tầng", "zh": "地层", "en": "stratum" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "화석",
+    "easy_ko": "아주 오래전 생물이 돌에 남긴 흔적",
+    "translations": { "vi": "hóa thạch", "zh": "化石", "en": "fossil" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "퇴적암",
+    "easy_ko": "모래나 흙이 쌓여서 굳어진 돌",
+    "translations": { "vi": "đá trầm tích", "zh": "沉积岩", "en": "sedimentary rock" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "증발",
+    "easy_ko": "물이 열을 받아 수증기로 변하는 것",
+    "translations": { "vi": "bay hơi", "zh": "蒸发", "en": "evaporation" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "응결",
+    "easy_ko": "수증기가 차가워져서 물방울로 변하는 것",
+    "translations": { "vi": "ngưng tụ", "zh": "凝结", "en": "condensation" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "끓음",
+    "easy_ko": "물이 펄펄 끓어오르는 것",
+    "translations": { "vi": "sôi", "zh": "沸腾", "en": "boiling" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "얼음",
+    "easy_ko": "물이 차가워져서 딱딱하게 굳은 것",
+    "translations": { "vi": "băng", "zh": "冰", "en": "ice" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "수증기",
+    "easy_ko": "물이 기체로 변한 것",
+    "translations": { "vi": "hơi nước", "zh": "水蒸气", "en": "water vapor" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "온도",
+    "easy_ko": "뜨겁거나 차가운 정도",
+    "translations": { "vi": "nhiệt độ", "zh": "温度", "en": "temperature" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "온도계",
+    "easy_ko": "온도를 재는 도구",
+    "translations": { "vi": "nhiệt kế", "zh": "温度计", "en": "thermometer" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "물의 순환",
+    "easy_ko": "물이 바다, 하늘, 땅을 돌고 도는 것",
+    "translations": { "vi": "tuần hoàn nước", "zh": "水循环", "en": "water cycle" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "edu4mc"
+  },
+  {
+    "term_ko": "구름",
+    "easy_ko": "하늘에 떠 있는 작은 물방울 모임",
+    "translations": { "vi": "mây", "zh": "云", "en": "cloud" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "비",
+    "easy_ko": "구름에서 떨어지는 물방울",
+    "translations": { "vi": "mưa", "zh": "雨", "en": "rain" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "눈",
+    "easy_ko": "하늘에서 떨어지는 하얀 얼음 결정",
+    "translations": { "vi": "tuyết", "zh": "雪", "en": "snow" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "빛",
+    "easy_ko": "밝게 비추는 것",
+    "translations": { "vi": "ánh sáng", "zh": "光", "en": "light" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "그림자",
+    "easy_ko": "빛을 막으면 뒤에 생기는 어두운 부분",
+    "translations": { "vi": "bóng", "zh": "影子", "en": "shadow" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "반사",
+    "easy_ko": "빛이 물체에 부딪혀 되돌아오는 것",
+    "translations": { "vi": "phản xạ", "zh": "反射", "en": "reflection" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "거울",
+    "easy_ko": "빛을 반사해서 모습을 비추는 물체",
+    "translations": { "vi": "gương", "zh": "镜子", "en": "mirror" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "화산",
+    "easy_ko": "땅속의 뜨거운 것이 밖으로 나오는 산",
+    "translations": { "vi": "núi lửa", "zh": "火山", "en": "volcano" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "용암",
+    "easy_ko": "화산에서 흘러나오는 뜨거운 액체",
+    "translations": { "vi": "dung nham", "zh": "熔岩", "en": "lava" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "마그마",
+    "easy_ko": "땅속 깊은 곳에 있는 뜨거운 액체",
+    "translations": { "vi": "magma", "zh": "岩浆", "en": "magma" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "지진",
+    "easy_ko": "땅이 흔들리는 것",
+    "translations": { "vi": "động đất", "zh": "地震", "en": "earthquake" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "화산재",
+    "easy_ko": "화산이 터질 때 나오는 가루",
+    "translations": { "vi": "tro núi lửa", "zh": "火山灰", "en": "volcanic ash" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "혼합물",
+    "easy_ko": "두 가지 이상이 섞여 있는 것",
+    "translations": { "vi": "hỗn hợp", "zh": "混合物", "en": "mixture" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "거름",
+    "easy_ko": "거름종이로 물과 찌꺼기를 나누는 것",
+    "translations": { "vi": "lọc", "zh": "过滤", "en": "filtration" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "edu4mc"
+  },
+  {
+    "term_ko": "힘",
+    "easy_ko": "물체를 밀거나 당기는 것",
+    "translations": { "vi": "lực", "zh": "力", "en": "force" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "용수철",
+    "easy_ko": "늘었다 줄었다 하는 철사 모양의 물체",
+    "translations": { "vi": "lò xo", "zh": "弹簧", "en": "spring" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "저울",
+    "easy_ko": "무게를 재는 도구",
+    "translations": { "vi": "cân", "zh": "秤", "en": "scale" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "소리",
+    "easy_ko": "귀로 들을 수 있는 것",
+    "translations": { "vi": "âm thanh", "zh": "声音", "en": "sound" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "진동",
+    "easy_ko": "물체가 빠르게 떨리는 것",
+    "translations": { "vi": "dao động", "zh": "振动", "en": "vibration" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "환경",
+    "easy_ko": "생물이 살아가는 주위의 모든 것",
+    "translations": { "vi": "môi trường", "zh": "环境", "en": "environment" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "생태계",
+    "easy_ko": "생물과 주위 환경이 서로 영향을 주는 것",
+    "translations": { "vi": "hệ sinh thái", "zh": "生态系统", "en": "ecosystem" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "먹이사슬",
+    "easy_ko": "생물이 먹고 먹히는 관계가 이어진 것",
+    "translations": { "vi": "chuỗi thức ăn", "zh": "食物链", "en": "food chain" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "edu4mc"
+  },
+  {
+    "term_ko": "먹이그물",
+    "easy_ko": "먹이사슬이 복잡하게 연결된 것",
+    "translations": { "vi": "lưới thức ăn", "zh": "食物网", "en": "food web" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "edu4mc"
+  },
+  {
+    "term_ko": "산소",
+    "easy_ko": "숨 쉴 때 필요한 기체",
+    "translations": { "vi": "oxy", "zh": "氧气", "en": "oxygen" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "이산화탄소",
+    "easy_ko": "숨을 내쉴 때 나오는 기체",
+    "translations": { "vi": "khí cacbonic", "zh": "二氧化碳", "en": "carbon dioxide" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "기후변화",
+    "easy_ko": "지구의 날씨가 점점 변하는 것",
+    "translations": { "vi": "biến đổi khí hậu", "zh": "气候变化", "en": "climate change" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "edu4mc"
+  },
+  {
+    "term_ko": "미생물",
+    "easy_ko": "눈에 보이지 않는 아주 작은 생물",
+    "translations": { "vi": "vi sinh vật", "zh": "微生物", "en": "microorganism" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "현미경",
+    "easy_ko": "아주 작은 것을 크게 볼 수 있는 도구",
+    "translations": { "vi": "kính hiển vi", "zh": "显微镜", "en": "microscope" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "세균",
+    "easy_ko": "아주 작아서 눈에 안 보이는 생물",
+    "translations": { "vi": "vi khuẩn", "zh": "细菌", "en": "bacteria" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "곰팡이",
+    "easy_ko": "축축한 곳에서 자라는 작은 생물",
+    "translations": { "vi": "nấm mốc", "zh": "霉菌", "en": "mold" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "별",
+    "easy_ko": "밤하늘에서 빛나는 것",
+    "translations": { "vi": "ngôi sao", "zh": "星星", "en": "star" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "별자리",
+    "easy_ko": "별을 이어서 만든 그림",
+    "translations": { "vi": "chòm sao", "zh": "星座", "en": "constellation" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "태양",
+    "easy_ko": "낮에 하늘에서 빛나는 큰 별",
+    "translations": { "vi": "Mặt Trời", "zh": "太阳", "en": "sun" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "달",
+    "easy_ko": "밤하늘에서 밝게 빛나는 둥근 것",
+    "translations": { "vi": "Mặt Trăng", "zh": "月亮", "en": "moon" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "물",
+    "easy_ko": "마시거나 씻는 데 쓰는 액체",
+    "translations": { "vi": "nước", "zh": "水", "en": "water" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "호흡",
+    "easy_ko": "숨을 들이쉬고 내쉬는 것",
+    "translations": { "vi": "hô hấp", "zh": "呼吸", "en": "respiration" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "날씨",
+    "easy_ko": "맑음, 흐림, 비 등 하루의 대기 상태",
+    "translations": { "vi": "thời tiết", "zh": "天气", "en": "weather" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  },
+  {
+    "term_ko": "바람",
+    "easy_ko": "공기가 움직이는 것",
+    "translations": { "vi": "gió", "zh": "风", "en": "wind" },
+    "subject": "과학",
+    "grade_group": "3-4",
+    "source": "krdict"
+  }
+]
