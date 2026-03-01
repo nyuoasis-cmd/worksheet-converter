@@ -143,8 +143,13 @@ def _wrap_html_for_pdf(body_html: str) -> str:
 <html lang="ko">
 <head>
 <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
 <style>
-  body {{ font-family: 'Noto Sans KR', sans-serif; margin: 20mm; font-size: 14px; line-height: 1.6; }}
+  @font-face {{
+    font-family: 'Noto Sans KR';
+    src: local('Noto Sans CJK KR'), local('NotoSansCJKkr-Regular'), local('NotoSansKR-Regular');
+  }}
+  body {{ font-family: 'Noto Sans KR', 'Noto Sans CJK KR', 'UnDotum', sans-serif; margin: 20mm; font-size: 14px; line-height: 1.6; }}
   .worksheet-header h1 {{ font-size: 20px; margin-bottom: 4px; }}
   .worksheet-header .grade {{ color: #666; margin-bottom: 16px; }}
   .question-type-label {{ font-size: 13px; font-weight: 700; color: #1E40AF; background: #EFF6FF; border-left: 3px solid #3B82F6; padding: 5px 12px; margin: 16px 0 8px; border-radius: 0 4px 4px 0; }}
