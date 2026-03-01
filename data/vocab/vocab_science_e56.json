@@ -1,0 +1,969 @@
+[
+  {
+    "term_ko": "세포",
+    "definition_ko": "생물체를 이루는 기본 단위.",
+    "easy_ko": "",
+    "en": "cell",
+    "ja": "さいぼう【細胞】",
+    "zh": "细胞",
+    "vi": "tế bào",
+    "tl": "selula",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "74889",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "조직",
+    "definition_ko": "어떤 목표를 이루기 위해 여럿이 모여 체계 있는 집단을 이룸. 또는 그 집단.",
+    "easy_ko": "",
+    "en": "organization",
+    "ja": "そしき【組織】",
+    "zh": "组织",
+    "vi": "việc tổ chức, tổ chức",
+    "tl": "organisasyon",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "24603",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기관",
+    "definition_ko": "화력, 수력, 전력 등의 에너지를 기계적 에너지로 바꾸는 기계 장치.",
+    "easy_ko": "",
+    "en": "engine",
+    "ja": "きかん【機関】",
+    "zh": "引擎，发动机",
+    "vi": "động cơ, máy",
+    "tl": "makina",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "32482",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기관계",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "organ system",
+    "ja": "機関系",
+    "zh": "器官系统",
+    "vi": "hệ thống cơ quan",
+    "tl": "sistema ng organo",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "호흡",
+    "definition_ko": "숨을 쉼. 또는 그 숨.",
+    "easy_ko": "",
+    "en": "breathing; breath",
+    "ja": "こきゅう【呼吸】",
+    "zh": "呼吸",
+    "vi": "sự hô hấp",
+    "tl": "paghinga; paghinga",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "88332",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소화",
+    "definition_ko": "먹은 음식물을 뱃속에서 분해하여 영양분으로 흡수함.",
+    "easy_ko": "",
+    "en": "digestion",
+    "ja": "しょうか【消化】",
+    "zh": "消化",
+    "vi": "sự tiêu hóa",
+    "tl": "panunaw",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "15298",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "순환",
+    "definition_ko": "어떤 행동이나 현상이 하나의 과정을 지나 다시 처음 자리로 돌아오는 것을 되풀이함.",
+    "easy_ko": "",
+    "en": "rotation; cycle",
+    "ja": "じゅんかん【循環】",
+    "zh": "循环",
+    "vi": "sự tuần hoàn",
+    "tl": "pag-ikot; siklo",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "65149",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "배설",
+    "definition_ko": "생물체가 영양소를 섭취한 후 생긴 노폐물을 몸 밖으로 내보내는 일.",
+    "easy_ko": "",
+    "en": "excretion; evacuation",
+    "ja": "はいせつ【排泄】。はいしゅつ【排出】",
+    "zh": "排泄",
+    "vi": "sự bài tiết",
+    "tl": "paglalabas; paglikas",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "59192",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "생태계",
+    "definition_ko": "일정한 지역이나 환경에서 여러 생물들이 서로 적응하고 관계를 맺으며 어우러진 자연의 세계.",
+    "easy_ko": "",
+    "en": "ecosystem",
+    "ja": "せいたいけい【生態系】",
+    "zh": "生态系统",
+    "vi": "hệ sinh thái, giới sinh thái",
+    "tl": "ekosistema",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "62686",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "먹이사슬",
+    "definition_ko": "자연 생태계에서 생물들끼리 먹고 먹히는 것을 중심으로 형성된 관계.",
+    "easy_ko": "",
+    "en": "food chain",
+    "ja": "しょくもつれんさ【食物連鎖】",
+    "zh": "食物链",
+    "vi": "chuỗi thức ăn",
+    "tl": "kadena ng pagkain",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "54818",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "먹이그물",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "food web",
+    "ja": "餌網",
+    "zh": "食物网",
+    "vi": "lưới thức ăn",
+    "tl": "sapot ng pagkain",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "생산자",
+    "definition_ko": "생산하는 사람.",
+    "easy_ko": "",
+    "en": "producer; manufacturer",
+    "ja": "せいさんしゃ【生産者】",
+    "zh": "制造商，生产厂家，生产者",
+    "vi": "nhà sản xuất, người sản xuất",
+    "tl": "prodyuser; tagagawa",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "16590",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소비자",
+    "definition_ko": "생산자가 만든 물건이나 서비스 등을 돈을 주고 사는 사람.",
+    "easy_ko": "",
+    "en": "consumer",
+    "ja": "しょうひしゃ【消費者】。コンシューマー",
+    "zh": "消费者",
+    "vi": "người tiêu dùng",
+    "tl": "mamimili",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "28821",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "분해자",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "decomposer",
+    "ja": "分解",
+    "zh": "分解者",
+    "vi": "bộ phân hủy",
+    "tl": "decomposer",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "적응",
+    "definition_ko": "어떠한 조건이나 환경에 익숙해지거나 알맞게 변화함.",
+    "easy_ko": "",
+    "en": "adaptation; adjustment",
+    "ja": "てきおう【適応】",
+    "zh": "适应",
+    "vi": "sự thích ứng",
+    "tl": "pag-aangkop; pagsasaayos",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "25050",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "환경오염",
+    "definition_ko": "자원 개발로 인해 자연이 파괴되거나 자동차 배기가스, 공장 폐수 등으로 환경이 더럽혀지는 일.",
+    "easy_ko": "",
+    "en": "environmental pollution",
+    "ja": "かんきょうおせん【環境汚染】",
+    "zh": "环境污染",
+    "vi": "sự ô nhiễm môi trường",
+    "tl": "polusyon sa kapaligiran",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "87276",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기압",
+    "definition_ko": "공기의 무게로 인해 생기는 압력.",
+    "easy_ko": "",
+    "en": "air pressure",
+    "ja": "きあつ【気圧】。くうあつ【空圧】",
+    "zh": "气压",
+    "vi": "khí áp, áp suất khí quyển",
+    "tl": "presyon ng hangin",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "23736",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기단",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "base",
+    "ja": "基端",
+    "zh": "根据",
+    "vi": "căn cứ",
+    "tl": "base",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전선",
+    "definition_ko": "직접 뛰어든 활동 분야.",
+    "easy_ko": "",
+    "en": "life; activity",
+    "ja": "ぜんせん【前線】",
+    "zh": "前线，第一线",
+    "vi": "mặt trận",
+    "tl": "buhay; aktibidad",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "74028",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "태풍",
+    "definition_ko": "주로 7~9월에 태평양에서 한국, 일본 등 아시아 대륙 동부로 불어오는, 거센 폭풍우를 동반한 바람.",
+    "easy_ko": "",
+    "en": "typhoon",
+    "ja": "たいふう【台風】",
+    "zh": "台风",
+    "vi": "bão",
+    "tl": "bagyo",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "72181",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "습도",
+    "definition_ko": "공기 속에 수증기가 포함되어 있는 정도.",
+    "easy_ko": "",
+    "en": "humidity",
+    "ja": "しつど【湿度】",
+    "zh": "湿度",
+    "vi": "độ ẩm",
+    "tl": "halumigmig",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "83455",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전기",
+    "definition_ko": "빛이나 열을 내거나 기계 등을 움직이는 데 쓰이는 에너지.",
+    "easy_ko": "",
+    "en": "electricity",
+    "ja": "でんき【電気】",
+    "zh": "电，电气",
+    "vi": "điện",
+    "tl": "kuryente",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "70829",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전류",
+    "definition_ko": "전기가 흐르는 현상이나 그 정도.",
+    "easy_ko": "",
+    "en": "electric current",
+    "ja": "でんりゅう【電流】",
+    "zh": "电流",
+    "vi": "điện lưu",
+    "tl": "kuryente",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "76266",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전압",
+    "definition_ko": "전기장이나 도체 내에 있는 두 점 사이의 전기 에너지의 차.",
+    "easy_ko": "",
+    "en": "voltage",
+    "ja": "でんあつ【電圧】",
+    "zh": "电压",
+    "vi": "điện áp",
+    "tl": "boltahe",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "74720",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "저항",
+    "definition_ko": "어떤 힘이나 조건에 굽히지 않고 거역하거나 견딤.",
+    "easy_ko": "",
+    "en": "resistance",
+    "ja": "ていこう【抵抗】",
+    "zh": "抵抗",
+    "vi": "sức chống cự, sức kháng cự",
+    "tl": "paglaban",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "74672",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "직렬",
+    "definition_ko": "전기 회로에서 전기나 전지 등을 일렬로 연결하는 것.",
+    "easy_ko": "",
+    "en": "series circuit",
+    "ja": "ちょくれつ【直列】。ちょくれつせつぞく【直列接続】。シリーズ。れんけつ【連結】",
+    "zh": "串联",
+    "vi": "sự nối tiếp, sự nối trực tiếp, sự đấu trực tiếp",
+    "tl": "seryeng sirkito",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "83673",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "병렬",
+    "definition_ko": "나란히 늘어섬. 또는 나란히 늘어놓음.",
+    "easy_ko": "",
+    "en": "being parallel; being in a row",
+    "ja": "へいれつ【並列】",
+    "zh": "并列",
+    "vi": "sự song song, sự xếp song song",
+    "tl": "pagkakahanay; pagkakahanay",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "59021",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전지",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "battery",
+    "ja": "電池",
+    "zh": "电池",
+    "vi": "ắc quy",
+    "tl": "baterya",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "스위치",
+    "definition_ko": "전기 회로를 이었다 끊었다 하는 장치.",
+    "easy_ko": "",
+    "en": "switch",
+    "ja": "スイッチ。かいへいき【開閉器】",
+    "zh": "开关",
+    "vi": "công tắc điện",
+    "tl": "lumipat",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "15829",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "렌즈",
+    "definition_ko": "유리나 수정을 볼록하거나 오목하게 깎아서 물체가 크거나 작게 보이도록 만든 물건.",
+    "easy_ko": "",
+    "en": "lens",
+    "ja": "レンズ",
+    "zh": "镜头，透镜",
+    "vi": "thấu kính",
+    "tl": "lente",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "52537",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "볼록렌즈",
+    "definition_ko": "가운데가 가장자리보다 두꺼워 볼록한 렌즈.",
+    "easy_ko": "",
+    "en": "convex lens",
+    "ja": "とつレンズ【凸レンズ】",
+    "zh": "凸透镜",
+    "vi": "thấu kính lồi",
+    "tl": "lente na may matambok na matambok",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "59618",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "오목렌즈",
+    "definition_ko": "가운데가 얇고 가장자리로 갈수록 두꺼워 오목한 렌즈.",
+    "easy_ko": "",
+    "en": "concave lens",
+    "ja": "おうレンズ【凹レンズ】",
+    "zh": "凹透镜",
+    "vi": "thấu kính lõm",
+    "tl": "lente na may malukong na lente",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "92453",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "프리즘",
+    "definition_ko": "빛을 굴절시키거나 분산시킬 때 쓰는, 유리 또는 수정 등으로 만든 세모 기둥 모양의 기구.",
+    "easy_ko": "",
+    "en": "prism",
+    "ja": "プリズム",
+    "zh": "棱镜，三棱镜",
+    "vi": "lăng kính, lăng trụ kính",
+    "tl": "prisma",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "84505",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "무지개",
+    "definition_ko": "비가 그쳤을 때, 해의 반대쪽 하늘에 반원 모양으로 나타나는 일곱 가지 색깔의 빛줄기.",
+    "easy_ko": "",
+    "en": "rainbow",
+    "ja": "にじ【虹】",
+    "zh": "彩虹",
+    "vi": "cầu vồng",
+    "tl": "bahaghari",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "15401",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산",
+    "definition_ko": "평평한 땅보다 훨씬 높이 솟아 있고 대개 나무, 풀, 바위 등이 있는 땅.",
+    "easy_ko": "",
+    "en": "mountain",
+    "ja": "やま【山】",
+    "zh": "山",
+    "vi": "núi",
+    "tl": "bundok",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "20954",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "염기",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "base",
+    "ja": "塩基",
+    "zh": "根据",
+    "vi": "căn cứ",
+    "tl": "base",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산성",
+    "definition_ko": "물질이 가지고 있는 산으로서의 성질.",
+    "easy_ko": "",
+    "en": "acidity",
+    "ja": "さんせい【酸性】",
+    "zh": "酸性",
+    "vi": "tính axít",
+    "tl": "kaasiman",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "61834",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "염기성",
+    "definition_ko": "산의 작용을 중화하고 산과 작용하여 염과 물만을 만드는 성질.",
+    "easy_ko": "",
+    "en": "basicity; alkalinity",
+    "ja": "えんきせい【塩基性】",
+    "zh": "碱性",
+    "vi": "tính kiềm",
+    "tl": "kabastusan; kaalkalian",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "91979",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "중성",
+    "definition_ko": "서로 반대되는 두 성질 사이의 중간인 성질.",
+    "easy_ko": "",
+    "en": "being neutral",
+    "ja": "ちゅうせい【中性】",
+    "zh": "中性",
+    "vi": "trung tính",
+    "tl": "pagiging neutral",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "77676",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "지시약",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "indicator",
+    "ja": "指示薬",
+    "zh": "指标",
+    "vi": "chỉ báo",
+    "tl": "tagapagpahiwatig",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "연소",
+    "definition_ko": "물질이 산소와 결합하여 열과 빛을 내는 현상.",
+    "easy_ko": "",
+    "en": "combustion",
+    "ja": "ねんしょう【燃焼】",
+    "zh": "燃烧",
+    "vi": "sự cháy, sự bốc cháy",
+    "tl": "pagkasunog",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "20682",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소화기",
+    "definition_ko": "음식물을 소화하고 흡수하는 기관.",
+    "easy_ko": "",
+    "en": "digestive system",
+    "ja": "しょうかき【消化器】。しょうかきかん【消化器官】",
+    "zh": "消化器官",
+    "vi": "cơ quan tiêu hóa",
+    "tl": "sistema ng pagtunaw",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "63984",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산소",
+    "definition_ko": "(높이는 말로) 사람의 무덤.",
+    "easy_ko": "",
+    "en": "grave; tomb",
+    "ja": "おはか【お墓】。ふんぼ【墳墓】",
+    "zh": "坟墓",
+    "vi": "mộ phần",
+    "tl": "libingan",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "61839",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "이산화탄소",
+    "definition_ko": "탄소가 연소를 할 때 생기는 빛깔과 냄새가 없는 기체.",
+    "easy_ko": "",
+    "en": "carbon dioxide",
+    "ja": "にさんかたんそ【二酸化炭素】",
+    "zh": "二氧化碳",
+    "vi": "cacbon đioxyt",
+    "tl": "karbon dioksida",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "71994",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "태양계",
+    "definition_ko": "태양과 그것을 중심으로 돌고 있는 지구를 비롯한 천체의 집합.",
+    "easy_ko": "",
+    "en": "solar system",
+    "ja": "たいようけい【太陽系】",
+    "zh": "太阳系",
+    "vi": "thái dương hệ, hệ mặt trời",
+    "tl": "sistemang solar",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "80569",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "위성",
+    "definition_ko": "행성의 주위를 도는 우주의 천체.",
+    "easy_ko": "",
+    "en": "satellite",
+    "ja": "えいせい【衛星】",
+    "zh": "卫星",
+    "vi": "vệ tinh",
+    "tl": "satellite",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "26748",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "항성",
+    "definition_ko": "보이는 위치를 바꾸지 아니하고 별자리를 구성하며, 스스로 빛을 내는 별.",
+    "easy_ko": "",
+    "en": "fixed star",
+    "ja": "こうせい【恒星】",
+    "zh": "恒星",
+    "vi": "định tinh",
+    "tl": "nakapirming bituin",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "85896",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "은하",
+    "definition_ko": "흰 구름 모양으로 길게 보이는 수많은 천체의 무리.",
+    "easy_ko": "",
+    "en": "galaxy",
+    "ja": "ぎんが【銀河】。まのがわ【天の川】。てんかん【天漢】",
+    "zh": "银河",
+    "vi": "dải ngân hà",
+    "tl": "kalawakan",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "71816",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "별",
+    "definition_ko": "밤하늘에 반짝이는 달이 아닌 천체.",
+    "easy_ko": "",
+    "en": "star",
+    "ja": "ほし【星】",
+    "zh": "星星",
+    "vi": "sao, ông sao, ngôi sao",
+    "tl": "bituin",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "58366",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "속력",
+    "definition_ko": "물체가 움직이거나 일이 진행되는 빠르기의 크기. 또는 그런 빠르기를 이루는 힘.",
+    "easy_ko": "",
+    "en": "velocity; speed",
+    "ja": "そくりょく【速力】。スピード",
+    "zh": "速度",
+    "vi": "tốc lực",
+    "tl": "bilis",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "64225",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "속도",
+    "definition_ko": "물체가 움직이거나 일이 진행되는 빠르기.",
+    "easy_ko": "",
+    "en": "speed",
+    "ja": "そくど【速度】。スピード",
+    "zh": "速度",
+    "vi": "tốc độ",
+    "tl": "bilis",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "64215",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "힘",
+    "definition_ko": "사람이나 동물이 스스로 움직이거나 다른 사물을 움직이게 하는 근육 작용.",
+    "easy_ko": "",
+    "en": "strength; power",
+    "ja": "ちから【力】。たいりょく【体力】",
+    "zh": "力量，力气",
+    "vi": "sức, sức lực",
+    "tl": "lakas; kapangyarihan",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "28633",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "중력",
+    "definition_ko": "지구가 지구 위의 물체를 끌어당기는 힘.",
+    "easy_ko": "",
+    "en": "gravity",
+    "ja": "じゅうりょく【重力】",
+    "zh": "重力",
+    "vi": "trọng lực",
+    "tl": "grabidad",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "76596",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "마찰력",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "Friction",
+    "ja": "摩擦力",
+    "zh": "摩擦",
+    "vi": "Ma sát",
+    "tl": "Pagkikiskisan",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "무게",
+    "definition_ko": "물건의 무거운 정도.",
+    "easy_ko": "",
+    "en": "weight",
+    "ja": "おもさ【重さ】。めかた【目方】。じゅうりょう【重量】",
+    "zh": "重量",
+    "vi": "độ nặng, trọng lượng",
+    "tl": "timbang",
+    "subject": "과학",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "54870",
+    "filled_by_google": [
+      "tl"
+    ]
+  }
+]

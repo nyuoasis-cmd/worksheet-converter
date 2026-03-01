@@ -1,0 +1,1150 @@
+[
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "1. 우리가 살아가는 곳",
+    "concepts": [
+      {
+        "concept": "산",
+        "easy_explanation": "높이 솟아 있는 땅의 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "강",
+        "easy_explanation": "넓고 길게 흐르는 큰 물줄기",
+        "related_terms": []
+      },
+      {
+        "concept": "논",
+        "easy_explanation": "물을 가두어 두고 물에서 살 수 있는 작물을 가꾸는 땅",
+        "related_terms": []
+      },
+      {
+        "concept": "밭",
+        "easy_explanation": "물을 가두지 않고 야채나 곡식을 심어 농사를 짓는 땅",
+        "related_terms": []
+      },
+      {
+        "concept": "지도",
+        "easy_explanation": "다음 그림을 보고, 우체국과 파출소의 위치를 말해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "방위",
+        "easy_explanation": "동서남북을 이용하여 위치를 나타내는 것",
+        "related_terms": [
+          "동서남북"
+        ]
+      },
+      {
+        "concept": "동서남북",
+        "easy_explanation": "건물이나 사람이 향한 방향에 따라 달라지지 않는 방향",
+        "related_terms": [
+          "건물"
+        ]
+      },
+      {
+        "concept": "나침반",
+        "easy_explanation": "북쪽이 어디인지 알려 주는 도구",
+        "related_terms": []
+      },
+      {
+        "concept": "그림 기호",
+        "easy_explanation": "땅의 모양이나 건물의 모습을 알기 쉽게 나타낸 것",
+        "related_terms": [
+          "건물"
+        ]
+      },
+      {
+        "concept": "자연환경",
+        "easy_explanation": "산, 들, 하천 등",
+        "related_terms": [
+          "하천",
+          "산"
+        ]
+      },
+      {
+        "concept": "계절",
+        "easy_explanation": "한국의 계절에는 봄, 여름, 가을, 겨울이 있습니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "기온",
+        "easy_explanation": "계절에 따라 기온이 달라집니다.",
+        "related_terms": [
+          "계절"
+        ]
+      },
+      {
+        "concept": "다리, 도로",
+        "easy_explanation": "사람들은 땅에 도로와 다리를 만들어 편리하게 이용합니다.",
+        "related_terms": [
+          "다리",
+          "편리",
+          "도로"
+        ]
+      },
+      {
+        "concept": "도로",
+        "easy_explanation": "차나 사람들이 안전하고 편리하게 지나다닐 수 있는 것",
+        "related_terms": [
+          "편리"
+        ]
+      },
+      {
+        "concept": "다리",
+        "easy_explanation": "강을 쉽게 건널 수 있도록 만든 것",
+        "related_terms": [
+          "강"
+        ]
+      },
+      {
+        "concept": "공장, 아파트",
+        "easy_explanation": "공장, 아파트 등은 사람들이 만든 환경입니다.",
+        "related_terms": [
+          "공장",
+          "아파트",
+          "환경"
+        ]
+      },
+      {
+        "concept": "공장",
+        "easy_explanation": "여러 가지 물건을 만들어 내는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "아파트",
+        "easy_explanation": "여러 사람들이 함께 살아가는 집",
+        "related_terms": []
+      },
+      {
+        "concept": "하천",
+        "easy_explanation": "강과 시내를 함께 이르는 말",
+        "related_terms": [
+          "강"
+        ]
+      },
+      {
+        "concept": "과수원",
+        "easy_explanation": "열매가 열리는 나무를 심은 밭",
+        "related_terms": [
+          "밭"
+        ]
+      },
+      {
+        "concept": "산사태, 눈사태",
+        "easy_explanation": "비나 지진 등으로 산비탈이 무너지는 일(산사태)과 많이 쌓였던 눈이 갑자기 무너지거나 빠르게 미끄러져 내리는 것(눈사태)",
+        "related_terms": [
+          "지진",
+          "산"
+        ]
+      },
+      {
+        "concept": "홍수, 가뭄",
+        "easy_explanation": "비가 많이 와서 강이나 하천에 갑자기 많아진 물(홍수)과 오랫동안 비가 내리지 않아 메마른 날씨(가뭄)",
+        "related_terms": [
+          "하천",
+          "강"
+        ]
+      },
+      {
+        "concept": "지진, 태풍, 해일",
+        "easy_explanation": "다음 그림을 보고 지진, 태풍, 바람이 아주 세게 불면 어떤 일이 일어날지 말해 보세요.",
+        "related_terms": [
+          "지진",
+          "태풍"
+        ]
+      },
+      {
+        "concept": "태풍",
+        "easy_explanation": "북태평양에서 발생하여 아시아 동부로 불어오는 맹렬한 바람",
+        "related_terms": []
+      },
+      {
+        "concept": "지진",
+        "easy_explanation": "땅 속의 급격한 변화로 땅이 흔들리는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "해일",
+        "easy_explanation": "지진이나 태풍으로 인해 바닷물이 육지로 넘쳐 들어오는 것",
+        "related_terms": [
+          "지진",
+          "태풍"
+        ]
+      },
+      {
+        "concept": "회사, 농사",
+        "easy_explanation": "다음 그림을 보고 회사, 들, 산, 바다에서 사람들이 하는 일을 살펴봅시다.",
+        "related_terms": [
+          "산",
+          "회사"
+        ]
+      },
+      {
+        "concept": "회사",
+        "easy_explanation": "[___]에서 사람들이 모여 일을 합니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "들, 농사",
+        "easy_explanation": "[___]에서 [___]를 짓습니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "조선업, 관광업",
+        "easy_explanation": "다음 그림을 살펴 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "조선업",
+        "easy_explanation": "배를 만드는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "관광업",
+        "easy_explanation": "사람들이 많이 찾아와 구경하는 데 관련된 일",
+        "related_terms": []
+      },
+      {
+        "concept": "어업, 조선업, 관광업",
+        "easy_explanation": "바닷가 마을에 사는 사람들은 주로 어업, [___], [___]에 관련된 일을 합니다.",
+        "related_terms": [
+          "어업"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "2. 이동과 의사소통",
+    "concepts": [
+      {
+        "concept": "이동 수단",
+        "easy_explanation": "사람이나 물건을 싣고 한 곳에서 다른 곳으로 옮겨 주는 수단",
+        "related_terms": []
+      },
+      {
+        "concept": "소포",
+        "easy_explanation": "우편이나 택배로 보내는 작은 짐",
+        "related_terms": [
+          "우편"
+        ]
+      },
+      {
+        "concept": "의사소통 수단",
+        "easy_explanation": "다른 사람과 자유롭게 소식을 주고받기 위하여 필요한 수단",
+        "related_terms": []
+      },
+      {
+        "concept": "옛날 이동 수단",
+        "easy_explanation": "옛날에 사용하던 사람이나 물건을 옮기는 수단",
+        "related_terms": []
+      },
+      {
+        "concept": "버스",
+        "easy_explanation": "버스",
+        "related_terms": []
+      },
+      {
+        "concept": "전기 기관차",
+        "easy_explanation": "전기 기관차",
+        "related_terms": []
+      },
+      {
+        "concept": "비행기",
+        "easy_explanation": "비행기",
+        "related_terms": []
+      },
+      {
+        "concept": "쾌속선",
+        "easy_explanation": "쾌속선",
+        "related_terms": []
+      },
+      {
+        "concept": "자동차",
+        "easy_explanation": "자동차",
+        "related_terms": []
+      },
+      {
+        "concept": "택시",
+        "easy_explanation": "택시",
+        "related_terms": []
+      },
+      {
+        "concept": "신호 연",
+        "easy_explanation": "무늬와 색깔이 다른 연을 이용하여 약속된 신호를 보냈습니다.",
+        "related_terms": [
+          "연"
+        ]
+      },
+      {
+        "concept": "봉수",
+        "easy_explanation": "높은 산에 굴뚝처럼 생긴 것을 세워서 낮에는 연기, 밤에는 횃불로 적의 침입과 같은 나라의 중요한 일을 전하였습니다.",
+        "related_terms": [
+          "굴뚝",
+          "산",
+          "연"
+        ]
+      },
+      {
+        "concept": "파발",
+        "easy_explanation": "사람이 직접 말을 타고 가서 나라의 중요한 일을 편지로 알렸습니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "전자 우편",
+        "easy_explanation": "전자 우편",
+        "related_terms": [
+          "우편"
+        ]
+      },
+      {
+        "concept": "유선 전화",
+        "easy_explanation": "유선 전화",
+        "related_terms": []
+      },
+      {
+        "concept": "팩시밀리",
+        "easy_explanation": "팩시밀리",
+        "related_terms": []
+      },
+      {
+        "concept": "우편",
+        "easy_explanation": "우편",
+        "related_terms": []
+      },
+      {
+        "concept": "휴대 전화",
+        "easy_explanation": "휴대 전화",
+        "related_terms": []
+      },
+      {
+        "concept": "모노레일",
+        "easy_explanation": "기차와 같은 레일을 오르내리며 농사에 필요한 것을 옮기는 이동 수단",
+        "related_terms": [
+          "이동 수단"
+        ]
+      },
+      {
+        "concept": "지프 택시",
+        "easy_explanation": "울퉁불퉁한 산악 지역에서 높은 곳까지 쉽게 이동하는 택시",
+        "related_terms": [
+          "산",
+          "택시"
+        ]
+      },
+      {
+        "concept": "널배",
+        "easy_explanation": "갯벌에서 조개나 낙지를 잡거나 옮길 때 사용하는 널빤지로 만든 배",
+        "related_terms": []
+      },
+      {
+        "concept": "수상 택시",
+        "easy_explanation": "큰 도시에서 강을 따라 배로 이동하는 택시",
+        "related_terms": [
+          "도시",
+          "강",
+          "택시"
+        ]
+      },
+      {
+        "concept": "케이블카",
+        "easy_explanation": "산악 지역에서 높은 곳까지 빠르고 편하게 이동하는 수단",
+        "related_terms": [
+          "산"
+        ]
+      },
+      {
+        "concept": "버스 도착 알림",
+        "easy_explanation": "버스 도착 안내 시스템을 통해 버스 도착 예정 시간을 확인하는 기능",
+        "related_terms": [
+          "버스"
+        ]
+      },
+      {
+        "concept": "마을 방송",
+        "easy_explanation": "마을의 중요한 일을 주민들에게 알리는 방송",
+        "related_terms": []
+      },
+      {
+        "concept": "무전기",
+        "easy_explanation": "휴대 전화 사용이 어려운 깊은 산 속에서 사용하는 통신 장비",
+        "related_terms": [
+          "산",
+          "휴대 전화"
+        ]
+      },
+      {
+        "concept": "편리",
+        "easy_explanation": "이용하기 쉽고 편한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "불편",
+        "easy_explanation": "쓰기에 편하지 않은 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "3. 사람들이 모이는 곳",
+    "concepts": [
+      {
+        "concept": "건물",
+        "easy_explanation": "중심지의 오늘날의 모습을 살펴보면 높은 건물이 많습니다. 옛날에 밭이던 곳에 지금은 높은 건물이 들어섰습니다.",
+        "related_terms": [
+          "밭"
+        ]
+      },
+      {
+        "concept": "나루터, 나룻배",
+        "easy_explanation": "나루터는 강을 건너는 사람들이 배를 타는 곳입니다. 나루터를 오가며 사람과 짐을 싣고 나르는 배를 나룻배라고 합니다.",
+        "related_terms": [
+          "강"
+        ]
+      },
+      {
+        "concept": "기차역, 고속 열차, 대형 마트",
+        "easy_explanation": "다음 그림에서 “기차역”, “고속 열차”, “대형 마트”를 찾아서 ◯로 표시해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "터미널, 주차장, 주택가",
+        "easy_explanation": "다음 그림에서 “주차장”, “터미널”, “주택가”를 찾아서 ◯로 표시해 보세요.",
+        "related_terms": [
+          "주택"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "1. 우리 지역, 다른 지역",
+    "concepts": [
+      {
+        "concept": "지명",
+        "easy_explanation": "우리에게 이름이 있는 것처럼 우리가 살고 있는 지역에도 이름이 있어요.",
+        "related_terms": []
+      },
+      {
+        "concept": "교류",
+        "easy_explanation": "물건, 문화, 기술 등을 서로 주고받는 것",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "자매결연",
+        "easy_explanation": "지역과 지역이 서로 돕거나 교류하기 위하여 서로 관계를 가지기로 약속하는 것",
+        "related_terms": [
+          "교류"
+        ]
+      },
+      {
+        "concept": "축제",
+        "easy_explanation": "기쁜 일을 기념하여 잔치를 벌이는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "관광지",
+        "easy_explanation": "좋은 경치나 구경거리가 있어서 유명한 장소",
+        "related_terms": []
+      },
+      {
+        "concept": "자랑거리",
+        "easy_explanation": "다른 사람에게 칭찬받고 뽐낼 만한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "문화재",
+        "easy_explanation": "조상들이 물려 준 유물 중에서 가치가 높은 것",
+        "related_terms": []
+      },
+      {
+        "concept": "특산물",
+        "easy_explanation": "어떤 지역에서 특별하게 생산되는 물건",
+        "related_terms": [
+          "산"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "2. 달라지는 생활 모습",
+    "concepts": [
+      {
+        "concept": "의생활",
+        "easy_explanation": "우리가 입는 옷과 관련된 생활",
+        "related_terms": []
+      },
+      {
+        "concept": "저고리",
+        "easy_explanation": "한복의 위에 입는 옷",
+        "related_terms": [
+          "한복"
+        ]
+      },
+      {
+        "concept": "바지",
+        "easy_explanation": "아래에 입는 옷 중에 남자가 입는 옷",
+        "related_terms": []
+      },
+      {
+        "concept": "치마",
+        "easy_explanation": "여자가 입는 옷",
+        "related_terms": []
+      },
+      {
+        "concept": "음식",
+        "easy_explanation": "밥과 국, 반찬처럼 사람이 먹고 마실 수 있는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "부엌",
+        "easy_explanation": "음식을 만드는 곳",
+        "related_terms": [
+          "음식"
+        ]
+      },
+      {
+        "concept": "식생활",
+        "easy_explanation": "음식과 관련된 생활",
+        "related_terms": [
+          "음식"
+        ]
+      },
+      {
+        "concept": "놀이공원, 놀이터",
+        "easy_explanation": "아이들이 놀이를 하는 장소",
+        "related_terms": []
+      },
+      {
+        "concept": "실뜨기, 고무줄놀이",
+        "easy_explanation": "실이나 줄로 하는 옛날 놀이",
+        "related_terms": []
+      },
+      {
+        "concept": "자치기, 비사치기, 땅따먹기",
+        "easy_explanation": "옛날 아이들이 나무토막이나 돌로 하던 놀이",
+        "related_terms": []
+      },
+      {
+        "concept": "딱지",
+        "easy_explanation": "종이를 가지고 네모 모양으로 만든 것",
+        "related_terms": []
+      },
+      {
+        "concept": "연",
+        "easy_explanation": "설날에 연날리기를 할 때 사용하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "얼레",
+        "easy_explanation": "연을 날릴 때 실을 감는 도구",
+        "related_terms": [
+          "연"
+        ]
+      },
+      {
+        "concept": "새총",
+        "easy_explanation": "나뭇가지와 고무줄만 있으면 만들 수 있는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "팽이",
+        "easy_explanation": "나무를 깎아서 만드는 놀이 도구",
+        "related_terms": []
+      },
+      {
+        "concept": "소꿉놀이",
+        "easy_explanation": "엄마와 아빠의 모습을 흉내 내며 노는 놀이",
+        "related_terms": []
+      },
+      {
+        "concept": "김장독",
+        "easy_explanation": "다음은 옛날 사람들이 사용한 물건들입니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "인두",
+        "easy_explanation": "구겨진 옷을 펼 때 사용",
+        "related_terms": []
+      },
+      {
+        "concept": "맷돌",
+        "easy_explanation": "곡식을 고운 가루로 만들 때 사용",
+        "related_terms": []
+      },
+      {
+        "concept": "가마솥",
+        "easy_explanation": "밥을 지을 때 사용",
+        "related_terms": []
+      },
+      {
+        "concept": "한복",
+        "easy_explanation": "다음에서 사람들이 무엇을 입고 있는지 말해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "생활한복",
+        "easy_explanation": "입기 편하게 만든 한복",
+        "related_terms": [
+          "한복"
+        ]
+      },
+      {
+        "concept": "김치",
+        "easy_explanation": "한국에서 옛날부터 먹던 음식",
+        "related_terms": [
+          "음식"
+        ]
+      },
+      {
+        "concept": "온돌",
+        "easy_explanation": "옛날 집에 있어서 겨울에도 따뜻하게 하는 난방 방식",
+        "related_terms": []
+      },
+      {
+        "concept": "아궁이",
+        "easy_explanation": "불을 붙여 음식도 만들고 방도 따뜻하게 하는 곳",
+        "related_terms": [
+          "음식"
+        ]
+      },
+      {
+        "concept": "보일러",
+        "easy_explanation": "오늘날 온돌처럼 방 안을 따뜻하게 하는 장치",
+        "related_terms": [
+          "온돌"
+        ]
+      },
+      {
+        "concept": "온돌, 보일러",
+        "easy_explanation": "집 안을 따뜻하게 하는 옛날 방식과 오늘날 방식",
+        "related_terms": []
+      },
+      {
+        "concept": "굴뚝",
+        "easy_explanation": "연기가 밖으로 나가는 곳",
+        "related_terms": [
+          "연"
+        ]
+      },
+      {
+        "concept": "구들장",
+        "easy_explanation": "방바닥에 겹겹이 쌓아 놓은 얇고 넓은 돌",
+        "related_terms": []
+      },
+      {
+        "concept": "아랫목",
+        "easy_explanation": "온돌방에서 아궁이와 가장 가까운 방바닥",
+        "related_terms": [
+          "온돌",
+          "아궁이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "3. 다양한 삶의 모습들",
+    "concepts": [
+      {
+        "concept": "문화",
+        "easy_explanation": "사람들이 함께 생활하면서 만들어지고 전해지는 생활 방식",
+        "related_terms": []
+      },
+      {
+        "concept": "추석, 성묘",
+        "easy_explanation": "추석: 한국의 가장 큰 명절 중에 하나; 성묘: 조상의 산소에 가서 인사를 드리고 돌보는 일",
+        "related_terms": [
+          "산"
+        ]
+      },
+      {
+        "concept": "결혼식, 돌잔치",
+        "easy_explanation": "두 그림의 다른 점 이야기해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "결혼식",
+        "easy_explanation": "- 결혼식의 주인공은 신랑과 신부이다.",
+        "related_terms": [
+          "결혼"
+        ]
+      },
+      {
+        "concept": "돌잔치",
+        "easy_explanation": "- 돌잔치에서 가장 사람들이 관심을 갖는 순서는 돌잡이이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "백일잔치",
+        "easy_explanation": "백일잔치는 태어난 지 100일이 되는 날에 하는 잔치로 돌잔치보다 빨리합니다.",
+        "related_terms": [
+          "돌잔치"
+        ]
+      },
+      {
+        "concept": "장례, 제례",
+        "easy_explanation": "다음 그림을 보고, 무엇인지 이야기해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "장례",
+        "easy_explanation": "- 장례는 여러 사람이 슬퍼하며 돌아가신 분이 좋은 곳으로 가시길 바라는 의식입니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "제례",
+        "easy_explanation": "- 옛날과 오늘날의 제례는 다르지만 돌아가신 분을 그리워하는 마음은 같습니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "편견",
+        "easy_explanation": "공평하고 올바르지 못하고 한쪽으로 치우친 생각",
+        "related_terms": []
+      },
+      {
+        "concept": "차별",
+        "easy_explanation": "둘 이상을 차등을 두어 구별하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "1. 촌락의 형성과 주민 생활",
+    "concepts": [
+      {
+        "concept": "촌락",
+        "easy_explanation": "시골의 작은 마을",
+        "related_terms": []
+      },
+      {
+        "concept": "등고선",
+        "easy_explanation": "지도에서 높이가 같은 지점을 연결해서 그린 곡선",
+        "related_terms": [
+          "지도",
+          "연"
+        ]
+      },
+      {
+        "concept": "어촌",
+        "easy_explanation": "물고기를 잡아 생활하는 사람들이 모여 사는 바닷가 마을",
+        "related_terms": []
+      },
+      {
+        "concept": "농촌",
+        "easy_explanation": "농사를 짓는 사람들이 주로 모여 사는 마을",
+        "related_terms": []
+      },
+      {
+        "concept": "농업",
+        "easy_explanation": "농업의 하나",
+        "related_terms": []
+      },
+      {
+        "concept": "산업",
+        "easy_explanation": "생활에 필요한 물건을 만들거나 사람들을 편리하게 도와주는 일 등",
+        "related_terms": [
+          "편리"
+        ]
+      },
+      {
+        "concept": "임업",
+        "easy_explanation": "산지촌에서 돈을 버는 일",
+        "related_terms": [
+          "산"
+        ]
+      },
+      {
+        "concept": "어업",
+        "easy_explanation": "바다 주변의 어촌에서 발달한 산업",
+        "related_terms": [
+          "산",
+          "어촌",
+          "산업"
+        ]
+      },
+      {
+        "concept": "축산업",
+        "easy_explanation": "촌락에서 소나 돼지를 기르는 일",
+        "related_terms": [
+          "촌락"
+        ]
+      },
+      {
+        "concept": "일자리",
+        "easy_explanation": "일터나 직장과 같이 사람들이 일하는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "시설",
+        "easy_explanation": "고장에는 사람들에게 필요한 여러 가지 것",
+        "related_terms": []
+      },
+      {
+        "concept": "환경 오염",
+        "easy_explanation": "자연환경이 더러워지는 일",
+        "related_terms": [
+          "자연환경",
+          "환경",
+          "연"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "2. 도시의 발달과 주민 생활",
+    "concepts": [
+      {
+        "concept": "도시",
+        "easy_explanation": "사회 활동의 중심이 되는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "시청, 도청",
+        "easy_explanation": "시나 도의 일을 맡아보는 시설",
+        "related_terms": [
+          "시설"
+        ]
+      },
+      {
+        "concept": "소방서",
+        "easy_explanation": "불이 옮겨가는 것을 막거나 불을 끄는 일을 하는 시설",
+        "related_terms": [
+          "시설"
+        ]
+      },
+      {
+        "concept": "경찰서",
+        "easy_explanation": "고장의 안전을 지키고 재산을 보호하는 일을 하는 시설",
+        "related_terms": [
+          "산",
+          "시설"
+        ]
+      },
+      {
+        "concept": "백화점",
+        "easy_explanation": "여러 종류의 상품을 파는 큰 상점",
+        "related_terms": []
+      },
+      {
+        "concept": "교통 시설",
+        "easy_explanation": "사람들이 자동차나 지하철, 배, 기차 등을 타고 다닐 때 이용하는 시설",
+        "related_terms": [
+          "자동차",
+          "시설"
+        ]
+      },
+      {
+        "concept": "관광 자원",
+        "easy_explanation": "사람들이 찾아가서 구경하는 자연 경치나 문화 시설",
+        "related_terms": [
+          "문화",
+          "시설",
+          "연"
+        ]
+      },
+      {
+        "concept": "분포",
+        "easy_explanation": "정해진 범위 안에서 나뉘어 모여 있거나 퍼져 있는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "인구",
+        "easy_explanation": "어느 지역에 사는 사람의 수",
+        "related_terms": []
+      },
+      {
+        "concept": "수도권",
+        "easy_explanation": "수도와 수도 근처의 도시",
+        "related_terms": [
+          "도시"
+        ]
+      },
+      {
+        "concept": "공업 단지",
+        "easy_explanation": "나라에서 미리 정해 놓고 시설을 갖추어 많은 공장이 들어서서 한 곳",
+        "related_terms": [
+          "공장",
+          "시설"
+        ]
+      },
+      {
+        "concept": "주택",
+        "easy_explanation": "사람이 살 수 있는 집",
+        "related_terms": []
+      },
+      {
+        "concept": "환경 문제",
+        "easy_explanation": "공기가 나빠지거나 물이 더러워지는 것처럼 환경에 안 좋은 일들이 일어나는 것",
+        "related_terms": [
+          "환경"
+        ]
+      },
+      {
+        "concept": "환경",
+        "easy_explanation": "사람이나 동물·식물이 살아가는 데에 도움을 주는 주변의 자연이나 사회",
+        "related_terms": [
+          "연"
+        ]
+      },
+      {
+        "concept": "대중교통",
+        "easy_explanation": "버스나 지하철처럼 여러 사람이 이용하는 교통",
+        "related_terms": [
+          "버스"
+        ]
+      },
+      {
+        "concept": "신도시",
+        "easy_explanation": "사람들의 필요에 따라 만들어지는 새로운 도시",
+        "related_terms": [
+          "도시"
+        ]
+      },
+      {
+        "concept": "개발",
+        "easy_explanation": "산업이나 경제를 발달시키는 것",
+        "related_terms": [
+          "산",
+          "산업"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "3. 민주주의와 주민 자치",
+    "concepts": [
+      {
+        "concept": "지역 문제",
+        "easy_explanation": "지역에서 일어나는 해결해야 할 문제",
+        "related_terms": []
+      },
+      {
+        "concept": "주민 자치",
+        "easy_explanation": "지역의 주민들이 지역의 일을 스스로 해결하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "참여",
+        "easy_explanation": "어떤 일을 다른 사람들과 함께 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "선거",
+        "easy_explanation": "학급의 회장을 뽑는 것처럼 자신들을 대표할 사람을 뽑는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "지방선거",
+        "easy_explanation": "그 중에서 지역의 대표를 뽑는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "후보자",
+        "easy_explanation": "대표가 되기 위하여 선거에 참여하는 사람",
+        "related_terms": [
+          "선거",
+          "참여"
+        ]
+      },
+      {
+        "concept": "공약",
+        "easy_explanation": "후보자가 공약을 말하며 자신을 대표로 뽑아 달라고 부탁하는 것",
+        "related_terms": [
+          "후보자"
+        ]
+      },
+      {
+        "concept": "투표",
+        "easy_explanation": "선거운동이 끝나고 자신이 뽑고 싶은 대표를 쪽지에 표시하는 것",
+        "related_terms": [
+          "선거"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "1. 경제생활과 바람직한 선택",
+    "concepts": [
+      {
+        "concept": "경제 활동",
+        "easy_explanation": "살면서 필요한 것들을 만드는 것, 파는 것, 사는 것과 관련된 모든 일",
+        "related_terms": []
+      },
+      {
+        "concept": "선택",
+        "easy_explanation": "여럿 가운데서 마음에 들거나 필요한 것을 골라서 정하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "희소성",
+        "easy_explanation": "양이 매우 적어서 사려는 사람 모두가 가질 수 없는 특성",
+        "related_terms": []
+      },
+      {
+        "concept": "생산 활동",
+        "easy_explanation": "생활에서 필요한 것들을 만들거나 사람들의 생활을 즐겁고 편리하게 해 주는 것",
+        "related_terms": [
+          "편리"
+        ]
+      },
+      {
+        "concept": "직업",
+        "easy_explanation": "자신이 하는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "소득",
+        "easy_explanation": "생산 활동에서 얻은 것",
+        "related_terms": [
+          "생산 활동",
+          "산"
+        ]
+      },
+      {
+        "concept": "소비자",
+        "easy_explanation": "똑똑한 소비자는 꼭 필요한 물건을 적당한 가격에 삽니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "영수증",
+        "easy_explanation": "물건을 사면서 낸 돈을 영수증으로 확인합니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "가계부",
+        "easy_explanation": "돈을 어디에 썼는지 적어 둔 공책",
+        "related_terms": []
+      },
+      {
+        "concept": "광고",
+        "easy_explanation": "회사가 물건을 팔기 위해 알리는 것",
+        "related_terms": [
+          "회사"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "2. 사회 변화와 우리 생활",
+    "concepts": [
+      {
+        "concept": "결혼",
+        "easy_explanation": "남자와 여자가 만나 부부가 되는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "가족",
+        "easy_explanation": "한 집에서 모여 사는 남편, 아내, 아이들",
+        "related_terms": []
+      },
+      {
+        "concept": "역할, 성 역할",
+        "easy_explanation": "역할: 자기가 맡은 일이나 해야 하는 일; 성 역할: 남자와 여자가 사회에서 바라는 것에 맞추어 행동하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "성차별, 양성평등",
+        "easy_explanation": "성차별: 여자라는 이유나 남자라는 이유 때문에 차별하는 것; 양성평등: 성과 상관없이 자기의 능력에 따라 공평한 대우를 받는 것",
+        "related_terms": [
+          "차별"
+        ]
+      },
+      {
+        "concept": "인구, 저출산, 고령화",
+        "easy_explanation": "인구: 한 지역이나 나라에 살고 있는 사람의 수; 저출산: 아이를 적게 낳는 것; 고령화: 한 전체 인구에서 노인이 차지하는 부분이 많아지는 것",
+        "related_terms": [
+          "산",
+          "인구"
+        ]
+      },
+      {
+        "concept": "소수자",
+        "easy_explanation": "다수의 사람들과 행동이나 모습 등이 다르다는 이유로 차별을 받는 사람",
+        "related_terms": [
+          "차별"
+        ]
+      },
+      {
+        "concept": "장애, 장애인",
+        "easy_explanation": "신체적, 정신적으로 조금 다르다는 이유로 차별을 받는 사람",
+        "related_terms": [
+          "차별"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "3. 지역 사회의 발전",
+    "concepts": [
+      {
+        "concept": "상징물",
+        "easy_explanation": "어떤 의미를 간단하게 표현한 물체",
+        "related_terms": []
+      },
+      {
+        "concept": "교표",
+        "easy_explanation": "학교를 상징하는 무늬",
+        "related_terms": []
+      },
+      {
+        "concept": "교화",
+        "easy_explanation": "학교를 상징하는 꽃",
+        "related_terms": []
+      },
+      {
+        "concept": "교목",
+        "easy_explanation": "학교를 상징하는 나무",
+        "related_terms": []
+      },
+      {
+        "concept": "교가",
+        "easy_explanation": "학교를 상징하는 노래",
+        "related_terms": []
+      },
+      {
+        "concept": "자원봉사",
+        "easy_explanation": "대가를 바라지 않고 스스로 나서서 지역의 일을 위하여 애쓰는 것을 [___][___][___][___]라고 합니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "시민 단체",
+        "easy_explanation": "지역과 사회의 문제점을 찾아내거나 해결하기 위해 시민들이 스스로 만든 단체를 [___][___][___][___]라고 합니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "면담",
+        "easy_explanation": "직접 물어보는 조사 방법을 [___][___]이라고 합니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "질문지 조사",
+        "easy_explanation": "미리 질문 내용을 만들어 여러 명에게 답하도록 하여 자료를 얻는 방법",
+        "related_terms": []
+      }
+    ]
+  }
+]

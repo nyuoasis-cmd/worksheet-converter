@@ -1,0 +1,885 @@
+[
+  {
+    "term_ko": "국토",
+    "definition_ko": "한 나라의 주권이 미치는 땅.",
+    "easy_ko": "",
+    "en": "national territory",
+    "ja": "こくど【国土】",
+    "zh": "国土",
+    "vi": "lãnh thổ",
+    "tl": "pambansang teritoryo",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "35464",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "영토",
+    "definition_ko": "한 국가의 땅.",
+    "easy_ko": "",
+    "en": "territory",
+    "ja": "りょうど【領土】。りょうち【領地】",
+    "zh": "领土",
+    "vi": "lãnh thổ",
+    "tl": "teritoryo",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "68464",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "영해",
+    "definition_ko": "한 나라의 주권이 미치는 바다의 영역.",
+    "easy_ko": "",
+    "en": "territorial waters",
+    "ja": "りょうかい【領海】",
+    "zh": "领海",
+    "vi": "lãnh hải",
+    "tl": "mga katubigang teritoryal",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "22005",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "영공",
+    "definition_ko": "한 나라의 주권이 미치는 하늘의 영역.",
+    "easy_ko": "",
+    "en": "airspace",
+    "ja": "りょうくう【領空】",
+    "zh": "领空",
+    "vi": "không phận, vùng trời",
+    "tl": "espasyo sa himpapawid",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "91700",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "위도",
+    "definition_ko": "지구 위의 위치를 가로로 나타내는 것.",
+    "easy_ko": "",
+    "en": "latitude",
+    "ja": "いど【緯度】",
+    "zh": "纬度",
+    "vi": "vĩ độ",
+    "tl": "latitud",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "70128",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "경도",
+    "definition_ko": "지구 위의 위치를 세로로 나타내는 것.",
+    "easy_ko": "",
+    "en": "longitude",
+    "ja": "けいど【経度】。しごせん【子午線】。けいせん【経線】",
+    "zh": "经度",
+    "vi": "kinh độ",
+    "tl": "longhitud",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "32366",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기후",
+    "definition_ko": "기온, 비, 눈, 바람 등의 기상 상태.",
+    "easy_ko": "",
+    "en": "climate",
+    "ja": "きこう【気候】",
+    "zh": "气象",
+    "vi": "thời tiết",
+    "tl": "klima",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "32535",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "지형",
+    "definition_ko": "땅의 생긴 모양.",
+    "easy_ko": "",
+    "en": "topography",
+    "ja": "ちけい【地形】",
+    "zh": "地形",
+    "vi": "địa hình",
+    "tl": "topograpiya",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "83771",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산맥",
+    "definition_ko": "여러 산들이 길게 이어져 큰 줄기를 이루고 있는 것.",
+    "easy_ko": "",
+    "en": "mountain range; mountain belt",
+    "ja": "さんみゃく【山脈】",
+    "zh": "山脉",
+    "vi": "dãy núi",
+    "tl": "hanay ng bundok; sinturon ng bundok",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "61762",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "평야",
+    "definition_ko": "지표면이 평평하고 넓은 들.",
+    "easy_ko": "",
+    "en": "plain; open field",
+    "ja": "へいや【平野】",
+    "zh": "平野，原野",
+    "vi": "đồng bằng, vùng đồng bằng",
+    "tl": "kapatagan; bukas na parang",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "81288",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "해안",
+    "definition_ko": "바다와 육지가 맞닿은 곳.",
+    "easy_ko": "",
+    "en": "coast; seaside; seashore",
+    "ja": "かいがん【海岸】。うみべ【海辺】",
+    "zh": "海岸，海边",
+    "vi": "bờ biển",
+    "tl": "baybayin; dalampasigan; tabing-dagat",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "85797",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "반도",
+    "definition_ko": "바다쪽으로 좁게 튀어나온 삼면이 바다로 둘러싸이고 한 면은 육지에 이어진 땅.",
+    "easy_ko": "",
+    "en": "peninsula",
+    "ja": "はんとう【半島】",
+    "zh": "半岛",
+    "vi": "bán đảo",
+    "tl": "peninsula",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "56777",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "섬",
+    "definition_ko": "주위가 물로 둘러싸여 물 위에 떠 있는 것처럼 보이는 땅.",
+    "easy_ko": "",
+    "en": "island",
+    "ja": "しま【島】",
+    "zh": "岛，岛屿",
+    "vi": "đảo",
+    "tl": "isla",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "65099",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "경제성장",
+    "definition_ko": "한 나라의 경제 규모와 능력이 점차 커지는 일.",
+    "easy_ko": "",
+    "en": "economic growth",
+    "ja": "けいざいせいちょう【経済成長】",
+    "zh": "经济增长，经济成长",
+    "vi": "sự tăng trưởng kinh tế",
+    "tl": "paglago ng ekonomiya",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "30604",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산업화",
+    "definition_ko": "산업과 기술이 발달하여 생산이 기계화되고 인구의 도시 집중과 같은 특징을 가진 사회로 됨.",
+    "easy_ko": "",
+    "en": "industrialization",
+    "ja": "さんぎょうか【産業化】",
+    "zh": "工业化，产业化",
+    "vi": "công nghiệp hóa",
+    "tl": "industriyalisasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "61976",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "도시화",
+    "definition_ko": "도시의 문화가 전해져서 도시가 아닌 곳이 도시처럼 됨. 또는 그렇게 만듦.",
+    "easy_ko": "",
+    "en": "urbanization",
+    "ja": "としか【都市化】",
+    "zh": "城市化，都市化",
+    "vi": "sự đô thị hóa",
+    "tl": "urbanisasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "47609",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "무역",
+    "definition_ko": "지방과 지방 사이에 서로 물건을 사고파는 일.",
+    "easy_ko": "",
+    "en": "trade; commerce",
+    "ja": "ぼうえき【貿易】",
+    "zh": "国内贸易",
+    "vi": "thương mại, buôn bán",
+    "tl": "kalakalan; kalakalan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "64740",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "수출",
+    "definition_ko": "국내의 상품이나 기술을 외국으로 팔아 내보냄.",
+    "easy_ko": "",
+    "en": "export",
+    "ja": "ゆしゅつ【輸出】",
+    "zh": "出口，输出",
+    "vi": "sự xuất khẩu",
+    "tl": "pag-export",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "64804",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "수입",
+    "definition_ko": "어떤 일을 하여 돈이나 물건 등을 거두어들임. 또는 그 돈이나 물건.",
+    "easy_ko": "",
+    "en": "earning; income",
+    "ja": "しゅうにゅう【収入】。かせぎ【稼ぎ】",
+    "zh": "收入",
+    "vi": "thu nhập",
+    "tl": "kita; kita",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "74197",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산업",
+    "definition_ko": "농업, 공업, 임업, 수산업, 광업, 서비스업 등과 같이 물품이나 서비스 등을 만들어 내는 일.",
+    "easy_ko": "",
+    "en": "industry",
+    "ja": "さんぎょう【産業】",
+    "zh": "产业",
+    "vi": "công nghiệp",
+    "tl": "industriya",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "15676",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "헌법",
+    "definition_ko": "국가를 통치하는 기본 원리이며 국민의 기본권을 보장하고, 다른 것으로 대체할 수 없는 최고 법규.",
+    "easy_ko": "",
+    "en": "constitution",
+    "ja": "けんぽう【憲法】",
+    "zh": "宪法",
+    "vi": "hiến pháp",
+    "tl": "konstitusyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "86455",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "삼권분립",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "Separation of powers",
+    "ja": "三権分離",
+    "zh": "三权分立",
+    "vi": "Phân chia quyền lực",
+    "tl": "Paghihiwalay ng mga kapangyarihan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "입법",
+    "definition_ko": "주로 국회에서 법률을 만들어 정함.",
+    "easy_ko": "",
+    "en": "legislature; lawmaking",
+    "ja": "りっぽう【立法】",
+    "zh": "立法",
+    "vi": "sự lập pháp",
+    "tl": "lehislatura; paggawa ng batas",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "91533",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "사법",
+    "definition_ko": "국가나 국민에 관한 일을 법에 따라 판단하는 국가의 기본적인 활동.",
+    "easy_ko": "",
+    "en": "justice; being judicial; being legal; law enforcement",
+    "ja": "しほう【司法】",
+    "zh": "司法",
+    "vi": "tư pháp",
+    "tl": "hustisya; pagiging hudisyal; pagiging legal; pagpapatupad ng batas",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "61371",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "행정",
+    "definition_ko": "규정이나 규칙에 의하여 공적인 일들을 처리함.",
+    "easy_ko": "",
+    "en": "administration",
+    "ja": "ぎょうせい【行政】",
+    "zh": "行政",
+    "vi": "hành chính",
+    "tl": "administrasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "85188",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "국민",
+    "definition_ko": "한 나라를 구성하는 사람. 또는 그 나라 국적을 가진 사람.",
+    "easy_ko": "",
+    "en": "people; national; citizen",
+    "ja": "こくみん【国民】",
+    "zh": "国民",
+    "vi": "quốc dân, nhân dân",
+    "tl": "mga tao; pambansa; mamamayan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "60100",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "광복",
+    "definition_ko": "빼앗긴 주권을 다시 찾음.",
+    "easy_ko": "",
+    "en": "independence",
+    "ja": "こうふく【光復】",
+    "zh": "光复",
+    "vi": "quang phục",
+    "tl": "kalayaan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "30966",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "독립운동",
+    "definition_ko": "나라의 독립을 이루기 위해 벌이는 여러 가지 활동.",
+    "easy_ko": "",
+    "en": "independence movement",
+    "ja": "どくりつうんどう【独立運動】",
+    "zh": "独立运动",
+    "vi": "phong trào độc lập",
+    "tl": "kilusan para sa kalayaan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "48829",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "민주화",
+    "definition_ko": "민주주의 이념에 따르게 되거나 민주적인 것으로 바뀌는 것. 또는 그렇게 되게 하는 것.",
+    "easy_ko": "",
+    "en": "democratization",
+    "ja": "みんしゅか【民主化】",
+    "zh": "民主化",
+    "vi": "dân chủ hóa",
+    "tl": "demokratisasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "15778",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "세계화",
+    "definition_ko": "세계 여러 나라를 이해하고 세계적으로 나아감. 또는 그렇게 되게 함.",
+    "easy_ko": "",
+    "en": "globalization",
+    "ja": "せかいか【世界化】。グローバルか【グローバル化】。グローバリゼーション・グローバライゼーション",
+    "zh": "全球化",
+    "vi": "sự toàn cầu hóa, sự thế giới hóa",
+    "tl": "globalisasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "64071",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "다문화",
+    "definition_ko": "한 사회 안에 여러 민족이나 여러 나라의 문화가 섞여 있는 것.",
+    "easy_ko": "",
+    "en": "multiple cultures",
+    "ja": "たぶんか【多文化】",
+    "zh": "多元文化，多种文化",
+    "vi": "đa văn hoá",
+    "tl": "maraming kultura",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "40523",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "편견",
+    "definition_ko": "공평하고 올바르지 못하고 한쪽으로 치우친 생각.",
+    "easy_ko": "",
+    "en": "prejudice; bias",
+    "ja": "へんけん【偏見】",
+    "zh": "偏见",
+    "vi": "thiên kiến",
+    "tl": "pagtatangi; pagkiling",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "81998",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "상호존중",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "mutual respect",
+    "ja": "相互尊重",
+    "zh": "互相尊重",
+    "vi": "sự tôn trọng lẫn nhau",
+    "tl": "respeto sa isa't isa",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "국제기구",
+    "definition_ko": "특정한 목적을 위해 둘 이상의 나라가 모여 활동을 하기 위해 만든 조직체.",
+    "easy_ko": "",
+    "en": "international organization",
+    "ja": "こくさいきこう【国際機構】",
+    "zh": "国际机构",
+    "vi": "tổ chức quốc tế",
+    "tl": "internasyonal na organisasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "38615",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "저작권",
+    "definition_ko": "창작물에 대해 저작자나 그 권리를 이어받은 사람이 가지는 권리.",
+    "easy_ko": "",
+    "en": "copyright",
+    "ja": "ちょさくけん【著作権】",
+    "zh": "著作权，版权",
+    "vi": "tác quyền, quyền tác giả",
+    "tl": "karapatang-ari",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "74616",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "개인정보",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "Personal information",
+    "ja": "個人情報",
+    "zh": "个人信息",
+    "vi": "Thông tin cá nhân",
+    "tl": "Personal na impormasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "자원",
+    "definition_ko": "광물, 수산물 등과 같이 사람이 생활하거나 경제적인 생산을 하는 데 이용되는 원료.",
+    "easy_ko": "",
+    "en": "resource; material",
+    "ja": "しげん【資源】",
+    "zh": "资源",
+    "vi": "tài nguyên",
+    "tl": "mapagkukunan; materyal",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "24793",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "에너지",
+    "definition_ko": "사람이 육체적, 정신적 활동을 하는 데 필요한 힘.",
+    "easy_ko": "",
+    "en": "energy; power",
+    "ja": "エネルギー",
+    "zh": "精力，活力",
+    "vi": "năng lượng",
+    "tl": "enerhiya; kapangyarihan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "62468",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "지속가능발전",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "Sustainable development",
+    "ja": "持続可能な発展",
+    "zh": "可持续发展",
+    "vi": "Phát triển bền vững",
+    "tl": "Napapanatiling pag-unlad",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "통일",
+    "definition_ko": "나누어지거나 갈라진 것들을 합쳐서 하나가 되게 함.",
+    "easy_ko": "",
+    "en": "unification",
+    "ja": "とういつ【統一】",
+    "zh": "统一",
+    "vi": "sự thống nhất",
+    "tl": "pag-iisa",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "62409",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "외교",
+    "definition_ko": "다른 나라와 정치적, 경제적, 문화적 관계를 맺는 일.",
+    "easy_ko": "",
+    "en": "diplomacy",
+    "ja": "がいこう【外交】。ディプロマシー",
+    "zh": "外交",
+    "vi": "ngoại giao",
+    "tl": "diplomasya",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "67852",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "조약",
+    "definition_ko": "세부적인 항목을 세워 맺은 약속.",
+    "easy_ko": "",
+    "en": "contract",
+    "ja": "じょうやく【条約】",
+    "zh": "条款，条约，约定",
+    "vi": "sự thỏa thuận",
+    "tl": "kontrata",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "75355",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "난민",
+    "definition_ko": "전쟁이나 재해 등으로 집이나 재산을 잃은 사람.",
+    "easy_ko": "",
+    "en": "refugee",
+    "ja": "なんみん【難民】",
+    "zh": "难民，灾民",
+    "vi": "người bị nạn, nạn nhân",
+    "tl": "refugee",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "37442",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "이민",
+    "definition_ko": "자기 나라를 떠나서 다른 나라로 가서 사는 것.",
+    "easy_ko": "",
+    "en": "emigration",
+    "ja": "いみん【移民】",
+    "zh": "移民",
+    "vi": "sự di dân",
+    "tl": "emigrasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "24884",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "의무",
+    "definition_ko": "마땅히 해야 할 일.",
+    "easy_ko": "",
+    "en": "duty; responsibility; obligation",
+    "ja": "ぎむ【義務】",
+    "zh": "义务",
+    "vi": "nghĩa vụ",
+    "tl": "tungkulin; responsibilidad; obligasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "24066",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "권리",
+    "definition_ko": "어떤 일을 하거나 다른 사람에게 요구할 수 있는 정당한 힘이나 자격.",
+    "easy_ko": "",
+    "en": "right; authority; power",
+    "ja": "けんり【権利】。けん【権】",
+    "zh": "权利",
+    "vi": "quyền lợi",
+    "tl": "karapatan; awtoridad; kapangyarihan",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "36867",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "인구",
+    "definition_ko": "정해진 지역에 살고 있는 사람의 수.",
+    "easy_ko": "",
+    "en": "population",
+    "ja": "じんこう【人口】",
+    "zh": "人口",
+    "vi": "nhân khẩu, dân số",
+    "tl": "populasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "62590",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "유엔",
+    "definition_ko": "제이 차 세계 대전 후 국가 간의 평화와 안전의 유지, 우호 관계 증진 및 협력을 위해 만든 국제 평화 기구.",
+    "easy_ko": "",
+    "en": "UN",
+    "ja": "ユーエヌ。こくさいれんごう【国際連合】",
+    "zh": "联合国",
+    "vi": "Liên hợp quốc",
+    "tl": "UN",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "70609",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "세금",
+    "definition_ko": "국가 또는 지방 공공 단체가 필요한 경비로 사용하기 위하여 국민이나 주민으로부터 강제로 거두어들이는 돈.",
+    "easy_ko": "",
+    "en": "tax",
+    "ja": "ぜいきん【税金】",
+    "zh": "税",
+    "vi": "tiền thuế",
+    "tl": "buwis",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "64101",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "문화유산",
+    "definition_ko": "다음 세대에 계승·상속할 만한 가치를 지닌 문화적 산물.",
+    "easy_ko": "",
+    "en": "cultural heritage",
+    "ja": "ぶんかいさん【文化遺産】",
+    "zh": "文化资产",
+    "vi": "di sản văn hóa",
+    "tl": "pamana ng kultura",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "56980",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "정보화사회",
+    "definition_ko": "정보가 중요한 자원이 되어 가치를 만들어 내고 사회나 경제를 이끌어 가는 사회.",
+    "easy_ko": "",
+    "en": "information society",
+    "ja": "じょうほうかしゃかい【情報化社会】",
+    "zh": "信息化社会，信息社会",
+    "vi": "xã hội thông tin hóa",
+    "tl": "lipunan ng impormasyon",
+    "subject": "사회",
+    "grade": "5-6",
+    "source": "krdict",
+    "krdict_target_code": "75794",
+    "filled_by_google": [
+      "tl"
+    ]
+  }
+]

@@ -1,0 +1,4039 @@
+[
+  {
+    "term_ko": "분수",
+    "definition_ko": "사물이나 현상을 분별하는 지혜.",
+    "easy_ko": "",
+    "en": "judgment",
+    "ja": "わきまえ【弁え】。ぶんべつ【分別】",
+    "zh": "分寸",
+    "vi": "sự nhận thức",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "60871"
+  },
+  {
+    "term_ko": "소수",
+    "definition_ko": "일의 자리보다 작은 자리의 값을 가진 수.",
+    "easy_ko": "",
+    "en": "decimal",
+    "ja": "しょうすう【小数】",
+    "zh": "小数",
+    "vi": "số thập phân",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "63601"
+  },
+  {
+    "term_ko": "자연수",
+    "definition_ko": "음수와 영을 제외하고 일부터 시작하여 하나씩 더하여 얻는 수.",
+    "easy_ko": "",
+    "en": "natural numbers",
+    "ja": "しぜんすう【自然数】",
+    "zh": "自然数",
+    "vi": "số tự nhiên",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "73496"
+  },
+  {
+    "term_ko": "덧셈",
+    "definition_ko": "수나 식을 더하여 계산함. 또는 그런 셈.",
+    "easy_ko": "",
+    "en": "addition",
+    "ja": "たしざん【足し算】。かほう【加法】",
+    "zh": "加法",
+    "vi": "sự cộng thêm, sự tính thêm, phép cộng",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "51337"
+  },
+  {
+    "term_ko": "뺄셈",
+    "definition_ko": "수나 식 등을 빼서 계산함. 또는 그런 셈.",
+    "easy_ko": "",
+    "en": "subtraction",
+    "ja": "ひきざん【引き算】。げんぽう【減法】",
+    "zh": "减法",
+    "vi": "sự trừ đi, phép tính trừ",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61559"
+  },
+  {
+    "term_ko": "곱셈",
+    "definition_ko": "수학에서 어떤 수를 곱하여 계산함.",
+    "easy_ko": "",
+    "en": "multiplication",
+    "ja": "かけざん【掛け算】。じょうほう【乗法】",
+    "zh": "乘法",
+    "vi": "phép tính nhân, phép nhân",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "18613"
+  },
+  {
+    "term_ko": "나눗셈",
+    "definition_ko": "어떤 수를 다른 수로 나누는 계산 방법.",
+    "easy_ko": "",
+    "en": "division",
+    "ja": "わりざん【割り算】。じょほう【除法】。じょさん【除算】",
+    "zh": "除法",
+    "vi": "phép tính chia",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "39353"
+  },
+  {
+    "term_ko": "몫",
+    "definition_ko": "무엇을 여럿이 나누어 가질 때 각 사람이 가지게 되는 부분.",
+    "easy_ko": "",
+    "en": "share; portion",
+    "ja": "ぶん【分】。わけまえ【分け前】。とりまえ【取り前】。わりまえ【割り前】",
+    "zh": "份，份额",
+    "vi": "phần",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "56004"
+  },
+  {
+    "term_ko": "나머지",
+    "definition_ko": "어떤 양을 채우고 남은 부분.",
+    "easy_ko": "",
+    "en": "the rest; remainder",
+    "ja": "あまり【余り】。よぶん【余分】。のこり【残り】。よじょう【余剰】",
+    "zh": "多余的，额外的",
+    "vi": "phần còn lại, còn lại",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59230"
+  },
+  {
+    "term_ko": "배수",
+    "definition_ko": "바다, 강, 호수 등의 물을 뒤에 등지고 있음. 또는 그 물.",
+    "easy_ko": "",
+    "en": "having water in the back",
+    "ja": "はいすい【背水】",
+    "zh": "背水",
+    "vi": "thế lưng tựa nước, nước gối đầu",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59183"
+  },
+  {
+    "term_ko": "약수",
+    "definition_ko": "어떤 수를 나머지 없이 나눌 수 있는 수.",
+    "easy_ko": "",
+    "en": "aliquot",
+    "ja": "やくすう【約数】",
+    "zh": "约数",
+    "vi": "số chia hết",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "66983"
+  },
+  {
+    "term_ko": "각도",
+    "definition_ko": "같은 지점에서 시작되는 두 개의 직선이나 평면이 벌어진 정도.",
+    "easy_ko": "",
+    "en": "angle",
+    "ja": "かくど【角度】",
+    "zh": "角，角度",
+    "vi": "độ góc",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "14298"
+  },
+  {
+    "term_ko": "직각",
+    "definition_ko": "수학에서, 두 직선이 만나서 이루는 90도의 각.",
+    "easy_ko": "",
+    "en": "right angle",
+    "ja": "ちょっかく【直角】",
+    "zh": "直角",
+    "vi": "góc vuông",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "83449"
+  },
+  {
+    "term_ko": "예각",
+    "definition_ko": "90도보다 작은 각.",
+    "easy_ko": "",
+    "en": "acute angle",
+    "ja": "えいかく【鋭角】",
+    "zh": "锐角",
+    "vi": "góc nhọn",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "68561"
+  },
+  {
+    "term_ko": "둔각",
+    "definition_ko": "90도보다는 크고 180도보다는 작은 각.",
+    "easy_ko": "",
+    "en": "obtuse angle",
+    "ja": "どんかく【鈍角】",
+    "zh": "钝角",
+    "vi": "góc tù",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "48205"
+  },
+  {
+    "term_ko": "삼각형",
+    "definition_ko": "세 개의 점을 잇는 세 선분으로 이루어진 도형. 또는 그런 모양.",
+    "easy_ko": "",
+    "en": "triangle",
+    "ja": "さんかくけい・さんかっけい【三角形】",
+    "zh": "三角形",
+    "vi": "hình tam giác",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61844"
+  },
+  {
+    "term_ko": "사각형",
+    "definition_ko": "네 개의 선분으로 둘러싸이고 네 개의 각이 있는 평면 도형.",
+    "easy_ko": "",
+    "en": "quadrangle; square",
+    "ja": "しかくけい・しかっけい【四角形】",
+    "zh": "四边形",
+    "vi": "hình tứ giác",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61127"
+  },
+  {
+    "term_ko": "원",
+    "definition_ko": "한국의 화폐 단위.",
+    "easy_ko": "",
+    "en": "won",
+    "ja": "ウォン",
+    "zh": "韩元，韩币",
+    "vi": "Won",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "27771"
+  },
+  {
+    "term_ko": "반지름",
+    "definition_ko": "원이나 구의 중심에서 그 둘레나 면의 한 점까지 이어지는 선분. 또는 그 선분의 길이.",
+    "easy_ko": "",
+    "en": "radius",
+    "ja": "はんけい【半径】",
+    "zh": "半径",
+    "vi": "bán kính",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "58101"
+  },
+  {
+    "term_ko": "지름",
+    "definition_ko": "원이나 구의 둘레 위의 두 점이 중심을 지나도록 직선으로 이은 선.",
+    "easy_ko": "",
+    "en": "diameter",
+    "ja": "ちょっけい【直径】。さしわたし【差し渡し】",
+    "zh": "直径",
+    "vi": "đường kính",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "76732"
+  },
+  {
+    "term_ko": "둘레",
+    "definition_ko": "사물의 테두리나 주변 부분.",
+    "easy_ko": "",
+    "en": "circumference; periphery",
+    "ja": "",
+    "zh": "周围，边",
+    "vi": "đường vòng quanh",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "50880"
+  },
+  {
+    "term_ko": "넓이",
+    "definition_ko": "어떤 장소나 물건이 차지하는 공간이나 평면의 넓은 정도.",
+    "easy_ko": "",
+    "en": "width",
+    "ja": "ひろさ【広さ】",
+    "zh": "宽度，幅",
+    "vi": "chiều rộng, bề rộng",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "41120"
+  },
+  {
+    "term_ko": "평행",
+    "definition_ko": "서로 줄지어 나란히 감.",
+    "easy_ko": "",
+    "en": "going side by side",
+    "ja": "へいこう【並行】",
+    "zh": "并行",
+    "vi": "sự song hành",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "83075"
+  },
+  {
+    "term_ko": "수직",
+    "definition_ko": "사물이 아래로 곧게 내려가거나 떨어지는 상태.",
+    "easy_ko": "",
+    "en": "being vertical; being straight; being upright",
+    "ja": "すいちょく【垂直】",
+    "zh": "垂直",
+    "vi": "sự thẳng đứng",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "65484"
+  },
+  {
+    "term_ko": "대칭",
+    "definition_ko": "두 사물이 서로 크기나 모양이 정확히 같아 한 쌍을 이룸.",
+    "easy_ko": "",
+    "en": "symmetry",
+    "ja": "たいしょう【対称】",
+    "zh": "对称",
+    "vi": "sự đối xứng, sự cân đối",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "46854"
+  },
+  {
+    "term_ko": "막대그래프",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "꺾은선그래프",
+    "definition_ko": "막대그래프의 끝을 꺾어진 선으로 연결하여 나타낸 그래프.",
+    "easy_ko": "",
+    "en": "broken-line graph",
+    "ja": "おれせんグラフ【折れ線グラフ】",
+    "zh": "折线图",
+    "vi": "biểu đồ đường gấp khúc",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "41612"
+  },
+  {
+    "term_ko": "표",
+    "definition_ko": "어떤 권리가 있음을 증명하는 쪽지.",
+    "easy_ko": "",
+    "en": "ticket",
+    "ja": "きっぷ【切符】。けん【券】。チケット",
+    "zh": "票，券",
+    "vi": "vé, tấm vé",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71353"
+  },
+  {
+    "term_ko": "들이",
+    "definition_ko": "‘몹시’, ‘마구’, ‘갑자기’의 뜻을 더하는 접두사.",
+    "easy_ko": "",
+    "en": "deuri-",
+    "ja": "",
+    "zh": "",
+    "vi": "bỗng, loạn xạ",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74907"
+  },
+  {
+    "term_ko": "무게",
+    "definition_ko": "물건의 무거운 정도.",
+    "easy_ko": "",
+    "en": "weight",
+    "ja": "おもさ【重さ】。めかた【目方】。じゅうりょう【重量】",
+    "zh": "重量",
+    "vi": "độ nặng, trọng lượng",
+    "tl": "",
+    "subjects": [
+      "수학 3-4",
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "54870"
+  },
+  {
+    "term_ko": "시간",
+    "definition_ko": "어떤 때에서 다른 때까지의 동안.",
+    "easy_ko": "",
+    "en": "time",
+    "ja": "じかん【時間】",
+    "zh": "时间",
+    "vi": "thời gian",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62841"
+  },
+  {
+    "term_ko": "킬로그램",
+    "definition_ko": "무게의 단위.",
+    "easy_ko": "",
+    "en": "kilogram",
+    "ja": "キログラム。キロ",
+    "zh": "公斤",
+    "vi": "kí lô gam",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "72176"
+  },
+  {
+    "term_ko": "리터",
+    "definition_ko": "주로 기체나 액체의 양을 재는 부피의 단위.",
+    "easy_ko": "",
+    "en": "liter",
+    "ja": "リットル",
+    "zh": "升",
+    "vi": "lít",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "50142"
+  },
+  {
+    "term_ko": "평면도형",
+    "definition_ko": "평면에 그려진 도형.",
+    "easy_ko": "",
+    "en": "plane figure",
+    "ja": "へいめんずけい【平面図形】",
+    "zh": "平面图形",
+    "vi": "hình phẳng",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "81148"
+  },
+  {
+    "term_ko": "입체도형",
+    "definition_ko": "각기둥이나 각뿔, 구 등과 같이 삼차원의 공간에서 부피를 가지는 도형.",
+    "easy_ko": "",
+    "en": "solid figure; three-dimensional figure",
+    "ja": "りったいずけい【立体図形】。くうかんずけい【空間図形】",
+    "zh": "立体图形",
+    "vi": "hình lập thể",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "73595"
+  },
+  {
+    "term_ko": "직육면체",
+    "definition_ko": "여섯 개의 직사각형으로 둘러싸이고, 마주 보는 면이 모두 나란한 육면체.",
+    "easy_ko": "",
+    "en": "rectangular parallelepiped",
+    "ja": "ちょくろくめんたい【直六面体】。ちょくほうたい【直方体】。ちょうほうたい【長方体】",
+    "zh": "正六面体，长方体",
+    "vi": "hình hộp chữ nhật",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "76801"
+  },
+  {
+    "term_ko": "정육면체",
+    "definition_ko": "크기와 모양이 같은 여섯 개의 정사각형으로 이루어진 정다면체.",
+    "easy_ko": "",
+    "en": "regular hexahedron; cube",
+    "ja": "せいろくめんたい【正六面体】。りっぽうたい【立方体】",
+    "zh": "正六面体",
+    "vi": "khối lục giác đều",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "75879"
+  },
+  {
+    "term_ko": "수직선",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "크기",
+    "definition_ko": "사물의 부피, 넓이, 양 등이 큰 정도.",
+    "easy_ko": "",
+    "en": "size",
+    "ja": "おおきさ【大きさ】。サイズ",
+    "zh": "大小，高矮，高低",
+    "vi": "độ lớn, kích cỡ",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62458"
+  },
+  {
+    "term_ko": "단위",
+    "definition_ko": "미터, 리터, 그램과 같이 길이, 양, 무게 등을 수로 나타낼 때 기초가 되는 기준.",
+    "easy_ko": "",
+    "en": "unit",
+    "ja": "たんい【単位】",
+    "zh": "单位",
+    "vi": "đơn vị",
+    "tl": "",
+    "subjects": [
+      "수학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "28374"
+  },
+  {
+    "term_ko": "동물",
+    "definition_ko": "생물계의 두 갈래 가운데 먹이로 영양분을 얻고 자유롭게 몸을 움직일 수 있는 생물.",
+    "easy_ko": "",
+    "en": "animal",
+    "ja": "どうぶつ【動物】",
+    "zh": "动物",
+    "vi": "động vật",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70747"
+  },
+  {
+    "term_ko": "식물",
+    "definition_ko": "풀, 나무와 같은 스스로의 힘으로 움직일 수 없는 생명체.",
+    "easy_ko": "",
+    "en": "plant",
+    "ja": "しょくぶつ【植物】",
+    "zh": "植物",
+    "vi": "thực vật",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "65315"
+  },
+  {
+    "term_ko": "곤충",
+    "definition_ko": "나비, 잠자리, 벌 등과 같이 머리, 가슴, 배 세 부분으로 되어 있고 몸에 마디가 많은 작은 동물.",
+    "easy_ko": "",
+    "en": "insect",
+    "ja": "こんちゅう【昆虫】",
+    "zh": "昆虫",
+    "vi": "côn trùng",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "27689"
+  },
+  {
+    "term_ko": "포유류",
+    "definition_ko": "새끼를 낳아 젖을 먹여 기르며 허파로 숨을 쉬는 척추동물의 한 종류.",
+    "easy_ko": "",
+    "en": "mammal",
+    "ja": "ほにゅうるい【哺乳類】",
+    "zh": "哺乳类",
+    "vi": "động vật có vú",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "84597"
+  },
+  {
+    "term_ko": "파충류",
+    "definition_ko": "악어나 뱀 등과 같이 폐로 숨을 쉬며 바깥 온도에 따라 체온이 변하는 동물.",
+    "easy_ko": "",
+    "en": "reptiles",
+    "ja": "はちゅうるい【爬虫類】",
+    "zh": "爬虫类",
+    "vi": "loài bò sát",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "80626"
+  },
+  {
+    "term_ko": "양서류",
+    "definition_ko": "어류와 파충류의 중간으로, 땅 위 또는 물속에서 사는 동물.",
+    "easy_ko": "",
+    "en": "amphibian",
+    "ja": "りょうせいるい【両生類】",
+    "zh": "两栖类",
+    "vi": "loài lưỡng cư",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "90579"
+  },
+  {
+    "term_ko": "조류",
+    "definition_ko": "밀물과 썰물 때문에 생기는 바닷물의 흐름.",
+    "easy_ko": "",
+    "en": "tide",
+    "ja": "ちょうりゅう【潮流】",
+    "zh": "潮流",
+    "vi": "triều lưu, dòng thủy triều",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "91799"
+  },
+  {
+    "term_ko": "어류",
+    "definition_ko": "고등어, 참치, 상어처럼 주로 몸이 비늘로 덮여 있으며, 물속에 살면서 지느러미로 헤엄을 치고 아가미로 숨을 쉬는 동물.",
+    "easy_ko": "",
+    "en": "fish",
+    "ja": "ぎょるい【魚類】",
+    "zh": "鱼类",
+    "vi": "loài cá",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70491"
+  },
+  {
+    "term_ko": "광합성",
+    "definition_ko": "녹색 식물이 태양 에너지를 이용하여 이산화 탄소와 수분으로 유기물을 만들어 내는 과정.",
+    "easy_ko": "",
+    "en": "photosynthesis",
+    "ja": "こうごうせい【光合成】",
+    "zh": "光合作用",
+    "vi": "tính quang hợp",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "30824"
+  },
+  {
+    "term_ko": "뿌리",
+    "definition_ko": "땅속으로 뻗어서 물과 양분을 빨아올리고 줄기를 지탱하는 식물의 한 부분.",
+    "easy_ko": "",
+    "en": "root",
+    "ja": "ね【根】。ねっこ【根っこ】",
+    "zh": "根",
+    "vi": "rễ cây",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "60318"
+  },
+  {
+    "term_ko": "줄기",
+    "definition_ko": "식물을 받치고 뿌리에서 빨아들인 수분이나 양분을 나르며, 잎이나 가지, 열매 등이 붙는 부분.",
+    "easy_ko": "",
+    "en": "trunk; stem",
+    "ja": "みき【幹】",
+    "zh": "茎",
+    "vi": "thân cây",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "79400"
+  },
+  {
+    "term_ko": "잎",
+    "definition_ko": "줄기 끝이나 둘레에 붙어 있으며 녹색의 납작한 모양을 한, 식물의 영양 기관.",
+    "easy_ko": "",
+    "en": "leaf",
+    "ja": "は【葉】。はっぱ【葉っぱ】",
+    "zh": "叶子",
+    "vi": "lá",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70793"
+  },
+  {
+    "term_ko": "꽃",
+    "definition_ko": "특유의 모양과 빛깔, 향기가 있으며 줄기 끝에 달려 있는 식물의 한 부분. 또는 그것이 피는 식물.",
+    "easy_ko": "",
+    "en": "flower",
+    "ja": "はな【花】",
+    "zh": "花，花朵",
+    "vi": "hoa, cây hoa",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62838"
+  },
+  {
+    "term_ko": "열매",
+    "definition_ko": "사과, 배 등과 같이 나무의 꽃이 지고 난 뒤에 그 자리에 생기는 것.",
+    "easy_ko": "",
+    "en": "fruit; berry",
+    "ja": "み【実】。かじつ【果実】",
+    "zh": "果实",
+    "vi": "trái, quả",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "14093"
+  },
+  {
+    "term_ko": "씨앗",
+    "definition_ko": "곡식이나 채소, 꽃 등의 씨.",
+    "easy_ko": "",
+    "en": "seed",
+    "ja": "たね【種】。たねもの【種物】",
+    "zh": "种子",
+    "vi": "hạt, hột",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "16740"
+  },
+  {
+    "term_ko": "나무",
+    "definition_ko": "단단한 줄기에 가지와 잎이 달린, 여러 해 동안 자라는 식물.",
+    "easy_ko": "",
+    "en": "tree",
+    "ja": "き【木・樹】。じゅもく【樹木】",
+    "zh": "树，树木",
+    "vi": "cây",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "32750"
+  },
+  {
+    "term_ko": "풀",
+    "definition_ko": "쌀이나 밀가루 등에서 빼낸, 천이나 옷 등을 빳빳하게 만들거나 무엇을 붙일 때 쓰는 끈끈한 물질.",
+    "easy_ko": "",
+    "en": "starch; adhesive",
+    "ja": "のり【糊】",
+    "zh": "糨糊，糨子",
+    "vi": "hồ, bột, keo",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "73267"
+  },
+  {
+    "term_ko": "균류",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "세균",
+    "definition_ko": "사람들을 병에 걸리게 하거나 음식을 썩게 하는 아주 작은 생물.",
+    "easy_ko": "",
+    "en": "virus; germ; bacteria",
+    "ja": "さいきん【細菌】。ばいきん【黴菌】。バクテリア",
+    "zh": "细菌",
+    "vi": "vi khuẩn",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64097"
+  },
+  {
+    "term_ko": "생물",
+    "definition_ko": "생명이 있는 동물과 식물.",
+    "easy_ko": "",
+    "en": "organism; living thing",
+    "ja": "せいぶつ【生物】",
+    "zh": "生物",
+    "vi": "sinh vật",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "29038"
+  },
+  {
+    "term_ko": "자석",
+    "definition_ko": "쇠붙이를 끌어당기는 힘을 띤 물체.",
+    "easy_ko": "",
+    "en": "magnet",
+    "ja": "じしゃく【磁石】",
+    "zh": "磁铁，磁石",
+    "vi": "nam châm",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "73834"
+  },
+  {
+    "term_ko": "나침반",
+    "definition_ko": "동, 서, 남, 북 방향을 알려 주는 기구.",
+    "easy_ko": "",
+    "en": "compass",
+    "ja": "らしんばん【羅針盤】。コンパス。らばん【羅盤】",
+    "zh": "罗盘，指南针",
+    "vi": "la bàn",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "16311"
+  },
+  {
+    "term_ko": "극",
+    "definition_ko": "더 이상 그 상태를 유지할 수 없는 마지막 단계.",
+    "easy_ko": "",
+    "en": "extreme",
+    "ja": "きょく【極】。きわみ【極み】。きょくげん【極限】",
+    "zh": "极点，极限",
+    "vi": "cực độ, tột điểm, cùng cực",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "34404"
+  },
+  {
+    "term_ko": "인력",
+    "definition_ko": "사람의 힘이나 능력.",
+    "easy_ko": "",
+    "en": "human power; human agency; human strength",
+    "ja": "じんりょく・じんりき【人力】",
+    "zh": "人力",
+    "vi": "nhân lực",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "72882"
+  },
+  {
+    "term_ko": "척력",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "자기장",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "혼합물",
+    "definition_ko": "여러 가지가 뒤섞여 한데 합해진 물질.",
+    "easy_ko": "",
+    "en": "composite",
+    "ja": "こんごうぶつ【混合物】",
+    "zh": "混合物",
+    "vi": "hỗn hợp, hợp chất",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "87268"
+  },
+  {
+    "term_ko": "용해",
+    "definition_ko": "녹거나 녹이는 일.",
+    "easy_ko": "",
+    "en": "melting; dissolution",
+    "ja": "ようかい【溶解】",
+    "zh": "溶解",
+    "vi": "sự hòa tan, chảy, nóng",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "69412"
+  },
+  {
+    "term_ko": "용액",
+    "definition_ko": "두 가지 이상의 물질이 고르게 섞인 액체.",
+    "easy_ko": "",
+    "en": "solution",
+    "ja": "ようえき【溶液】",
+    "zh": "溶液",
+    "vi": "dung dịch",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "69253"
+  },
+  {
+    "term_ko": "거름",
+    "definition_ko": "식물이 잘 자라도록 땅에 뿌리거나 섞는 물질.",
+    "easy_ko": "",
+    "en": "manure; fertilizer",
+    "ja": "ひりょう【肥料】",
+    "zh": "肥，肥料，粪",
+    "vi": "phân bón",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "26794"
+  },
+  {
+    "term_ko": "증발",
+    "definition_ko": "어떤 물질이 액체 상태에서 기체 상태로 변함. 또는 그런 현상.",
+    "easy_ko": "",
+    "en": "evaporation; vaporization",
+    "ja": "じょうはつ【蒸発】",
+    "zh": "蒸发",
+    "vi": "sự bay hơi, sự bốc hơi",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "77640"
+  },
+  {
+    "term_ko": "녹이다",
+    "definition_ko": "얼음이나 눈에 열을 가해서 물이 되게 하다.",
+    "easy_ko": "",
+    "en": "melt; thaw",
+    "ja": "とかす【溶かす】",
+    "zh": "融化",
+    "vi": "làm tan ra",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "28314"
+  },
+  {
+    "term_ko": "지층",
+    "definition_ko": "자갈, 모래, 진흙, 화산재 등이 오랜 시간 동안 쌓여 이루어진 층.",
+    "easy_ko": "",
+    "en": "stratum",
+    "ja": "ちそう【地層】",
+    "zh": "地层",
+    "vi": "địa tầng, vỉa",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "77794"
+  },
+  {
+    "term_ko": "화석",
+    "definition_ko": "아주 옛날에 살았던 생물의 뼈, 활동 흔적 등이 땅속에 묻혀 굳어져 지금까지 남아 있는 것.",
+    "easy_ko": "",
+    "en": "fossil",
+    "ja": "かせき【化石】",
+    "zh": "化石",
+    "vi": "sự  hóa thạch",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "88030"
+  },
+  {
+    "term_ko": "퇴적암",
+    "definition_ko": "흙이나 죽은 생물의 뼈 등이 물이나 바람, 빙하 등에 의해 운반되어 일정한 곳에 쌓여서 생긴 암석.",
+    "easy_ko": "",
+    "en": "sedimentary rock",
+    "ja": "たいせきがん【堆積岩】",
+    "zh": "堆积岩，沉积岩",
+    "vi": "đá trầm tích",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "82884"
+  },
+  {
+    "term_ko": "화성암",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "변성암",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "광물",
+    "definition_ko": "금, 은, 철 등과 같은 금속을 포함하는 자연에서 생기는 무기 물질.",
+    "easy_ko": "",
+    "en": "mineral",
+    "ja": "こうぶつ【鉱物】",
+    "zh": "矿物",
+    "vi": "khoáng chất, khoáng vật",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "30720"
+  },
+  {
+    "term_ko": "암석",
+    "definition_ko": "지구 겉쪽의 단단한 부분을 이루는 큰 바위.",
+    "easy_ko": "",
+    "en": "rock",
+    "ja": "がんせき【岩石】",
+    "zh": "岩石",
+    "vi": "nham thạch",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "66670"
+  },
+  {
+    "term_ko": "온도",
+    "definition_ko": "따뜻하고 차가운 정도. 또는 그것을 나타내는 수치.",
+    "easy_ko": "",
+    "en": "temperature",
+    "ja": "おんど【温度】",
+    "zh": "温度",
+    "vi": "nhiệt độ",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "67838"
+  },
+  {
+    "term_ko": "온도계",
+    "definition_ko": "물체의 온도를 재는 기구.",
+    "easy_ko": "",
+    "en": "thermometer",
+    "ja": "おんどけい【温度計】",
+    "zh": "温度计",
+    "vi": "nhiệt kế",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "68622"
+  },
+  {
+    "term_ko": "열",
+    "definition_ko": "아홉에 하나를 더한 수.",
+    "easy_ko": "",
+    "en": "ten",
+    "ja": "とお・じゅう【十】",
+    "zh": "十",
+    "vi": "số mười",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "67805"
+  },
+  {
+    "term_ko": "전도",
+    "definition_ko": "전체를 그린 그림이나 지도.",
+    "easy_ko": "",
+    "en": "full map",
+    "ja": "ぜんず【全図】",
+    "zh": "全图",
+    "vi": "bức tranh toàn cảnh, bản đồ tổng thể, bản đồ toàn khu vực",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74401"
+  },
+  {
+    "term_ko": "대류",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "복사",
+    "definition_ko": "원래의 것을 다른 곳에 그대로 옮겨 놓음.",
+    "easy_ko": "",
+    "en": "copy",
+    "ja": "ふくしゃ【複写】。コピー",
+    "zh": "抄袭，复制",
+    "vi": "sự sao chép, sự copy",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59560"
+  },
+  {
+    "term_ko": "그림자",
+    "definition_ko": "물체가 빛을 받을 때 빛의 반대쪽 바닥이나 벽에 나타나는 그 물체의 검은 모양.",
+    "easy_ko": "",
+    "en": "shadow; silhouette",
+    "ja": "かげ【影】",
+    "zh": "影子",
+    "vi": "bóng",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "58302"
+  },
+  {
+    "term_ko": "빛",
+    "definition_ko": "해, 달, 전등, 불 등에서 나와 사물을 밝게 비추는 것.",
+    "easy_ko": "",
+    "en": "light",
+    "ja": "ひかり【光】。あかり【明かり・灯り】",
+    "zh": "光，光线",
+    "vi": "tia sáng, ánh sáng",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62079"
+  },
+  {
+    "term_ko": "반사",
+    "definition_ko": "빛이나 전파 등이 다른 물체의 표면에 부딪쳐서 나아가던 방향이 반대 방향으로 바뀌는 현상.",
+    "easy_ko": "",
+    "en": "reflection",
+    "ja": "はんしゃ【反射】",
+    "zh": "反射",
+    "vi": "sự phản xạ",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "57124"
+  },
+  {
+    "term_ko": "굴절",
+    "definition_ko": "휘거나 꺾임.",
+    "easy_ko": "",
+    "en": "refraction; bend; curve",
+    "ja": "くっせつ【屈折】",
+    "zh": "屈折，曲折",
+    "vi": "sự uốn cong, sự gập cong",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "33443"
+  },
+  {
+    "term_ko": "투명",
+    "definition_ko": "물이나 유리 등이 맑음.",
+    "easy_ko": "",
+    "en": "clarity",
+    "ja": "とうめい【透明】",
+    "zh": "透明",
+    "vi": "sự trong suốt, sự trong vắt",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "82936"
+  },
+  {
+    "term_ko": "소리",
+    "definition_ko": "물체가 진동하여 생긴 음파가 귀에 들리는 것.",
+    "easy_ko": "",
+    "en": "sound; noise",
+    "ja": "おと【音】",
+    "zh": "声音，声，音，动静",
+    "vi": "tiếng, âm thanh",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62379"
+  },
+  {
+    "term_ko": "진동",
+    "definition_ko": "흔들려 움직임.",
+    "easy_ko": "",
+    "en": "vibration",
+    "ja": "しんどう【振動】。バイブレーション",
+    "zh": "振动",
+    "vi": "sự chấn động",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "28981"
+  },
+  {
+    "term_ko": "높낮이",
+    "definition_ko": "높고 낮음. 또는 높거나 낮은 정도.",
+    "easy_ko": "",
+    "en": "height; high and low",
+    "ja": "こうてい【高低】",
+    "zh": "高低",
+    "vi": "độ cao thấp",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "45286"
+  },
+  {
+    "term_ko": "소음",
+    "definition_ko": "불쾌하고 시끄러운 소리.",
+    "easy_ko": "",
+    "en": "noise; racket",
+    "ja": "そうおん【騒音】",
+    "zh": "噪音",
+    "vi": "tiếng ồn",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "49251"
+  },
+  {
+    "term_ko": "날씨",
+    "definition_ko": "그날그날의 기온이나 공기 중에 비, 구름, 바람, 안개 등이 나타나는 상태.",
+    "easy_ko": "",
+    "en": "weather",
+    "ja": "てんき【天気】。きこう【気候】。てんこう【天候】。そらもよう【空模様】",
+    "zh": "天气",
+    "vi": "thời tiết",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "60630"
+  },
+  {
+    "term_ko": "기온",
+    "definition_ko": "대기의 온도.",
+    "easy_ko": "",
+    "en": "air temperature",
+    "ja": "きおん【気温】。おんど【温度】",
+    "zh": "气温",
+    "vi": "nhiệt độ thời tiết, nhiệt độ khí hậu, nhiệt độ không khí",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "38103"
+  },
+  {
+    "term_ko": "습도",
+    "definition_ko": "공기 속에 수증기가 포함되어 있는 정도.",
+    "easy_ko": "",
+    "en": "humidity",
+    "ja": "しつど【湿度】",
+    "zh": "湿度",
+    "vi": "độ ẩm",
+    "tl": "",
+    "subjects": [
+      "과학 3-4",
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "83455"
+  },
+  {
+    "term_ko": "이슬",
+    "definition_ko": "공기 중의 수증기가 기온이 내려가거나 찬 물체에 부딪혀서 한데 뭉치어 생긴 작은 물방울.",
+    "easy_ko": "",
+    "en": "dew",
+    "ja": "つゆ【露】",
+    "zh": "露，露水，露珠",
+    "vi": "sương",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "24868"
+  },
+  {
+    "term_ko": "안개",
+    "definition_ko": "땅 가까이에서 수증기가 뭉쳐 아주 작은 물방울들이 부옇게 떠 있는 현상.",
+    "easy_ko": "",
+    "en": "fog; mist; haze",
+    "ja": "きり【霧】",
+    "zh": "雾，雾气",
+    "vi": "sương mù",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "14777"
+  },
+  {
+    "term_ko": "구름",
+    "definition_ko": "공기 속의 작은 물방울이나 얼음 알갱이가 한데 뭉쳐 하늘에 떠 있는 것.",
+    "easy_ko": "",
+    "en": "cloud",
+    "ja": "くも【雲】",
+    "zh": "云，云彩",
+    "vi": "đám mây",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64487"
+  },
+  {
+    "term_ko": "비",
+    "definition_ko": "높은 곳에서 구름을 이루고 있던 수증기가 식어서 뭉쳐 떨어지는 물방울.",
+    "easy_ko": "",
+    "en": "rain",
+    "ja": "あめ【雨】",
+    "zh": "雨",
+    "vi": "hạt mưa",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "36681"
+  },
+  {
+    "term_ko": "눈",
+    "definition_ko": "사람이나 동물의 얼굴에 있으며 빛의 자극을 받아 물체를 볼 수 있는 감각 기관.",
+    "easy_ko": "",
+    "en": "eye",
+    "ja": "め【目・眼】",
+    "zh": "眼睛",
+    "vi": "mắt",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "72704"
+  },
+  {
+    "term_ko": "바람",
+    "definition_ko": "기압의 변화 또는 사람이나 기계에 의해 일어나는 공기의 움직임.",
+    "easy_ko": "",
+    "en": "wind",
+    "ja": "かぜ【風】",
+    "zh": "风",
+    "vi": "gió",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "85627"
+  },
+  {
+    "term_ko": "태양",
+    "definition_ko": "태양계의 중심에 있으며 온도가 매우 높고 스스로 빛을 내는 항성.",
+    "easy_ko": "",
+    "en": "sun",
+    "ja": "たいよう【太陽】",
+    "zh": "太阳，希望",
+    "vi": "thái dương, mặt trời",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "72179"
+  },
+  {
+    "term_ko": "달",
+    "definition_ko": "밤이 되면 하늘에 뜨는 동그랗고 밝은 빛이 나는 천체.",
+    "easy_ko": "",
+    "en": "moon",
+    "ja": "つき【月】",
+    "zh": "月，月亮，月球",
+    "vi": "trăng, mặt trăng, vầng trăng",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62266"
+  },
+  {
+    "term_ko": "지구",
+    "definition_ko": "현재 인류가 살고 있는, 태양계의 셋째 행성.",
+    "easy_ko": "",
+    "en": "Earth",
+    "ja": "ちきゅう【地球】",
+    "zh": "地球",
+    "vi": "địa cầu, trái đất",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62416"
+  },
+  {
+    "term_ko": "별자리",
+    "definition_ko": "여러 개의 별들이 이어진 모습에 그와 비슷하게 생긴 동물, 물건, 신화 속 인물의 이름을 붙인 것.",
+    "easy_ko": "",
+    "en": "constellation",
+    "ja": "せいざ【星座】",
+    "zh": "星座，星宿",
+    "vi": "chòm sao",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "58955"
+  },
+  {
+    "term_ko": "계절",
+    "definition_ko": "일 년을 자연 현상에 따라 봄, 여름, 가을, 겨울로 나눈 것의 한 때.",
+    "easy_ko": "",
+    "en": "season",
+    "ja": "きせつ【季節】",
+    "zh": "季节，季",
+    "vi": "mùa",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "22537"
+  },
+  {
+    "term_ko": "행성",
+    "definition_ko": "중심 별이 강하게 끌어당기는 힘 때문에 타원형의 궤도를 그리며 중심 별의 주위를 도는 천체.",
+    "easy_ko": "",
+    "en": "planet",
+    "ja": "わくせい【惑星】",
+    "zh": "行星",
+    "vi": "hành tinh",
+    "tl": "",
+    "subjects": [
+      "과학 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "85038"
+  },
+  {
+    "term_ko": "세포",
+    "definition_ko": "생물체를 이루는 기본 단위.",
+    "easy_ko": "",
+    "en": "cell",
+    "ja": "さいぼう【細胞】",
+    "zh": "细胞",
+    "vi": "tế bào",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74889"
+  },
+  {
+    "term_ko": "조직",
+    "definition_ko": "어떤 목표를 이루기 위해 여럿이 모여 체계 있는 집단을 이룸. 또는 그 집단.",
+    "easy_ko": "",
+    "en": "organization",
+    "ja": "そしき【組織】",
+    "zh": "组织",
+    "vi": "việc tổ chức, tổ chức",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "24603"
+  },
+  {
+    "term_ko": "기관",
+    "definition_ko": "화력, 수력, 전력 등의 에너지를 기계적 에너지로 바꾸는 기계 장치.",
+    "easy_ko": "",
+    "en": "engine",
+    "ja": "きかん【機関】",
+    "zh": "引擎，发动机",
+    "vi": "động cơ, máy",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "32482"
+  },
+  {
+    "term_ko": "기관계",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "호흡",
+    "definition_ko": "숨을 쉼. 또는 그 숨.",
+    "easy_ko": "",
+    "en": "breathing; breath",
+    "ja": "こきゅう【呼吸】",
+    "zh": "呼吸",
+    "vi": "sự hô hấp",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "88332"
+  },
+  {
+    "term_ko": "소화",
+    "definition_ko": "먹은 음식물을 뱃속에서 분해하여 영양분으로 흡수함.",
+    "easy_ko": "",
+    "en": "digestion",
+    "ja": "しょうか【消化】",
+    "zh": "消化",
+    "vi": "sự tiêu hóa",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15298"
+  },
+  {
+    "term_ko": "순환",
+    "definition_ko": "어떤 행동이나 현상이 하나의 과정을 지나 다시 처음 자리로 돌아오는 것을 되풀이함.",
+    "easy_ko": "",
+    "en": "rotation; cycle",
+    "ja": "じゅんかん【循環】",
+    "zh": "循环",
+    "vi": "sự tuần hoàn",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "65149"
+  },
+  {
+    "term_ko": "배설",
+    "definition_ko": "생물체가 영양소를 섭취한 후 생긴 노폐물을 몸 밖으로 내보내는 일.",
+    "easy_ko": "",
+    "en": "excretion; evacuation",
+    "ja": "はいせつ【排泄】。はいしゅつ【排出】",
+    "zh": "排泄",
+    "vi": "sự bài tiết",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59192"
+  },
+  {
+    "term_ko": "생태계",
+    "definition_ko": "일정한 지역이나 환경에서 여러 생물들이 서로 적응하고 관계를 맺으며 어우러진 자연의 세계.",
+    "easy_ko": "",
+    "en": "ecosystem",
+    "ja": "せいたいけい【生態系】",
+    "zh": "生态系统",
+    "vi": "hệ sinh thái, giới sinh thái",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62686"
+  },
+  {
+    "term_ko": "먹이사슬",
+    "definition_ko": "자연 생태계에서 생물들끼리 먹고 먹히는 것을 중심으로 형성된 관계.",
+    "easy_ko": "",
+    "en": "food chain",
+    "ja": "しょくもつれんさ【食物連鎖】",
+    "zh": "食物链",
+    "vi": "chuỗi thức ăn",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "54818"
+  },
+  {
+    "term_ko": "먹이그물",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "생산자",
+    "definition_ko": "생산하는 사람.",
+    "easy_ko": "",
+    "en": "producer; manufacturer",
+    "ja": "せいさんしゃ【生産者】",
+    "zh": "制造商，生产厂家，生产者",
+    "vi": "nhà sản xuất, người sản xuất",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "16590"
+  },
+  {
+    "term_ko": "소비자",
+    "definition_ko": "생산자가 만든 물건이나 서비스 등을 돈을 주고 사는 사람.",
+    "easy_ko": "",
+    "en": "consumer",
+    "ja": "しょうひしゃ【消費者】。コンシューマー",
+    "zh": "消费者",
+    "vi": "người tiêu dùng",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "28821"
+  },
+  {
+    "term_ko": "분해자",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "적응",
+    "definition_ko": "어떠한 조건이나 환경에 익숙해지거나 알맞게 변화함.",
+    "easy_ko": "",
+    "en": "adaptation; adjustment",
+    "ja": "てきおう【適応】",
+    "zh": "适应",
+    "vi": "sự thích ứng",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "25050"
+  },
+  {
+    "term_ko": "환경오염",
+    "definition_ko": "자원 개발로 인해 자연이 파괴되거나 자동차 배기가스, 공장 폐수 등으로 환경이 더럽혀지는 일.",
+    "easy_ko": "",
+    "en": "environmental pollution",
+    "ja": "かんきょうおせん【環境汚染】",
+    "zh": "环境污染",
+    "vi": "sự ô nhiễm môi trường",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "87276"
+  },
+  {
+    "term_ko": "기압",
+    "definition_ko": "공기의 무게로 인해 생기는 압력.",
+    "easy_ko": "",
+    "en": "air pressure",
+    "ja": "きあつ【気圧】。くうあつ【空圧】",
+    "zh": "气压",
+    "vi": "khí áp, áp suất khí quyển",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "23736"
+  },
+  {
+    "term_ko": "기단",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "전선",
+    "definition_ko": "직접 뛰어든 활동 분야.",
+    "easy_ko": "",
+    "en": "life; activity",
+    "ja": "ぜんせん【前線】",
+    "zh": "前线，第一线",
+    "vi": "mặt trận",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74028"
+  },
+  {
+    "term_ko": "태풍",
+    "definition_ko": "주로 7~9월에 태평양에서 한국, 일본 등 아시아 대륙 동부로 불어오는, 거센 폭풍우를 동반한 바람.",
+    "easy_ko": "",
+    "en": "typhoon",
+    "ja": "たいふう【台風】",
+    "zh": "台风",
+    "vi": "bão",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "72181"
+  },
+  {
+    "term_ko": "전기",
+    "definition_ko": "빛이나 열을 내거나 기계 등을 움직이는 데 쓰이는 에너지.",
+    "easy_ko": "",
+    "en": "electricity",
+    "ja": "でんき【電気】",
+    "zh": "电，电气",
+    "vi": "điện",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70829"
+  },
+  {
+    "term_ko": "전류",
+    "definition_ko": "전기가 흐르는 현상이나 그 정도.",
+    "easy_ko": "",
+    "en": "electric current",
+    "ja": "でんりゅう【電流】",
+    "zh": "电流",
+    "vi": "điện lưu",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "76266"
+  },
+  {
+    "term_ko": "전압",
+    "definition_ko": "전기장이나 도체 내에 있는 두 점 사이의 전기 에너지의 차.",
+    "easy_ko": "",
+    "en": "voltage",
+    "ja": "でんあつ【電圧】",
+    "zh": "电压",
+    "vi": "điện áp",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74720"
+  },
+  {
+    "term_ko": "저항",
+    "definition_ko": "어떤 힘이나 조건에 굽히지 않고 거역하거나 견딤.",
+    "easy_ko": "",
+    "en": "resistance",
+    "ja": "ていこう【抵抗】",
+    "zh": "抵抗",
+    "vi": "sức chống cự, sức kháng cự",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74672"
+  },
+  {
+    "term_ko": "직렬",
+    "definition_ko": "전기 회로에서 전기나 전지 등을 일렬로 연결하는 것.",
+    "easy_ko": "",
+    "en": "series circuit",
+    "ja": "ちょくれつ【直列】。ちょくれつせつぞく【直列接続】。シリーズ。れんけつ【連結】",
+    "zh": "串联",
+    "vi": "sự nối tiếp, sự nối trực tiếp, sự đấu trực tiếp",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "83673"
+  },
+  {
+    "term_ko": "병렬",
+    "definition_ko": "나란히 늘어섬. 또는 나란히 늘어놓음.",
+    "easy_ko": "",
+    "en": "being parallel; being in a row",
+    "ja": "へいれつ【並列】",
+    "zh": "并列",
+    "vi": "sự song song, sự xếp song song",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59021"
+  },
+  {
+    "term_ko": "전지",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "스위치",
+    "definition_ko": "전기 회로를 이었다 끊었다 하는 장치.",
+    "easy_ko": "",
+    "en": "switch",
+    "ja": "スイッチ。かいへいき【開閉器】",
+    "zh": "开关",
+    "vi": "công tắc điện",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15829"
+  },
+  {
+    "term_ko": "렌즈",
+    "definition_ko": "유리나 수정을 볼록하거나 오목하게 깎아서 물체가 크거나 작게 보이도록 만든 물건.",
+    "easy_ko": "",
+    "en": "lens",
+    "ja": "レンズ",
+    "zh": "镜头，透镜",
+    "vi": "thấu kính",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "52537"
+  },
+  {
+    "term_ko": "볼록렌즈",
+    "definition_ko": "가운데가 가장자리보다 두꺼워 볼록한 렌즈.",
+    "easy_ko": "",
+    "en": "convex lens",
+    "ja": "とつレンズ【凸レンズ】",
+    "zh": "凸透镜",
+    "vi": "thấu kính lồi",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59618"
+  },
+  {
+    "term_ko": "오목렌즈",
+    "definition_ko": "가운데가 얇고 가장자리로 갈수록 두꺼워 오목한 렌즈.",
+    "easy_ko": "",
+    "en": "concave lens",
+    "ja": "おうレンズ【凹レンズ】",
+    "zh": "凹透镜",
+    "vi": "thấu kính lõm",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "92453"
+  },
+  {
+    "term_ko": "프리즘",
+    "definition_ko": "빛을 굴절시키거나 분산시킬 때 쓰는, 유리 또는 수정 등으로 만든 세모 기둥 모양의 기구.",
+    "easy_ko": "",
+    "en": "prism",
+    "ja": "プリズム",
+    "zh": "棱镜，三棱镜",
+    "vi": "lăng kính, lăng trụ kính",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "84505"
+  },
+  {
+    "term_ko": "무지개",
+    "definition_ko": "비가 그쳤을 때, 해의 반대쪽 하늘에 반원 모양으로 나타나는 일곱 가지 색깔의 빛줄기.",
+    "easy_ko": "",
+    "en": "rainbow",
+    "ja": "にじ【虹】",
+    "zh": "彩虹",
+    "vi": "cầu vồng",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15401"
+  },
+  {
+    "term_ko": "산",
+    "definition_ko": "평평한 땅보다 훨씬 높이 솟아 있고 대개 나무, 풀, 바위 등이 있는 땅.",
+    "easy_ko": "",
+    "en": "mountain",
+    "ja": "やま【山】",
+    "zh": "山",
+    "vi": "núi",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "20954"
+  },
+  {
+    "term_ko": "염기",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "산성",
+    "definition_ko": "물질이 가지고 있는 산으로서의 성질.",
+    "easy_ko": "",
+    "en": "acidity",
+    "ja": "さんせい【酸性】",
+    "zh": "酸性",
+    "vi": "tính axít",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61834"
+  },
+  {
+    "term_ko": "염기성",
+    "definition_ko": "산의 작용을 중화하고 산과 작용하여 염과 물만을 만드는 성질.",
+    "easy_ko": "",
+    "en": "basicity; alkalinity",
+    "ja": "えんきせい【塩基性】",
+    "zh": "碱性",
+    "vi": "tính kiềm",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "91979"
+  },
+  {
+    "term_ko": "중성",
+    "definition_ko": "서로 반대되는 두 성질 사이의 중간인 성질.",
+    "easy_ko": "",
+    "en": "being neutral",
+    "ja": "ちゅうせい【中性】",
+    "zh": "中性",
+    "vi": "trung tính",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "77676"
+  },
+  {
+    "term_ko": "지시약",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "연소",
+    "definition_ko": "물질이 산소와 결합하여 열과 빛을 내는 현상.",
+    "easy_ko": "",
+    "en": "combustion",
+    "ja": "ねんしょう【燃焼】",
+    "zh": "燃烧",
+    "vi": "sự cháy, sự bốc cháy",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "20682"
+  },
+  {
+    "term_ko": "소화기",
+    "definition_ko": "음식물을 소화하고 흡수하는 기관.",
+    "easy_ko": "",
+    "en": "digestive system",
+    "ja": "しょうかき【消化器】。しょうかきかん【消化器官】",
+    "zh": "消化器官",
+    "vi": "cơ quan tiêu hóa",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "63984"
+  },
+  {
+    "term_ko": "산소",
+    "definition_ko": "(높이는 말로) 사람의 무덤.",
+    "easy_ko": "",
+    "en": "grave; tomb",
+    "ja": "おはか【お墓】。ふんぼ【墳墓】",
+    "zh": "坟墓",
+    "vi": "mộ phần",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61839"
+  },
+  {
+    "term_ko": "이산화탄소",
+    "definition_ko": "탄소가 연소를 할 때 생기는 빛깔과 냄새가 없는 기체.",
+    "easy_ko": "",
+    "en": "carbon dioxide",
+    "ja": "にさんかたんそ【二酸化炭素】",
+    "zh": "二氧化碳",
+    "vi": "cacbon đioxyt",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71994"
+  },
+  {
+    "term_ko": "태양계",
+    "definition_ko": "태양과 그것을 중심으로 돌고 있는 지구를 비롯한 천체의 집합.",
+    "easy_ko": "",
+    "en": "solar system",
+    "ja": "たいようけい【太陽系】",
+    "zh": "太阳系",
+    "vi": "thái dương hệ, hệ mặt trời",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "80569"
+  },
+  {
+    "term_ko": "위성",
+    "definition_ko": "행성의 주위를 도는 우주의 천체.",
+    "easy_ko": "",
+    "en": "satellite",
+    "ja": "えいせい【衛星】",
+    "zh": "卫星",
+    "vi": "vệ tinh",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "26748"
+  },
+  {
+    "term_ko": "항성",
+    "definition_ko": "보이는 위치를 바꾸지 아니하고 별자리를 구성하며, 스스로 빛을 내는 별.",
+    "easy_ko": "",
+    "en": "fixed star",
+    "ja": "こうせい【恒星】",
+    "zh": "恒星",
+    "vi": "định tinh",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "85896"
+  },
+  {
+    "term_ko": "은하",
+    "definition_ko": "흰 구름 모양으로 길게 보이는 수많은 천체의 무리.",
+    "easy_ko": "",
+    "en": "galaxy",
+    "ja": "ぎんが【銀河】。まのがわ【天の川】。てんかん【天漢】",
+    "zh": "银河",
+    "vi": "dải ngân hà",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71816"
+  },
+  {
+    "term_ko": "별",
+    "definition_ko": "밤하늘에 반짝이는 달이 아닌 천체.",
+    "easy_ko": "",
+    "en": "star",
+    "ja": "ほし【星】",
+    "zh": "星星",
+    "vi": "sao, ông sao, ngôi sao",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "58366"
+  },
+  {
+    "term_ko": "속력",
+    "definition_ko": "물체가 움직이거나 일이 진행되는 빠르기의 크기. 또는 그런 빠르기를 이루는 힘.",
+    "easy_ko": "",
+    "en": "velocity; speed",
+    "ja": "そくりょく【速力】。スピード",
+    "zh": "速度",
+    "vi": "tốc lực",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64225"
+  },
+  {
+    "term_ko": "속도",
+    "definition_ko": "물체가 움직이거나 일이 진행되는 빠르기.",
+    "easy_ko": "",
+    "en": "speed",
+    "ja": "そくど【速度】。スピード",
+    "zh": "速度",
+    "vi": "tốc độ",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64215"
+  },
+  {
+    "term_ko": "힘",
+    "definition_ko": "사람이나 동물이 스스로 움직이거나 다른 사물을 움직이게 하는 근육 작용.",
+    "easy_ko": "",
+    "en": "strength; power",
+    "ja": "ちから【力】。たいりょく【体力】",
+    "zh": "力量，力气",
+    "vi": "sức, sức lực",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "28633"
+  },
+  {
+    "term_ko": "중력",
+    "definition_ko": "지구가 지구 위의 물체를 끌어당기는 힘.",
+    "easy_ko": "",
+    "en": "gravity",
+    "ja": "じゅうりょく【重力】",
+    "zh": "重力",
+    "vi": "trọng lực",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "76596"
+  },
+  {
+    "term_ko": "마찰력",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "과학 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "지도",
+    "definition_ko": "지구 표면의 전부나 일부를 일정한 비율로 줄여 약속된 기호를 사용하여 평면에 그린 그림.",
+    "easy_ko": "",
+    "en": "map",
+    "ja": "ちず【地図】",
+    "zh": "地图",
+    "vi": "bản đồ",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "57319"
+  },
+  {
+    "term_ko": "방위",
+    "definition_ko": "동서남북을 기준으로 한 어떤 쪽의 위치.",
+    "easy_ko": "",
+    "en": "bearing; point of the compass",
+    "ja": "ほうい【方位】",
+    "zh": "方位",
+    "vi": "phương vị",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "58117"
+  },
+  {
+    "term_ko": "축척",
+    "definition_ko": "지도를 그릴 때 실제 거리를 줄인 비율.",
+    "easy_ko": "",
+    "en": "scale; reduced scale",
+    "ja": "しゅくしゃく【縮尺】",
+    "zh": "比例尺",
+    "vi": "tỉ lệ rút gọn",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "82315"
+  },
+  {
+    "term_ko": "등고선",
+    "definition_ko": "지도에서 높이가 같은 지점을 연결해서 그린 곡선.",
+    "easy_ko": "",
+    "en": "contour",
+    "ja": "とうこうせん【等高線】",
+    "zh": "等高线",
+    "vi": "đường cùng cao độ (trên bản đồ)",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "50003"
+  },
+  {
+    "term_ko": "기호",
+    "definition_ko": "어떤 뜻을 나타내기 위해 쓰는 여러 가지 표시.",
+    "easy_ko": "",
+    "en": "mark; sign",
+    "ja": "きごう【記号】。ふごう【符号】。ひょうしき【標識】",
+    "zh": "记号，符号",
+    "vi": "ký hiệu",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "32531"
+  },
+  {
+    "term_ko": "범례",
+    "definition_ko": "책의 첫머리에 그 책을 읽는 데 필요한 참고 사항을 설명한 글.",
+    "easy_ko": "",
+    "en": "introductory remarks; explanatory notes",
+    "ja": "はんれい【凡例】",
+    "zh": "凡例",
+    "vi": "lời hướng dẫn, lời nói đầu",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59044"
+  },
+  {
+    "term_ko": "시장",
+    "definition_ko": "여러 가지 상품을 사고파는 곳.",
+    "easy_ko": "",
+    "en": "market",
+    "ja": "いちば【市場】。マーケット",
+    "zh": "市场",
+    "vi": "chợ",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "17193"
+  },
+  {
+    "term_ko": "생산",
+    "definition_ko": "사람이 생활하는 데 필요한 물건을 만듦.",
+    "easy_ko": "",
+    "en": "production",
+    "ja": "せいさん【生産】",
+    "zh": "生产",
+    "vi": "việc sản xuất",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "16587"
+  },
+  {
+    "term_ko": "소비",
+    "definition_ko": "돈, 물건, 시간, 노력, 힘 등을 써서 없앰.",
+    "easy_ko": "",
+    "en": "consumption",
+    "ja": "しょうひ【消費】",
+    "zh": "消费，消耗",
+    "vi": "sự tiêu dùng, sự tiêu xài",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "49238"
+  },
+  {
+    "term_ko": "교환",
+    "definition_ko": "무엇을 다른 것으로 바꿈.",
+    "easy_ko": "",
+    "en": "exchange",
+    "ja": "こうかん【交換】",
+    "zh": "调换，交换",
+    "vi": "sự thay đổi, sự hoán đổi",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "37628"
+  },
+  {
+    "term_ko": "화폐",
+    "definition_ko": "상품을 사고팔거나 다른 상품과 교환할 때 상품의 가치를 매기는 기준이 되며, 상품과 교환할 수 있는 수단이 되는 것.",
+    "easy_ko": "",
+    "en": "currency; money",
+    "ja": "かへい【貨幣】",
+    "zh": "货币",
+    "vi": "tiền tệ, đồng tiền",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "87697"
+  },
+  {
+    "term_ko": "저축",
+    "definition_ko": "돈이나 재물 등을 아껴 써서 모아 둠.",
+    "easy_ko": "",
+    "en": "saving",
+    "ja": "ちょちく【貯蓄】",
+    "zh": "储蓄，积蓄，存款",
+    "vi": "sự tiết kiệm",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71229"
+  },
+  {
+    "term_ko": "은행",
+    "definition_ko": "사람들의 돈을 맡아 관리하고 필요한 사람에게 돈을 빌려주는 기관.",
+    "easy_ko": "",
+    "en": "bank",
+    "ja": "ぎんこう【銀行】",
+    "zh": "银行",
+    "vi": "ngân hàng",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71109"
+  },
+  {
+    "term_ko": "가격",
+    "definition_ko": "물건의 가치를 돈으로 나타낸 것.",
+    "easy_ko": "",
+    "en": "price",
+    "ja": "かかく【価格】。ねだん【値段】。ねうち【値打ち】。プライス",
+    "zh": "价格，价钱",
+    "vi": "giá cả, giá",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62450"
+  },
+  {
+    "term_ko": "공공기관",
+    "definition_ko": "법무부, 경찰청 등 공적인 행정 업무를 맡아 보는 기관.",
+    "easy_ko": "",
+    "en": "public institution",
+    "ja": "こうきょうきかん【公共機関】。こうてききかん【公的機関】",
+    "zh": "公共机关，公共机构",
+    "vi": "cơ quan công quyền",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "19860"
+  },
+  {
+    "term_ko": "시청",
+    "definition_ko": "시의 행정 사무를 맡아보는 기관.",
+    "easy_ko": "",
+    "en": "city hall",
+    "ja": "しやくしょ【市役所】",
+    "zh": "市政府，市厅",
+    "vi": "thị chính, ủy ban nhân dân thành phố",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "65312"
+  },
+  {
+    "term_ko": "도청",
+    "definition_ko": "남이 하는 이야기, 전화 통화 내용 등을 몰래 엿듣거나 녹음하는 일.",
+    "easy_ko": "",
+    "en": "tap",
+    "ja": "とうちょう【盗聴】。ぬすみぎき【盗み聞き】",
+    "zh": "窃听",
+    "vi": "sự nghe trộm",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "90698"
+  },
+  {
+    "term_ko": "경찰서",
+    "definition_ko": "한 지역의 경찰 일을 맡아보는 관청.",
+    "easy_ko": "",
+    "en": "police station",
+    "ja": "けいさつしょ【警察署】",
+    "zh": "警察署，警察局，公安局",
+    "vi": "đồn cảnh sát",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "25960"
+  },
+  {
+    "term_ko": "소방서",
+    "definition_ko": "화재를 막거나 진압하는 일을 하는 기관.",
+    "easy_ko": "",
+    "en": "fire station",
+    "ja": "しょうぼうしょ【消防署】",
+    "zh": "消防站",
+    "vi": "trung tâm phòng cháy chữa cháy",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "63744"
+  },
+  {
+    "term_ko": "우체국",
+    "definition_ko": "편지, 소포를 보내는 일이나 예금 관리 등의 일을 하는 공공 기관.",
+    "easy_ko": "",
+    "en": "post office",
+    "ja": "ゆうびんきょく【郵便局】",
+    "zh": "邮局",
+    "vi": "bưu điện",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "31486"
+  },
+  {
+    "term_ko": "도서관",
+    "definition_ko": "책과 자료 등을 많이 모아 두고 사람들이 빌려 읽거나 공부를 할 수 있게 마련한 시설.",
+    "easy_ko": "",
+    "en": "library",
+    "ja": "としょかん【図書館】",
+    "zh": "图书馆",
+    "vi": "thư viện",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "40295"
+  },
+  {
+    "term_ko": "병원",
+    "definition_ko": "시설을 갖추고 의사와 간호사가 병든 사람을 치료해 주는 곳.",
+    "easy_ko": "",
+    "en": "hospital; clinic",
+    "ja": "びょういん【病院】",
+    "zh": "医院",
+    "vi": "bệnh viện",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62271"
+  },
+  {
+    "term_ko": "문화재",
+    "definition_ko": "문화 활동으로 창조된 가치가 뛰어난 사물.",
+    "easy_ko": "",
+    "en": "cultural asset; cultural property",
+    "ja": "ぶんかざい【文化財】",
+    "zh": "文化资产",
+    "vi": "di sản văn hóa, tài sản văn hóa",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15413"
+  },
+  {
+    "term_ko": "전통",
+    "definition_ko": "어떤 집단이나 공동체에서 지난 시대부터 전해 내려오면서 고유하게 만들어진 사상, 관습, 행동 등의 양식.",
+    "easy_ko": "",
+    "en": "tradition; heritage",
+    "ja": "でんとう【伝統】",
+    "zh": "传统",
+    "vi": "truyền thống",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70841"
+  },
+  {
+    "term_ko": "풍습",
+    "definition_ko": "풍속과 습관.",
+    "easy_ko": "",
+    "en": "manners and customs",
+    "ja": "ふうしゅう【風習】。しきたり【仕来り】",
+    "zh": "风习",
+    "vi": "phong tục tập quán",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "84419"
+  },
+  {
+    "term_ko": "명절",
+    "definition_ko": "설이나 추석 등 해마다 일정하게 돌아와 전통적으로 즐기거나 기념하는 날.",
+    "easy_ko": "",
+    "en": "national holiday",
+    "ja": "しゅくさいじつ【祝祭日】。せっく【節句】",
+    "zh": "节日",
+    "vi": "ngày lễ tết, ngày tết",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "55441"
+  },
+  {
+    "term_ko": "한복",
+    "definition_ko": "한국의 전통 의복.",
+    "easy_ko": "",
+    "en": "hanbok",
+    "ja": "ハンボク【韓服】",
+    "zh": "韩服",
+    "vi": "Hanbok; Hàn phục",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "48061"
+  },
+  {
+    "term_ko": "한옥",
+    "definition_ko": "우리나라 고유의 형식으로 지은 집.",
+    "easy_ko": "",
+    "en": "hanok",
+    "ja": "ハノク【韓屋】",
+    "zh": "韩屋",
+    "vi": "Hanok; nhà kiểu truyền thống Hàn Quốc",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "85586"
+  },
+  {
+    "term_ko": "김치",
+    "definition_ko": "배추나 무 등의 채소를 소금에 절인 후 양념에 버무려 발효시켜서 만든 음식.",
+    "easy_ko": "",
+    "en": "kimchi",
+    "ja": "キムチ",
+    "zh": "辛奇",
+    "vi": "kimchi",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "28818"
+  },
+  {
+    "term_ko": "도시",
+    "definition_ko": "정치, 경제, 문화의 중심이 되고 사람이 많이 사는 지역.",
+    "easy_ko": "",
+    "en": "city",
+    "ja": "とし【都市】",
+    "zh": "都市，城市",
+    "vi": "thành phố, đô thị",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70743"
+  },
+  {
+    "term_ko": "농촌",
+    "definition_ko": "농사를 짓는 사람들이 주로 모여 사는 마을.",
+    "easy_ko": "",
+    "en": "farming village; rural area",
+    "ja": "のうそん【農村】",
+    "zh": "农村",
+    "vi": "nông thôn, làng quê",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "83179"
+  },
+  {
+    "term_ko": "어촌",
+    "definition_ko": "물고기를 잡아 생활하는 사람들이 모여 사는 바닷가 마을.",
+    "easy_ko": "",
+    "en": "fishing village",
+    "ja": "ぎょそん【漁村】",
+    "zh": "渔村",
+    "vi": "làng chài",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "67151"
+  },
+  {
+    "term_ko": "산촌",
+    "definition_ko": "산속에 있는 마을.",
+    "easy_ko": "",
+    "en": "mountain village",
+    "ja": "さんそん【山村】",
+    "zh": "山村",
+    "vi": "làng miền núi, làng ở vùng cao",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61813"
+  },
+  {
+    "term_ko": "마을",
+    "definition_ko": "여러 집이 모여 있는 곳.",
+    "easy_ko": "",
+    "en": "town",
+    "ja": "むら【村】",
+    "zh": "村子，村庄",
+    "vi": "làng",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61099"
+  },
+  {
+    "term_ko": "고장",
+    "definition_ko": "기계나 장치 등이 제대로 작동하지 않음.",
+    "easy_ko": "",
+    "en": "defect; something wrong",
+    "ja": "こしょう【故障】",
+    "zh": "故障",
+    "vi": "sự hư hỏng",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "18856"
+  },
+  {
+    "term_ko": "교통",
+    "definition_ko": "자동차, 기차, 배, 비행기 등의 탈것을 이용하여 사람이나 짐이 오고 가는 일.",
+    "easy_ko": "",
+    "en": "transportation; traffic",
+    "ja": "こうつう【交通】。つうこう【通行】",
+    "zh": "交通",
+    "vi": "giao thông",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64469"
+  },
+  {
+    "term_ko": "통신",
+    "definition_ko": "우편이나 전신, 전화 등으로 정보나 소식 등을 전달함.",
+    "easy_ko": "",
+    "en": "communication; correspondence",
+    "ja": "つうしん【通信】",
+    "zh": "通信，通讯",
+    "vi": "viễn thông",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71479"
+  },
+  {
+    "term_ko": "정보",
+    "definition_ko": "어떤 사실이나 현상을 관찰하거나 측정하여 모은 자료를 정리한 지식. 또는 그 자료.",
+    "easy_ko": "",
+    "en": "information; data",
+    "ja": "じょうほう【情報】",
+    "zh": "信息",
+    "vi": "thông tin",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70878"
+  },
+  {
+    "term_ko": "인터넷",
+    "definition_ko": "전 세계의 컴퓨터가 서로 정보를 교환할 수 있도록 연결된 하나의 거대한 컴퓨터 통신망.",
+    "easy_ko": "",
+    "en": "Internet",
+    "ja": "インターネット",
+    "zh": "互联网",
+    "vi": "mạng internet",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70774"
+  },
+  {
+    "term_ko": "신호등",
+    "definition_ko": "도로에서 색이 있는 불빛으로 자동차나 사람의 통행을 지시하는 장치.",
+    "easy_ko": "",
+    "en": "traffic light; traffic signal",
+    "ja": "しんごうとう【信号灯】",
+    "zh": "交通信号灯，红绿灯",
+    "vi": "đèn tín hiệu giao thông, đèn xanh đèn đỏ",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "66279"
+  },
+  {
+    "term_ko": "환경",
+    "definition_ko": "생물이 살아가는 데 영향을 주는 자연 상태나 조건.",
+    "easy_ko": "",
+    "en": "environment",
+    "ja": "かんきょう【環境】",
+    "zh": "环境",
+    "vi": "môi trường",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "49093"
+  },
+  {
+    "term_ko": "오염",
+    "definition_ko": "더러운 상태가 됨.",
+    "easy_ko": "",
+    "en": "pollution; contamination",
+    "ja": "おせん【汚染】",
+    "zh": "污染",
+    "vi": "sự ô nhiễm",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "21874"
+  },
+  {
+    "term_ko": "재활용",
+    "definition_ko": "쓰고 버리는 물건을 다른 데에 다시 사용하거나 사용할 수 있게 함.",
+    "easy_ko": "",
+    "en": "recycling",
+    "ja": "さいりよう【再利用】。さいしよう【再使用】。リサイクル。リユース",
+    "zh": "再利用，可回收",
+    "vi": "việc tái sử dụng",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "24985"
+  },
+  {
+    "term_ko": "분리수거",
+    "definition_ko": "쓰레기를 종류별로 따로 모아서 거두어 감.",
+    "easy_ko": "",
+    "en": "garbage recycling",
+    "ja": "ぶんべつしゅうしゅう【分別収集】",
+    "zh": "分类回收",
+    "vi": "việc phân loại thu gom (rác thải)",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "59456"
+  },
+  {
+    "term_ko": "쓰레기",
+    "definition_ko": "쓸어 낸 먼지, 또는 못 쓰게 되어 내다 버릴 물건이나 내다 버린 물건.",
+    "easy_ko": "",
+    "en": "rubbish; trash; garbage",
+    "ja": "ごみ",
+    "zh": "垃圾",
+    "vi": "rác",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "29590"
+  },
+  {
+    "term_ko": "인권",
+    "definition_ko": "인간으로서 당연히 가지는 기본적인 권리.",
+    "easy_ko": "",
+    "en": "human rights",
+    "ja": "じんけん【人権】",
+    "zh": "人权",
+    "vi": "nhân quyền",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "72915"
+  },
+  {
+    "term_ko": "평등",
+    "definition_ko": "권리, 의무, 자격 등이 차별 없이 고르고 똑같음.",
+    "easy_ko": "",
+    "en": "equality",
+    "ja": "びょうどう【平等】",
+    "zh": "平等",
+    "vi": "sự bình đẳng",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "88184"
+  },
+  {
+    "term_ko": "차별",
+    "definition_ko": "둘 이상을 차등을 두어 구별함.",
+    "easy_ko": "",
+    "en": "discrimination; distinction",
+    "ja": "さべつ【差別】",
+    "zh": "差别，不平等，歧视",
+    "vi": "sự phân biệt, sự kì thị",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "37243"
+  },
+  {
+    "term_ko": "법",
+    "definition_ko": "모든 국민이 반드시 지켜야 하는, 나라에서 만든 명령이나 규칙.",
+    "easy_ko": "",
+    "en": "law; act",
+    "ja": "ほう【法】。ほうりつ【法律】。ほうき【法規】",
+    "zh": "法律",
+    "vi": "luật, pháp luật",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62406"
+  },
+  {
+    "term_ko": "규칙",
+    "definition_ko": "여러 사람이 지키도록 정해 놓은 법칙.",
+    "easy_ko": "",
+    "en": "rule",
+    "ja": "きそく【規則】",
+    "zh": "规则，规定，条例",
+    "vi": "quy tắc",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "35269"
+  },
+  {
+    "term_ko": "민주주의",
+    "definition_ko": "주권이 국민에게 있고 국민을 위한 정치를 지향하는 사상.",
+    "easy_ko": "",
+    "en": "democracy",
+    "ja": "みんしゅしゅぎ【民主主義】",
+    "zh": "民主主义",
+    "vi": "chủ nghĩa dân chủ",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15777"
+  },
+  {
+    "term_ko": "선거",
+    "definition_ko": "일정한 조직이나 집단에서 투표를 통해 대표자나 임원을 뽑음.",
+    "easy_ko": "",
+    "en": "election",
+    "ja": "せんきょ【選挙】",
+    "zh": "选举",
+    "vi": "cuộc tuyển cử, cuộc bầu cử",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "16617"
+  },
+  {
+    "term_ko": "투표",
+    "definition_ko": "선거를 하거나 어떤 일을 결정할 때 정해진 용지에 의견을 표시하여 내는 일.",
+    "easy_ko": "",
+    "en": "vote; ballot; poll",
+    "ja": "とうひょう【投票】",
+    "zh": "投票",
+    "vi": "sự bỏ phiếu",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "81630"
+  },
+  {
+    "term_ko": "국회",
+    "definition_ko": "국민의 대표인 국회 의원들로 이루어져, 법률을 만들고 행정부와 사법부를 감시하는 기능을 하는 국가 기관.",
+    "easy_ko": "",
+    "en": "National Assembly; Congress; Parliament",
+    "ja": "こっかい【国会】",
+    "zh": "国会",
+    "vi": "quốc hội",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "36856"
+  },
+  {
+    "term_ko": "대통령",
+    "definition_ko": "공화국 체제에서 국가를 대표하고 행정부 최고의 직위를 가진 사람, 또는 그 지위.",
+    "easy_ko": "",
+    "en": "president",
+    "ja": "だいとうりょう【大統領】",
+    "zh": "总统",
+    "vi": "tổng thống",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "55485"
+  },
+  {
+    "term_ko": "시민",
+    "definition_ko": "한 도시 안에 살고 있는 사람.",
+    "easy_ko": "",
+    "en": "urbanite; city dweller",
+    "ja": "しみん【市民】",
+    "zh": "市民",
+    "vi": "thị dân, dân thành thị",
+    "tl": "",
+    "subjects": [
+      "사회 3-4"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "71099"
+  },
+  {
+    "term_ko": "국토",
+    "definition_ko": "한 나라의 주권이 미치는 땅.",
+    "easy_ko": "",
+    "en": "national territory",
+    "ja": "こくど【国土】",
+    "zh": "国土",
+    "vi": "lãnh thổ",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "35464"
+  },
+  {
+    "term_ko": "영토",
+    "definition_ko": "한 국가의 땅.",
+    "easy_ko": "",
+    "en": "territory",
+    "ja": "りょうど【領土】。りょうち【領地】",
+    "zh": "领土",
+    "vi": "lãnh thổ",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "68464"
+  },
+  {
+    "term_ko": "영해",
+    "definition_ko": "한 나라의 주권이 미치는 바다의 영역.",
+    "easy_ko": "",
+    "en": "territorial waters",
+    "ja": "りょうかい【領海】",
+    "zh": "领海",
+    "vi": "lãnh hải",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "22005"
+  },
+  {
+    "term_ko": "영공",
+    "definition_ko": "한 나라의 주권이 미치는 하늘의 영역.",
+    "easy_ko": "",
+    "en": "airspace",
+    "ja": "りょうくう【領空】",
+    "zh": "领空",
+    "vi": "không phận, vùng trời",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "91700"
+  },
+  {
+    "term_ko": "위도",
+    "definition_ko": "지구 위의 위치를 가로로 나타내는 것.",
+    "easy_ko": "",
+    "en": "latitude",
+    "ja": "いど【緯度】",
+    "zh": "纬度",
+    "vi": "vĩ độ",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70128"
+  },
+  {
+    "term_ko": "경도",
+    "definition_ko": "지구 위의 위치를 세로로 나타내는 것.",
+    "easy_ko": "",
+    "en": "longitude",
+    "ja": "けいど【経度】。しごせん【子午線】。けいせん【経線】",
+    "zh": "经度",
+    "vi": "kinh độ",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "32366"
+  },
+  {
+    "term_ko": "기후",
+    "definition_ko": "기온, 비, 눈, 바람 등의 기상 상태.",
+    "easy_ko": "",
+    "en": "climate",
+    "ja": "きこう【気候】",
+    "zh": "气象",
+    "vi": "thời tiết",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "32535"
+  },
+  {
+    "term_ko": "지형",
+    "definition_ko": "땅의 생긴 모양.",
+    "easy_ko": "",
+    "en": "topography",
+    "ja": "ちけい【地形】",
+    "zh": "地形",
+    "vi": "địa hình",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "83771"
+  },
+  {
+    "term_ko": "산맥",
+    "definition_ko": "여러 산들이 길게 이어져 큰 줄기를 이루고 있는 것.",
+    "easy_ko": "",
+    "en": "mountain range; mountain belt",
+    "ja": "さんみゃく【山脈】",
+    "zh": "山脉",
+    "vi": "dãy núi",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61762"
+  },
+  {
+    "term_ko": "평야",
+    "definition_ko": "지표면이 평평하고 넓은 들.",
+    "easy_ko": "",
+    "en": "plain; open field",
+    "ja": "へいや【平野】",
+    "zh": "平野，原野",
+    "vi": "đồng bằng, vùng đồng bằng",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "81288"
+  },
+  {
+    "term_ko": "해안",
+    "definition_ko": "바다와 육지가 맞닿은 곳.",
+    "easy_ko": "",
+    "en": "coast; seaside; seashore",
+    "ja": "かいがん【海岸】。うみべ【海辺】",
+    "zh": "海岸，海边",
+    "vi": "bờ biển",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "85797"
+  },
+  {
+    "term_ko": "반도",
+    "definition_ko": "바다쪽으로 좁게 튀어나온 삼면이 바다로 둘러싸이고 한 면은 육지에 이어진 땅.",
+    "easy_ko": "",
+    "en": "peninsula",
+    "ja": "はんとう【半島】",
+    "zh": "半岛",
+    "vi": "bán đảo",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "56777"
+  },
+  {
+    "term_ko": "섬",
+    "definition_ko": "주위가 물로 둘러싸여 물 위에 떠 있는 것처럼 보이는 땅.",
+    "easy_ko": "",
+    "en": "island",
+    "ja": "しま【島】",
+    "zh": "岛，岛屿",
+    "vi": "đảo",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "65099"
+  },
+  {
+    "term_ko": "경제성장",
+    "definition_ko": "한 나라의 경제 규모와 능력이 점차 커지는 일.",
+    "easy_ko": "",
+    "en": "economic growth",
+    "ja": "けいざいせいちょう【経済成長】",
+    "zh": "经济增长，经济成长",
+    "vi": "sự tăng trưởng kinh tế",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "30604"
+  },
+  {
+    "term_ko": "산업화",
+    "definition_ko": "산업과 기술이 발달하여 생산이 기계화되고 인구의 도시 집중과 같은 특징을 가진 사회로 됨.",
+    "easy_ko": "",
+    "en": "industrialization",
+    "ja": "さんぎょうか【産業化】",
+    "zh": "工业化，产业化",
+    "vi": "công nghiệp hóa",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61976"
+  },
+  {
+    "term_ko": "도시화",
+    "definition_ko": "도시의 문화가 전해져서 도시가 아닌 곳이 도시처럼 됨. 또는 그렇게 만듦.",
+    "easy_ko": "",
+    "en": "urbanization",
+    "ja": "としか【都市化】",
+    "zh": "城市化，都市化",
+    "vi": "sự đô thị hóa",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "47609"
+  },
+  {
+    "term_ko": "무역",
+    "definition_ko": "지방과 지방 사이에 서로 물건을 사고파는 일.",
+    "easy_ko": "",
+    "en": "trade; commerce",
+    "ja": "ぼうえき【貿易】",
+    "zh": "国内贸易",
+    "vi": "thương mại, buôn bán",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64740"
+  },
+  {
+    "term_ko": "수출",
+    "definition_ko": "국내의 상품이나 기술을 외국으로 팔아 내보냄.",
+    "easy_ko": "",
+    "en": "export",
+    "ja": "ゆしゅつ【輸出】",
+    "zh": "出口，输出",
+    "vi": "sự xuất khẩu",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64804"
+  },
+  {
+    "term_ko": "수입",
+    "definition_ko": "어떤 일을 하여 돈이나 물건 등을 거두어들임. 또는 그 돈이나 물건.",
+    "easy_ko": "",
+    "en": "earning; income",
+    "ja": "しゅうにゅう【収入】。かせぎ【稼ぎ】",
+    "zh": "收入",
+    "vi": "thu nhập",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74197"
+  },
+  {
+    "term_ko": "산업",
+    "definition_ko": "농업, 공업, 임업, 수산업, 광업, 서비스업 등과 같이 물품이나 서비스 등을 만들어 내는 일.",
+    "easy_ko": "",
+    "en": "industry",
+    "ja": "さんぎょう【産業】",
+    "zh": "产业",
+    "vi": "công nghiệp",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15676"
+  },
+  {
+    "term_ko": "헌법",
+    "definition_ko": "국가를 통치하는 기본 원리이며 국민의 기본권을 보장하고, 다른 것으로 대체할 수 없는 최고 법규.",
+    "easy_ko": "",
+    "en": "constitution",
+    "ja": "けんぽう【憲法】",
+    "zh": "宪法",
+    "vi": "hiến pháp",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "86455"
+  },
+  {
+    "term_ko": "삼권분립",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "입법",
+    "definition_ko": "주로 국회에서 법률을 만들어 정함.",
+    "easy_ko": "",
+    "en": "legislature; lawmaking",
+    "ja": "りっぽう【立法】",
+    "zh": "立法",
+    "vi": "sự lập pháp",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "91533"
+  },
+  {
+    "term_ko": "사법",
+    "definition_ko": "국가나 국민에 관한 일을 법에 따라 판단하는 국가의 기본적인 활동.",
+    "easy_ko": "",
+    "en": "justice; being judicial; being legal; law enforcement",
+    "ja": "しほう【司法】",
+    "zh": "司法",
+    "vi": "tư pháp",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "61371"
+  },
+  {
+    "term_ko": "행정",
+    "definition_ko": "규정이나 규칙에 의하여 공적인 일들을 처리함.",
+    "easy_ko": "",
+    "en": "administration",
+    "ja": "ぎょうせい【行政】",
+    "zh": "行政",
+    "vi": "hành chính",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "85188"
+  },
+  {
+    "term_ko": "국민",
+    "definition_ko": "한 나라를 구성하는 사람. 또는 그 나라 국적을 가진 사람.",
+    "easy_ko": "",
+    "en": "people; national; citizen",
+    "ja": "こくみん【国民】",
+    "zh": "国民",
+    "vi": "quốc dân, nhân dân",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "60100"
+  },
+  {
+    "term_ko": "광복",
+    "definition_ko": "빼앗긴 주권을 다시 찾음.",
+    "easy_ko": "",
+    "en": "independence",
+    "ja": "こうふく【光復】",
+    "zh": "光复",
+    "vi": "quang phục",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "30966"
+  },
+  {
+    "term_ko": "독립운동",
+    "definition_ko": "나라의 독립을 이루기 위해 벌이는 여러 가지 활동.",
+    "easy_ko": "",
+    "en": "independence movement",
+    "ja": "どくりつうんどう【独立運動】",
+    "zh": "独立运动",
+    "vi": "phong trào độc lập",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "48829"
+  },
+  {
+    "term_ko": "민주화",
+    "definition_ko": "민주주의 이념에 따르게 되거나 민주적인 것으로 바뀌는 것. 또는 그렇게 되게 하는 것.",
+    "easy_ko": "",
+    "en": "democratization",
+    "ja": "みんしゅか【民主化】",
+    "zh": "民主化",
+    "vi": "dân chủ hóa",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "15778"
+  },
+  {
+    "term_ko": "세계화",
+    "definition_ko": "세계 여러 나라를 이해하고 세계적으로 나아감. 또는 그렇게 되게 함.",
+    "easy_ko": "",
+    "en": "globalization",
+    "ja": "せかいか【世界化】。グローバルか【グローバル化】。グローバリゼーション・グローバライゼーション",
+    "zh": "全球化",
+    "vi": "sự toàn cầu hóa, sự thế giới hóa",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64071"
+  },
+  {
+    "term_ko": "다문화",
+    "definition_ko": "한 사회 안에 여러 민족이나 여러 나라의 문화가 섞여 있는 것.",
+    "easy_ko": "",
+    "en": "multiple cultures",
+    "ja": "たぶんか【多文化】",
+    "zh": "多元文化，多种文化",
+    "vi": "đa văn hoá",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "40523"
+  },
+  {
+    "term_ko": "편견",
+    "definition_ko": "공평하고 올바르지 못하고 한쪽으로 치우친 생각.",
+    "easy_ko": "",
+    "en": "prejudice; bias",
+    "ja": "へんけん【偏見】",
+    "zh": "偏见",
+    "vi": "thiên kiến",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "81998"
+  },
+  {
+    "term_ko": "상호존중",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "국제기구",
+    "definition_ko": "특정한 목적을 위해 둘 이상의 나라가 모여 활동을 하기 위해 만든 조직체.",
+    "easy_ko": "",
+    "en": "international organization",
+    "ja": "こくさいきこう【国際機構】",
+    "zh": "国际机构",
+    "vi": "tổ chức quốc tế",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "38615"
+  },
+  {
+    "term_ko": "저작권",
+    "definition_ko": "창작물에 대해 저작자나 그 권리를 이어받은 사람이 가지는 권리.",
+    "easy_ko": "",
+    "en": "copyright",
+    "ja": "ちょさくけん【著作権】",
+    "zh": "著作权，版权",
+    "vi": "tác quyền, quyền tác giả",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "74616"
+  },
+  {
+    "term_ko": "개인정보",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "자원",
+    "definition_ko": "광물, 수산물 등과 같이 사람이 생활하거나 경제적인 생산을 하는 데 이용되는 원료.",
+    "easy_ko": "",
+    "en": "resource; material",
+    "ja": "しげん【資源】",
+    "zh": "资源",
+    "vi": "tài nguyên",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "24793"
+  },
+  {
+    "term_ko": "에너지",
+    "definition_ko": "사람이 육체적, 정신적 활동을 하는 데 필요한 힘.",
+    "easy_ko": "",
+    "en": "energy; power",
+    "ja": "エネルギー",
+    "zh": "精力，活力",
+    "vi": "năng lượng",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62468"
+  },
+  {
+    "term_ko": "지속가능발전",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "",
+    "ja": "",
+    "zh": "",
+    "vi": "",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": ""
+  },
+  {
+    "term_ko": "통일",
+    "definition_ko": "나누어지거나 갈라진 것들을 합쳐서 하나가 되게 함.",
+    "easy_ko": "",
+    "en": "unification",
+    "ja": "とういつ【統一】",
+    "zh": "统一",
+    "vi": "sự thống nhất",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62409"
+  },
+  {
+    "term_ko": "외교",
+    "definition_ko": "다른 나라와 정치적, 경제적, 문화적 관계를 맺는 일.",
+    "easy_ko": "",
+    "en": "diplomacy",
+    "ja": "がいこう【外交】。ディプロマシー",
+    "zh": "外交",
+    "vi": "ngoại giao",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "67852"
+  },
+  {
+    "term_ko": "조약",
+    "definition_ko": "세부적인 항목을 세워 맺은 약속.",
+    "easy_ko": "",
+    "en": "contract",
+    "ja": "じょうやく【条約】",
+    "zh": "条款，条约，约定",
+    "vi": "sự thỏa thuận",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "75355"
+  },
+  {
+    "term_ko": "난민",
+    "definition_ko": "전쟁이나 재해 등으로 집이나 재산을 잃은 사람.",
+    "easy_ko": "",
+    "en": "refugee",
+    "ja": "なんみん【難民】",
+    "zh": "难民，灾民",
+    "vi": "người bị nạn, nạn nhân",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "37442"
+  },
+  {
+    "term_ko": "이민",
+    "definition_ko": "자기 나라를 떠나서 다른 나라로 가서 사는 것.",
+    "easy_ko": "",
+    "en": "emigration",
+    "ja": "いみん【移民】",
+    "zh": "移民",
+    "vi": "sự di dân",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "24884"
+  },
+  {
+    "term_ko": "의무",
+    "definition_ko": "마땅히 해야 할 일.",
+    "easy_ko": "",
+    "en": "duty; responsibility; obligation",
+    "ja": "ぎむ【義務】",
+    "zh": "义务",
+    "vi": "nghĩa vụ",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "24066"
+  },
+  {
+    "term_ko": "권리",
+    "definition_ko": "어떤 일을 하거나 다른 사람에게 요구할 수 있는 정당한 힘이나 자격.",
+    "easy_ko": "",
+    "en": "right; authority; power",
+    "ja": "けんり【権利】。けん【権】",
+    "zh": "权利",
+    "vi": "quyền lợi",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "36867"
+  },
+  {
+    "term_ko": "인구",
+    "definition_ko": "정해진 지역에 살고 있는 사람의 수.",
+    "easy_ko": "",
+    "en": "population",
+    "ja": "じんこう【人口】",
+    "zh": "人口",
+    "vi": "nhân khẩu, dân số",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "62590"
+  },
+  {
+    "term_ko": "유엔",
+    "definition_ko": "제이 차 세계 대전 후 국가 간의 평화와 안전의 유지, 우호 관계 증진 및 협력을 위해 만든 국제 평화 기구.",
+    "easy_ko": "",
+    "en": "UN",
+    "ja": "ユーエヌ。こくさいれんごう【国際連合】",
+    "zh": "联合国",
+    "vi": "Liên hợp quốc",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "70609"
+  },
+  {
+    "term_ko": "세금",
+    "definition_ko": "국가 또는 지방 공공 단체가 필요한 경비로 사용하기 위하여 국민이나 주민으로부터 강제로 거두어들이는 돈.",
+    "easy_ko": "",
+    "en": "tax",
+    "ja": "ぜいきん【税金】",
+    "zh": "税",
+    "vi": "tiền thuế",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "64101"
+  },
+  {
+    "term_ko": "문화유산",
+    "definition_ko": "다음 세대에 계승·상속할 만한 가치를 지닌 문화적 산물.",
+    "easy_ko": "",
+    "en": "cultural heritage",
+    "ja": "ぶんかいさん【文化遺産】",
+    "zh": "文化资产",
+    "vi": "di sản văn hóa",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "56980"
+  },
+  {
+    "term_ko": "정보화사회",
+    "definition_ko": "정보가 중요한 자원이 되어 가치를 만들어 내고 사회나 경제를 이끌어 가는 사회.",
+    "easy_ko": "",
+    "en": "information society",
+    "ja": "じょうほうかしゃかい【情報化社会】",
+    "zh": "信息化社会，信息社会",
+    "vi": "xã hội thông tin hóa",
+    "tl": "",
+    "subjects": [
+      "사회 5-6"
+    ],
+    "source": "krdict",
+    "krdict_target_code": "75794"
+  }
+]

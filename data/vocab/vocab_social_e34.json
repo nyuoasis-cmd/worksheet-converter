@@ -1,0 +1,954 @@
+[
+  {
+    "term_ko": "지도",
+    "definition_ko": "지구 표면의 전부나 일부를 일정한 비율로 줄여 약속된 기호를 사용하여 평면에 그린 그림.",
+    "easy_ko": "",
+    "en": "map",
+    "ja": "ちず【地図】",
+    "zh": "地图",
+    "vi": "bản đồ",
+    "tl": "mapa",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "57319",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "방위",
+    "definition_ko": "동서남북을 기준으로 한 어떤 쪽의 위치.",
+    "easy_ko": "",
+    "en": "bearing; point of the compass",
+    "ja": "ほうい【方位】",
+    "zh": "方位",
+    "vi": "phương vị",
+    "tl": "punto ng kompas",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "58117",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "축척",
+    "definition_ko": "지도를 그릴 때 실제 거리를 줄인 비율.",
+    "easy_ko": "",
+    "en": "scale; reduced scale",
+    "ja": "しゅくしゃく【縮尺】",
+    "zh": "比例尺",
+    "vi": "tỉ lệ rút gọn",
+    "tl": "iskala; pinababang iskala",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "82315",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "등고선",
+    "definition_ko": "지도에서 높이가 같은 지점을 연결해서 그린 곡선.",
+    "easy_ko": "",
+    "en": "contour",
+    "ja": "とうこうせん【等高線】",
+    "zh": "等高线",
+    "vi": "đường cùng cao độ (trên bản đồ)",
+    "tl": "balangkas",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "50003",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기호",
+    "definition_ko": "어떤 뜻을 나타내기 위해 쓰는 여러 가지 표시.",
+    "easy_ko": "",
+    "en": "mark; sign",
+    "ja": "きごう【記号】。ふごう【符号】。ひょうしき【標識】",
+    "zh": "记号，符号",
+    "vi": "ký hiệu",
+    "tl": "tanda; tanda",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "32531",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "범례",
+    "definition_ko": "책의 첫머리에 그 책을 읽는 데 필요한 참고 사항을 설명한 글.",
+    "easy_ko": "",
+    "en": "introductory remarks; explanatory notes",
+    "ja": "はんれい【凡例】",
+    "zh": "凡例",
+    "vi": "lời hướng dẫn, lời nói đầu",
+    "tl": "mga pambungad na pahayag; mga tala ng paliwanag",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "59044",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "시장",
+    "definition_ko": "여러 가지 상품을 사고파는 곳.",
+    "easy_ko": "",
+    "en": "market",
+    "ja": "いちば【市場】。マーケット",
+    "zh": "市场",
+    "vi": "chợ",
+    "tl": "pamilihan",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "17193",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "생산",
+    "definition_ko": "사람이 생활하는 데 필요한 물건을 만듦.",
+    "easy_ko": "",
+    "en": "production",
+    "ja": "せいさん【生産】",
+    "zh": "生产",
+    "vi": "việc sản xuất",
+    "tl": "produksyon",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "16587",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소비",
+    "definition_ko": "돈, 물건, 시간, 노력, 힘 등을 써서 없앰.",
+    "easy_ko": "",
+    "en": "consumption",
+    "ja": "しょうひ【消費】",
+    "zh": "消费，消耗",
+    "vi": "sự tiêu dùng, sự tiêu xài",
+    "tl": "pagkonsumo",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "49238",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "교환",
+    "definition_ko": "무엇을 다른 것으로 바꿈.",
+    "easy_ko": "",
+    "en": "exchange",
+    "ja": "こうかん【交換】",
+    "zh": "调换，交换",
+    "vi": "sự thay đổi, sự hoán đổi",
+    "tl": "palitan",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "37628",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "화폐",
+    "definition_ko": "상품을 사고팔거나 다른 상품과 교환할 때 상품의 가치를 매기는 기준이 되며, 상품과 교환할 수 있는 수단이 되는 것.",
+    "easy_ko": "",
+    "en": "currency; money",
+    "ja": "かへい【貨幣】",
+    "zh": "货币",
+    "vi": "tiền tệ, đồng tiền",
+    "tl": "pera; pera",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "87697",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "저축",
+    "definition_ko": "돈이나 재물 등을 아껴 써서 모아 둠.",
+    "easy_ko": "",
+    "en": "saving",
+    "ja": "ちょちく【貯蓄】",
+    "zh": "储蓄，积蓄，存款",
+    "vi": "sự tiết kiệm",
+    "tl": "pagtitipid",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "71229",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "은행",
+    "definition_ko": "사람들의 돈을 맡아 관리하고 필요한 사람에게 돈을 빌려주는 기관.",
+    "easy_ko": "",
+    "en": "bank",
+    "ja": "ぎんこう【銀行】",
+    "zh": "银行",
+    "vi": "ngân hàng",
+    "tl": "bangko",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "71109",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "가격",
+    "definition_ko": "물건의 가치를 돈으로 나타낸 것.",
+    "easy_ko": "",
+    "en": "price",
+    "ja": "かかく【価格】。ねだん【値段】。ねうち【値打ち】。プライス",
+    "zh": "价格，价钱",
+    "vi": "giá cả, giá",
+    "tl": "presyo",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62450",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "공공기관",
+    "definition_ko": "법무부, 경찰청 등 공적인 행정 업무를 맡아 보는 기관.",
+    "easy_ko": "",
+    "en": "public institution",
+    "ja": "こうきょうきかん【公共機関】。こうてききかん【公的機関】",
+    "zh": "公共机关，公共机构",
+    "vi": "cơ quan công quyền",
+    "tl": "institusyong pampubliko",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "19860",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "시청",
+    "definition_ko": "시의 행정 사무를 맡아보는 기관.",
+    "easy_ko": "",
+    "en": "city hall",
+    "ja": "しやくしょ【市役所】",
+    "zh": "市政府，市厅",
+    "vi": "thị chính, ủy ban nhân dân thành phố",
+    "tl": "bulwagan ng lungsod",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "65312",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "도청",
+    "definition_ko": "남이 하는 이야기, 전화 통화 내용 등을 몰래 엿듣거나 녹음하는 일.",
+    "easy_ko": "",
+    "en": "tap",
+    "ja": "とうちょう【盗聴】。ぬすみぎき【盗み聞き】",
+    "zh": "窃听",
+    "vi": "sự nghe trộm",
+    "tl": "gripo",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "90698",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "경찰서",
+    "definition_ko": "한 지역의 경찰 일을 맡아보는 관청.",
+    "easy_ko": "",
+    "en": "police station",
+    "ja": "けいさつしょ【警察署】",
+    "zh": "警察署，警察局，公安局",
+    "vi": "đồn cảnh sát",
+    "tl": "istasyon ng pulisya",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "25960",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소방서",
+    "definition_ko": "화재를 막거나 진압하는 일을 하는 기관.",
+    "easy_ko": "",
+    "en": "fire station",
+    "ja": "しょうぼうしょ【消防署】",
+    "zh": "消防站",
+    "vi": "trung tâm phòng cháy chữa cháy",
+    "tl": "istasyon ng bumbero",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "63744",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "우체국",
+    "definition_ko": "편지, 소포를 보내는 일이나 예금 관리 등의 일을 하는 공공 기관.",
+    "easy_ko": "",
+    "en": "post office",
+    "ja": "ゆうびんきょく【郵便局】",
+    "zh": "邮局",
+    "vi": "bưu điện",
+    "tl": "tanggapan ng koreo",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "31486",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "도서관",
+    "definition_ko": "책과 자료 등을 많이 모아 두고 사람들이 빌려 읽거나 공부를 할 수 있게 마련한 시설.",
+    "easy_ko": "",
+    "en": "library",
+    "ja": "としょかん【図書館】",
+    "zh": "图书馆",
+    "vi": "thư viện",
+    "tl": "aklatan",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "40295",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "병원",
+    "definition_ko": "시설을 갖추고 의사와 간호사가 병든 사람을 치료해 주는 곳.",
+    "easy_ko": "",
+    "en": "hospital; clinic",
+    "ja": "びょういん【病院】",
+    "zh": "医院",
+    "vi": "bệnh viện",
+    "tl": "ospital; klinika",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62271",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "문화재",
+    "definition_ko": "문화 활동으로 창조된 가치가 뛰어난 사물.",
+    "easy_ko": "",
+    "en": "cultural asset; cultural property",
+    "ja": "ぶんかざい【文化財】",
+    "zh": "文化资产",
+    "vi": "di sản văn hóa, tài sản văn hóa",
+    "tl": "kultural na ari-arian; kultural na ari-arian",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "15413",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전통",
+    "definition_ko": "어떤 집단이나 공동체에서 지난 시대부터 전해 내려오면서 고유하게 만들어진 사상, 관습, 행동 등의 양식.",
+    "easy_ko": "",
+    "en": "tradition; heritage",
+    "ja": "でんとう【伝統】",
+    "zh": "传统",
+    "vi": "truyền thống",
+    "tl": "tradisyon; pamana",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70841",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "풍습",
+    "definition_ko": "풍속과 습관.",
+    "easy_ko": "",
+    "en": "manners and customs",
+    "ja": "ふうしゅう【風習】。しきたり【仕来り】",
+    "zh": "风习",
+    "vi": "phong tục tập quán",
+    "tl": "mga kaugalian at kaugalian",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "84419",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "명절",
+    "definition_ko": "설이나 추석 등 해마다 일정하게 돌아와 전통적으로 즐기거나 기념하는 날.",
+    "easy_ko": "",
+    "en": "national holiday",
+    "ja": "しゅくさいじつ【祝祭日】。せっく【節句】",
+    "zh": "节日",
+    "vi": "ngày lễ tết, ngày tết",
+    "tl": "pambansang pista opisyal",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "55441",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "한복",
+    "definition_ko": "한국의 전통 의복.",
+    "easy_ko": "",
+    "en": "hanbok",
+    "ja": "ハンボク【韓服】",
+    "zh": "韩服",
+    "vi": "Hanbok; Hàn phục",
+    "tl": "hanbok",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "48061",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "한옥",
+    "definition_ko": "우리나라 고유의 형식으로 지은 집.",
+    "easy_ko": "",
+    "en": "hanok",
+    "ja": "ハノク【韓屋】",
+    "zh": "韩屋",
+    "vi": "Hanok; nhà kiểu truyền thống Hàn Quốc",
+    "tl": "hanok",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "85586",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "김치",
+    "definition_ko": "배추나 무 등의 채소를 소금에 절인 후 양념에 버무려 발효시켜서 만든 음식.",
+    "easy_ko": "",
+    "en": "kimchi",
+    "ja": "キムチ",
+    "zh": "辛奇",
+    "vi": "kimchi",
+    "tl": "kimchi",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "28818",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "도시",
+    "definition_ko": "정치, 경제, 문화의 중심이 되고 사람이 많이 사는 지역.",
+    "easy_ko": "",
+    "en": "city",
+    "ja": "とし【都市】",
+    "zh": "都市，城市",
+    "vi": "thành phố, đô thị",
+    "tl": "lungsod",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70743",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "농촌",
+    "definition_ko": "농사를 짓는 사람들이 주로 모여 사는 마을.",
+    "easy_ko": "",
+    "en": "farming village; rural area",
+    "ja": "のうそん【農村】",
+    "zh": "农村",
+    "vi": "nông thôn, làng quê",
+    "tl": "nayon ng pagsasaka; rural na lugar",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "83179",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "어촌",
+    "definition_ko": "물고기를 잡아 생활하는 사람들이 모여 사는 바닷가 마을.",
+    "easy_ko": "",
+    "en": "fishing village",
+    "ja": "ぎょそん【漁村】",
+    "zh": "渔村",
+    "vi": "làng chài",
+    "tl": "nayon ng pangingisda",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "67151",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "산촌",
+    "definition_ko": "산속에 있는 마을.",
+    "easy_ko": "",
+    "en": "mountain village",
+    "ja": "さんそん【山村】",
+    "zh": "山村",
+    "vi": "làng miền núi, làng ở vùng cao",
+    "tl": "nayon sa bundok",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "61813",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "마을",
+    "definition_ko": "여러 집이 모여 있는 곳.",
+    "easy_ko": "",
+    "en": "town",
+    "ja": "むら【村】",
+    "zh": "村子，村庄",
+    "vi": "làng",
+    "tl": "bayan",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "61099",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "고장",
+    "definition_ko": "기계나 장치 등이 제대로 작동하지 않음.",
+    "easy_ko": "",
+    "en": "defect; something wrong",
+    "ja": "こしょう【故障】",
+    "zh": "故障",
+    "vi": "sự hư hỏng",
+    "tl": "depekto; may mali",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "18856",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "교통",
+    "definition_ko": "자동차, 기차, 배, 비행기 등의 탈것을 이용하여 사람이나 짐이 오고 가는 일.",
+    "easy_ko": "",
+    "en": "transportation; traffic",
+    "ja": "こうつう【交通】。つうこう【通行】",
+    "zh": "交通",
+    "vi": "giao thông",
+    "tl": "transportasyon; trapiko",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "64469",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "통신",
+    "definition_ko": "우편이나 전신, 전화 등으로 정보나 소식 등을 전달함.",
+    "easy_ko": "",
+    "en": "communication; correspondence",
+    "ja": "つうしん【通信】",
+    "zh": "通信，通讯",
+    "vi": "viễn thông",
+    "tl": "komunikasyon; sulat",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "71479",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "정보",
+    "definition_ko": "어떤 사실이나 현상을 관찰하거나 측정하여 모은 자료를 정리한 지식. 또는 그 자료.",
+    "easy_ko": "",
+    "en": "information; data",
+    "ja": "じょうほう【情報】",
+    "zh": "信息",
+    "vi": "thông tin",
+    "tl": "impormasyon; datos",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70878",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "인터넷",
+    "definition_ko": "전 세계의 컴퓨터가 서로 정보를 교환할 수 있도록 연결된 하나의 거대한 컴퓨터 통신망.",
+    "easy_ko": "",
+    "en": "Internet",
+    "ja": "インターネット",
+    "zh": "互联网",
+    "vi": "mạng internet",
+    "tl": "Internet",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70774",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "신호등",
+    "definition_ko": "도로에서 색이 있는 불빛으로 자동차나 사람의 통행을 지시하는 장치.",
+    "easy_ko": "",
+    "en": "traffic light; traffic signal",
+    "ja": "しんごうとう【信号灯】",
+    "zh": "交通信号灯，红绿灯",
+    "vi": "đèn tín hiệu giao thông, đèn xanh đèn đỏ",
+    "tl": "ilaw trapiko; signal ng trapiko",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "66279",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "환경",
+    "definition_ko": "생물이 살아가는 데 영향을 주는 자연 상태나 조건.",
+    "easy_ko": "",
+    "en": "environment",
+    "ja": "かんきょう【環境】",
+    "zh": "环境",
+    "vi": "môi trường",
+    "tl": "kapaligiran",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "49093",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "오염",
+    "definition_ko": "더러운 상태가 됨.",
+    "easy_ko": "",
+    "en": "pollution; contamination",
+    "ja": "おせん【汚染】",
+    "zh": "污染",
+    "vi": "sự ô nhiễm",
+    "tl": "polusyon; kontaminasyon",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "21874",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "재활용",
+    "definition_ko": "쓰고 버리는 물건을 다른 데에 다시 사용하거나 사용할 수 있게 함.",
+    "easy_ko": "",
+    "en": "recycling",
+    "ja": "さいりよう【再利用】。さいしよう【再使用】。リサイクル。リユース",
+    "zh": "再利用，可回收",
+    "vi": "việc tái sử dụng",
+    "tl": "pag-recycle",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "24985",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "분리수거",
+    "definition_ko": "쓰레기를 종류별로 따로 모아서 거두어 감.",
+    "easy_ko": "",
+    "en": "garbage recycling",
+    "ja": "ぶんべつしゅうしゅう【分別収集】",
+    "zh": "分类回收",
+    "vi": "việc phân loại thu gom (rác thải)",
+    "tl": "pag-recycle ng basura",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "59456",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "쓰레기",
+    "definition_ko": "쓸어 낸 먼지, 또는 못 쓰게 되어 내다 버릴 물건이나 내다 버린 물건.",
+    "easy_ko": "",
+    "en": "rubbish; trash; garbage",
+    "ja": "ごみ",
+    "zh": "垃圾",
+    "vi": "rác",
+    "tl": "basura; basura; basura",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "29590",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "인권",
+    "definition_ko": "인간으로서 당연히 가지는 기본적인 권리.",
+    "easy_ko": "",
+    "en": "human rights",
+    "ja": "じんけん【人権】",
+    "zh": "人权",
+    "vi": "nhân quyền",
+    "tl": "karapatang pantao",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "72915",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "평등",
+    "definition_ko": "권리, 의무, 자격 등이 차별 없이 고르고 똑같음.",
+    "easy_ko": "",
+    "en": "equality",
+    "ja": "びょうどう【平等】",
+    "zh": "平等",
+    "vi": "sự bình đẳng",
+    "tl": "pagkakapantay-pantay",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "88184",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "차별",
+    "definition_ko": "둘 이상을 차등을 두어 구별함.",
+    "easy_ko": "",
+    "en": "discrimination; distinction",
+    "ja": "さべつ【差別】",
+    "zh": "差别，不平等，歧视",
+    "vi": "sự phân biệt, sự kì thị",
+    "tl": "diskriminasyon; pagkakaiba",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "37243",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "법",
+    "definition_ko": "모든 국민이 반드시 지켜야 하는, 나라에서 만든 명령이나 규칙.",
+    "easy_ko": "",
+    "en": "law; act",
+    "ja": "ほう【法】。ほうりつ【法律】。ほうき【法規】",
+    "zh": "法律",
+    "vi": "luật, pháp luật",
+    "tl": "batas; batas",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62406",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "규칙",
+    "definition_ko": "여러 사람이 지키도록 정해 놓은 법칙.",
+    "easy_ko": "",
+    "en": "rule",
+    "ja": "きそく【規則】",
+    "zh": "规则，规定，条例",
+    "vi": "quy tắc",
+    "tl": "tuntunin",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "35269",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "민주주의",
+    "definition_ko": "주권이 국민에게 있고 국민을 위한 정치를 지향하는 사상.",
+    "easy_ko": "",
+    "en": "democracy",
+    "ja": "みんしゅしゅぎ【民主主義】",
+    "zh": "民主主义",
+    "vi": "chủ nghĩa dân chủ",
+    "tl": "demokrasya",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "15777",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "선거",
+    "definition_ko": "일정한 조직이나 집단에서 투표를 통해 대표자나 임원을 뽑음.",
+    "easy_ko": "",
+    "en": "election",
+    "ja": "せんきょ【選挙】",
+    "zh": "选举",
+    "vi": "cuộc tuyển cử, cuộc bầu cử",
+    "tl": "halalan",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "16617",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "투표",
+    "definition_ko": "선거를 하거나 어떤 일을 결정할 때 정해진 용지에 의견을 표시하여 내는 일.",
+    "easy_ko": "",
+    "en": "vote; ballot; poll",
+    "ja": "とうひょう【投票】",
+    "zh": "投票",
+    "vi": "sự bỏ phiếu",
+    "tl": "boto; balota; botohan",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "81630",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "국회",
+    "definition_ko": "국민의 대표인 국회 의원들로 이루어져, 법률을 만들고 행정부와 사법부를 감시하는 기능을 하는 국가 기관.",
+    "easy_ko": "",
+    "en": "National Assembly; Congress; Parliament",
+    "ja": "こっかい【国会】",
+    "zh": "国会",
+    "vi": "quốc hội",
+    "tl": "Pambansang Asemblea; Kongreso; Parlamento",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "36856",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "대통령",
+    "definition_ko": "공화국 체제에서 국가를 대표하고 행정부 최고의 직위를 가진 사람, 또는 그 지위.",
+    "easy_ko": "",
+    "en": "president",
+    "ja": "だいとうりょう【大統領】",
+    "zh": "总统",
+    "vi": "tổng thống",
+    "tl": "pangulo",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "55485",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "시민",
+    "definition_ko": "한 도시 안에 살고 있는 사람.",
+    "easy_ko": "",
+    "en": "urbanite; city dweller",
+    "ja": "しみん【市民】",
+    "zh": "市民",
+    "vi": "thị dân, dân thành thị",
+    "tl": "tagalungsod; tagalungsod",
+    "subject": "사회",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "71099",
+    "filled_by_google": [
+      "tl"
+    ]
+  }
+]

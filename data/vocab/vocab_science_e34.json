@@ -1,0 +1,1199 @@
+[
+  {
+    "term_ko": "동물",
+    "definition_ko": "생물계의 두 갈래 가운데 먹이로 영양분을 얻고 자유롭게 몸을 움직일 수 있는 생물.",
+    "easy_ko": "",
+    "en": "animal",
+    "ja": "どうぶつ【動物】",
+    "zh": "动物",
+    "vi": "động vật",
+    "tl": "hayop",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70747",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "식물",
+    "definition_ko": "풀, 나무와 같은 스스로의 힘으로 움직일 수 없는 생명체.",
+    "easy_ko": "",
+    "en": "plant",
+    "ja": "しょくぶつ【植物】",
+    "zh": "植物",
+    "vi": "thực vật",
+    "tl": "halaman",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "65315",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "곤충",
+    "definition_ko": "나비, 잠자리, 벌 등과 같이 머리, 가슴, 배 세 부분으로 되어 있고 몸에 마디가 많은 작은 동물.",
+    "easy_ko": "",
+    "en": "insect",
+    "ja": "こんちゅう【昆虫】",
+    "zh": "昆虫",
+    "vi": "côn trùng",
+    "tl": "insekto",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "27689",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "포유류",
+    "definition_ko": "새끼를 낳아 젖을 먹여 기르며 허파로 숨을 쉬는 척추동물의 한 종류.",
+    "easy_ko": "",
+    "en": "mammal",
+    "ja": "ほにゅうるい【哺乳類】",
+    "zh": "哺乳类",
+    "vi": "động vật có vú",
+    "tl": "mammal",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "84597",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "파충류",
+    "definition_ko": "악어나 뱀 등과 같이 폐로 숨을 쉬며 바깥 온도에 따라 체온이 변하는 동물.",
+    "easy_ko": "",
+    "en": "reptiles",
+    "ja": "はちゅうるい【爬虫類】",
+    "zh": "爬虫类",
+    "vi": "loài bò sát",
+    "tl": "mga reptilya",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "80626",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "양서류",
+    "definition_ko": "어류와 파충류의 중간으로, 땅 위 또는 물속에서 사는 동물.",
+    "easy_ko": "",
+    "en": "amphibian",
+    "ja": "りょうせいるい【両生類】",
+    "zh": "两栖类",
+    "vi": "loài lưỡng cư",
+    "tl": "ampibyan",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "90579",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "조류",
+    "definition_ko": "밀물과 썰물 때문에 생기는 바닷물의 흐름.",
+    "easy_ko": "",
+    "en": "tide",
+    "ja": "ちょうりゅう【潮流】",
+    "zh": "潮流",
+    "vi": "triều lưu, dòng thủy triều",
+    "tl": "pagtaas at pagbaba ng tubig",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "91799",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "어류",
+    "definition_ko": "고등어, 참치, 상어처럼 주로 몸이 비늘로 덮여 있으며, 물속에 살면서 지느러미로 헤엄을 치고 아가미로 숨을 쉬는 동물.",
+    "easy_ko": "",
+    "en": "fish",
+    "ja": "ぎょるい【魚類】",
+    "zh": "鱼类",
+    "vi": "loài cá",
+    "tl": "isda",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70491",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "광합성",
+    "definition_ko": "녹색 식물이 태양 에너지를 이용하여 이산화 탄소와 수분으로 유기물을 만들어 내는 과정.",
+    "easy_ko": "",
+    "en": "photosynthesis",
+    "ja": "こうごうせい【光合成】",
+    "zh": "光合作用",
+    "vi": "tính quang hợp",
+    "tl": "potosintesis",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "30824",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "뿌리",
+    "definition_ko": "땅속으로 뻗어서 물과 양분을 빨아올리고 줄기를 지탱하는 식물의 한 부분.",
+    "easy_ko": "",
+    "en": "root",
+    "ja": "ね【根】。ねっこ【根っこ】",
+    "zh": "根",
+    "vi": "rễ cây",
+    "tl": "ugat",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "60318",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "줄기",
+    "definition_ko": "식물을 받치고 뿌리에서 빨아들인 수분이나 양분을 나르며, 잎이나 가지, 열매 등이 붙는 부분.",
+    "easy_ko": "",
+    "en": "trunk; stem",
+    "ja": "みき【幹】",
+    "zh": "茎",
+    "vi": "thân cây",
+    "tl": "puno ng kahoy; tangkay",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "79400",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "잎",
+    "definition_ko": "줄기 끝이나 둘레에 붙어 있으며 녹색의 납작한 모양을 한, 식물의 영양 기관.",
+    "easy_ko": "",
+    "en": "leaf",
+    "ja": "は【葉】。はっぱ【葉っぱ】",
+    "zh": "叶子",
+    "vi": "lá",
+    "tl": "dahon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "70793",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "꽃",
+    "definition_ko": "특유의 모양과 빛깔, 향기가 있으며 줄기 끝에 달려 있는 식물의 한 부분. 또는 그것이 피는 식물.",
+    "easy_ko": "",
+    "en": "flower",
+    "ja": "はな【花】",
+    "zh": "花，花朵",
+    "vi": "hoa, cây hoa",
+    "tl": "bulaklak",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62838",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "열매",
+    "definition_ko": "사과, 배 등과 같이 나무의 꽃이 지고 난 뒤에 그 자리에 생기는 것.",
+    "easy_ko": "",
+    "en": "fruit; berry",
+    "ja": "み【実】。かじつ【果実】",
+    "zh": "果实",
+    "vi": "trái, quả",
+    "tl": "prutas; berry",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "14093",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "씨앗",
+    "definition_ko": "곡식이나 채소, 꽃 등의 씨.",
+    "easy_ko": "",
+    "en": "seed",
+    "ja": "たね【種】。たねもの【種物】",
+    "zh": "种子",
+    "vi": "hạt, hột",
+    "tl": "binhi",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "16740",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "나무",
+    "definition_ko": "단단한 줄기에 가지와 잎이 달린, 여러 해 동안 자라는 식물.",
+    "easy_ko": "",
+    "en": "tree",
+    "ja": "き【木・樹】。じゅもく【樹木】",
+    "zh": "树，树木",
+    "vi": "cây",
+    "tl": "puno",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "32750",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "풀",
+    "definition_ko": "쌀이나 밀가루 등에서 빼낸, 천이나 옷 등을 빳빳하게 만들거나 무엇을 붙일 때 쓰는 끈끈한 물질.",
+    "easy_ko": "",
+    "en": "starch; adhesive",
+    "ja": "のり【糊】",
+    "zh": "糨糊，糨子",
+    "vi": "hồ, bột, keo",
+    "tl": "almirol; pandikit",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "73267",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "균류",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "fungi",
+    "ja": "真菌",
+    "zh": "真菌",
+    "vi": "nấm",
+    "tl": "fungi",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "세균",
+    "definition_ko": "사람들을 병에 걸리게 하거나 음식을 썩게 하는 아주 작은 생물.",
+    "easy_ko": "",
+    "en": "virus; germ; bacteria",
+    "ja": "さいきん【細菌】。ばいきん【黴菌】。バクテリア",
+    "zh": "细菌",
+    "vi": "vi khuẩn",
+    "tl": "virus; mikrobyo; bakterya",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "64097",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "생물",
+    "definition_ko": "생명이 있는 동물과 식물.",
+    "easy_ko": "",
+    "en": "organism; living thing",
+    "ja": "せいぶつ【生物】",
+    "zh": "生物",
+    "vi": "sinh vật",
+    "tl": "organismo; nabubuhay na bagay",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "29038",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "자석",
+    "definition_ko": "쇠붙이를 끌어당기는 힘을 띤 물체.",
+    "easy_ko": "",
+    "en": "magnet",
+    "ja": "じしゃく【磁石】",
+    "zh": "磁铁，磁石",
+    "vi": "nam châm",
+    "tl": "magnet",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "73834",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "나침반",
+    "definition_ko": "동, 서, 남, 북 방향을 알려 주는 기구.",
+    "easy_ko": "",
+    "en": "compass",
+    "ja": "らしんばん【羅針盤】。コンパス。らばん【羅盤】",
+    "zh": "罗盘，指南针",
+    "vi": "la bàn",
+    "tl": "kumpas",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "16311",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "극",
+    "definition_ko": "더 이상 그 상태를 유지할 수 없는 마지막 단계.",
+    "easy_ko": "",
+    "en": "extreme",
+    "ja": "きょく【極】。きわみ【極み】。きょくげん【極限】",
+    "zh": "极点，极限",
+    "vi": "cực độ, tột điểm, cùng cực",
+    "tl": "sukdulan",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "34404",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "인력",
+    "definition_ko": "사람의 힘이나 능력.",
+    "easy_ko": "",
+    "en": "human power; human agency; human strength",
+    "ja": "じんりょく・じんりき【人力】",
+    "zh": "人力",
+    "vi": "nhân lực",
+    "tl": "kapangyarihan ng tao; ahensiya ng tao; lakas ng tao",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "72882",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "척력",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "bouncing",
+    "ja": "チャック",
+    "zh": "弹跳",
+    "vi": "nảy",
+    "tl": "tumatalbog",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "자기장",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "magnetic field",
+    "ja": "磁場",
+    "zh": "磁场",
+    "vi": "từ trường",
+    "tl": "magnetikong larangan",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "혼합물",
+    "definition_ko": "여러 가지가 뒤섞여 한데 합해진 물질.",
+    "easy_ko": "",
+    "en": "composite",
+    "ja": "こんごうぶつ【混合物】",
+    "zh": "混合物",
+    "vi": "hỗn hợp, hợp chất",
+    "tl": "pinagsama-samang",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "87268",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "용해",
+    "definition_ko": "녹거나 녹이는 일.",
+    "easy_ko": "",
+    "en": "melting; dissolution",
+    "ja": "ようかい【溶解】",
+    "zh": "溶解",
+    "vi": "sự hòa tan, chảy, nóng",
+    "tl": "pagkatunaw; pagkatunaw",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "69412",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "용액",
+    "definition_ko": "두 가지 이상의 물질이 고르게 섞인 액체.",
+    "easy_ko": "",
+    "en": "solution",
+    "ja": "ようえき【溶液】",
+    "zh": "溶液",
+    "vi": "dung dịch",
+    "tl": "solusyon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "69253",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "거름",
+    "definition_ko": "식물이 잘 자라도록 땅에 뿌리거나 섞는 물질.",
+    "easy_ko": "",
+    "en": "manure; fertilizer",
+    "ja": "ひりょう【肥料】",
+    "zh": "肥，肥料，粪",
+    "vi": "phân bón",
+    "tl": "pataba",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "26794",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "증발",
+    "definition_ko": "어떤 물질이 액체 상태에서 기체 상태로 변함. 또는 그런 현상.",
+    "easy_ko": "",
+    "en": "evaporation; vaporization",
+    "ja": "じょうはつ【蒸発】",
+    "zh": "蒸发",
+    "vi": "sự bay hơi, sự bốc hơi",
+    "tl": "pagsingaw; pagsingaw",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "77640",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "녹이다",
+    "definition_ko": "얼음이나 눈에 열을 가해서 물이 되게 하다.",
+    "easy_ko": "",
+    "en": "melt; thaw",
+    "ja": "とかす【溶かす】",
+    "zh": "融化",
+    "vi": "làm tan ra",
+    "tl": "matunaw; matunaw",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "28314",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "지층",
+    "definition_ko": "자갈, 모래, 진흙, 화산재 등이 오랜 시간 동안 쌓여 이루어진 층.",
+    "easy_ko": "",
+    "en": "stratum",
+    "ja": "ちそう【地層】",
+    "zh": "地层",
+    "vi": "địa tầng, vỉa",
+    "tl": "sapin",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "77794",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "화석",
+    "definition_ko": "아주 옛날에 살았던 생물의 뼈, 활동 흔적 등이 땅속에 묻혀 굳어져 지금까지 남아 있는 것.",
+    "easy_ko": "",
+    "en": "fossil",
+    "ja": "かせき【化石】",
+    "zh": "化石",
+    "vi": "sự  hóa thạch",
+    "tl": "fossil",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "88030",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "퇴적암",
+    "definition_ko": "흙이나 죽은 생물의 뼈 등이 물이나 바람, 빙하 등에 의해 운반되어 일정한 곳에 쌓여서 생긴 암석.",
+    "easy_ko": "",
+    "en": "sedimentary rock",
+    "ja": "たいせきがん【堆積岩】",
+    "zh": "堆积岩，沉积岩",
+    "vi": "đá trầm tích",
+    "tl": "batong sedimentaryo",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "82884",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "화성암",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "igneous rock",
+    "ja": "火成岩",
+    "zh": "火成岩",
+    "vi": "đá magma",
+    "tl": "batong igneous",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "변성암",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "metamorphic rock",
+    "ja": "変成岩",
+    "zh": "变质岩",
+    "vi": "đá biến chất",
+    "tl": "batong metamorpiko",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "광물",
+    "definition_ko": "금, 은, 철 등과 같은 금속을 포함하는 자연에서 생기는 무기 물질.",
+    "easy_ko": "",
+    "en": "mineral",
+    "ja": "こうぶつ【鉱物】",
+    "zh": "矿物",
+    "vi": "khoáng chất, khoáng vật",
+    "tl": "mineral",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "30720",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "암석",
+    "definition_ko": "지구 겉쪽의 단단한 부분을 이루는 큰 바위.",
+    "easy_ko": "",
+    "en": "rock",
+    "ja": "がんせき【岩石】",
+    "zh": "岩石",
+    "vi": "nham thạch",
+    "tl": "bato",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "66670",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "온도",
+    "definition_ko": "따뜻하고 차가운 정도. 또는 그것을 나타내는 수치.",
+    "easy_ko": "",
+    "en": "temperature",
+    "ja": "おんど【温度】",
+    "zh": "温度",
+    "vi": "nhiệt độ",
+    "tl": "temperatura",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "67838",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "온도계",
+    "definition_ko": "물체의 온도를 재는 기구.",
+    "easy_ko": "",
+    "en": "thermometer",
+    "ja": "おんどけい【温度計】",
+    "zh": "温度计",
+    "vi": "nhiệt kế",
+    "tl": "termometro",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "68622",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "열",
+    "definition_ko": "아홉에 하나를 더한 수.",
+    "easy_ko": "",
+    "en": "ten",
+    "ja": "とお・じゅう【十】",
+    "zh": "十",
+    "vi": "số mười",
+    "tl": "sampu",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "67805",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "전도",
+    "definition_ko": "전체를 그린 그림이나 지도.",
+    "easy_ko": "",
+    "en": "full map",
+    "ja": "ぜんず【全図】",
+    "zh": "全图",
+    "vi": "bức tranh toàn cảnh, bản đồ tổng thể, bản đồ toàn khu vực",
+    "tl": "buong mapa",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "74401",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "대류",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "convection current",
+    "ja": "対流",
+    "zh": "对流",
+    "vi": "dòng đối lưu",
+    "tl": "kasalukuyang kombeksyon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "복사",
+    "definition_ko": "원래의 것을 다른 곳에 그대로 옮겨 놓음.",
+    "easy_ko": "",
+    "en": "copy",
+    "ja": "ふくしゃ【複写】。コピー",
+    "zh": "抄袭，复制",
+    "vi": "sự sao chép, sự copy",
+    "tl": "kopya",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "59560",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "그림자",
+    "definition_ko": "물체가 빛을 받을 때 빛의 반대쪽 바닥이나 벽에 나타나는 그 물체의 검은 모양.",
+    "easy_ko": "",
+    "en": "shadow; silhouette",
+    "ja": "かげ【影】",
+    "zh": "影子",
+    "vi": "bóng",
+    "tl": "anino; silweta",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "58302",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "빛",
+    "definition_ko": "해, 달, 전등, 불 등에서 나와 사물을 밝게 비추는 것.",
+    "easy_ko": "",
+    "en": "light",
+    "ja": "ひかり【光】。あかり【明かり・灯り】",
+    "zh": "光，光线",
+    "vi": "tia sáng, ánh sáng",
+    "tl": "liwanag",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62079",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "반사",
+    "definition_ko": "빛이나 전파 등이 다른 물체의 표면에 부딪쳐서 나아가던 방향이 반대 방향으로 바뀌는 현상.",
+    "easy_ko": "",
+    "en": "reflection",
+    "ja": "はんしゃ【反射】",
+    "zh": "反射",
+    "vi": "sự phản xạ",
+    "tl": "repleksyon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "57124",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "굴절",
+    "definition_ko": "휘거나 꺾임.",
+    "easy_ko": "",
+    "en": "refraction; bend; curve",
+    "ja": "くっせつ【屈折】",
+    "zh": "屈折，曲折",
+    "vi": "sự uốn cong, sự gập cong",
+    "tl": "repraksyon; liko; kurba",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "33443",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "투명",
+    "definition_ko": "물이나 유리 등이 맑음.",
+    "easy_ko": "",
+    "en": "clarity",
+    "ja": "とうめい【透明】",
+    "zh": "透明",
+    "vi": "sự trong suốt, sự trong vắt",
+    "tl": "kalinawan",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "82936",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소리",
+    "definition_ko": "물체가 진동하여 생긴 음파가 귀에 들리는 것.",
+    "easy_ko": "",
+    "en": "sound; noise",
+    "ja": "おと【音】",
+    "zh": "声音，声，音，动静",
+    "vi": "tiếng, âm thanh",
+    "tl": "tunog; ingay",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62379",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "진동",
+    "definition_ko": "흔들려 움직임.",
+    "easy_ko": "",
+    "en": "vibration",
+    "ja": "しんどう【振動】。バイブレーション",
+    "zh": "振动",
+    "vi": "sự chấn động",
+    "tl": "panginginig",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "28981",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "높낮이",
+    "definition_ko": "높고 낮음. 또는 높거나 낮은 정도.",
+    "easy_ko": "",
+    "en": "height; high and low",
+    "ja": "こうてい【高低】",
+    "zh": "高低",
+    "vi": "độ cao thấp",
+    "tl": "taas; mataas at mababa",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "45286",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소음",
+    "definition_ko": "불쾌하고 시끄러운 소리.",
+    "easy_ko": "",
+    "en": "noise; racket",
+    "ja": "そうおん【騒音】",
+    "zh": "噪音",
+    "vi": "tiếng ồn",
+    "tl": "ingay; raketa",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "49251",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "날씨",
+    "definition_ko": "그날그날의 기온이나 공기 중에 비, 구름, 바람, 안개 등이 나타나는 상태.",
+    "easy_ko": "",
+    "en": "weather",
+    "ja": "てんき【天気】。きこう【気候】。てんこう【天候】。そらもよう【空模様】",
+    "zh": "天气",
+    "vi": "thời tiết",
+    "tl": "panahon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "60630",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "기온",
+    "definition_ko": "대기의 온도.",
+    "easy_ko": "",
+    "en": "air temperature",
+    "ja": "きおん【気温】。おんど【温度】",
+    "zh": "气温",
+    "vi": "nhiệt độ thời tiết, nhiệt độ khí hậu, nhiệt độ không khí",
+    "tl": "temperatura ng hangin",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "38103",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "습도",
+    "definition_ko": "공기 속에 수증기가 포함되어 있는 정도.",
+    "easy_ko": "",
+    "en": "humidity",
+    "ja": "しつど【湿度】",
+    "zh": "湿度",
+    "vi": "độ ẩm",
+    "tl": "halumigmig",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "83455",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "이슬",
+    "definition_ko": "공기 중의 수증기가 기온이 내려가거나 찬 물체에 부딪혀서 한데 뭉치어 생긴 작은 물방울.",
+    "easy_ko": "",
+    "en": "dew",
+    "ja": "つゆ【露】",
+    "zh": "露，露水，露珠",
+    "vi": "sương",
+    "tl": "hamog",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "24868",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "안개",
+    "definition_ko": "땅 가까이에서 수증기가 뭉쳐 아주 작은 물방울들이 부옇게 떠 있는 현상.",
+    "easy_ko": "",
+    "en": "fog; mist; haze",
+    "ja": "きり【霧】",
+    "zh": "雾，雾气",
+    "vi": "sương mù",
+    "tl": "hamog; ambon; hamog na ulap",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "14777",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "구름",
+    "definition_ko": "공기 속의 작은 물방울이나 얼음 알갱이가 한데 뭉쳐 하늘에 떠 있는 것.",
+    "easy_ko": "",
+    "en": "cloud",
+    "ja": "くも【雲】",
+    "zh": "云，云彩",
+    "vi": "đám mây",
+    "tl": "ulap",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "64487",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "비",
+    "definition_ko": "높은 곳에서 구름을 이루고 있던 수증기가 식어서 뭉쳐 떨어지는 물방울.",
+    "easy_ko": "",
+    "en": "rain",
+    "ja": "あめ【雨】",
+    "zh": "雨",
+    "vi": "hạt mưa",
+    "tl": "ulan",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "36681",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "눈",
+    "definition_ko": "사람이나 동물의 얼굴에 있으며 빛의 자극을 받아 물체를 볼 수 있는 감각 기관.",
+    "easy_ko": "",
+    "en": "eye",
+    "ja": "め【目・眼】",
+    "zh": "眼睛",
+    "vi": "mắt",
+    "tl": "mata",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "72704",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "바람",
+    "definition_ko": "기압의 변화 또는 사람이나 기계에 의해 일어나는 공기의 움직임.",
+    "easy_ko": "",
+    "en": "wind",
+    "ja": "かぜ【風】",
+    "zh": "风",
+    "vi": "gió",
+    "tl": "hangin",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "85627",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "태양",
+    "definition_ko": "태양계의 중심에 있으며 온도가 매우 높고 스스로 빛을 내는 항성.",
+    "easy_ko": "",
+    "en": "sun",
+    "ja": "たいよう【太陽】",
+    "zh": "太阳，希望",
+    "vi": "thái dương, mặt trời",
+    "tl": "araw",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "72179",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "달",
+    "definition_ko": "밤이 되면 하늘에 뜨는 동그랗고 밝은 빛이 나는 천체.",
+    "easy_ko": "",
+    "en": "moon",
+    "ja": "つき【月】",
+    "zh": "月，月亮，月球",
+    "vi": "trăng, mặt trăng, vầng trăng",
+    "tl": "buwan",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62266",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "지구",
+    "definition_ko": "현재 인류가 살고 있는, 태양계의 셋째 행성.",
+    "easy_ko": "",
+    "en": "Earth",
+    "ja": "ちきゅう【地球】",
+    "zh": "地球",
+    "vi": "địa cầu, trái đất",
+    "tl": "Daigdig",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62416",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "별자리",
+    "definition_ko": "여러 개의 별들이 이어진 모습에 그와 비슷하게 생긴 동물, 물건, 신화 속 인물의 이름을 붙인 것.",
+    "easy_ko": "",
+    "en": "constellation",
+    "ja": "せいざ【星座】",
+    "zh": "星座，星宿",
+    "vi": "chòm sao",
+    "tl": "konstelasyon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "58955",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "계절",
+    "definition_ko": "일 년을 자연 현상에 따라 봄, 여름, 가을, 겨울로 나눈 것의 한 때.",
+    "easy_ko": "",
+    "en": "season",
+    "ja": "きせつ【季節】",
+    "zh": "季节，季",
+    "vi": "mùa",
+    "tl": "panahon",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "22537",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "행성",
+    "definition_ko": "중심 별이 강하게 끌어당기는 힘 때문에 타원형의 궤도를 그리며 중심 별의 주위를 도는 천체.",
+    "easy_ko": "",
+    "en": "planet",
+    "ja": "わくせい【惑星】",
+    "zh": "行星",
+    "vi": "hành tinh",
+    "tl": "planeta",
+    "subject": "과학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "85038",
+    "filled_by_google": [
+      "tl"
+    ]
+  }
+]

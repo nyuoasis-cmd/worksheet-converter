@@ -1,0 +1,693 @@
+[
+  {
+    "term_ko": "분수",
+    "definition_ko": "사물이나 현상을 분별하는 지혜.",
+    "easy_ko": "",
+    "en": "judgment",
+    "ja": "わきまえ【弁え】。ぶんべつ【分別】",
+    "zh": "分寸",
+    "vi": "sự nhận thức",
+    "tl": "paghatol",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "60871",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "소수",
+    "definition_ko": "일의 자리보다 작은 자리의 값을 가진 수.",
+    "easy_ko": "",
+    "en": "decimal",
+    "ja": "しょうすう【小数】",
+    "zh": "小数",
+    "vi": "số thập phân",
+    "tl": "desimal",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "63601",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "자연수",
+    "definition_ko": "음수와 영을 제외하고 일부터 시작하여 하나씩 더하여 얻는 수.",
+    "easy_ko": "",
+    "en": "natural numbers",
+    "ja": "しぜんすう【自然数】",
+    "zh": "自然数",
+    "vi": "số tự nhiên",
+    "tl": "mga natural na numero",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "73496",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "덧셈",
+    "definition_ko": "수나 식을 더하여 계산함. 또는 그런 셈.",
+    "easy_ko": "",
+    "en": "addition",
+    "ja": "たしざん【足し算】。かほう【加法】",
+    "zh": "加法",
+    "vi": "sự cộng thêm, sự tính thêm, phép cộng",
+    "tl": "karagdagan",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "51337",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "뺄셈",
+    "definition_ko": "수나 식 등을 빼서 계산함. 또는 그런 셈.",
+    "easy_ko": "",
+    "en": "subtraction",
+    "ja": "ひきざん【引き算】。げんぽう【減法】",
+    "zh": "减法",
+    "vi": "sự trừ đi, phép tính trừ",
+    "tl": "pagbabawas",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "61559",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "곱셈",
+    "definition_ko": "수학에서 어떤 수를 곱하여 계산함.",
+    "easy_ko": "",
+    "en": "multiplication",
+    "ja": "かけざん【掛け算】。じょうほう【乗法】",
+    "zh": "乘法",
+    "vi": "phép tính nhân, phép nhân",
+    "tl": "pagpaparami",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "18613",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "나눗셈",
+    "definition_ko": "어떤 수를 다른 수로 나누는 계산 방법.",
+    "easy_ko": "",
+    "en": "division",
+    "ja": "わりざん【割り算】。じょほう【除法】。じょさん【除算】",
+    "zh": "除法",
+    "vi": "phép tính chia",
+    "tl": "paghahati",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "39353",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "몫",
+    "definition_ko": "무엇을 여럿이 나누어 가질 때 각 사람이 가지게 되는 부분.",
+    "easy_ko": "",
+    "en": "share; portion",
+    "ja": "ぶん【分】。わけまえ【分け前】。とりまえ【取り前】。わりまえ【割り前】",
+    "zh": "份，份额",
+    "vi": "phần",
+    "tl": "bahagi",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "56004",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "나머지",
+    "definition_ko": "어떤 양을 채우고 남은 부분.",
+    "easy_ko": "",
+    "en": "the rest; remainder",
+    "ja": "あまり【余り】。よぶん【余分】。のこり【残り】。よじょう【余剰】",
+    "zh": "多余的，额外的",
+    "vi": "phần còn lại, còn lại",
+    "tl": "ang natitira; ang natitira",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "59230",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "배수",
+    "definition_ko": "바다, 강, 호수 등의 물을 뒤에 등지고 있음. 또는 그 물.",
+    "easy_ko": "",
+    "en": "having water in the back",
+    "ja": "はいすい【背水】",
+    "zh": "背水",
+    "vi": "thế lưng tựa nước, nước gối đầu",
+    "tl": "may tubig sa likod",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "59183",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "약수",
+    "definition_ko": "어떤 수를 나머지 없이 나눌 수 있는 수.",
+    "easy_ko": "",
+    "en": "aliquot",
+    "ja": "やくすう【約数】",
+    "zh": "约数",
+    "vi": "số chia hết",
+    "tl": "aliquot",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "66983",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "각도",
+    "definition_ko": "같은 지점에서 시작되는 두 개의 직선이나 평면이 벌어진 정도.",
+    "easy_ko": "",
+    "en": "angle",
+    "ja": "かくど【角度】",
+    "zh": "角，角度",
+    "vi": "độ góc",
+    "tl": "anggulo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "14298",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "직각",
+    "definition_ko": "수학에서, 두 직선이 만나서 이루는 90도의 각.",
+    "easy_ko": "",
+    "en": "right angle",
+    "ja": "ちょっかく【直角】",
+    "zh": "直角",
+    "vi": "góc vuông",
+    "tl": "tamang anggulo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "83449",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "예각",
+    "definition_ko": "90도보다 작은 각.",
+    "easy_ko": "",
+    "en": "acute angle",
+    "ja": "えいかく【鋭角】",
+    "zh": "锐角",
+    "vi": "góc nhọn",
+    "tl": "matalas na anggulo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "68561",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "둔각",
+    "definition_ko": "90도보다는 크고 180도보다는 작은 각.",
+    "easy_ko": "",
+    "en": "obtuse angle",
+    "ja": "どんかく【鈍角】",
+    "zh": "钝角",
+    "vi": "góc tù",
+    "tl": "anggulong mapanglaw",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "48205",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "삼각형",
+    "definition_ko": "세 개의 점을 잇는 세 선분으로 이루어진 도형. 또는 그런 모양.",
+    "easy_ko": "",
+    "en": "triangle",
+    "ja": "さんかくけい・さんかっけい【三角形】",
+    "zh": "三角形",
+    "vi": "hình tam giác",
+    "tl": "tatsulok",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "61844",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "사각형",
+    "definition_ko": "네 개의 선분으로 둘러싸이고 네 개의 각이 있는 평면 도형.",
+    "easy_ko": "",
+    "en": "quadrangle; square",
+    "ja": "しかくけい・しかっけい【四角形】",
+    "zh": "四边形",
+    "vi": "hình tứ giác",
+    "tl": "parisukat",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "61127",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "원",
+    "definition_ko": "한국의 화폐 단위.",
+    "easy_ko": "",
+    "en": "won",
+    "ja": "ウォン",
+    "zh": "韩元，韩币",
+    "vi": "Won",
+    "tl": "nanalo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "27771",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "반지름",
+    "definition_ko": "원이나 구의 중심에서 그 둘레나 면의 한 점까지 이어지는 선분. 또는 그 선분의 길이.",
+    "easy_ko": "",
+    "en": "radius",
+    "ja": "はんけい【半径】",
+    "zh": "半径",
+    "vi": "bán kính",
+    "tl": "radius",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "58101",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "지름",
+    "definition_ko": "원이나 구의 둘레 위의 두 점이 중심을 지나도록 직선으로 이은 선.",
+    "easy_ko": "",
+    "en": "diameter",
+    "ja": "ちょっけい【直径】。さしわたし【差し渡し】",
+    "zh": "直径",
+    "vi": "đường kính",
+    "tl": "diyametro",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "76732",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "둘레",
+    "definition_ko": "사물의 테두리나 주변 부분.",
+    "easy_ko": "",
+    "en": "circumference; periphery",
+    "ja": "周囲",
+    "zh": "周围，边",
+    "vi": "đường vòng quanh",
+    "tl": "paligid",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "50880",
+    "filled_by_google": [
+      "ja",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "넓이",
+    "definition_ko": "어떤 장소나 물건이 차지하는 공간이나 평면의 넓은 정도.",
+    "easy_ko": "",
+    "en": "width",
+    "ja": "ひろさ【広さ】",
+    "zh": "宽度，幅",
+    "vi": "chiều rộng, bề rộng",
+    "tl": "lapad",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "41120",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "평행",
+    "definition_ko": "서로 줄지어 나란히 감.",
+    "easy_ko": "",
+    "en": "going side by side",
+    "ja": "へいこう【並行】",
+    "zh": "并行",
+    "vi": "sự song hành",
+    "tl": "magkatabi",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "83075",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "수직",
+    "definition_ko": "사물이 아래로 곧게 내려가거나 떨어지는 상태.",
+    "easy_ko": "",
+    "en": "being vertical; being straight; being upright",
+    "ja": "すいちょく【垂直】",
+    "zh": "垂直",
+    "vi": "sự thẳng đứng",
+    "tl": "pagiging patayo; pagiging tuwid; pagiging patayo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "65484",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "대칭",
+    "definition_ko": "두 사물이 서로 크기나 모양이 정확히 같아 한 쌍을 이룸.",
+    "easy_ko": "",
+    "en": "symmetry",
+    "ja": "たいしょう【対称】",
+    "zh": "对称",
+    "vi": "sự đối xứng, sự cân đối",
+    "tl": "simetriya",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "46854",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "막대그래프",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "bar graph",
+    "ja": "バーグラフ",
+    "zh": "条形图",
+    "vi": "biểu đồ cột",
+    "tl": "bar graph",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "꺾은선그래프",
+    "definition_ko": "막대그래프의 끝을 꺾어진 선으로 연결하여 나타낸 그래프.",
+    "easy_ko": "",
+    "en": "broken-line graph",
+    "ja": "おれせんグラフ【折れ線グラフ】",
+    "zh": "折线图",
+    "vi": "biểu đồ đường gấp khúc",
+    "tl": "graph na putol-putol ang linya",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "41612",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "표",
+    "definition_ko": "어떤 권리가 있음을 증명하는 쪽지.",
+    "easy_ko": "",
+    "en": "ticket",
+    "ja": "きっぷ【切符】。けん【券】。チケット",
+    "zh": "票，券",
+    "vi": "vé, tấm vé",
+    "tl": "tiket",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "71353",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "들이",
+    "definition_ko": "‘몹시’, ‘마구’, ‘갑자기’의 뜻을 더하는 접두사.",
+    "easy_ko": "",
+    "en": "deuri-",
+    "ja": "入り",
+    "zh": "他们是",
+    "vi": "bỗng, loạn xạ",
+    "tl": "deuri-",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "74907",
+    "filled_by_google": [
+      "ja",
+      "zh",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "무게",
+    "definition_ko": "물건의 무거운 정도.",
+    "easy_ko": "",
+    "en": "weight",
+    "ja": "おもさ【重さ】。めかた【目方】。じゅうりょう【重量】",
+    "zh": "重量",
+    "vi": "độ nặng, trọng lượng",
+    "tl": "timbang",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "54870",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "시간",
+    "definition_ko": "어떤 때에서 다른 때까지의 동안.",
+    "easy_ko": "",
+    "en": "time",
+    "ja": "じかん【時間】",
+    "zh": "时间",
+    "vi": "thời gian",
+    "tl": "oras",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62841",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "킬로그램",
+    "definition_ko": "무게의 단위.",
+    "easy_ko": "",
+    "en": "kilogram",
+    "ja": "キログラム。キロ",
+    "zh": "公斤",
+    "vi": "kí lô gam",
+    "tl": "kilo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "72176",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "리터",
+    "definition_ko": "주로 기체나 액체의 양을 재는 부피의 단위.",
+    "easy_ko": "",
+    "en": "liter",
+    "ja": "リットル",
+    "zh": "升",
+    "vi": "lít",
+    "tl": "litro",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "50142",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "평면도형",
+    "definition_ko": "평면에 그려진 도형.",
+    "easy_ko": "",
+    "en": "plane figure",
+    "ja": "へいめんずけい【平面図形】",
+    "zh": "平面图形",
+    "vi": "hình phẳng",
+    "tl": "pigura ng eroplano",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "81148",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "입체도형",
+    "definition_ko": "각기둥이나 각뿔, 구 등과 같이 삼차원의 공간에서 부피를 가지는 도형.",
+    "easy_ko": "",
+    "en": "solid figure; three-dimensional figure",
+    "ja": "りったいずけい【立体図形】。くうかんずけい【空間図形】",
+    "zh": "立体图形",
+    "vi": "hình lập thể",
+    "tl": "matibay na pigura; tatlong-dimensyonal na pigura",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "73595",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "직육면체",
+    "definition_ko": "여섯 개의 직사각형으로 둘러싸이고, 마주 보는 면이 모두 나란한 육면체.",
+    "easy_ko": "",
+    "en": "rectangular parallelepiped",
+    "ja": "ちょくろくめんたい【直六面体】。ちょくほうたい【直方体】。ちょうほうたい【長方体】",
+    "zh": "正六面体，长方体",
+    "vi": "hình hộp chữ nhật",
+    "tl": "parihabang paralelopiped",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "76801",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "정육면체",
+    "definition_ko": "크기와 모양이 같은 여섯 개의 정사각형으로 이루어진 정다면체.",
+    "easy_ko": "",
+    "en": "regular hexahedron; cube",
+    "ja": "せいろくめんたい【正六面体】。りっぽうたい【立方体】",
+    "zh": "正六面体",
+    "vi": "khối lục giác đều",
+    "tl": "regular na heksahedrona; kubo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "75879",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "수직선",
+    "definition_ko": "",
+    "easy_ko": "",
+    "en": "vertical",
+    "ja": "縦線",
+    "zh": "垂直的",
+    "vi": "thẳng đứng",
+    "tl": "patayo",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "",
+    "filled_by_google": [
+      "en",
+      "ja",
+      "zh",
+      "vi",
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "크기",
+    "definition_ko": "사물의 부피, 넓이, 양 등이 큰 정도.",
+    "easy_ko": "",
+    "en": "size",
+    "ja": "おおきさ【大きさ】。サイズ",
+    "zh": "大小，高矮，高低",
+    "vi": "độ lớn, kích cỡ",
+    "tl": "laki",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "62458",
+    "filled_by_google": [
+      "tl"
+    ]
+  },
+  {
+    "term_ko": "단위",
+    "definition_ko": "미터, 리터, 그램과 같이 길이, 양, 무게 등을 수로 나타낼 때 기초가 되는 기준.",
+    "easy_ko": "",
+    "en": "unit",
+    "ja": "たんい【単位】",
+    "zh": "单位",
+    "vi": "đơn vị",
+    "tl": "yunit",
+    "subject": "수학",
+    "grade": "3-4",
+    "source": "krdict",
+    "krdict_target_code": "28374",
+    "filled_by_google": [
+      "tl"
+    ]
+  }
+]

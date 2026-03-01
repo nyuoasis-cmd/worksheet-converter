@@ -1,0 +1,694 @@
+[
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "1) 나눗셈",
+    "concepts": [
+      {
+        "concept": "나눗셈",
+        "easy_explanation": "어떤 수를 똑같이 나누는 계산",
+        "related_terms": []
+      },
+      {
+        "concept": "나누기",
+        "easy_explanation": "어떤 수를 똑같이 가르는 행위",
+        "related_terms": []
+      },
+      {
+        "concept": "나눗셈식",
+        "easy_explanation": "나눗셈을 기호로 나타낸 식",
+        "related_terms": [
+          "나눗셈"
+        ]
+      },
+      {
+        "concept": "몫",
+        "easy_explanation": "나눗셈에서 똑같이 나눈 결과",
+        "related_terms": [
+          "나눗셈"
+        ]
+      },
+      {
+        "concept": "나누는 수",
+        "easy_explanation": "나눗셈에서 어떤 수를 똑같이 나누는 데 사용되는 수",
+        "related_terms": [
+          "나눗셈"
+        ]
+      },
+      {
+        "concept": "나눠지는 수",
+        "easy_explanation": "나눗셈에서 똑같이 나누어지는 대상이 되는 수",
+        "related_terms": [
+          "나눗셈"
+        ]
+      },
+      {
+        "concept": "나머지",
+        "easy_explanation": "나눗셈에서 나누고 남은 수",
+        "related_terms": [
+          "나눗셈"
+        ]
+      },
+      {
+        "concept": "나누어떨어진다",
+        "easy_explanation": "나머지가 0일 때",
+        "related_terms": [
+          "나머지"
+        ]
+      },
+      {
+        "concept": "검산",
+        "easy_explanation": "나누는 수와 몫의 곱에 나머지를 더해서 나눠지는 수와 같으면 나눗셈을 맞게 한 것입니다.",
+        "related_terms": [
+          "나눗셈",
+          "나누는 수",
+          "나머지",
+          "나눠지는 수",
+          "몫"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "2) 분수",
+    "concepts": [
+      {
+        "concept": "똑같이 나누다",
+        "easy_explanation": "어떤 것을 같은 크기나 양으로 나누는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "전체, 부분",
+        "easy_explanation": "어떤 것의 모든 것을 '전체'라고 하고, 전체를 이루는 하나하나를 '부분'이라고 합니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "분수",
+        "easy_explanation": "전체를 똑같이 나눈 것 중의 얼마를 나타내는 수",
+        "related_terms": []
+      },
+      {
+        "concept": "분모, 분자",
+        "easy_explanation": "분수에서 아래에 있는 수를 분모, 위에 있는 수를 분자라고 합니다.",
+        "related_terms": [
+          "분수"
+        ]
+      },
+      {
+        "concept": "단위분수",
+        "easy_explanation": "분자가 1인 분수",
+        "related_terms": [
+          "분수"
+        ]
+      },
+      {
+        "concept": "진분수",
+        "easy_explanation": "분자가 분모보다 작은 분수",
+        "related_terms": [
+          "분수"
+        ]
+      },
+      {
+        "concept": "가분수",
+        "easy_explanation": "분자가 분모와 같거나, 분자가 분모보다 큰 분수",
+        "related_terms": [
+          "분수"
+        ]
+      },
+      {
+        "concept": "자연수",
+        "easy_explanation": "1, 2, 3...과 같은 수",
+        "related_terms": []
+      },
+      {
+        "concept": "대분수",
+        "easy_explanation": "자연수와 진분수로 이루어진 분수",
+        "related_terms": [
+          "진분수",
+          "분수",
+          "자연수"
+        ]
+      },
+      {
+        "concept": "소수",
+        "easy_explanation": "0.1(영점 일), 0.4(영점 사), 7.4(칠점 사)와 같은 수",
+        "related_terms": []
+      },
+      {
+        "concept": "소수점",
+        "easy_explanation": "소수에서 정수 부분과 소수 부분을 나누는 점",
+        "related_terms": [
+          "소수"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "3) 소수",
+    "concepts": [
+      {
+        "concept": "영점 영일",
+        "easy_explanation": "전체의 크기를 1이라고 할 때, 똑같이 100으로 나눈 모눈 한 칸의 크기",
+        "related_terms": []
+      },
+      {
+        "concept": "소수 두 자리 수",
+        "easy_explanation": "소수점 아래 두 자리까지 나타내는 수",
+        "related_terms": [
+          "소수",
+          "소수점"
+        ]
+      },
+      {
+        "concept": "영점 영영일",
+        "easy_explanation": "전체의 크기를 1이라고 할 때, 똑같이 1000으로 나눈 것 중 1의 크기",
+        "related_terms": []
+      },
+      {
+        "concept": "소수 세 자리 수",
+        "easy_explanation": "소수점 아래 세 자리까지 나타내는 수",
+        "related_terms": [
+          "소수",
+          "소수점"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "4) 큰 수",
+    "concepts": [
+      {
+        "concept": "만",
+        "easy_explanation": "10000 또는 일만",
+        "related_terms": []
+      },
+      {
+        "concept": "다섯 자리 수",
+        "easy_explanation": "다섯 개의 숫자로 이루어진 수",
+        "related_terms": []
+      },
+      {
+        "concept": "십만, 백만, 천만",
+        "easy_explanation": "십만은 100000 (10만), 백만은 1000000 (100만), 천만은 10000000 (1000만)입니다.",
+        "related_terms": [
+          "만"
+        ]
+      },
+      {
+        "concept": "억",
+        "easy_explanation": "억은 100000000 (1억)이며, 1000만이 10개 모인 수입니다.",
+        "related_terms": [
+          "만"
+        ]
+      },
+      {
+        "concept": "십억, 백억, 천억",
+        "easy_explanation": "십억은 1억이 10개, 백억은 1억이 100개, 천억은 1억이 1000개 모인 수입니다.",
+        "related_terms": [
+          "억"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "1) 도형의 기초",
+    "concepts": [
+      {
+        "concept": "선분",
+        "easy_explanation": "두 점을 곧게 이은 선",
+        "related_terms": []
+      },
+      {
+        "concept": "반직선",
+        "easy_explanation": "선분을 한쪽으로 끝없이 늘인 곧은 선",
+        "related_terms": [
+          "선분"
+        ]
+      },
+      {
+        "concept": "직선",
+        "easy_explanation": "선분을 양쪽으로 끝없이 늘인 곧은 선",
+        "related_terms": [
+          "선분"
+        ]
+      },
+      {
+        "concept": "수직",
+        "easy_explanation": "직각으로 만나는 두 직선",
+        "related_terms": [
+          "각",
+          "만",
+          "직선",
+          "직각"
+        ]
+      },
+      {
+        "concept": "수선",
+        "easy_explanation": "어떤 직선에 수직인 다른 직선",
+        "related_terms": [
+          "직선",
+          "수직"
+        ]
+      },
+      {
+        "concept": "평행",
+        "easy_explanation": "서로 만나지 않는 두 직선",
+        "related_terms": [
+          "만",
+          "직선"
+        ]
+      },
+      {
+        "concept": "평행선",
+        "easy_explanation": "서로 평행한 두 직선",
+        "related_terms": [
+          "직선",
+          "평행"
+        ]
+      },
+      {
+        "concept": "평행선 사이의 거리",
+        "easy_explanation": "평행한 두 선분이나 직선 사이의 거리",
+        "related_terms": [
+          "직선",
+          "평행",
+          "선분"
+        ]
+      },
+      {
+        "concept": "서로 만나다",
+        "easy_explanation": "두 선분이나 직선이 한 점에서 만나는 것",
+        "related_terms": [
+          "만",
+          "직선",
+          "선분"
+        ]
+      },
+      {
+        "concept": "이웃하다",
+        "easy_explanation": "도형에서 서로 옆에 있는 변, 각, 꼭짓점",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "마주 보다",
+        "easy_explanation": "도형에서 서로 반대편에 있는 변, 각, 꼭짓점",
+        "related_terms": [
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "2) 각",
+    "concepts": [
+      {
+        "concept": "각",
+        "easy_explanation": "한 점에서 그은 두 반직선으로 이루어진 도형",
+        "related_terms": [
+          "반직선",
+          "직선"
+        ]
+      },
+      {
+        "concept": "직각",
+        "easy_explanation": "종이를 반듯하게 두 번 접었다 펼쳤을 때 생기는 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "삼각자",
+        "easy_explanation": "직각을 그릴 때 사용하는 도구",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      },
+      {
+        "concept": "예각",
+        "easy_explanation": "직각보다 작은 각",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      },
+      {
+        "concept": "둔각",
+        "easy_explanation": "직각보다 크고 180°보다 작은 각",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      },
+      {
+        "concept": "밀기",
+        "easy_explanation": "모양을 밀어 보세요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "3) 도형의 이동",
+    "concepts": [
+      {
+        "concept": "뒤집기",
+        "easy_explanation": "모양을 좌우 또는 상하로 뒤집는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "돌리기",
+        "easy_explanation": "도형을 시계방향으로 직각만큼, 직각의 2배만큼, 직각의 3배만큼, 한 바퀴 돌리는 것",
+        "related_terms": [
+          "각",
+          "만",
+          "직각"
+        ]
+      },
+      {
+        "concept": "원의 중심",
+        "easy_explanation": "원을 그릴 때 컴퍼스의 침이 고정되는 점",
+        "related_terms": [
+          "컴퍼스"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "4) 원",
+    "concepts": [
+      {
+        "concept": "반지름",
+        "easy_explanation": "원의 중심과 원 위의 한 점을 이은 선분",
+        "related_terms": [
+          "원의 중심",
+          "선분"
+        ]
+      },
+      {
+        "concept": "지름",
+        "easy_explanation": "원 위의 두 점을 이은 선분 중 원의 중심을 지나는 선분",
+        "related_terms": [
+          "원의 중심",
+          "선분"
+        ]
+      },
+      {
+        "concept": "컴퍼스",
+        "easy_explanation": "원을 그리는 데 사용하는 도구",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "5) 삼각형",
+    "concepts": [
+      {
+        "concept": "이등변삼각형",
+        "easy_explanation": "두 변의 길이가 같은 삼각형",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "정삼각형",
+        "easy_explanation": "세 변의 길이가 같은 삼각형",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "직각삼각형",
+        "easy_explanation": "한 각이 직각인 삼각형",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      },
+      {
+        "concept": "예각삼각형",
+        "easy_explanation": "세 각이 모두 예각인 삼각형",
+        "related_terms": [
+          "각",
+          "예각"
+        ]
+      },
+      {
+        "concept": "둔각삼각형",
+        "easy_explanation": "한 각이 둔각인 삼각형",
+        "related_terms": [
+          "각",
+          "둔각"
+        ]
+      },
+      {
+        "concept": "직사각형",
+        "easy_explanation": "네 각이 모두 직각인 사각형",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      },
+      {
+        "concept": "정사각형",
+        "easy_explanation": "네 각이 모두 직각이고 네 변의 길이가 모두 같은 사각형",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "6) 사각형",
+    "concepts": [
+      {
+        "concept": "사다리꼴",
+        "easy_explanation": "평행한 변이 있는 사각형",
+        "related_terms": [
+          "각",
+          "평행"
+        ]
+      },
+      {
+        "concept": "평행사변형",
+        "easy_explanation": "마주 보는 두 쌍의 변이 서로 평행한 사각형",
+        "related_terms": [
+          "각",
+          "평행"
+        ]
+      },
+      {
+        "concept": "마름모",
+        "easy_explanation": "네 변의 길이가 모두 같은 사각형",
+        "related_terms": [
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "7) 다각형",
+    "concepts": [
+      {
+        "concept": "다각형",
+        "easy_explanation": "선분으로만 둘러싸인 도형",
+        "related_terms": [
+          "만",
+          "선분"
+        ]
+      },
+      {
+        "concept": "정다각형",
+        "easy_explanation": "변의 길이가 모두 같고 각의 크기가 모두 같은 다각형",
+        "related_terms": [
+          "각",
+          "다각형"
+        ]
+      },
+      {
+        "concept": "대각선",
+        "easy_explanation": "다각형에서 이웃하지 않는 꼭짓점을 이은 선분",
+        "related_terms": [
+          "각",
+          "다각형",
+          "선분"
+        ]
+      },
+      {
+        "concept": "평면도형",
+        "easy_explanation": "평면도형을 찾아보세요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "1) 시각과 시간",
+    "concepts": [
+      {
+        "concept": "초바늘",
+        "easy_explanation": "시계에서 초를 나타내는 바늘",
+        "related_terms": [
+          "초"
+        ]
+      },
+      {
+        "concept": "초",
+        "easy_explanation": "초바늘이 작은 눈금 한 칸을 지나는 데 걸리는 시간",
+        "related_terms": [
+          "초바늘"
+        ]
+      },
+      {
+        "concept": "각도",
+        "easy_explanation": "각의 변이 벌어진 정도, 각의 크기",
+        "related_terms": [
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "2) 각도",
+    "concepts": [
+      {
+        "concept": "각도기",
+        "easy_explanation": "각도를 재는 도구",
+        "related_terms": [
+          "각",
+          "각도"
+        ]
+      },
+      {
+        "concept": "도(°)",
+        "easy_explanation": "직각을 90으로 똑같이 나눈 하나",
+        "related_terms": [
+          "각",
+          "직각"
+        ]
+      },
+      {
+        "concept": "밀리미터(mm)",
+        "easy_explanation": "1cm를 10칸으로 똑같이 나눈 작은 눈금 한 칸의 길이",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "3) 길이",
+    "concepts": [
+      {
+        "concept": "킬로미터(km)",
+        "easy_explanation": "킬로미터를 알아보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "들이",
+        "easy_explanation": "그릇의 들이를 비교해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "밀리리터(mL)",
+        "easy_explanation": "들이를 재어 보세요.",
+        "related_terms": [
+          "들이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "4) 들이",
+    "concepts": [
+      {
+        "concept": "리터(L)",
+        "easy_explanation": "들이를 나타내는 단위 (1L = 1000mL)",
+        "related_terms": [
+          "들이"
+        ]
+      },
+      {
+        "concept": "그램(g)",
+        "easy_explanation": "무게를 나타내는 단위",
+        "related_terms": []
+      },
+      {
+        "concept": "킬로그램(kg)",
+        "easy_explanation": "그램보다 큰 무게를 나타내는 단위 (1kg = 1000g)",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "5) 무게",
+    "concepts": [
+      {
+        "concept": "톤(t)",
+        "easy_explanation": "무게의 단위로, 1000kg과 같습니다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "1) 그래프",
+    "concepts": [
+      {
+        "concept": "그림그래프",
+        "easy_explanation": "데이터를 그림으로 나타낸 그래프",
+        "related_terms": []
+      },
+      {
+        "concept": "막대그래프",
+        "easy_explanation": "데이터를 막대 모양으로 나타낸 그래프",
+        "related_terms": []
+      },
+      {
+        "concept": "꺾은선그래프",
+        "easy_explanation": "시간에 따른 변화를 점으로 표시하고 선으로 이은 그래프",
+        "related_terms": []
+      },
+      {
+        "concept": "그래프의 눈금",
+        "easy_explanation": "그래프에서 한 칸이 나타내는 값의 크기",
+        "related_terms": []
+      },
+      {
+        "concept": "물결선",
+        "easy_explanation": "그래프의 값이 0에서 시작하지 않고 큰 값부터 시작할 때, 그래프를 짧게 줄여서 나타내는 선",
+        "related_terms": []
+      }
+    ]
+  }
+]
