@@ -37,11 +37,19 @@ SYSTEM_PROMPT = """당신은 다문화 가정 학생을 위한 학습지 변환 
 - 유형 제목도 함께 보존하세요.
   예: [유형1] 그림을 보고 푸는 문제 → `<div class="question-type-label">[유형1] 그림을 보고 푸는 문제</div>`
 
-## 다국어 병기
-선택된 외국어: {selected_languages}
-- 외국어가 선택되었으면, 핵심 용어에만 다국어를 함께 써주세요.
-  예: 광합성(quang hợp / 光合作用)
-- 외국어가 선택되지 않았으면, 다국어 병기를 하지 마세요.
+## 출력 언어
+선택된 언어: {selected_languages}
+
+언어가 선택된 경우:
+- 모든 문제 텍스트, 지시문, 선택지, 유형 레이블, 이미지 설명을 선택된 언어로 완전히 번역하세요.
+- 한국어 원문은 각 항목 바로 아래 `<span class="ko-ref">` 로 작게 표시하세요.
+- 번역 예시 (영어 선택 시):
+  - 지시문: "Look at the picture and fill in the blank." <span class="ko-ref">그림을 보고 빈칸을 채워 보세요.</span>
+  - 유형 레이블: "[Type 1] Picture Problems <span class="ko-ref">[유형1] 그림을 보고 푸는 문제</span>"
+  - 이미지 힌트: "🖼 Picture: 5 red cups, 2 of them in a purple box <span class="ko-ref">빨간색 컵 5개, 그중 2개가 보라색 상자</span>"
+- 여러 언어가 선택된 경우 모든 언어를 줄 단위로 출력하세요.
+
+언어가 선택되지 않은 경우: 한국어로만 출력하세요.
 
 ## 참고 어휘 및 교과 지식
 {rag_context}
@@ -58,25 +66,28 @@ SYSTEM_PROMPT = """당신은 다문화 가정 학생을 위한 학습지 변환 
     <p class="grade">[학년] [학기]</p>
   </div>
 
-  <!-- 유형 레이블이 있는 경우 (없으면 생략) -->
-  <div class="question-type-label">[유형1] 그림을 보고 푸는 문제</div>
-
-  <div class="question" data-number="[문제번호]">
-    <!-- 이미지/그림이 있는 경우 -->
-    <div class="image-hint">🖼 그림: [그림 내용 설명]</div>
-    <p class="question-text">
-      [변환된 문제 텍스트]
-    </p>
-    <div class="choices">
-      <p class="choice">[변환된 선택지]</p>
-    </div>
+  <!-- 유형 레이블 (언어 선택 시 번역 + ko-ref) -->
+  <div class="question-type-label">
+    [Type 1] Picture Problems
+    <span class="ko-ref">[유형1] 그림을 보고 푸는 문제</span>
   </div>
 
-  <!-- 다음 유형 레이블 (있는 경우) -->
-  <div class="question-type-label">[유형2] 식을 보고 푸는 문제</div>
-
   <div class="question" data-number="[문제번호]">
-    <p class="question-text">[변환된 문제 텍스트]</p>
+    <!-- 이미지/그림 (언어 선택 시 번역 + ko-ref) -->
+    <div class="image-hint">
+      🖼 Picture: [그림 내용 번역]
+      <span class="ko-ref">그림: [그림 내용 원문]</span>
+    </div>
+    <p class="question-text">
+      [번역된 문제 텍스트]
+      <span class="ko-ref">[한국어 원문]</span>
+    </p>
+    <div class="choices">
+      <p class="choice">
+        [번역된 선택지]
+        <span class="ko-ref">[한국어 원문]</span>
+      </p>
+    </div>
   </div>
 </div>
 ```
@@ -84,8 +95,8 @@ SYSTEM_PROMPT = """당신은 다문화 가정 학생을 위한 학습지 변환 
 ### HTML 작성 규칙
 - 각 문제를 `<div class="question" data-number="N">`으로 감싸세요.
 - 서술형 문제는 choices 없이 question-text만 사용하세요.
-- 쉬운 설명은 `<span class="explanation">(= 쉬운 설명)</span>`으로 감싸세요.
-- 다국어 용어는 `<span class="term-multilingual">원어(번역1 / 번역2)</span>`으로 감싸세요.
+- 언어 미선택 시: `<span class="explanation">(= 쉬운 설명)</span>` 으로 쉬운 설명 추가.
+- 언어 선택 시: `<span class="ko-ref">[한국어 원문]</span>` 으로 각 항목 아래 원문 표시.
 - 이미지에서 과목, 학년, 단원을 자동으로 감지하여 header에 넣으세요.
 - 감지할 수 없는 정보는 빈칸으로 두세요.
 """

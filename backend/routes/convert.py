@@ -155,6 +155,9 @@ def _wrap_html_for_pdf(body_html: str) -> str:
   .choice {{ margin-bottom: 4px; }}
   .explanation {{ color: #2563eb; }}
   .term-multilingual {{ color: #7c3aed; font-weight: 500; }}
+  .ko-ref {{ display: block; font-size: 11px; color: #94A3B8; margin-top: 1px; }}
+  .question-type-label .ko-ref {{ display: inline; margin-left: 6px; font-weight: 400; }}
+  .image-hint .ko-ref {{ display: inline; margin-left: 4px; }}
 </style>
 </head>
 <body>{body_html}</body>
