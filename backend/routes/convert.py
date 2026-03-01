@@ -147,7 +147,9 @@ def _wrap_html_for_pdf(body_html: str) -> str:
   body {{ font-family: 'Noto Sans KR', sans-serif; margin: 20mm; font-size: 14px; line-height: 1.6; }}
   .worksheet-header h1 {{ font-size: 20px; margin-bottom: 4px; }}
   .worksheet-header .grade {{ color: #666; margin-bottom: 16px; }}
-  .question {{ margin-bottom: 20px; page-break-inside: avoid; }}
+  .question-type-label {{ font-size: 13px; font-weight: 700; color: #1E40AF; background: #EFF6FF; border-left: 3px solid #3B82F6; padding: 5px 12px; margin: 16px 0 8px; border-radius: 0 4px 4px 0; }}
+  .question {{ margin-bottom: 18px; page-break-inside: avoid; }}
+  .image-hint {{ font-size: 12px; color: #7C3AED; background: #F5F3FF; border: 1px solid #DDD6FE; border-radius: 6px; padding: 6px 12px; margin-bottom: 8px; }}
   .question-text {{ margin-bottom: 8px; }}
   .choices {{ margin-left: 20px; }}
   .choice {{ margin-bottom: 4px; }}
