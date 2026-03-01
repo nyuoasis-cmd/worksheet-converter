@@ -2,6 +2,7 @@
 
 import io
 
+import requests as req_lib
 from flask import Blueprint, request, jsonify
 
 from backend.config import MAX_IMAGE_SIZE_MB, ALLOWED_EXTENSIONS
@@ -109,7 +110,10 @@ def convert_pdf():
     try:
         from weasyprint import HTML as WeasyprintHTML
 
-        pdf_bytes = WeasyprintHTML(string=_wrap_html_for_pdf(data["html"])).write_pdf()
+        pdf_bytes = WeasyprintHTML(
+            string=_wrap_html_for_pdf(data["html"]),
+            url_fetcher=_weasyprint_url_fetcher,
+        ).write_pdf()
         return (
             pdf_bytes,
             200,
@@ -137,21 +141,44 @@ def convert_hwpx():
     return jsonify({"error": "HWPX 변환은 아직 구현되지 않았습니다."}), 501
 
 
+def _weasyprint_url_fetcher(url: str, timeout: int = 15) -> dict:
+    """WeasyPrint용 URL fetcher — Google Fonts에 브라우저 User-Agent를 사용해 올바른 폰트 CSS를 받는다."""
+    headers = {}
+    if "fonts.googleapis.com" in url or "fonts.gstatic.com" in url:
+        headers["User-Agent"] = (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+    try:
+        resp = req_lib.get(url, headers=headers, timeout=timeout)
+        mime_type = resp.headers.get("Content-Type", "application/octet-stream").split(";")[0].strip()
+        return {"string": resp.content, "mime_type": mime_type, "encoding": resp.apparent_encoding}
+    except Exception:
+        from weasyprint.urls import default_url_fetcher
+        return default_url_fetcher(url)
+
+
 def _wrap_html_for_pdf(body_html: str) -> str:
     """HTML 본문을 PDF용 전체 문서로 감싼다."""
     return f"""<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&family=Noto+Sans+JP:wght@400;700" rel="stylesheet">
 <style>
   @font-face {{
     font-family: 'Noto Sans KR';
     src: local('Noto Sans CJK KR'), local('NotoSansCJKkr-Regular'), local('NotoSansKR-Regular');
   }}
-  body {{ font-family: 'Noto Sans KR', 'Noto Sans CJK KR', 'UnDotum', sans-serif; margin: 20mm; font-size: 14px; line-height: 1.6; }}
+  @font-face {{
+    font-family: 'Noto Sans JP';
+    src: local('Noto Sans CJK JP'), local('NotoSansCJKjp-Regular'), local('NotoSansJP-Regular');
+  }}
+  body {{ font-family: 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'UnDotum', sans-serif; margin: 20mm; font-size: 14px; line-height: 1.6; }}
+  .worksheet-header {{ page-break-after: avoid; margin-bottom: 16px; }}
+  .worksheet-header + * {{ page-break-before: avoid; }}
   .worksheet-header h1 {{ font-size: 20px; margin-bottom: 4px; }}
-  .worksheet-header .grade {{ color: #666; margin-bottom: 16px; }}
+  .worksheet-header .grade {{ color: #666; margin-bottom: 0; }}
   .question-type-label {{ font-size: 13px; font-weight: 700; color: #1E40AF; background: #EFF6FF; border-left: 3px solid #3B82F6; padding: 5px 12px; margin: 16px 0 8px; border-radius: 0 4px 4px 0; }}
   .question {{ margin-bottom: 18px; page-break-inside: avoid; }}
   .image-hint {{ font-size: 12px; color: #7C3AED; background: #F5F3FF; border: 1px solid #DDD6FE; border-radius: 6px; padding: 6px 12px; margin-bottom: 8px; }}

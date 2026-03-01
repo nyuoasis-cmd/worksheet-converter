@@ -71,4 +71,7 @@ def convert_worksheet(
     html = re.sub(r"^```html\s*", "", html.strip())
     html = re.sub(r"\s*```$", "", html.strip())
 
+    # Gemini가 HTML 안에 **bold** 마크다운을 출력하는 경우 변환
+    html = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", html)
+
     return html
