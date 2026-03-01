@@ -111,5 +111,53 @@ node tests/render-html-to-png.mjs
 ```
 PNG를 Read 도구로 열어 직접 확인: 레이아웃, 폰트, ko-ref 스타일, 이미지 힌트 박스.
 
+## 자동화 파이프라인 (생성 ↔ 검증 루프)
+
+verify/ 폴더에 이미지를 넣으면 자동으로 변환 → 검증 → 재시도 루프를 실행한다.
+
+### 사용법
+
+```bash
+# 1. 이미지를 verify/ 폴더에 넣기
+cp "학습지.png" /home/claude/worksheet-converter/verify/
+
+# 2. (선택) 메타데이터 지정 — 사이드카 JSON
+# 없으면 기본값: languages="zh", difficulty="쉬움"
+echo '{"languages": "ja", "subject": "과학", "grade_group": "중1"}' > verify/학습지.json
+
+# 3. 파이프라인 실행
+python3 scripts/auto_pipeline.py            # 전체 이미지
+python3 scripts/auto_pipeline.py "학습지.png"  # 특정 파일
+
+# 4. 결과 확인
+ls verify/output/
+# → 학습지.html, 학습지.png, 학습지_report.json
+```
+
+### 파이프라인 단계
+
+```
+이미지 → [Step 1] Gemini 변환 → HTML
+       → [Step 2] 구조 검증 (5항목)
+       → [Step 3] PNG 렌더링 (Puppeteer)
+       → [Step 4] 시각 검증 (Gemini Vision, 5항목)
+       → FAIL 시 에러 피드백 포함하여 Step 1로 (최대 3회)
+```
+
+### 시각 검증 항목 (verify_visual.py)
+1. text_overflow — 텍스트 영역 밖 넘침
+2. diagram_covered — 다이어그램 가려짐
+3. blank_preserved — 빈칸(□) 보존
+4. font_readability — 텍스트 가독성
+5. layout_integrity — 레이아웃 보존
+
+### 파이프라인 핵심 파일
+| 파일 | 역할 |
+|------|------|
+| scripts/auto_pipeline.py | 오케스트레이션 메인 |
+| tests/verify_visual.py | Gemini Vision 시각 검증 |
+| tests/verify_output.py | HTML 구조 검증 5단계 |
+| tests/render-html-to-png.mjs | HTML→PNG 렌더링 |
+
 ## 실수 목록 (발견되면 여기에 추가)
 - (아직 없음 — 작업 중 실수 발견 시 이 CLAUDE.md에 기록할 것)

@@ -4,3 +4,8 @@ __pycache__/
 data/ebooks/
 data/edu4mc/
 tests/results/
+verify/output/
+verify/*.png
+verify/*.jpg
+verify/*.jpeg
+verify/*.webp
