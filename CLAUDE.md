@@ -84,5 +84,32 @@ const SUPPORTED_LANGUAGES = [
 
 ⚠️ 자기 영역 외 폴더는 절대 건드리지 마라.
 
+## 자동 검증 파이프라인
+
+코드 수정 후 반드시 3단계를 순서대로 실행한다.
+
+### Step 1: 테스트 실행
+```bash
+python3 tests/run_convert_test.py
+```
+3개 테스트 케이스 전부 OK 필수. FAIL 시 즉시 수정.
+
+### Step 2: HTML 구조 검증
+```bash
+python3 tests/verify_output.py
+```
+검증 항목 5가지:
+1. 필수 클래스 존재 (.worksheet, .worksheet-header, .question, .question-text)
+2. 문제 번호 연속성 (data-number="1", "2", ... 빠짐 없이)
+3. 다국어 모드: languages 있으면 term-multilingual 존재 필수
+4. 이미지 레이블 언어 매칭 (zh→图, ja→図, vi→Hình, en→Picture, fil→Larawan)
+5. 마크다운 잔재(**bold**) 미검출
+
+### Step 3: 시각 검증
+```bash
+node tests/render-html-to-png.mjs
+```
+PNG를 Read 도구로 열어 직접 확인: 레이아웃, 폰트, ko-ref 스타일, 이미지 힌트 박스.
+
 ## 실수 목록 (발견되면 여기에 추가)
 - (아직 없음 — 작업 중 실수 발견 시 이 CLAUDE.md에 기록할 것)

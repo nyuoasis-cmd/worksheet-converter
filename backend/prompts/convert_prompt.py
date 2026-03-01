@@ -23,6 +23,7 @@ SYSTEM_PROMPT = """당신은 다문화 가정 학생을 위한 학습지 변환 
   - 이미지: 🖼 Picture: 5 apples <span class="ko-ref">그림: 사과 5개</span>
   - 문장: Sujin had 5 apples. <span class="ko-ref">수진이는 사과를 5개 가지고 있었어요.</span>
 - 여러 언어가 선택된 경우 각 언어별로 줄 단위로 출력하세요.
+- 다국어 용어 나열 시 번역이 없는 언어는 절대 빈 괄호 `( )` 로 남기지 마세요. 해당 언어를 생략하세요.
 
 **언어가 선택되지 않은 경우 — 쉬운 한국어로 출력:**
 - 어려운 단어 뒤에 `<span class="explanation">(= 쉬운 설명)</span>` 으로 쉬운 설명을 추가하세요.
