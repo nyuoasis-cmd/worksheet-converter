@@ -41,7 +41,10 @@
       {
         "concept": "기후도, 등온선",
         "easy_explanation": "기후도: 넓은 지역에 걸쳐 기후의 분포를 나타낸 지도; 등온선: 기온이 같은 곳을 연결하여 이은 선",
-        "related_terms": []
+        "related_terms": [
+          "등온선",
+          "기후도"
+        ]
       },
       {
         "concept": "강수량",
@@ -56,6 +59,16 @@
       {
         "concept": "생활권",
         "easy_explanation": "통학, 통근 등과 같이 사람들이 일상생활을 할 때 활동하는 범위",
+        "related_terms": []
+      },
+      {
+        "concept": "기후도",
+        "easy_explanation": "넓은 지역에 걸쳐 기후의 분포를 나타낸 지도",
+        "related_terms": []
+      },
+      {
+        "concept": "등온선",
+        "easy_explanation": "기온이 같은 곳을 연결하여 이은 선",
         "related_terms": []
       }
     ]
@@ -88,6 +101,16 @@
       {
         "concept": "에너지 소비량",
         "easy_explanation": "에너지를 사용한 정도",
+        "related_terms": []
+      },
+      {
+        "concept": "황사",
+        "easy_explanation": "중국 쪽 사막이나 황토지대에서 작은 모래 먼지가 바람을 타고 날아오는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "대청",
+        "easy_explanation": "한옥에서 방과 방 사이에 있는 큰 마루",
         "related_terms": []
       }
     ]
@@ -151,6 +174,31 @@
         "concept": "수출",
         "easy_explanation": "우리나라에서 만든 것을 다른 나라에 파는 것",
         "related_terms": []
+      },
+      {
+        "concept": "경쟁",
+        "easy_explanation": "같은 목적으로 상대를 이기거나 앞서려는 행동",
+        "related_terms": []
+      },
+      {
+        "concept": "소비",
+        "easy_explanation": "필요한 것을 얻기 위해 돈을 쓰는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "저축",
+        "easy_explanation": "미래를 위해서 돈을 모으는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "근로자",
+        "easy_explanation": "일하는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "기업가",
+        "easy_explanation": "회사를 세우고 이끌어 나가는 사람",
+        "related_terms": []
       }
     ]
   },
@@ -162,7 +210,10 @@
       {
         "concept": "노사 갈등",
         "easy_explanation": "근로자와 기업가가 서로의 입장이나 생각이 달라서 다투는 것",
-        "related_terms": []
+        "related_terms": [
+          "근로자",
+          "기업가"
+        ]
       },
       {
         "concept": "민주주의",
@@ -268,6 +319,26 @@
       {
         "concept": "발해",
         "easy_explanation": "고구려의 장수였던 대조영이 고구려의 유민과 말갈족을 거느리고 세운 나라",
+        "related_terms": []
+      },
+      {
+        "concept": "선사 시대",
+        "easy_explanation": "문자를 사용하기 이전의 시대",
+        "related_terms": []
+      },
+      {
+        "concept": "구석기 시대, 신석기 시대",
+        "easy_explanation": "인간이 돌을 도구로 사용하던 시대",
+        "related_terms": []
+      },
+      {
+        "concept": "사신",
+        "easy_explanation": "왕이나 국가의 명령을 받고 외국에 파견된 신하",
+        "related_terms": []
+      },
+      {
+        "concept": "도읍",
+        "easy_explanation": "한 나라의 수도. 한 나라의 중요한 일을 담당하는 기관들이 있어요.",
         "related_terms": []
       }
     ]
@@ -402,6 +473,26 @@
         "concept": "병자호란",
         "easy_explanation": "병자년에 호(여진, 조선시대 북방민족)가 일으킨 난리(전쟁)",
         "related_terms": []
+      },
+      {
+        "concept": "농사직설",
+        "easy_explanation": "세종이 농사에 필요한 지식과 방법 등을 모아 책으로 정리한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "측우기",
+        "easy_explanation": "조선 시대에 만들어진 비가 내리는 양을 재던 기구",
+        "related_terms": []
+      },
+      {
+        "concept": "자격루",
+        "easy_explanation": "조선 시대에 만들어진 물시계",
+        "related_terms": []
+      },
+      {
+        "concept": "양부일구",
+        "easy_explanation": "조선 시대에 만들어진 해시계",
+        "related_terms": []
       }
     ]
   },
@@ -449,6 +540,14 @@
         "concept": "민화",
         "easy_explanation": "민화는 조선 후기에 유행한 그림으로, 소재가 다양하고 일정한 형식이 없는 그림을 말합니다.",
         "related_terms": []
+      },
+      {
+        "concept": "모내기법, 광작",
+        "easy_explanation": "모판에 씨를 뿌려 싹이 자란 모를 논에 옮겨 심는 방법 (모내기법), 적은 노동력으로 넓은 땅을 경작하는 것 (광작)",
+        "related_terms": [
+          "광작",
+          "모내기법"
+        ]
       }
     ]
   },
@@ -494,6 +593,28 @@
         "concept": "민족 자결주의",
         "easy_explanation": "각 민족은 그들의 정치적 운명을 스스로 결정할 권리가 있다는 것. 외부의 간섭을 받지 않고 자신의 정치적 운명을 스스로 결정해야 한다는 원칙.",
         "related_terms": []
+      },
+      {
+        "concept": "을사늑약",
+        "easy_explanation": "1905년(을사년) 11월에 일본이 조선의 외교권을 빼앗은 조약",
+        "related_terms": []
+      },
+      {
+        "concept": "계몽",
+        "easy_explanation": "올바른 지식을 못 가진 사람들을 깨우쳐서, 바른 지식을 가지게 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "식민 통치",
+        "easy_explanation": "1910년에 대한 제국은 일제에게 나라를 빼앗겼고, 일본은 식민 통치를 하였다.",
+        "related_terms": []
+      },
+      {
+        "concept": "조선 총독부",
+        "easy_explanation": "식민 통치를 시작한 일본은 조선 총독부를 설치하고 전국에 헌병 경찰을 배치하였다.",
+        "related_terms": [
+          "식민 통치"
+        ]
       }
     ]
   },
@@ -505,12 +626,20 @@
       {
         "concept": "경선, 위선, 적도",
         "easy_explanation": "지구상에서 위치를 나타내기 위한 선으로, 경선은 동쪽과 서쪽을, 위선은 북쪽과 남쪽을 나누며, 적도는 여러 위선 중 한가운데에 있는 선입니다.",
-        "related_terms": []
+        "related_terms": [
+          "경선",
+          "적도",
+          "위선"
+        ]
       },
       {
         "concept": "북반구, 남반구",
         "easy_explanation": "적도를 기준으로 북쪽을 북반구, 남쪽을 남반구라고 합니다.",
-        "related_terms": []
+        "related_terms": [
+          "적도",
+          "남반구",
+          "북반구"
+        ]
       },
       {
         "concept": "대양",
@@ -535,12 +664,45 @@
       {
         "concept": "열대 우림",
         "easy_explanation": "적도 근처에 많은 나무들이 모여 있는 곳",
-        "related_terms": []
+        "related_terms": [
+          "적도"
+        ]
       },
       {
         "concept": "활화산",
         "easy_explanation": "지금 분출하고 있거나 앞으로 분출할 가능성이 높은 화산",
         "related_terms": []
+      },
+      {
+        "concept": "경선",
+        "easy_explanation": "동쪽과 서쪽을 나누는 선",
+        "related_terms": []
+      },
+      {
+        "concept": "위선",
+        "easy_explanation": "북쪽과 남쪽을 나누는 선",
+        "related_terms": []
+      },
+      {
+        "concept": "적도",
+        "easy_explanation": "여러 개의 위선 중 한가운데에 있는 선",
+        "related_terms": [
+          "위선"
+        ]
+      },
+      {
+        "concept": "북반구",
+        "easy_explanation": "적도의 위쪽 부분",
+        "related_terms": [
+          "적도"
+        ]
+      },
+      {
+        "concept": "남반구",
+        "easy_explanation": "적도의 아래쪽 부분",
+        "related_terms": [
+          "적도"
+        ]
       }
     ]
   },
@@ -572,6 +734,87 @@
       {
         "concept": "문화 다양성 선언",
         "easy_explanation": "각 나라와 각 지역의 고유한 문화를 보호하고 다양성을 보존하기 위한 선언. 문화의 다양성이 평화로운 공존에 필요하다고 말하며, 2001년 유네스코 총회에서 채택됨.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "5-6",
+    "unit": "1. 우리나라의 민주 정치",
+    "concepts": [
+      {
+        "concept": "헌법",
+        "easy_explanation": "가장 기본이 되고 중요한 법",
+        "related_terms": []
+      },
+      {
+        "concept": "헌법 재판소",
+        "easy_explanation": "법률이 헌법에 잘 맞는지 판단하는 곳으로 9명의 재판관이 헌법을 지키고 국민의 권리를 보호하는 기관",
+        "related_terms": [
+          "헌법",
+          "국민의 권리"
+        ]
+      },
+      {
+        "concept": "주권",
+        "easy_explanation": "한 나라의 의사나 정책을 최종적으로 결정하는 힘",
+        "related_terms": []
+      },
+      {
+        "concept": "국회의사당",
+        "easy_explanation": "국회의원들이 법을 만드는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "대법원",
+        "easy_explanation": "대한민국 최고의 법원",
+        "related_terms": []
+      },
+      {
+        "concept": "정부 청사",
+        "easy_explanation": "국가의 일을 하는 행정 기관들이 모여 있는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "판사",
+        "easy_explanation": "재판을 진행하고 판결을 내리는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "검사",
+        "easy_explanation": "죄인의 죄를 밝혀 판사에게 법을 내리도록 요청하는 사람",
+        "related_terms": [
+          "판사"
+        ]
+      },
+      {
+        "concept": "변호인",
+        "easy_explanation": "피고인을 보호하고 도와주는 사람",
+        "related_terms": [
+          "피고인"
+        ]
+      },
+      {
+        "concept": "피고인",
+        "easy_explanation": "법을 어겨 죄를 지었다고 생각되어 재판을 받는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "증인",
+        "easy_explanation": "피고인이 저지른 사건에 대해 보고 들은 것을 재판에서 말하는 사람",
+        "related_terms": [
+          "피고인"
+        ]
+      },
+      {
+        "concept": "국민의 권리",
+        "easy_explanation": "인간으로서 존엄성을 지키고 행복하게 살아갈 권리",
+        "related_terms": []
+      },
+      {
+        "concept": "국민의 의무",
+        "easy_explanation": "국민으로서 꼭 해야 하는 것",
         "related_terms": []
       }
     ]

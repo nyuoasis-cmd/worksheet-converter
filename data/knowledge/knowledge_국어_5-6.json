@@ -1,0 +1,840 @@
+[
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "1. 인물의 말과 행동",
+    "concepts": [
+      {
+        "concept": "작품",
+        "easy_explanation": "창작 활동으로 만든 결과물",
+        "related_terms": []
+      },
+      {
+        "concept": "등장인물",
+        "easy_explanation": "작품에 나타나는 인물",
+        "related_terms": [
+          "작품",
+          "인물"
+        ]
+      },
+      {
+        "concept": "인물의 생각",
+        "easy_explanation": "인물의 말과 행동을 통해서 짐작할 수 있는 것",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "이야기의 흐름",
+        "easy_explanation": "이야기가 일정한 방향으로 진행되는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "2. 토의의 절차와 방법",
+    "concepts": [
+      {
+        "concept": "토의 절차",
+        "easy_explanation": "토의를 하기 위한 순서",
+        "related_terms": []
+      },
+      {
+        "concept": "제안",
+        "easy_explanation": "의견이나 안건을 내놓는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "문제 상황",
+        "easy_explanation": "해결해야 할 일이 벌어진 상태",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "3. 상황에 알맞은 낱말",
+    "concepts": [
+      {
+        "concept": "다의어",
+        "easy_explanation": "원래의 뜻이 보다 넓어져서 두 가지 이상의 뜻을 가지게 된 낱말",
+        "related_terms": []
+      },
+      {
+        "concept": "관점",
+        "easy_explanation": "사물이나 현상을 보고 생각하는 자신의 입장 또는 태도",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "5. 대상의 특성을 살려",
+    "concepts": [
+      {
+        "concept": "설명하는 글",
+        "easy_explanation": "대상에 대해 이해하기 쉽게 특성을 설명하는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "띄어쓰기",
+        "easy_explanation": "글을 쓸 때, 각 낱말마다 띄어서 쓰는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "공통점, 차이점",
+        "easy_explanation": "공통점: 어떤 것들의 같은 점, 차이점: 어떤 것들의 다른 점",
+        "related_terms": []
+      },
+      {
+        "concept": "맞춤법",
+        "easy_explanation": "글자를 적을 때 지켜야 하는 규칙",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "8. 문장의 구조",
+    "concepts": [
+      {
+        "concept": "호응 관계",
+        "easy_explanation": "문장 안에서 앞에 어떤 말이 나오면 뒤에 어울리는 말이 짝을 이루는 것을 [호응 관계]라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "추론하다",
+        "easy_explanation": "[추론하다]는 미루어 짐작해 보는 거예요. 이미 알려진 정보를 근거로 삼아 다른 생각을 이끌어 내는 거예요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "10. 글쓰기의 과정",
+    "concepts": [
+      {
+        "concept": "내용 조직",
+        "easy_explanation": "글을 쓸 때 어떤 내용을 어떤 순서로 쓸지 정하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "표어",
+        "easy_explanation": "주장을 간단하게 나타낸 짧은 말이나 글",
+        "related_terms": []
+      },
+      {
+        "concept": "주장하는 글",
+        "easy_explanation": "글을 쓴 사람의 주장과 근거가 드러난 글",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "11. 여러 가지 독서 방법",
+    "concepts": [
+      {
+        "concept": "독서 방법",
+        "easy_explanation": "책을 읽는 방법이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "훑어 읽기",
+        "easy_explanation": "처음부터 끝까지 자세히 다 읽지 않고 필요한 것만 눈으로 찾아 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "말하는 이",
+        "easy_explanation": "문학 작품 속에서 이야기를 전해 주는 인물",
+        "related_terms": [
+          "이야기",
+          "작품",
+          "인물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "1. 문학이 주는 감동",
+    "concepts": [
+      {
+        "concept": "감동",
+        "easy_explanation": "어떤 것을 보고, 듣고, 읽거나 하면서 큰 느낌을 받는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "독서 감상문",
+        "easy_explanation": "글을 읽고 느낀 점이나 자신의 생각을 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "주제",
+        "easy_explanation": "글 쓴 사람이 말하려고 하는 중심 내용",
+        "related_terms": [
+          "중심 내용"
+        ]
+      },
+      {
+        "concept": "사건",
+        "easy_explanation": "이야기에서 일어난 어떤 일",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "줄거리",
+        "easy_explanation": "이야기에서 일어난 중요한 일들을 엮은 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "견문",
+        "easy_explanation": "여행을 하면서 보거나 들어서 알게 된 것",
+        "related_terms": []
+      },
+      {
+        "concept": "감상",
+        "easy_explanation": "견문에 대한 생각이나 느낌",
+        "related_terms": [
+          "견문"
+        ]
+      },
+      {
+        "concept": "기행문",
+        "easy_explanation": "여행을 통해 얻은 견문과 감상을 쓴 글",
+        "related_terms": [
+          "감상",
+          "견문"
+        ]
+      },
+      {
+        "concept": "견학 기록문",
+        "easy_explanation": "어떤 장소를 견학하고 알게 된 것을 중심으로 쓴 글",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "2. 견문과 감상을 나타내어요",
+    "concepts": [
+      {
+        "concept": "시간 표현",
+        "easy_explanation": "과거(지나간 일), 현재(지금 일어나는 일), 미래(나중에 일어날 일)과 관련된 표현",
+        "related_terms": []
+      },
+      {
+        "concept": "높임말",
+        "easy_explanation": "나보다 나이가 많은 사람을 높일 때 쓰는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "주어",
+        "easy_explanation": "문장에서 ‘누구/무엇이’를 나타내는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "서술어",
+        "easy_explanation": "문장에서 ‘어찌하다, 어떠하다, 무엇이다’를 나타내는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "꾸며 주는 말",
+        "easy_explanation": "문장에서 꾸며 주는 일을 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "찬성",
+        "easy_explanation": "다른 사람의 의견이 맞다고 생각하거나 이를 표시하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "반대",
+        "easy_explanation": "다른 사람의 의견이 맞지 않다고 생각하거나 이를 표시하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "토론",
+        "easy_explanation": "찬성과 반대로 나뉘어 주장과 근거를 내세워 의견을 펼치는 것",
+        "related_terms": [
+          "찬성",
+          "반대"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "3. 토론을 해요",
+    "concepts": [
+      {
+        "concept": "반론하기",
+        "easy_explanation": "다른 편의 주장에 대해 반대의 의견을 내는 것",
+        "related_terms": [
+          "반대"
+        ]
+      },
+      {
+        "concept": "반박",
+        "easy_explanation": "다른 편의 의견에 맞서는 내용을 제시하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "판정하기",
+        "easy_explanation": "토론의 마지막 단계로 찬성 편과 반대 편이 잘한 점과 부족한 점을 바탕으로 어느 편에서 토론을 잘하였는지 정하는 것",
+        "related_terms": [
+          "찬성",
+          "토론",
+          "반대"
+        ]
+      },
+      {
+        "concept": "자료 수집하기",
+        "easy_explanation": "토론에서 사용할 자료를 모으는 것",
+        "related_terms": [
+          "토론"
+        ]
+      },
+      {
+        "concept": "면담하기",
+        "easy_explanation": "자료를 수집할 때 사람과 만나서 질문을 하고 답하면서 조사하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "설문 조사하기",
+        "easy_explanation": "자료를 수집할 때 궁금한 질문들을 종이에 써서 조사할 사람에게 답을 쓰게 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "글의 짜임",
+        "easy_explanation": "집의 뼈대와 같은 역할을 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "요약하기",
+        "easy_explanation": "글의 중요한 내용을 간단하게 줄이는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "문단",
+        "easy_explanation": "여러 개의 문장이 모여 생각의 덩어리 한 개를 만든 것",
+        "related_terms": []
+      },
+      {
+        "concept": "중심 내용",
+        "easy_explanation": "한 문단이나 글에서 가장 중요한 내용을 말함",
+        "related_terms": [
+          "문단"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "5. 매체로 의사소통해요",
+    "concepts": [
+      {
+        "concept": "인물",
+        "easy_explanation": "이야기 속의 사람, 동물, 물건",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "처해 있습니다",
+        "easy_explanation": "어떤 상황이나 형편에 놓여 있다",
+        "related_terms": []
+      },
+      {
+        "concept": "인물이 처한 환경",
+        "easy_explanation": "인물이 놓여 있는 상황이나 조건",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "추구하는 삶",
+        "easy_explanation": "인물이 목표로 삼고 지향하는 생활 방식",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "인물이 추구하는 삶",
+        "easy_explanation": "인물이 목표로 삼고 지향하는 생활 방식",
+        "related_terms": [
+          "인물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "8. 언어 예절과 됨됨이",
+    "concepts": [
+      {
+        "concept": "언어 예절, 고운 말",
+        "easy_explanation": "말하거나 글을 쓸 때 지켜야 할 예절; 다른 사람의 기분을 배려하는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "품위 있는 말, 공격적인 언어 표현",
+        "easy_explanation": "어법에 맞는 아름답고 고운 말; 욕설과 같이 폭력적인 뜻을 담고 있는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "은어, 유행어, 비속어",
+        "easy_explanation": "자기네 구성원끼리만 알아듣게 사용하는 말; 사람들이 어떤 기간 동안에 많이 사용하는 말; 예절에 어긋나게 대상을 낮추거나 품위 없이 천한 말",
+        "related_terms": []
+      },
+      {
+        "concept": "동형어(동음이의어)",
+        "easy_explanation": "글자는 같지만 뜻이 다른 낱말",
+        "related_terms": []
+      },
+      {
+        "concept": "읽기 태도, 수용적 읽기, 비판적 읽기",
+        "easy_explanation": "글의 내용에 대한 태도 (읽기 태도); 글의 내용을 받아들이면서 읽는 태도 (수용적 읽기 태도); 글의 내용이 적절한지 생각하며 읽는 태도 (비판적 읽기 태도)",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "10. 글을 요약해요",
+    "concepts": [
+      {
+        "concept": "전기문",
+        "easy_explanation": "어떤 인물의 생애와 업적, 연행, 성품 등을 사실에 바탕을 두고 기록한 글",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "이야기",
+        "easy_explanation": "인물의 활동과 업적, 그리고 그것들을 보여주는 짧은 이야기",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "사건 전개 과정",
+        "easy_explanation": "이야기가 사건의 전개 과정에 따라 여러 사건으로 긴장감이 점점 심화되다가 해결되는 짜임",
+        "related_terms": [
+          "이야기",
+          "전개",
+          "사건"
+        ]
+      },
+      {
+        "concept": "발단",
+        "easy_explanation": "이야기가 시작되는 부분",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "전개",
+        "easy_explanation": "사건 또는 갈등이 시작되는 부분",
+        "related_terms": [
+          "갈등",
+          "사건"
+        ]
+      },
+      {
+        "concept": "절정",
+        "easy_explanation": "사건으로 인하여 긴장감이 가장 높아지는 부분",
+        "related_terms": [
+          "사건"
+        ]
+      },
+      {
+        "concept": "결말",
+        "easy_explanation": "사건이 해결되는 부분",
+        "related_terms": [
+          "사건"
+        ]
+      },
+      {
+        "concept": "비유",
+        "easy_explanation": "어떤 것을 직접 말하지 않고 비슷한 점이 있는 다른 것과 연결해 말하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "비유적 표현",
+        "easy_explanation": "비유해서 표현하는 것",
+        "related_terms": [
+          "비유"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "2. 다양한 관점",
+    "concepts": [
+      {
+        "concept": "신문 기사",
+        "easy_explanation": "어떤 사실이나 소식을 알리는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "마음을 표현하는 글",
+        "easy_explanation": "마음을 담아 쓰는 시, 편지, 일기와 같은 글",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "4. 면담하기",
+    "concepts": [
+      {
+        "concept": "면담 절차",
+        "easy_explanation": "면담을 하기 전, 면담을 하는 중, 면담을 한 후에 해야 할 일들과 순서",
+        "related_terms": []
+      },
+      {
+        "concept": "광고, 권장",
+        "easy_explanation": "생각이나 상품을 알리고 권장하는 것 (광고), 다른 사람에게 어떤 행동을 하도록 권하는 것 (권장)",
+        "related_terms": []
+      },
+      {
+        "concept": "의도, 과장, 신뢰성",
+        "easy_explanation": "광고에서 전하고자 하는 생각 (의도), 사실보다 지나치게 좋게 말하는 것 (과장), 광고가 믿을 만한 것인지 (신뢰성)",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "5. 광고 읽기",
+    "concepts": [
+      {
+        "concept": "설득",
+        "easy_explanation": "다른 사람에게 잘 설명하고 이해시켜서 자신의 의견에 따르도록 하는 것이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "고유어",
+        "easy_explanation": "우리말에 원래부터 있던 낱말이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "한자어",
+        "easy_explanation": "중국의 한자를 바탕으로 만들어진 낱말이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "외래어",
+        "easy_explanation": "다른 나라의 말이 들어와서 우리말처럼 쓰이는 낱말이에요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "7. 이야기의 구성",
+    "concepts": [
+      {
+        "concept": "이야기의 구성 요소",
+        "easy_explanation": "인물, 사건, 배경",
+        "related_terms": [
+          "배경",
+          "사건",
+          "인물"
+        ]
+      },
+      {
+        "concept": "배경",
+        "easy_explanation": "사건이 일어난 때와 장소",
+        "related_terms": [
+          "사건"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "9. 주장과 근거",
+    "concepts": [
+      {
+        "concept": "서론",
+        "easy_explanation": "글쓴이의 주장을 밝히는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "본론",
+        "easy_explanation": "글쓴이의 주장에 대한 근거를 대는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "결론",
+        "easy_explanation": "글의 내용을 요약하고 주장을 다시 한 번 강조하는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "개요",
+        "easy_explanation": "글에 꼭 필요한 내용만 뽑는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "고쳐쓰기",
+        "easy_explanation": "글을 쓰고 난 후에도 어색한 부분이 있는지, 고쳐야 할 부분이 있는지 다시 읽어보는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "공유",
+        "easy_explanation": "다른 사람과 어떤 것을 함께 가지고 나누는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "11. 뉴스의 관점",
+    "concepts": [
+      {
+        "concept": "뉴스",
+        "easy_explanation": "뉴스는 새 소식을 전해 주는 방송 프로그램이에요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "12. 문학의 갈래",
+    "concepts": [
+      {
+        "concept": "동화",
+        "easy_explanation": "어린이를 대상으로 하는 [동화]는 글쓴이가 있음직한 이야기를 상상하여 글로 쓴 문학 작품이에요.",
+        "related_terms": [
+          "이야기",
+          "작품"
+        ]
+      },
+      {
+        "concept": "희곡",
+        "easy_explanation": "[희곡]은 연극을 하기 위하여 대사를 중심으로 하여 쓴 문학 작품이에요.",
+        "related_terms": [
+          "작품",
+          "연극"
+        ]
+      },
+      {
+        "concept": "갈등",
+        "easy_explanation": "서로 생각이 달라서 부딪히거나, 마음속에서 어떻게 할지 몰라 괴로워하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "6. 타당한 주장",
+    "concepts": [
+      {
+        "concept": "연설문",
+        "easy_explanation": "연설문은 여러 사람 앞에서 자기의 생각이나 주장을 발표하기 위한 글입니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "주장의 타당성",
+        "easy_explanation": "주장이 올바른지 따져 보는 것이 주장의 타당성을 판단하는 것입니다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "8. 정보를 활용한 기사문",
+    "concepts": [
+      {
+        "concept": "기사문",
+        "easy_explanation": "보고 들은 사실이나 정보를 전하는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "육하원칙",
+        "easy_explanation": "기사문을 쓸 때 지켜야 하는 '누가, 언제, 어디에서, 무엇을, 어떻게, 왜'의 여섯 가지 원칙",
+        "related_terms": [
+          "기사문"
+        ]
+      },
+      {
+        "concept": "이어 주는 말",
+        "easy_explanation": "문장의 내용을 이어 주는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "11. 문학의 향기",
+    "concepts": [
+      {
+        "concept": "연극",
+        "easy_explanation": "대본에 따라 배우가 무대 위에서 공연을 하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "6. 말의 영향",
+    "concepts": [
+      {
+        "concept": "말이 미치는 영향",
+        "easy_explanation": "우리가 하는 말이 다른 사람에게 상처가 되기도 하고 힘이 되기도 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "문장 성분",
+        "easy_explanation": "문장을 이루는 부분을 말해요. 주어, 서술어, 목적어 등이 있어요.",
+        "related_terms": [
+          "서술어",
+          "주어"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "4. 글의 짜임",
+    "concepts": [
+      {
+        "concept": "비교와 대조 짜임",
+        "easy_explanation": "두 대상의 공통점과 차이점을 중심으로 설명하는 글",
+        "related_terms": [
+          "설명하는 글"
+        ]
+      },
+      {
+        "concept": "나열 짜임",
+        "easy_explanation": "하나의 주제에 대하여 몇 가지 특징을 늘어놓는 글",
+        "related_terms": [
+          "주제"
+        ]
+      },
+      {
+        "concept": "문제와 해결 짜임",
+        "easy_explanation": "해결할 문제와 그에 대한 해결 방법을 제시하는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "순서 짜임",
+        "easy_explanation": "시간이나 공간의 순서에 따라 설명하는 글",
+        "related_terms": [
+          "설명하는 글"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "8. 책 속의 지혜를 찾아서",
+    "concepts": [
+      {
+        "concept": "읽을거리",
+        "easy_explanation": "읽을거리는 읽을 만한 글이나 책을 뜻하는 말이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "녹음",
+        "easy_explanation": "소리를 기록하는 것을 [녹음]이라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "안목",
+        "easy_explanation": "사물을 보고 분별하는 능력을 [안목]이라고 해요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "2. 자료를 활용한 발표",
+    "concepts": [
+      {
+        "concept": "설명 방법",
+        "easy_explanation": "내용을 쉽게 알 수 있도록 대상을 설명하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "분석",
+        "easy_explanation": "전체를 여러 부분이나 요소로 나누어 설명하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "분류",
+        "easy_explanation": "일정한 기준에 따라 같은 것끼리 묶어서 설명하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "비교와 대조",
+        "easy_explanation": "두 대상의 비슷한 점이나 다른 점을 견주어 설명하는 방법",
+        "related_terms": [
+          "주어"
+        ]
+      },
+      {
+        "concept": "사회자",
+        "easy_explanation": "모임이나 식에서 진행을 맡아보는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "발표자",
+        "easy_explanation": "사람들 앞에서 어떤 내용에 대해 말하는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "청중",
+        "easy_explanation": "발표나 음악 등을 듣기 위하여 모인 사람들",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "5-6",
+    "unit": "4. 효과적인 관용 표현",
+    "concepts": [
+      {
+        "concept": "관용 표현",
+        "easy_explanation": "원래의 뜻과는 다르게 새로운 뜻으로 굳어져 자주 쓰는 표현",
+        "related_terms": []
+      }
+    ]
+  }
+]

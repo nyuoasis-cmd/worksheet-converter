@@ -7,12 +7,16 @@
       {
         "concept": "나눗셈",
         "easy_explanation": "어떤 수를 똑같이 나누는 계산",
-        "related_terms": []
+        "related_terms": [
+          "수"
+        ]
       },
       {
         "concept": "나누기",
         "easy_explanation": "어떤 수를 똑같이 가르는 행위",
-        "related_terms": []
+        "related_terms": [
+          "수"
+        ]
       },
       {
         "concept": "나눗셈식",
@@ -32,21 +36,24 @@
         "concept": "나누는 수",
         "easy_explanation": "나눗셈에서 어떤 수를 똑같이 나누는 데 사용되는 수",
         "related_terms": [
-          "나눗셈"
+          "나눗셈",
+          "수"
         ]
       },
       {
         "concept": "나눠지는 수",
         "easy_explanation": "나눗셈에서 똑같이 나누어지는 대상이 되는 수",
         "related_terms": [
-          "나눗셈"
+          "나눗셈",
+          "수"
         ]
       },
       {
         "concept": "나머지",
         "easy_explanation": "나눗셈에서 나누고 남은 수",
         "related_terms": [
-          "나눗셈"
+          "나눗셈",
+          "수"
         ]
       },
       {
@@ -60,11 +67,21 @@
         "concept": "검산",
         "easy_explanation": "나누는 수와 몫의 곱에 나머지를 더해서 나눠지는 수와 같으면 나눗셈을 맞게 한 것입니다.",
         "related_terms": [
-          "나눗셈",
           "나누는 수",
-          "나머지",
-          "나눠지는 수",
-          "몫"
+          "나눗셈",
+          "수",
+          "몫",
+          "나머지"
+        ]
+      },
+      {
+        "concept": "나누는 수, 나눠지는 수",
+        "easy_explanation": "12 ÷ 4 = 3. 12는 나눠지는 수, 4는 나누는 수, 3은 몫입니다.",
+        "related_terms": [
+          "나누는 수",
+          "수",
+          "몫",
+          "나눠지는 수"
         ]
       }
     ]
@@ -87,12 +104,15 @@
       {
         "concept": "분수",
         "easy_explanation": "전체를 똑같이 나눈 것 중의 얼마를 나타내는 수",
-        "related_terms": []
+        "related_terms": [
+          "수"
+        ]
       },
       {
         "concept": "분모, 분자",
         "easy_explanation": "분수에서 아래에 있는 수를 분모, 위에 있는 수를 분자라고 합니다.",
         "related_terms": [
+          "수",
           "분수"
         ]
       },
@@ -100,6 +120,7 @@
         "concept": "단위분수",
         "easy_explanation": "분자가 1인 분수",
         "related_terms": [
+          "수",
           "분수"
         ]
       },
@@ -107,6 +128,7 @@
         "concept": "진분수",
         "easy_explanation": "분자가 분모보다 작은 분수",
         "related_terms": [
+          "수",
           "분수"
         ]
       },
@@ -114,32 +136,39 @@
         "concept": "가분수",
         "easy_explanation": "분자가 분모와 같거나, 분자가 분모보다 큰 분수",
         "related_terms": [
+          "수",
           "분수"
         ]
       },
       {
         "concept": "자연수",
         "easy_explanation": "1, 2, 3...과 같은 수",
-        "related_terms": []
+        "related_terms": [
+          "수"
+        ]
       },
       {
         "concept": "대분수",
         "easy_explanation": "자연수와 진분수로 이루어진 분수",
         "related_terms": [
+          "자연수",
           "진분수",
-          "분수",
-          "자연수"
+          "수",
+          "분수"
         ]
       },
       {
         "concept": "소수",
         "easy_explanation": "0.1(영점 일), 0.4(영점 사), 7.4(칠점 사)와 같은 수",
-        "related_terms": []
+        "related_terms": [
+          "수"
+        ]
       },
       {
         "concept": "소수점",
         "easy_explanation": "소수에서 정수 부분과 소수 부분을 나누는 점",
         "related_terms": [
+          "수",
           "소수"
         ]
       }
@@ -159,8 +188,9 @@
         "concept": "소수 두 자리 수",
         "easy_explanation": "소수점 아래 두 자리까지 나타내는 수",
         "related_terms": [
-          "소수",
-          "소수점"
+          "소수점",
+          "수",
+          "소수"
         ]
       },
       {
@@ -172,8 +202,18 @@
         "concept": "소수 세 자리 수",
         "easy_explanation": "소수점 아래 세 자리까지 나타내는 수",
         "related_terms": [
-          "소수",
-          "소수점"
+          "소수점",
+          "수",
+          "소수"
+        ]
+      },
+      {
+        "concept": "소수, 소수점",
+        "easy_explanation": "0.1, 0.4, 7.4와 같이 소수점을 사용하여 나타낸 수와 그 점",
+        "related_terms": [
+          "소수점",
+          "수",
+          "소수"
         ]
       }
     ]
@@ -191,7 +231,9 @@
       {
         "concept": "다섯 자리 수",
         "easy_explanation": "다섯 개의 숫자로 이루어진 수",
-        "related_terms": []
+        "related_terms": [
+          "수"
+        ]
       },
       {
         "concept": "십만, 백만, 천만",
@@ -204,6 +246,7 @@
         "concept": "억",
         "easy_explanation": "억은 100000000 (1억)이며, 1000만이 10개 모인 수입니다.",
         "related_terms": [
+          "수",
           "만"
         ]
       },
@@ -211,7 +254,20 @@
         "concept": "십억, 백억, 천억",
         "easy_explanation": "십억은 1억이 10개, 백억은 1억이 100개, 천억은 1억이 1000개 모인 수입니다.",
         "related_terms": [
-          "억"
+          "억",
+          "수"
+        ]
+      },
+      {
+        "concept": "수",
+        "easy_explanation": "43029",
+        "related_terms": []
+      },
+      {
+        "concept": "큰 수 읽기",
+        "easy_explanation": "큰 수를 바르게 읽는 예시",
+        "related_terms": [
+          "수"
         ]
       }
     ]
@@ -244,10 +300,10 @@
         "concept": "수직",
         "easy_explanation": "직각으로 만나는 두 직선",
         "related_terms": [
-          "각",
-          "만",
           "직선",
-          "직각"
+          "직각",
+          "만",
+          "각"
         ]
       },
       {
@@ -255,6 +311,7 @@
         "easy_explanation": "어떤 직선에 수직인 다른 직선",
         "related_terms": [
           "직선",
+          "수",
           "수직"
         ]
       },
@@ -262,8 +319,8 @@
         "concept": "평행",
         "easy_explanation": "서로 만나지 않는 두 직선",
         "related_terms": [
-          "만",
-          "직선"
+          "직선",
+          "만"
         ]
       },
       {
@@ -279,17 +336,17 @@
         "easy_explanation": "평행한 두 선분이나 직선 사이의 거리",
         "related_terms": [
           "직선",
-          "평행",
-          "선분"
+          "선분",
+          "평행"
         ]
       },
       {
         "concept": "서로 만나다",
         "easy_explanation": "두 선분이나 직선이 한 점에서 만나는 것",
         "related_terms": [
-          "만",
           "직선",
-          "선분"
+          "선분",
+          "만"
         ]
       },
       {
@@ -317,8 +374,8 @@
         "concept": "각",
         "easy_explanation": "한 점에서 그은 두 반직선으로 이루어진 도형",
         "related_terms": [
-          "반직선",
-          "직선"
+          "직선",
+          "반직선"
         ]
       },
       {
@@ -332,24 +389,24 @@
         "concept": "삼각자",
         "easy_explanation": "직각을 그릴 때 사용하는 도구",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       },
       {
         "concept": "예각",
         "easy_explanation": "직각보다 작은 각",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       },
       {
         "concept": "둔각",
         "easy_explanation": "직각보다 크고 180°보다 작은 각",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       },
       {
@@ -373,9 +430,9 @@
         "concept": "돌리기",
         "easy_explanation": "도형을 시계방향으로 직각만큼, 직각의 2배만큼, 직각의 3배만큼, 한 바퀴 돌리는 것",
         "related_terms": [
-          "각",
+          "직각",
           "만",
-          "직각"
+          "각"
         ]
       },
       {
@@ -396,16 +453,16 @@
         "concept": "반지름",
         "easy_explanation": "원의 중심과 원 위의 한 점을 이은 선분",
         "related_terms": [
-          "원의 중심",
-          "선분"
+          "선분",
+          "원의 중심"
         ]
       },
       {
         "concept": "지름",
         "easy_explanation": "원 위의 두 점을 이은 선분 중 원의 중심을 지나는 선분",
         "related_terms": [
-          "원의 중심",
-          "선분"
+          "선분",
+          "원의 중심"
         ]
       },
       {
@@ -438,40 +495,40 @@
         "concept": "직각삼각형",
         "easy_explanation": "한 각이 직각인 삼각형",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       },
       {
         "concept": "예각삼각형",
         "easy_explanation": "세 각이 모두 예각인 삼각형",
         "related_terms": [
-          "각",
-          "예각"
+          "예각",
+          "각"
         ]
       },
       {
         "concept": "둔각삼각형",
         "easy_explanation": "한 각이 둔각인 삼각형",
         "related_terms": [
-          "각",
-          "둔각"
+          "둔각",
+          "각"
         ]
       },
       {
         "concept": "직사각형",
         "easy_explanation": "네 각이 모두 직각인 사각형",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       },
       {
         "concept": "정사각형",
         "easy_explanation": "네 각이 모두 직각이고 네 변의 길이가 모두 같은 사각형",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       }
     ]
@@ -485,16 +542,16 @@
         "concept": "사다리꼴",
         "easy_explanation": "평행한 변이 있는 사각형",
         "related_terms": [
-          "각",
-          "평행"
+          "평행",
+          "각"
         ]
       },
       {
         "concept": "평행사변형",
         "easy_explanation": "마주 보는 두 쌍의 변이 서로 평행한 사각형",
         "related_terms": [
-          "각",
-          "평행"
+          "평행",
+          "각"
         ]
       },
       {
@@ -515,25 +572,25 @@
         "concept": "다각형",
         "easy_explanation": "선분으로만 둘러싸인 도형",
         "related_terms": [
-          "만",
-          "선분"
+          "선분",
+          "만"
         ]
       },
       {
         "concept": "정다각형",
         "easy_explanation": "변의 길이가 모두 같고 각의 크기가 모두 같은 다각형",
         "related_terms": [
-          "각",
-          "다각형"
+          "다각형",
+          "각"
         ]
       },
       {
         "concept": "대각선",
         "easy_explanation": "다각형에서 이웃하지 않는 꼭짓점을 이은 선분",
         "related_terms": [
-          "각",
+          "선분",
           "다각형",
-          "선분"
+          "각"
         ]
       },
       {
@@ -580,16 +637,16 @@
         "concept": "각도기",
         "easy_explanation": "각도를 재는 도구",
         "related_terms": [
-          "각",
-          "각도"
+          "각도",
+          "각"
         ]
       },
       {
         "concept": "도(°)",
         "easy_explanation": "직각을 90으로 똑같이 나눈 하나",
         "related_terms": [
-          "각",
-          "직각"
+          "직각",
+          "각"
         ]
       },
       {
@@ -687,6 +744,18 @@
       {
         "concept": "물결선",
         "easy_explanation": "그래프의 값이 0에서 시작하지 않고 큰 값부터 시작할 때, 그래프를 짧게 줄여서 나타내는 선",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "3-4",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "나눗셈, 나누기",
+        "easy_explanation": "어떤 양을 똑같이 나누는 것",
         "related_terms": []
       }
     ]

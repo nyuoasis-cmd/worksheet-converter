@@ -1,0 +1,733 @@
+[
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "1 문제를 해결하는 말하기",
+    "concepts": [
+      {
+        "concept": "토론",
+        "easy_explanation": "토론은 어떤 문제에 대해 찬성과 반대의 생각을 서로 말하는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "토론자",
+        "easy_explanation": "토론자는 토론 주제에 대하여 찬성 또는 반대의 의견을 말하는 사람이다.",
+        "related_terms": [
+          "토론"
+        ]
+      },
+      {
+        "concept": "쟁점",
+        "easy_explanation": "쟁점은 토론할 때 서로 다투는 중심이 되는 것이다.",
+        "related_terms": [
+          "토론"
+        ]
+      },
+      {
+        "concept": "입론, 반론, 최종발언",
+        "easy_explanation": "입론은 주어진 논제의 쟁점에 대한 주장이다.\n반론은 상대방 입론의 의견이나 주장에 반대하는 말이다.\n최종발언은 토론의 마지막에 의견을 정리하여 말하는 말이다.",
+        "related_terms": [
+          "토론",
+          "쟁점"
+        ]
+      },
+      {
+        "concept": "판정",
+        "easy_explanation": "토론이 끝난 후 찬반 양측의 승패를 구분하는 것",
+        "related_terms": [
+          "토론"
+        ]
+      },
+      {
+        "concept": "협상",
+        "easy_explanation": "서로의 이익을 보장하기 위해 의견의 차이나 갈등을 해결하기 위한 말하기",
+        "related_terms": []
+      },
+      {
+        "concept": "협상 단계",
+        "easy_explanation": "협상을 하기 위한 절차로, 조정과 협의를 거쳐 문제를 해결하는 과정",
+        "related_terms": [
+          "협상",
+          "조정"
+        ]
+      },
+      {
+        "concept": "의견 조정",
+        "easy_explanation": "서로의 생각이 다르거나 갈등이 있을 때 가장 좋은 해결 방법을 찾기 위해 의견을 적절하게 정돈하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "합의문",
+        "easy_explanation": "둘 이상의 당사자의 의사가 일치하여 작성한 글",
+        "related_terms": []
+      },
+      {
+        "concept": "문제 해결",
+        "easy_explanation": "제기된 문제를 처리하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "토론의 절차",
+        "easy_explanation": "찬성 측과 반대 측이 자신의 주장을 내세우는 단계 (입론)",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "2 설득하는 말하기",
+    "concepts": [
+      {
+        "concept": "매체",
+        "easy_explanation": "음성이나 문자를 포함하여 정보를 전달하는 수단",
+        "related_terms": []
+      },
+      {
+        "concept": "자료",
+        "easy_explanation": "말하거나 글쓰기를 위해 사용되는 재료",
+        "related_terms": []
+      },
+      {
+        "concept": "공익광고, 상업광고",
+        "easy_explanation": "공익광고는 여러 사람에게 좋은 생각과 행동을 하도록 정보를 주는 광고이고, 상업광고는 물건이나 서비스를 사도록 정보를 주는 광고",
+        "related_terms": []
+      },
+      {
+        "concept": "비판적 수용",
+        "easy_explanation": "옳고 그름을 판단하여 받아들이는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "뉴스",
+        "easy_explanation": "새로운 소식을 전하여 주는 방송의 프로그램이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "자막",
+        "easy_explanation": "텔레비전에서, 관객이나 시청자가 읽을 수 있도록 화면에 있는 글자이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "경청",
+        "easy_explanation": "대화할 때 상대방의 말을 [경청]한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "예의",
+        "easy_explanation": "경청을 잘 하는 것은 상대방에 대한 [예의]이다.",
+        "related_terms": [
+          "경청"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "3 과정을 따라 읽기",
+    "concepts": [
+      {
+        "concept": "읽기의 과정",
+        "easy_explanation": "읽기의 과정은 글을 이해하는 방법과 순서이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "읽기 전",
+        "easy_explanation": "읽기 전은 글을 읽기 전에 글과 내용을 미리 생각해 보는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "내용 예측하기",
+        "easy_explanation": "내용 예측하기는 글의 제목이나 그림을 보고 내용을 미리 생각해 보는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "읽는 중",
+        "easy_explanation": "읽는 중은 글을 자세히 읽으면서 밑줄을 긋거나 메모하는 것이다.",
+        "related_terms": [
+          "메모"
+        ]
+      },
+      {
+        "concept": "자장면과 짜장면",
+        "easy_explanation": "둘 다 표준어. 원래는 '자장면'만 표준어였지만 '짜장면'도 표준어가 되었다.",
+        "related_terms": [
+          "장면"
+        ]
+      },
+      {
+        "concept": "읽은 후",
+        "easy_explanation": "글의 내용을 정리하고 좋은 내용을 나누는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "4 전략을 사용하여 읽기",
+    "concepts": [
+      {
+        "concept": "읽기 전략",
+        "easy_explanation": "글을 읽고 의미를 잘 이해하기 위해 세우는 계획이나 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "질문하며 읽기",
+        "easy_explanation": "글을 더 잘 이해하기 위해 읽기 활동을 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "배경지식",
+        "easy_explanation": "머릿속에 가지고 있는 이미 알고 있는 내용",
+        "related_terms": []
+      },
+      {
+        "concept": "메모",
+        "easy_explanation": "다른 사람에게 말을 전하거나 기억을 돕기 위해 짧게 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "점검",
+        "easy_explanation": "문제 해결을 위해 생각이나 일의 과정을 확인해 보는 것",
+        "related_terms": [
+          "문제 해결"
+        ]
+      },
+      {
+        "concept": "조정",
+        "easy_explanation": "어떤 대상의 상태를 움직이거나 조절하여 적절한 수준으로 맞추는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "5 다양한 읽기 자료",
+    "concepts": [
+      {
+        "concept": "전기문",
+        "easy_explanation": "어떤 사람이 사는 동안 이룬 훌륭한 일, 그 사람의 좋은 말과 행동, 좋은 성격과 됨됨이를 사실에 근거하여 기록한 글",
+        "related_terms": []
+      },
+      {
+        "concept": "감상문",
+        "easy_explanation": "보고 들은 것에 대한 느낌과 생각을 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "기행문",
+        "easy_explanation": "여행을 하면서 보고, 듣고, 느낀 새로운 경험과 감상 등을 시간 순서나 여행의 과정에 따라 자유롭게 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "기사문",
+        "easy_explanation": "알릴 만한 가치가 있는 사건이나 사실을 빠르고 정확하게 전달하기 위해 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "만화",
+        "easy_explanation": "그림과 함께 재미있게 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "일기",
+        "easy_explanation": "그날 겪은 일이나 생각, 느낌을 기록한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "편지",
+        "easy_explanation": "멀리 있는 친구나 가족에게 소식을 전하기 위해 쓰는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "독서의 생활화",
+        "easy_explanation": "매일 아침, 점심, 저녁으로 책을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "아침독서",
+        "easy_explanation": "아침에 일어나서 책을 읽는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "6 독서의 생활화",
+    "concepts": [
+      {
+        "concept": "학습독서",
+        "easy_explanation": "공부를 위해서 책을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "여가독서",
+        "easy_explanation": "여유롭고 자유로운 시간에 좋아하는 책을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "자기주도적 독서",
+        "easy_explanation": "스스로 목표를 세우고 계획해서 독서활동을 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "아침 독서",
+        "easy_explanation": "아침 자습시간에 책을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "학습 독서",
+        "easy_explanation": "공부를 위해서 책을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "독서 생활화",
+        "easy_explanation": "살면서 반복적으로 늘 글을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "여가 독서",
+        "easy_explanation": "여유롭고 자유로운 시간에 좋아하는 책을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "자서전",
+        "easy_explanation": "내가 나의 삶을 돌아보면서 가치 있다고 생각한 경험을 쓴 글",
+        "related_terms": [
+          "삶"
+        ]
+      },
+      {
+        "concept": "삶, 성찰",
+        "easy_explanation": "삶: 사람이 세상을 살아가는 일. 성찰: 자신을 돌아보고 살피는 것",
+        "related_terms": [
+          "성찰",
+          "삶"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "7 글의 유형과 여러 가지 표현",
+    "concepts": [
+      {
+        "concept": "일화 소개하며 쓰기",
+        "easy_explanation": "널리 알려지지 않은 재미있는 이야기를 넣어 쓰는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "시간 순서대로 쓰기",
+        "easy_explanation": "일이 일어나는 흐름대로 쓰는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "주장하는 글",
+        "easy_explanation": "설득을 목적으로 어떤 문제에 대한 생각이나 주장을 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "주장하는 글의 구조: 서론, 본론, 결론",
+        "easy_explanation": "주장하는 글의 서론에 쟁점을 제시하고, 본론에 주장과 근거를 자세히 알리고, 결론에는 주장한 내용을 요약하는 구조",
+        "related_terms": [
+          "주장하는 글",
+          "서론",
+          "본론",
+          "결론",
+          "쟁점"
+        ]
+      },
+      {
+        "concept": "사회적 쟁점",
+        "easy_explanation": "사회 안에서 서로 반대하고 따지게 되는 점",
+        "related_terms": []
+      },
+      {
+        "concept": "설득력",
+        "easy_explanation": "상대편이 이쪽 편의 이야기를 따르도록 깨우치는 힘",
+        "related_terms": []
+      },
+      {
+        "concept": "뒷받침",
+        "easy_explanation": "뒤에서 지지하고 도와주는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "삶",
+        "easy_explanation": "사람이 세상을 살아가는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "성찰",
+        "easy_explanation": "자신을 돌아보고 살피는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "주장하는 글의 구조",
+        "easy_explanation": "서론, 본론, 결론으로 이루어져 쟁점을 제시하고 주장과 근거를 알리고 내용을 요약하는 글의 구성",
+        "related_terms": [
+          "서론",
+          "본론",
+          "결론",
+          "쟁점"
+        ]
+      },
+      {
+        "concept": "서론",
+        "easy_explanation": "글의 시작 부분으로 쟁점을 제시함",
+        "related_terms": [
+          "쟁점"
+        ]
+      },
+      {
+        "concept": "본론",
+        "easy_explanation": "글의 중간 부분으로 주장과 근거를 자세히 알림",
+        "related_terms": []
+      },
+      {
+        "concept": "결론",
+        "easy_explanation": "글의 마지막 부분으로 주장한 내용을 요약함",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "8 다양한 상황에서 글쓰기",
+    "concepts": [
+      {
+        "concept": "관용 표현",
+        "easy_explanation": "관용 표현은 오랫동안 써서 원래의 의미와 다르게 굳어진 짧은 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "속담",
+        "easy_explanation": "속담은 옛날부터 사람들 사이에 전해 오는 인생에 대한 가르침이나 조심할 것을 담은 짧은 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "명언",
+        "easy_explanation": "명언은 유명한 사람이 말하여 널리 알려진 훌륭한 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "문자 메시지, 이모티콘",
+        "easy_explanation": "문자 메시지는 휴대전화를 통해 상대에게 전달하는 글이다. 이모티콘은 문자 와 기호, 숫자 등을 조합하여 만든 그림 문자이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "전자우편",
+        "easy_explanation": "전자우편은 컴퓨터 통신을 이용하여 주고받는 편지글이다.",
+        "related_terms": [
+          "편지"
+        ]
+      },
+      {
+        "concept": "온라인 대화",
+        "easy_explanation": "온라인 대화는 인터넷 상에서, 여러 사용자가 다양한 주제를 가지고 실시간으로 대화를 나누는 일이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "인터넷 게시판, 댓글",
+        "easy_explanation": "인터넷 게시판은 인터넷상에서 자신의 글을 올릴 수 있고 다른 사람의 글을 볼 수도 있는 공간이다. 댓글은 인터넷 게시판의 글에 대하여 짧게 답하는 글이다.",
+        "related_terms": [
+          "인터넷 게시판",
+          "댓글"
+        ]
+      },
+      {
+        "concept": "시제",
+        "easy_explanation": "시간을 언어로 표현한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "과거 시제",
+        "easy_explanation": "사건이 일어난 시간이 말하는 사람이 말하는 시간보다 앞에 오는 (빠른) 시제",
+        "related_terms": [
+          "시제"
+        ]
+      },
+      {
+        "concept": "인터넷 게시판",
+        "easy_explanation": "인터넷상에서 자신의 글을 올릴 수 있고 다른 사람의 글을 볼 수도 있는 공간",
+        "related_terms": []
+      },
+      {
+        "concept": "댓글",
+        "easy_explanation": "인터넷 게시판의 글에 대하여 짧게 답하는 글",
+        "related_terms": [
+          "인터넷 게시판"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "9 시간 표현",
+    "concepts": [
+      {
+        "concept": "현재 시제",
+        "easy_explanation": "사건이 일어난 시간과 말하는 사람이 이야기하는 시간이 같은 시제",
+        "related_terms": [
+          "시제"
+        ]
+      },
+      {
+        "concept": "미래 시제",
+        "easy_explanation": "사건이 일어난 시간이 말하는 사람이 이야기하는 시간보다 뒤에 오는(늦은) 시제",
+        "related_terms": [
+          "시제"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "10 높임 표현",
+    "concepts": [
+      {
+        "concept": "높임법",
+        "easy_explanation": "높임법은 말하는 사람이 어떤 대상을 높여서 표현하는 것을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "주체 높임법",
+        "easy_explanation": "주체 높임법은 문장의 주어(주체)를 높이는 표현이다.",
+        "related_terms": [
+          "높임법"
+        ]
+      },
+      {
+        "concept": "객체 높임법",
+        "easy_explanation": "객체 높임법은 문장의 객체(목적어, 부사어)를 높이는 표현이다.",
+        "related_terms": [
+          "높임법"
+        ]
+      },
+      {
+        "concept": "상대 높임법",
+        "easy_explanation": "상대 높임법은 상대(말을 듣는 사람)에 따라 높이거나 낮추는 표현이다.",
+        "related_terms": [
+          "높임법"
+        ]
+      },
+      {
+        "concept": "능동/피동 표현",
+        "easy_explanation": "주어가 동작을 직접 하는 능동 표현과 주어가 동작을 당하는 피동 표현의 개념 및 형성 방법",
+        "related_terms": [
+          "피동 표현",
+          "능동 표현"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "11 피동/사동 표현",
+    "concepts": [
+      {
+        "concept": "주동/사동 표현",
+        "easy_explanation": "주동 표현은 주어가 스스로 동작(행동)을 하는 것을 말한다. 사동 표현은 주어가 다른 사람에게 동작(행동)을 시키는 것을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "능동 표현",
+        "easy_explanation": "주어가 자신의 힘으로 어떤 동작(일)이나 행동을 하는 것을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "피동 표현",
+        "easy_explanation": "주어가 다른 대상에 의해 동작이나 행동을 당하는 것을 말한다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "13 훈민정음",
+    "concepts": [
+      {
+        "concept": "모음의 제자 원리: 상형, 결합",
+        "easy_explanation": "상형과 결합의 원리",
+        "related_terms": []
+      },
+      {
+        "concept": "초성, 중성, 종성: 모아쓰기",
+        "easy_explanation": "초성, 중성, 종성",
+        "related_terms": []
+      },
+      {
+        "concept": "단원 정리",
+        "easy_explanation": "훈민정음",
+        "related_terms": [
+          "훈민정음"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "14 시나리오와 비평문",
+    "concepts": [
+      {
+        "concept": "시나리오",
+        "easy_explanation": "시나리오는 영화를 만들기 위한 대본이다.",
+        "related_terms": [
+          "영화"
+        ]
+      },
+      {
+        "concept": "영화",
+        "easy_explanation": "영화는 시나리오를 영상으로 만든 예술이다.",
+        "related_terms": [
+          "시나리오"
+        ]
+      },
+      {
+        "concept": "장면",
+        "easy_explanation": "장면은 사건이 전개되는 시간과 공간으로 이루어진 영화의 구성단위이다.",
+        "related_terms": [
+          "영화"
+        ]
+      },
+      {
+        "concept": "장면 번호",
+        "easy_explanation": "장면 번호는 대본을 쓸 때 촬영이나 편집을 쉽게 하기 위하여 각 장면에 붙이는 숫자이다.",
+        "related_terms": [
+          "장면"
+        ]
+      },
+      {
+        "concept": "평가",
+        "easy_explanation": "작품의 가치를 결정하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "비평",
+        "easy_explanation": "작품을 비판적으로 분석하여 가치를 평가하는 것",
+        "related_terms": [
+          "평가"
+        ]
+      },
+      {
+        "concept": "비평문",
+        "easy_explanation": "작품을 일정한 기준에 따라 해석하고 그 의미와 가치에 대해 평가하는 글",
+        "related_terms": [
+          "평가"
+        ]
+      },
+      {
+        "concept": "시점",
+        "easy_explanation": "화자가 이야기를 서술하는 관점",
+        "related_terms": [
+          "관점"
+        ]
+      },
+      {
+        "concept": "인칭",
+        "easy_explanation": "자기 자신이나 다른 사람을 구별하여 부르는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "15 시점과 관점",
+    "concepts": [
+      {
+        "concept": "1인칭 주인공 시점",
+        "easy_explanation": "서술자가 주인공인 시점",
+        "related_terms": [
+          "시점"
+        ]
+      },
+      {
+        "concept": "1인칭 관찰자 시점",
+        "easy_explanation": "서술자가 작품 안에서 인물이나 사건을 관찰하는 시점",
+        "related_terms": [
+          "시점"
+        ]
+      },
+      {
+        "concept": "3인칭 관찰자 시점",
+        "easy_explanation": "서술자가 작품 밖에서 인물이나 사건을 관찰하는 시점",
+        "related_terms": [
+          "시점"
+        ]
+      },
+      {
+        "concept": "전지적 작가 시점",
+        "easy_explanation": "서술자가 마치 '신'처럼 모든 것을 알고 이야기하는 시점",
+        "related_terms": [
+          "시점"
+        ]
+      },
+      {
+        "concept": "관점",
+        "easy_explanation": "소설을 읽을 때 독자의 생각이나 태도의 방향",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "16 해학과 풍자",
+    "concepts": [
+      {
+        "concept": "해학",
+        "easy_explanation": "해학은 어떤 대상이나 사회적 현실을 우스꽝스럽게 만드는 표현법이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "풍자",
+        "easy_explanation": "풍자는 어떤 대상이나 사회적 현실을 비꼬아서 날카롭게 비판하는 표현법이다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중3",
+    "unit": "12 부정 표현",
+    "concepts": [
+      {
+        "concept": "부정 표현",
+        "easy_explanation": "문장의 내용, 의미가 '않다(아니하다)' '못하다'는 것을 표현하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "안 부정 표현",
+        "easy_explanation": "부정 부사 '안'이나 부정 용언 '-지 않다'를 사용한 표현",
+        "related_terms": []
+      },
+      {
+        "concept": "못 부정 표현",
+        "easy_explanation": "부정 부사 '못'이나 부정 용언 '-지 못하다'를 사용한 표현",
+        "related_terms": []
+      },
+      {
+        "concept": "훈민정음",
+        "easy_explanation": "세종대왕이 백성을 위해 만든 글자이고 그 글자를 세상에 알리기 위해 만든 책의 이름",
+        "related_terms": []
+      },
+      {
+        "concept": "자음의 제자 원리: 상형, 가획",
+        "easy_explanation": "자음의 제자 원리에는 상형과 가획이 있다.",
+        "related_terms": []
+      }
+    ]
+  }
+]

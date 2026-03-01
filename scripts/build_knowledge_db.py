@@ -63,7 +63,10 @@ def infer_unit(toc: list[dict], page: str) -> str:
     page_num = int(page) if page.isdigit() else 0
     current_unit = ""
     for entry in toc:
-        entry_page = int(entry.get("page_idx", "0"))
+        raw_page = entry.get("page_idx", "0")
+        # '047.html' 형태 처리
+        raw_page = raw_page.split(".")[0] if isinstance(raw_page, str) else str(raw_page)
+        entry_page = int(raw_page) if raw_page.isdigit() else 0
         if entry_page <= page_num:
             depth = entry.get("depth", "1")
             title = entry.get("title", "")

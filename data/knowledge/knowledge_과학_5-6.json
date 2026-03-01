@@ -36,6 +36,13 @@
         "related_terms": [
           "열"
         ]
+      },
+      {
+        "concept": "단열",
+        "easy_explanation": "열이 전달되지 않도록 막는 것",
+        "related_terms": [
+          "열"
+        ]
       }
     ]
   },
@@ -54,7 +61,9 @@
       {
         "concept": "별",
         "easy_explanation": "태양처럼 스스로 빛을 내는 것",
-        "related_terms": []
+        "related_terms": [
+          "태양"
+        ]
       },
       {
         "concept": "별자리",
@@ -68,6 +77,20 @@
         "easy_explanation": "일년 내내 북쪽에서 빛나고 움직임이 없어 옛날에 사람들이 나침반으로 사용하기도 한 별",
         "related_terms": [
           "별"
+        ]
+      },
+      {
+        "concept": "태양계",
+        "easy_explanation": "태양의 영향이 미치는 공간과 그 안에 있는 구성원을 일컫는 말",
+        "related_terms": [
+          "태양"
+        ]
+      },
+      {
+        "concept": "태양",
+        "easy_explanation": "‘해’라고도 하며, 지구의 날씨 변화와 바닷물 움직임의 원인이 되는 에너지원",
+        "related_terms": [
+          "날씨"
         ]
       }
     ]
@@ -167,6 +190,29 @@
           "온도",
           "바람"
         ]
+      },
+      {
+        "concept": "이슬",
+        "easy_explanation": "공기 중의 수증기가 물방울로 변하여 나뭇잎이나 풀잎 등 차가운 물체의 겉에 맺힌 것",
+        "related_terms": []
+      },
+      {
+        "concept": "안개",
+        "easy_explanation": "공기 중의 수증기가 물방울로 변해서 지표면 근처에 떠 있는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "계절",
+        "easy_explanation": "규칙적으로 되풀이되는 자연현상에 따라서 일 년을 구분한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "날씨",
+        "easy_explanation": "그날그날 구름, 비, 바람, 기온 때문에 나타나는 덥거나 춥거나 흐리거나 개거나 하는 등의 현상",
+        "related_terms": [
+          "구름",
+          "바람"
+        ]
       }
     ]
   },
@@ -235,7 +281,9 @@
       {
         "concept": "줄기의 기능",
         "easy_explanation": "뿌리와 잎을 연결하고, 식물을 지탱하며, 물과 양분을 이동시키고, 양분을 저장하는 식물의 부분",
-        "related_terms": []
+        "related_terms": [
+          "뿌리"
+        ]
       },
       {
         "concept": "세포",
@@ -246,22 +294,35 @@
         "concept": "광합성",
         "easy_explanation": "잎에 있는 엽록체는 햇빛, 물, 이산화탄소를 이용해 식물에게 필요한 양분을 만듭니다. 이러한 작용을 광합성이라고 합니다.",
         "related_terms": [
-          "용해",
-          "이산화탄소"
+          "이산화탄소",
+          "용해"
         ]
       },
       {
         "concept": "증산 작용",
         "easy_explanation": "식물의 뿌리가 물을 빨아들이면 물을 줄기로 올라가 세포를 탱탱하게 만들고, 잎에서 양분을 만드는 것을 도와주고, 몸 속을 깨끗하게 청소해 줍니다. 그런 뒤 잎의 뒷면에 있는 기공으로 빠져 나와서 공기 중으로 날아갑니다. 이것을 증산 작용이라고 합니다.",
         "related_terms": [
-          "세포"
+          "줄기",
+          "세포",
+          "뿌리"
         ]
       },
       {
         "concept": "꽃의 구조와 기능",
         "easy_explanation": "꽃은 식물이 자손을 남기는 일을 하는 부분입니다. • 꽃의 수술에 있는 꽃가루가 암술에게 전달되면 꽃가루와 씨방의 밑씨가 만나 수정이 이루어집니다. • 수정이 이루어지면 암술의 일부가 자라 열매가 되고 새로운 씨가 만들어집니다.",
         "related_terms": [
+          "꽃",
           "열"
+        ]
+      },
+      {
+        "concept": "증산작용",
+        "easy_explanation": "식물의 뿌리가 물을 빨아들이면 물을 줄기로 올라가 세포를 탱탱하게 만들고, 잎에서 양분을 만드는 것을 도와주고, 몸 속을 깨끗하게 청소해 줍니다. 그런 뒤 잎의 뒷면에 있는 기공으로 빠져 나와서 공기 중으로 날아갑니다. 이것을 증산 작용이라고 합니다.",
+        "related_terms": [
+          "증산 작용",
+          "줄기",
+          "세포",
+          "뿌리"
         ]
       }
     ]
@@ -274,7 +335,9 @@
       {
         "concept": "뼈와 근육",
         "easy_explanation": "뼈는 우리 몸을 지탱해주는 아주 단단한 조직이고, 근육은 뼈와 같이 우리 몸을 움직이게 하는 조직",
-        "related_terms": []
+        "related_terms": [
+          "뼈"
+        ]
       },
       {
         "concept": "소화기관",
@@ -286,14 +349,17 @@
       {
         "concept": "순환기관",
         "easy_explanation": "혈액이 우리 몸을 도는 것을 순환이라고 하며, 혈액이 순환하게 하는 심장과 혈관을 순환기관이라고 함",
-        "related_terms": []
+        "related_terms": [
+          "순환"
+        ]
       },
       {
         "concept": "호흡기관",
         "easy_explanation": "몸에 필요한 산소를 들이마시고 이산화탄소를 내보내는 것을 호흡이라고 하며, 숨을 쉬는 데 사용하는 코, 기관, 기관지, 폐를 호흡기관이라고 함",
         "related_terms": [
+          "이산화탄소",
           "산소",
-          "이산화탄소"
+          "호흡"
         ]
       },
       {
@@ -336,7 +402,9 @@
         "concept": "먹이사슬과 먹이그물",
         "easy_explanation": "생태계에서 생물 사이의 먹고 먹히는 관계가 사슬처럼 연결되어 있는 것을 먹이사슬이라고 합니다. 그리고 생태계에서 먹이사슬이 복잡하게 연결되어 그물처럼 보이는 것을 먹이그물이라고 합니다.",
         "related_terms": [
-          "생태계"
+          "생태계",
+          "먹이그물",
+          "먹이사슬"
         ]
       },
       {
@@ -352,12 +420,59 @@
       {
         "concept": "분해자",
         "easy_explanation": "죽은 생물이나 배설물을 분해하여 다른 생물이 이용하게 해주는 생물",
-        "related_terms": []
+        "related_terms": [
+          "배설"
+        ]
       },
       {
         "concept": "생태 피라미드",
         "easy_explanation": "먹이사슬 단계에 따라 생물의 양을 표시한 피라미드 모양",
+        "related_terms": [
+          "먹이사슬"
+        ]
+      },
+      {
+        "concept": "먹이사슬",
+        "easy_explanation": "생태계에서 생물 사이의 먹고 먹히는 관계가 사슬처럼 연결되어 있는 것",
+        "related_terms": [
+          "생태계"
+        ]
+      },
+      {
+        "concept": "먹이그물",
+        "easy_explanation": "생태계에서 먹이사슬이 복잡하게 연결되어 그물처럼 보이는 것",
+        "related_terms": [
+          "생태계",
+          "먹이사슬"
+        ]
+      },
+      {
+        "concept": "1차 소비자",
+        "easy_explanation": "식물을 먹고 사는 동물",
         "related_terms": []
+      },
+      {
+        "concept": "2차 소비자",
+        "easy_explanation": "1차 소비자를 먹는 동물",
+        "related_terms": [
+          "소비자",
+          "1차 소비자"
+        ]
+      },
+      {
+        "concept": "최종 소비자",
+        "easy_explanation": "먹이사슬의 맨 끝에 위치한 소비자",
+        "related_terms": [
+          "소비자",
+          "먹이사슬"
+        ]
+      },
+      {
+        "concept": "생태피라미드",
+        "easy_explanation": "먹이사슬의 단계에 따라 생물의 양을 표시하면 단계가 위로 갈수록 양이 줄어드는 모양",
+        "related_terms": [
+          "먹이사슬"
+        ]
       }
     ]
   },
@@ -369,17 +484,22 @@
       {
         "concept": "자전",
         "easy_explanation": "지구가 고정된 축을 중심으로 스스로 도는 운동",
-        "related_terms": []
+        "related_terms": [
+          "운동"
+        ]
       },
       {
         "concept": "공전",
         "easy_explanation": "지구가 태양을 중심으로 1년에 한 바퀴씩 반시계 방향으로 회전하는 것",
-        "related_terms": []
+        "related_terms": [
+          "태양"
+        ]
       },
       {
         "concept": "낮과 밤",
         "easy_explanation": "지구가 자전하는 동안 태양이 지구를 비추면 낮이 되고 태양이 지구를 비추지 않으면 밤이 되는 현상",
         "related_terms": [
+          "태양",
           "자전"
         ]
       }
@@ -405,6 +525,31 @@
       {
         "concept": "기체의 부피",
         "easy_explanation": "기체가 공간을 차지하는 정도",
+        "related_terms": []
+      },
+      {
+        "concept": "수소",
+        "easy_explanation": "깨끗한 미래의 에너지원으로 자동차 등의 연료로 쓰이는 기체",
+        "related_terms": []
+      },
+      {
+        "concept": "질소",
+        "easy_explanation": "과자가 부스러지지 않도록 과자를 포장하는 데 많이 쓰이는 기체",
+        "related_terms": []
+      },
+      {
+        "concept": "헬륨",
+        "easy_explanation": "놀이동산에서 공기에 뜨는 풍선을 만들 때 사용하는 기체",
+        "related_terms": []
+      },
+      {
+        "concept": "네온",
+        "easy_explanation": "조명 기구, 간판 등에 이용되는 기체",
+        "related_terms": []
+      },
+      {
+        "concept": "빛의 굴절",
+        "easy_explanation": "빛이 한 물질에서 다른 물질을 지나갈 때 나아가는 방향이 꺾이는 현상",
         "related_terms": []
       }
     ]
@@ -446,7 +591,9 @@
       {
         "concept": "태양의 남중고도",
         "easy_explanation": "태양이 정확히 남쪽에 있을 때 지표면과 태양이 이루는 각도 중 가장 높은 고도",
-        "related_terms": []
+        "related_terms": [
+          "태양"
+        ]
       }
     ]
   },
@@ -463,14 +610,16 @@
       {
         "concept": "기온의 변화",
         "easy_explanation": "기온은 태양이 뜨고 지는 것과 관련 있으며 하루 동안에도 계속 달라지는 현상",
-        "related_terms": []
+        "related_terms": [
+          "태양"
+        ]
       },
       {
         "concept": "연소",
         "easy_explanation": "물질이 공기 중의 산소와 빠르게 반응해 열과 빛을 내며 타는 현상",
         "related_terms": [
-          "산소",
-          "열"
+          "열",
+          "산소"
         ]
       }
     ]
@@ -484,18 +633,18 @@
         "concept": "연소 조건",
         "easy_explanation": "물질이 연소하기 위해 필요한 탈 물질, 산소, 발화점 이상의 온도",
         "related_terms": [
-          "온도",
+          "연소",
           "산소",
-          "발화점",
-          "연소"
+          "온도",
+          "발화점"
         ]
       },
       {
         "concept": "발화점",
         "easy_explanation": "어떤 물질이 연소하기 시작하는 가장 낮은 온도",
         "related_terms": [
-          "온도",
-          "연소"
+          "연소",
+          "온도"
         ]
       },
       {
@@ -509,8 +658,8 @@
         "concept": "불완전 연소",
         "easy_explanation": "산소가 부족하여 탈 물질이 완전히 타지 않는 연소",
         "related_terms": [
-          "산소",
-          "연소"
+          "연소",
+          "산소"
         ]
       },
       {
@@ -519,6 +668,96 @@
         "related_terms": [
           "연소"
         ]
+      },
+      {
+        "concept": "연소생성물",
+        "easy_explanation": "물질이 연소할 때 생기는 물질",
+        "related_terms": [
+          "연소"
+        ]
+      },
+      {
+        "concept": "운동",
+        "easy_explanation": "물체가 시간이 지남에 따라 기준에서부터 위치가 변하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "염기성",
+        "easy_explanation": "붉은색 리트머스 종이를 푸르게 변화시키는 용액",
+        "related_terms": [
+          "용액"
+        ]
+      },
+      {
+        "concept": "뿌리",
+        "easy_explanation": "땅 속에 묻혀 있는 식물의 아랫부분",
+        "related_terms": []
+      },
+      {
+        "concept": "꽃",
+        "easy_explanation": "식물이 자손을 남기는 일을 하는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "호흡",
+        "easy_explanation": "몸에 필요한 산소를 들이마시고 이산화탄소를 내보내는 것",
+        "related_terms": [
+          "이산화탄소",
+          "산소"
+        ]
+      },
+      {
+        "concept": "산성",
+        "easy_explanation": "푸른색 리트머스 종이를 붉게 변화시키는 용액",
+        "related_terms": [
+          "용액"
+        ]
+      },
+      {
+        "concept": "줄기",
+        "easy_explanation": "식물의 아래에 있는 뿌리와 위에 있는 잎을 연결하는 부분",
+        "related_terms": [
+          "뿌리"
+        ]
+      },
+      {
+        "concept": "뼈",
+        "easy_explanation": "우리 몸을 지탱해주는 아주 단단한 조직",
+        "related_terms": []
+      },
+      {
+        "concept": "순환",
+        "easy_explanation": "혈액이 우리 몸을 도는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "배설",
+        "easy_explanation": "혈액에서 노폐물을 걸러 오줌을 통해 몸 밖으로 내보내는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "5-6",
+    "unit": "13. 빛과 렌즈",
+    "concepts": [
+      {
+        "concept": "볼록렌즈",
+        "easy_explanation": "렌즈 중 가운데 부분이 가장자리보다 두꺼운 모양의 렌즈",
+        "related_terms": []
+      },
+      {
+        "concept": "프리즘",
+        "easy_explanation": "빛의 굴절이나 분산 등을 일으키기 위해 유리나 수정으로 만든 삼각 기둥의 기구",
+        "related_terms": [
+          "빛의 굴절"
+        ]
+      },
+      {
+        "concept": "무지개",
+        "easy_explanation": "공기 중의 물방울에 의해 햇빛이 반사, 굴절되어 나타나는 현상",
+        "related_terms": []
       }
     ]
   }

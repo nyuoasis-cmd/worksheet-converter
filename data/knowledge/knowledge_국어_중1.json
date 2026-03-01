@@ -1,0 +1,1323 @@
+[
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "화자",
+        "easy_explanation": "말하는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "청자",
+        "easy_explanation": "듣는 사람",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "1 의사소통을 위한 효과적인 말하기",
+    "concepts": [
+      {
+        "concept": "화자, 청자",
+        "easy_explanation": "화자는 말을 하는 사람이고, 청자는 말을 듣는 사람이다.",
+        "related_terms": [
+          "이",
+          "청자",
+          "화자"
+        ]
+      },
+      {
+        "concept": "메시지",
+        "easy_explanation": "어떤 사실을 알리기 위해 보내는 내용",
+        "related_terms": []
+      },
+      {
+        "concept": "의사소통",
+        "easy_explanation": "가지고 있는 생각이나 뜻을 서로 주고받는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "상호작용",
+        "easy_explanation": "화자와 청자의 의사소통이 잘 이루어지는 것",
+        "related_terms": [
+          "소통",
+          "의사소통",
+          "이",
+          "청자",
+          "화자"
+        ]
+      },
+      {
+        "concept": "소통",
+        "easy_explanation": "막히지 않고 서로 잘 통하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "공감",
+        "easy_explanation": "남의 감정, 의견, 주장에 대하여 자기도 그렇다고 느끼는 기분",
+        "related_terms": []
+      },
+      {
+        "concept": "관계",
+        "easy_explanation": "둘 이상의 사람이 서로 관련을 맺는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "배려",
+        "easy_explanation": "상대를 돕거나 보살펴 주려고 마음을 쓰는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "존중",
+        "easy_explanation": "상대를 높이어 귀하게 대하는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "상황 맥락",
+        "easy_explanation": "화자와 청자가 함께하는 시간, 장소, 분위기 등의 말하기 환경",
+        "related_terms": [
+          "위기",
+          "청자",
+          "화자",
+          "시"
+        ]
+      },
+      {
+        "concept": "자기소개",
+        "easy_explanation": "자기소개는 자신에 대해 잘 알고 있지 못하거나 알려지지 않은 것을 설명해주는 것이다.",
+        "related_terms": [
+          "이",
+          "소개"
+        ]
+      },
+      {
+        "concept": "관심사",
+        "easy_explanation": "관심사는 흥미를 느끼며 특별히 마음에 두고 있는 일 또는 그 대상이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "인물",
+        "easy_explanation": "• 이 지폐에 있는 [인물]은 세종대왕이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "소개",
+        "easy_explanation": "• 나는 세종대왕을 [소개]하고 있다.",
+        "related_terms": []
+      },
+      {
+        "concept": "인물 소개",
+        "easy_explanation": "인물 소개는 어떤 사람에 대해 알리는 것이다.",
+        "related_terms": [
+          "인물",
+          "이",
+          "소개"
+        ]
+      },
+      {
+        "concept": "배려, 존중",
+        "easy_explanation": "배려는 상대를 돕거나 보살펴 주려고 마음을 쓰는 것이다. 존중은 상대를 높이어 귀하게 대하는 것이다.",
+        "related_terms": [
+          "배려",
+          "존중",
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "2 말하기 유형과 표현",
+    "concepts": [
+      {
+        "concept": "대상 소개",
+        "easy_explanation": "인물이 아닌 사물, 장소 등을 알리는 것",
+        "related_terms": [
+          "인물",
+          "이"
+        ]
+      },
+      {
+        "concept": "토의",
+        "easy_explanation": "공동의 문제를 해결하기 위해 여러 사람이 협력적으로 의견을 나누는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "논제",
+        "easy_explanation": "토의의 중심이 되는 주제",
+        "related_terms": [
+          "이",
+          "토의"
+        ]
+      },
+      {
+        "concept": "사회자",
+        "easy_explanation": "토의의 진행을 맡아보는 사람",
+        "related_terms": [
+          "토의"
+        ]
+      },
+      {
+        "concept": "청중",
+        "easy_explanation": "토의하는 것을 듣기 위하여 모인 사람",
+        "related_terms": [
+          "토의"
+        ]
+      },
+      {
+        "concept": "원탁토의",
+        "easy_explanation": "여러 사람들이 평등한 입장에서 자유롭게 의견을 나누는 토의",
+        "related_terms": [
+          "이",
+          "토의"
+        ]
+      },
+      {
+        "concept": "심포지엄",
+        "easy_explanation": "전문가가 강연을 하고 난 뒤에 청중과 함께 토의를 펼치는 것",
+        "related_terms": [
+          "청중",
+          "토의"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "3 예측하며 읽기",
+    "concepts": [
+      {
+        "concept": "예측",
+        "easy_explanation": "예측은 어떤 일을 하기 전에 미리 생각하고 짐작해 보는 것이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "배경지식",
+        "easy_explanation": "배경지식은 어떤 글을 이해하는 데 필요한 경험과 지식이다.",
+        "related_terms": [
+          "배경",
+          "이"
+        ]
+      },
+      {
+        "concept": "맥락",
+        "easy_explanation": "맥락은 어떤 사건이나 일, 또는 생각이나 행동이 관련되어 이어지는 흐름이다.",
+        "related_terms": [
+          "행동",
+          "이",
+          "사건"
+        ]
+      },
+      {
+        "concept": "구조",
+        "easy_explanation": "구조는 어떤 부분이나 요소로 된 틀이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "의도",
+        "easy_explanation": "글쓴이가 하고 싶어 하는 말; 무엇을 하고자 하는 마음속의 생각이나 계획",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "4 비판적 읽기",
+    "concepts": [
+      {
+        "concept": "비판",
+        "easy_explanation": "현상이나 사물의 옳고 그름을 판단하여 잘못된 점을 지적하는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "효과성",
+        "easy_explanation": "목표를 정하고 얼마나 이루어졌는지를 따져보는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "적절성",
+        "easy_explanation": "어떤 것에 딱 맞는 성질",
+        "related_terms": []
+      },
+      {
+        "concept": "광고",
+        "easy_explanation": "상품이나 서비스에 대한 정보를 널리 알리는 활동",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "포스터",
+        "easy_explanation": "사실이나 지식, 정보를 전달하기 위해 벽에 붙이는 종이",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "홍보물",
+        "easy_explanation": "어떤 사실이나 물건을 널리 알리기 위하여 만든 인쇄물 등의 물건",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "5 요약하며 읽기",
+    "concepts": [
+      {
+        "concept": "요약",
+        "easy_explanation": "말이나 글의 가장 중심이 되는 부분을 찾아서 줄이는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "중심내용",
+        "easy_explanation": "글쓴이가 글에서 말하고자 하는 가장 중요한 내용",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "재구성",
+        "easy_explanation": "일정한 전체를 이룬 것을 다시 새롭게 구성하는 것",
+        "related_terms": [
+          "이",
+          "시"
+        ]
+      },
+      {
+        "concept": "줄거리",
+        "easy_explanation": "인물의 성격, 배경, 사건 등을 중심으로 내용을 간추린 것",
+        "related_terms": [
+          "배경",
+          "인물",
+          "사건"
+        ]
+      },
+      {
+        "concept": "중심 내용",
+        "easy_explanation": "글쓴이가 말하고자 하는 중요한 내용을 말한다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "주장하는 글",
+        "easy_explanation": "주장하는 글은 어떤 것에 대해 가지는 생각을 강하게 내세우는 것이다.",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "6 주장하는 글",
+    "concepts": [
+      {
+        "concept": "논리",
+        "easy_explanation": "어떤 것이 그렇게 되는 까닭을 이치에 맞게 이끌어 가는 과정",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "7 글의 유형과 여러 가지 표현",
+    "concepts": [
+      {
+        "concept": "설명문",
+        "easy_explanation": "어떤 지식이나 정보를 읽는 이가 이해하기 쉽게 풀어 쓴 글",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "설명문의 구조: 처음, 중간, 끝",
+        "easy_explanation": "설명문이 구성되는 방식. 처음, 중간, 끝으로 이루어져 있다.",
+        "related_terms": [
+          "중간",
+          "이",
+          "끝",
+          "설명문",
+          "처음"
+        ]
+      },
+      {
+        "concept": "정의, 예시",
+        "easy_explanation": "정의는 어떤 대상의 뜻을 쉽게 풀어서 설명하는 방법이고, 예시는 이해하기 쉽도록 구체적인 예를 들어 설명하는 방법이다.",
+        "related_terms": [
+          "예시",
+          "정의",
+          "이",
+          "시"
+        ]
+      },
+      {
+        "concept": "비교, 대조",
+        "easy_explanation": "비교는 둘 이상의 대상이 지닌 공통점을 들어 설명하는 방법이고, 대조는 둘 이상의 대상이 지닌 차이점을 들어 설명하는 방법이다.",
+        "related_terms": [
+          "대조",
+          "이",
+          "비교"
+        ]
+      },
+      {
+        "concept": "분류, 분석",
+        "easy_explanation": "분류는 대상을 일정한 기준에 따라 나누어 설명하는 방법이다.\n분석은 대상을 구성하고 있는 요소로 나누어 설명하는 방법이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "원인, 결과, 인과",
+        "easy_explanation": "원인은 어떤 사물이나 상태를 만든 근본이 되는 일이다.\n결과는 어떤 원인으로 생긴 것이다.\n원인과 결과를 밝혀 설명하는 방법을 인과라고 한다.",
+        "related_terms": [
+          "원인",
+          "혀",
+          "결과",
+          "이",
+          "인과"
+        ]
+      },
+      {
+        "concept": "열거, 부연, 상술",
+        "easy_explanation": "열거는 여러 가지 예시나 사실을 늘어놓아 설명하는 방법이다.\n부연과 상술은 덧붙여 자세히 설명하는 방법이다.",
+        "related_terms": [
+          "예시",
+          "이",
+          "시"
+        ]
+      },
+      {
+        "concept": "안내문, 홍보문",
+        "easy_explanation": "안내문은 내용을 소개하여 알려 주는 글이다.\n홍보문은 새로운 소식을 널리 알리는 글이다.",
+        "related_terms": [
+          "이",
+          "소개"
+        ]
+      },
+      {
+        "concept": "설명문의 구조",
+        "easy_explanation": "설명문의 처음, 중간, 끝 부분의 역할",
+        "related_terms": [
+          "중간",
+          "끝",
+          "설명문",
+          "처음"
+        ]
+      },
+      {
+        "concept": "처음",
+        "easy_explanation": "글의 앞부분",
+        "related_terms": []
+      },
+      {
+        "concept": "중간",
+        "easy_explanation": "글의 가운데 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "끝",
+        "easy_explanation": "글의 마지막 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "정의",
+        "easy_explanation": "어떤 대상의 뜻을 풀어서 설명하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "예시",
+        "easy_explanation": "이해하기 쉽도록 구체적인 예를 들어 설명하는 방법",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "비교",
+        "easy_explanation": "둘 이상의 대상이 지닌 공통점을 들어 설명하는 방법",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "대조",
+        "easy_explanation": "둘 이상의 대상이 지닌 차이점을 들어 설명하는 방법",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "원인",
+        "easy_explanation": "어떤 사물이나 상태를 만든 근본이 되는 일",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "결과",
+        "easy_explanation": "어떤 원인으로 생긴 것",
+        "related_terms": [
+          "원인"
+        ]
+      },
+      {
+        "concept": "인과",
+        "easy_explanation": "원인과 결과를 밝혀 설명하는 방법",
+        "related_terms": [
+          "원인",
+          "혀",
+          "결과"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "8 다양한 상황에서 글쓰기",
+    "concepts": [
+      {
+        "concept": "쓰기 과정",
+        "easy_explanation": "쓰기 과정은 글을 쓰는 방법이나 순서이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "계획하기",
+        "easy_explanation": "쓰기 과정의 계획하기는 글을 쓸 준비를 하는 것이다.",
+        "related_terms": [
+          "정의",
+          "이",
+          "쓰기 과정"
+        ]
+      },
+      {
+        "concept": "내용 생성하기",
+        "easy_explanation": "쓰기 과정의 내용 생성하기는 생각하고 조사하여 글의 내용을 만드는 것이다.",
+        "related_terms": [
+          "조사",
+          "정의",
+          "이",
+          "쓰기 과정"
+        ]
+      },
+      {
+        "concept": "내용 조직하기",
+        "easy_explanation": "쓰기 과정의 내용 조직하기는 내용의 순서를 정하는 것이다. 개요는 중요한 내용을 골라 간단하게 정리한 것이다.",
+        "related_terms": [
+          "정의",
+          "이",
+          "쓰기 과정",
+          "개요"
+        ]
+      },
+      {
+        "concept": "표현하기, 초고",
+        "easy_explanation": "쓰기 과정의 표현하기는 내용 생성하고 내용 조직을 한 뒤, 직접 글을 쓰는 것이다. 초고는 처음에 대강 쓴 글이다.",
+        "related_terms": [
+          "정의",
+          "이",
+          "쓰기 과정",
+          "처음"
+        ]
+      },
+      {
+        "concept": "고쳐쓰기",
+        "easy_explanation": "쓰기 과정의 고쳐쓰기는 부족하거나 잘못된 부분을 바꾸거나 바로잡는 것이다.",
+        "related_terms": [
+          "정의",
+          "이",
+          "쓰기 과정"
+        ]
+      },
+      {
+        "concept": "필자, 독자",
+        "easy_explanation": "필자는 글을 쓰는 사람이고, 독자는 글을 읽는 사람이다.",
+        "related_terms": [
+          "독자",
+          "필자",
+          "이"
+        ]
+      },
+      {
+        "concept": "명사",
+        "easy_explanation": "사람이나 사물, 장소의 이름을 나타내는 말",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "대명사",
+        "easy_explanation": "사람이나 사물, 장소의 이름을 대신하는 말",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "개요",
+        "easy_explanation": "중요한 내용을 골라 간단하게 정리한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "필자",
+        "easy_explanation": "글을 쓰는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "독자",
+        "easy_explanation": "글을 읽는 사람",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "9 품사",
+    "concepts": [
+      {
+        "concept": "수사",
+        "easy_explanation": "수량이나 순서를 나타내는 단어",
+        "related_terms": [
+          "이",
+          "단어"
+        ]
+      },
+      {
+        "concept": "조사",
+        "easy_explanation": "주로 체언(명사, 대명사, 수사) 뒤에 붙어서 다른 말과의 문법적 관계를 나타내는 단어",
+        "related_terms": [
+          "대명사",
+          "명사",
+          "수사",
+          "단어",
+          "관계"
+        ]
+      },
+      {
+        "concept": "동사",
+        "easy_explanation": "사람이나 사물의 움직임을 나타내는 단어",
+        "related_terms": [
+          "이",
+          "단어"
+        ]
+      },
+      {
+        "concept": "형용사",
+        "easy_explanation": "사람이나 사물의 상태나 성질을 나타내는 말",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "관형사",
+        "easy_explanation": "문장에서 체언을 꾸며 주는 단어",
+        "related_terms": [
+          "단어"
+        ]
+      },
+      {
+        "concept": "부사",
+        "easy_explanation": "용언(동사, 형용사)을 꾸며 주는 단어",
+        "related_terms": [
+          "형용사",
+          "동사",
+          "단어"
+        ]
+      },
+      {
+        "concept": "감탄사",
+        "easy_explanation": "감정을 넣어 ‘놀람’, ‘느낌’, ‘부름’, ‘대답’을 나타내는 단어",
+        "related_terms": [
+          "단어"
+        ]
+      },
+      {
+        "concept": "품사",
+        "easy_explanation": "비슷한 성질에 따라 묶어 놓은 단어의 갈래",
+        "related_terms": [
+          "단어"
+        ]
+      },
+      {
+        "concept": "자의성",
+        "easy_explanation": "언어의 소리와 의미 사이에 필연적인 관계가 없는 특성",
+        "related_terms": [
+          "이",
+          "관계"
+        ]
+      },
+      {
+        "concept": "역사성",
+        "easy_explanation": "언어가 시간에 따라 생성, 성장, 소멸하며 변하는 특성",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "사회성",
+        "easy_explanation": "언어가 같은 언어를 사용하는 사람들 사이의 약속인 특성",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "규칙성",
+        "easy_explanation": "언어를 바르게 사용하기 위한 문법적 규칙이 있는 특성",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "창조성",
+        "easy_explanation": "언어가 새로운 단어나 문장을 만들어 사용할 수 있는 특성",
+        "related_terms": [
+          "단어"
+        ]
+      },
+      {
+        "concept": "언어의 본질",
+        "easy_explanation": "언어가 지닌 자의성, 역사성, 사회성, 규칙성, 창조성 등의 특성",
+        "related_terms": [
+          "자의성",
+          "사회성",
+          "창조성",
+          "규칙성",
+          "역사성"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "10 언어의 본질과 기능",
+    "concepts": [
+      {
+        "concept": "정보적 기능",
+        "easy_explanation": "말하는 사람이 듣는 사람에게 정보나 지식을 전달한다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "지시적 기능",
+        "easy_explanation": "말하는 사람이 듣는 사람에게 사물이나 개념을 가리킨다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "명령적 기능",
+        "easy_explanation": "말하는 사람이 듣는 사람에게 어떤 행동을 하게 하거나 하지 않게 한다.",
+        "related_terms": [
+          "행동",
+          "이"
+        ]
+      },
+      {
+        "concept": "정서적 기능",
+        "easy_explanation": "말하는 사람의 감정이나 태도를 표현한다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "친교적 기능",
+        "easy_explanation": "말하는 사람과 듣는 사람이 가깝고 친한 관계를 가지려고 한다.",
+        "related_terms": [
+          "이",
+          "관계"
+        ]
+      },
+      {
+        "concept": "언어의 기능",
+        "easy_explanation": "정보적, 지시적, 명령적, 정서적 친교적 기능 등이 있음",
+        "related_terms": [
+          "이",
+          "시",
+          "정서",
+          "친교적 기능"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "11 음운 체계",
+    "concepts": [
+      {
+        "concept": "음운",
+        "easy_explanation": "말의 뜻을 구별해 주는 소리의 가장 작은 단위이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "자음, 모음",
+        "easy_explanation": "자음: 소리를 낼 때, 공기가 방해를 받으며 나오는 소리이다.\n모음: 소리를 낼 때, 공기가 그대로 흘러나오는 소리이다.",
+        "related_terms": [
+          "모음",
+          "자음",
+          "이"
+        ]
+      },
+      {
+        "concept": "소리 나는 위치",
+        "easy_explanation": "자음은 소리 나는 위치에 따라 입술소리, 잇몸소리, 센입천장소리, 여린입천장소리, 목청소리로 나뉜다.",
+        "related_terms": [
+          "센입천장",
+          "자음",
+          "입술",
+          "여린입천장",
+          "목청"
+        ]
+      },
+      {
+        "concept": "목청의 울림 여부",
+        "easy_explanation": "자음은 목청의 울림에 따라 울림소리와 안울림소리로 나뉜다.",
+        "related_terms": [
+          "자음",
+          "목청"
+        ]
+      },
+      {
+        "concept": "소리의 세기",
+        "easy_explanation": "자음의 소리 세기를 구분하는 방법",
+        "related_terms": [
+          "자음"
+        ]
+      },
+      {
+        "concept": "예사소리",
+        "easy_explanation": "부드러운 느낌의 자음",
+        "related_terms": [
+          "자음"
+        ]
+      },
+      {
+        "concept": "된소리",
+        "easy_explanation": "딱딱하고 단단한 느낌의 자음",
+        "related_terms": [
+          "자음"
+        ]
+      },
+      {
+        "concept": "거센소리",
+        "easy_explanation": "크고 거친 느낌의 자음",
+        "related_terms": [
+          "자음"
+        ]
+      },
+      {
+        "concept": "단원 정리 1",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "입술 모양",
+        "easy_explanation": "모음을 발음할 때 입술의 형태",
+        "related_terms": [
+          "모음",
+          "입술"
+        ]
+      },
+      {
+        "concept": "원순 모음",
+        "easy_explanation": "입술을 둥글게 하여 소리 내는 모음",
+        "related_terms": [
+          "모음",
+          "입술"
+        ]
+      },
+      {
+        "concept": "평순 모음",
+        "easy_explanation": "입술을 둥글게 하지 않는 모음",
+        "related_terms": [
+          "모음",
+          "입술"
+        ]
+      },
+      {
+        "concept": "혀의 최고점의 위치",
+        "easy_explanation": "모음을 발음할 때 혀의 가장 높은 위치",
+        "related_terms": [
+          "혀",
+          "모음"
+        ]
+      },
+      {
+        "concept": "전설 모음",
+        "easy_explanation": "소리를 낼 때 혀의 최고점이 앞쪽에 있는 모음",
+        "related_terms": [
+          "혀",
+          "모음",
+          "이"
+        ]
+      },
+      {
+        "concept": "후설 모음",
+        "easy_explanation": "소리를 낼 때 혀의 최고점이 뒤쪽에 있는 모음",
+        "related_terms": [
+          "혀",
+          "모음",
+          "이"
+        ]
+      },
+      {
+        "concept": "고모음",
+        "easy_explanation": "소리 낼 때, 입이 조금 열려서 혀의 위치가 높은 모음",
+        "related_terms": [
+          "혀",
+          "모음",
+          "이"
+        ]
+      },
+      {
+        "concept": "중모음",
+        "easy_explanation": "소리 낼 때, 입이 더 열려서 혀의 위치가 중간인 모음",
+        "related_terms": [
+          "혀",
+          "모음",
+          "중간",
+          "이"
+        ]
+      },
+      {
+        "concept": "저모음",
+        "easy_explanation": "소리 낼 때, 입이 크게 열려서 혀의 위치가 낮은 모음",
+        "related_terms": [
+          "혀",
+          "모음",
+          "이"
+        ]
+      },
+      {
+        "concept": "모음 분류",
+        "easy_explanation": "모음을 혀의 높이에 따라 고모음, 중모음, 저모음으로 나눔",
+        "related_terms": [
+          "혀",
+          "모음",
+          "중모음",
+          "저모음",
+          "고모음"
+        ]
+      },
+      {
+        "concept": "자음",
+        "easy_explanation": "소리 낼 때 공기의 흐름이 방해받는 음운",
+        "related_terms": [
+          "이",
+          "음운"
+        ]
+      },
+      {
+        "concept": "모음",
+        "easy_explanation": "소리 낼 때 공기의 흐름이 방해받지 않는 음운",
+        "related_terms": [
+          "이",
+          "음운"
+        ]
+      },
+      {
+        "concept": "입술",
+        "easy_explanation": "[그림: 발음 기관의 입술 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "이",
+        "easy_explanation": "[그림: 발음 기관의 이 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "혀",
+        "easy_explanation": "[그림: 발음 기관의 혀 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "잇몸",
+        "easy_explanation": "[그림: 발음 기관의 잇몸 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "센입천장",
+        "easy_explanation": "[그림: 발음 기관의 센입천장 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "여린입천장",
+        "easy_explanation": "[그림: 발음 기관의 여린입천장 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "목젖",
+        "easy_explanation": "[그림: 발음 기관의 목젖 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "허위",
+        "easy_explanation": "[그림: 발음 기관의 허위 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "목청",
+        "easy_explanation": "[그림: 발음 기관의 목청 부분]",
+        "related_terms": []
+      },
+      {
+        "concept": "입술 모양(원순 모음, 평순 모음)",
+        "easy_explanation": "원순 모음: 입술을 둥글게 하여 소리 내는 모음; 평순 모음: 입술을 둥글게 하지 않는 모음",
+        "related_terms": [
+          "원순 모음",
+          "모음",
+          "평순 모음",
+          "입술"
+        ]
+      },
+      {
+        "concept": "혀의 최고점의 위치(전설 모음, 후설 모음)",
+        "easy_explanation": "전설 모음: 소리를 낼 때 혀의 최고점이 앞쪽에 있는 모음; 후설 모음: 소리를 낼 때 혀의 최고점이 뒤쪽에 있는 모음",
+        "related_terms": [
+          "혀",
+          "모음",
+          "이",
+          "후설 모음",
+          "전설 모음"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "12 단어의 형성",
+    "concepts": [
+      {
+        "concept": "단어",
+        "easy_explanation": "단어는 뜻(의미)을 가지고 있다.",
+        "related_terms": []
+      },
+      {
+        "concept": "형태소",
+        "easy_explanation": "형태소는 단어를 더 작게(작은 단위) 나눌 수 있다.",
+        "related_terms": [
+          "단어"
+        ]
+      },
+      {
+        "concept": "어근",
+        "easy_explanation": "어근은 단어의 실제 뜻을 의미한다.",
+        "related_terms": [
+          "단어"
+        ]
+      },
+      {
+        "concept": "접사",
+        "easy_explanation": "접사는 혼자 쓸 수 없다.",
+        "related_terms": []
+      },
+      {
+        "concept": "어근, 접사",
+        "easy_explanation": "'나무', '김', '밥', '사과', '지우-'는 어근이고 '꽃-', '-개'는 접사이다.",
+        "related_terms": [
+          "이",
+          "접사",
+          "어근"
+        ]
+      },
+      {
+        "concept": "단일어",
+        "easy_explanation": "단일어는 하나의 어근으로만 이루어진 단어이다.",
+        "related_terms": [
+          "이",
+          "단어",
+          "어근"
+        ]
+      },
+      {
+        "concept": "복합어",
+        "easy_explanation": "복합어는 둘 이상의 어근이나 어근과 접사로 이루어진 단어이다.",
+        "related_terms": [
+          "이",
+          "단어",
+          "접사",
+          "어근"
+        ]
+      },
+      {
+        "concept": "단일어, 복합어",
+        "easy_explanation": "단어는 만들어지는 방법에 따라 단일어와 복합어로 나눌 수 있다.",
+        "related_terms": [
+          "단일어",
+          "단어",
+          "복합어"
+        ]
+      },
+      {
+        "concept": "합성어",
+        "easy_explanation": "둘 이상의 어근으로 이루어진 단어",
+        "related_terms": [
+          "이",
+          "단어",
+          "어근"
+        ]
+      },
+      {
+        "concept": "파생어",
+        "easy_explanation": "어근에 접사가 붙어 만들어진 단어",
+        "related_terms": [
+          "단어",
+          "접사",
+          "어근"
+        ]
+      },
+      {
+        "concept": "시",
+        "easy_explanation": "자신의 생각이나 느낌을 리듬이 있는 짧은 말로 쓴 글",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "시조",
+        "easy_explanation": "고려 시대 말부터 내려온 특정한 형식의 전통 시",
+        "related_terms": [
+          "시"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "13 시",
+    "concepts": [
+      {
+        "concept": "행, 연",
+        "easy_explanation": "행: 시의 한 줄, 연: 여러 행이 모여서 이루어진 덩어리",
+        "related_terms": [
+          "이",
+          "시"
+        ]
+      },
+      {
+        "concept": "운율",
+        "easy_explanation": "시를 읽을 때 노래를 부르는 것처럼 느껴지는 가락",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "정서",
+        "easy_explanation": "사람의 마음에 일어나는 여러 가지 감정",
+        "related_terms": []
+      },
+      {
+        "concept": "심상",
+        "easy_explanation": "모양이나 색깔, 밝고 어두움, 움직임 등을 통해 느낄 수 있는 심리적 이미지",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "14 소설",
+    "concepts": [
+      {
+        "concept": "소설",
+        "easy_explanation": "소설은 현실에 있을 것 같은 이야기를 상상하여 쓴 글이다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "배경",
+        "easy_explanation": "배경은 사건이나 인물을 둘러싼 주위의 시간적, 공간적 환경이다.",
+        "related_terms": [
+          "인물",
+          "이",
+          "사건",
+          "시"
+        ]
+      },
+      {
+        "concept": "사건",
+        "easy_explanation": "사건은 이야기 속에서 인물들이 겪거나 벌이는 일이다.",
+        "related_terms": [
+          "인물",
+          "이"
+        ]
+      },
+      {
+        "concept": "갈등",
+        "easy_explanation": "갈등은 소설 속에서 인물들이 생각이나 의견이 차이로 겪는 충돌이다.",
+        "related_terms": [
+          "인물",
+          "이",
+          "소설"
+        ]
+      },
+      {
+        "concept": "행동",
+        "easy_explanation": "행동은 소설의 인물이 하는 어떤 일이다.",
+        "related_terms": [
+          "인물",
+          "이",
+          "소설"
+        ]
+      },
+      {
+        "concept": "홍길동",
+        "easy_explanation": "신분이 낮아 차별받고 집을 나간 활빈당의 우두머리",
+        "related_terms": [
+          "활빈당",
+          "이"
+        ]
+      },
+      {
+        "concept": "활빈당",
+        "easy_explanation": "홍길동이 만든 의로운 도적의 모임",
+        "related_terms": [
+          "홍길동",
+          "이"
+        ]
+      },
+      {
+        "concept": "홍 판서",
+        "easy_explanation": "홍길동의 아버지",
+        "related_terms": [
+          "홍길동"
+        ]
+      },
+      {
+        "concept": "시간적 배경",
+        "easy_explanation": "밤, 낮 같이 시간을 나타내는 배경",
+        "related_terms": [
+          "배경",
+          "이",
+          "시"
+        ]
+      },
+      {
+        "concept": "공간적 배경",
+        "easy_explanation": "하늘, 땅 같이 공간을 나타내는 배경",
+        "related_terms": [
+          "배경",
+          "이"
+        ]
+      },
+      {
+        "concept": "발단",
+        "easy_explanation": "사건의 실마리 제시",
+        "related_terms": [
+          "사건",
+          "시"
+        ]
+      },
+      {
+        "concept": "전개",
+        "easy_explanation": "갈등 시작",
+        "related_terms": [
+          "갈등",
+          "시"
+        ]
+      },
+      {
+        "concept": "위기",
+        "easy_explanation": "갈등 고조",
+        "related_terms": [
+          "갈등"
+        ]
+      },
+      {
+        "concept": "절정",
+        "easy_explanation": "갈등 최고조",
+        "related_terms": [
+          "갈등"
+        ]
+      },
+      {
+        "concept": "결말",
+        "easy_explanation": "갈등 해소",
+        "related_terms": [
+          "갈등"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중1",
+    "unit": "15 비유와 상징",
+    "concepts": [
+      {
+        "concept": "은유",
+        "easy_explanation": "어떤 사물에 비유할 때 왜 그런지 말하지 않고 은근히 비유하는 것",
+        "related_terms": [
+          "비유"
+        ]
+      },
+      {
+        "concept": "상징",
+        "easy_explanation": "추상적인 개념을 구체적인 사물로 나타내는 표현 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "비유",
+        "easy_explanation": "어떤 사물에 대한 느낌을 무언가에 빗대어 표현하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "직유",
+        "easy_explanation": "어떤 사물을 다른 사물에 직접 비유하는 방법",
+        "related_terms": [
+          "비유"
+        ]
+      }
+    ]
+  }
+]

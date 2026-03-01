@@ -27,12 +27,15 @@
       {
         "concept": "지도",
         "easy_explanation": "다음 그림을 보고, 우체국과 파출소의 위치를 말해 보세요.",
-        "related_terms": []
+        "related_terms": [
+          "위치"
+        ]
       },
       {
         "concept": "방위",
         "easy_explanation": "동서남북을 이용하여 위치를 나타내는 것",
         "related_terms": [
+          "위치",
           "동서남북"
         ]
       },
@@ -59,8 +62,8 @@
         "concept": "자연환경",
         "easy_explanation": "산, 들, 하천 등",
         "related_terms": [
-          "하천",
-          "산"
+          "산",
+          "하천"
         ]
       },
       {
@@ -80,8 +83,8 @@
         "easy_explanation": "사람들은 땅에 도로와 다리를 만들어 편리하게 이용합니다.",
         "related_terms": [
           "다리",
-          "편리",
-          "도로"
+          "도로",
+          "편리"
         ]
       },
       {
@@ -102,9 +105,9 @@
         "concept": "공장, 아파트",
         "easy_explanation": "공장, 아파트 등은 사람들이 만든 환경입니다.",
         "related_terms": [
-          "공장",
           "아파트",
-          "환경"
+          "환경",
+          "공장"
         ]
       },
       {
@@ -135,24 +138,28 @@
         "concept": "산사태, 눈사태",
         "easy_explanation": "비나 지진 등으로 산비탈이 무너지는 일(산사태)과 많이 쌓였던 눈이 갑자기 무너지거나 빠르게 미끄러져 내리는 것(눈사태)",
         "related_terms": [
+          "눈사태",
+          "산",
           "지진",
-          "산"
+          "산사태"
         ]
       },
       {
         "concept": "홍수, 가뭄",
         "easy_explanation": "비가 많이 와서 강이나 하천에 갑자기 많아진 물(홍수)과 오랫동안 비가 내리지 않아 메마른 날씨(가뭄)",
         "related_terms": [
-          "하천",
-          "강"
+          "홍수",
+          "강",
+          "가뭄",
+          "하천"
         ]
       },
       {
         "concept": "지진, 태풍, 해일",
         "easy_explanation": "다음 그림을 보고 지진, 태풍, 바람이 아주 세게 불면 어떤 일이 일어날지 말해 보세요.",
         "related_terms": [
-          "지진",
-          "태풍"
+          "태풍",
+          "지진"
         ]
       },
       {
@@ -169,8 +176,8 @@
         "concept": "해일",
         "easy_explanation": "지진이나 태풍으로 인해 바닷물이 육지로 넘쳐 들어오는 것",
         "related_terms": [
-          "지진",
-          "태풍"
+          "태풍",
+          "지진"
         ]
       },
       {
@@ -210,8 +217,40 @@
         "concept": "어업, 조선업, 관광업",
         "easy_explanation": "바닷가 마을에 사는 사람들은 주로 어업, [___], [___]에 관련된 일을 합니다.",
         "related_terms": [
+          "마을",
           "어업"
         ]
+      },
+      {
+        "concept": "위치",
+        "easy_explanation": "무엇이 어디에 있는지를 나타내는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "산사태",
+        "easy_explanation": "비나 지진 등으로 산비탈이 무너지는 일",
+        "related_terms": [
+          "산",
+          "지진"
+        ]
+      },
+      {
+        "concept": "눈사태",
+        "easy_explanation": "많이 쌓였던 눈이 갑자기 무너지거나 빠르게 미끄러져 내리는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "홍수",
+        "easy_explanation": "비가 많이 와서 강이나 하천에 갑자기 많아진 물",
+        "related_terms": [
+          "강",
+          "하천"
+        ]
+      },
+      {
+        "concept": "가뭄",
+        "easy_explanation": "오랫동안 계속하여 비가 내리지 않아 메마른 날씨",
+        "related_terms": []
       }
     ]
   },
@@ -283,8 +322,8 @@
         "concept": "봉수",
         "easy_explanation": "높은 산에 굴뚝처럼 생긴 것을 세워서 낮에는 연기, 밤에는 횃불로 적의 침입과 같은 나라의 중요한 일을 전하였습니다.",
         "related_terms": [
-          "굴뚝",
           "산",
+          "굴뚝",
           "연"
         ]
       },
@@ -344,9 +383,9 @@
         "concept": "수상 택시",
         "easy_explanation": "큰 도시에서 강을 따라 배로 이동하는 택시",
         "related_terms": [
-          "도시",
           "강",
-          "택시"
+          "택시",
+          "도시"
         ]
       },
       {
@@ -360,20 +399,24 @@
         "concept": "버스 도착 알림",
         "easy_explanation": "버스 도착 안내 시스템을 통해 버스 도착 예정 시간을 확인하는 기능",
         "related_terms": [
+          "도착",
           "버스"
         ]
       },
       {
         "concept": "마을 방송",
         "easy_explanation": "마을의 중요한 일을 주민들에게 알리는 방송",
-        "related_terms": []
+        "related_terms": [
+          "방송",
+          "마을"
+        ]
       },
       {
         "concept": "무전기",
         "easy_explanation": "휴대 전화 사용이 어려운 깊은 산 속에서 사용하는 통신 장비",
         "related_terms": [
-          "산",
-          "휴대 전화"
+          "휴대 전화",
+          "산"
         ]
       },
       {
@@ -385,6 +428,67 @@
         "concept": "불편",
         "easy_explanation": "쓰기에 편하지 않은 것",
         "related_terms": []
+      },
+      {
+        "concept": "돛단배",
+        "easy_explanation": "돛을 달아 바람의 힘을 이용하여 움직이는 배",
+        "related_terms": []
+      },
+      {
+        "concept": "뗏목",
+        "easy_explanation": "통나무를 여러 개 이어 붙여서 만든 배로 사람이 노를 저어 감",
+        "related_terms": []
+      },
+      {
+        "concept": "가마",
+        "easy_explanation": "한 사람이 타고 여러 사람이 함께 들고 감",
+        "related_terms": []
+      },
+      {
+        "concept": "인력거",
+        "easy_explanation": "바퀴 달린 수레를 사람이 끔",
+        "related_terms": []
+      },
+      {
+        "concept": "지게",
+        "easy_explanation": "짐을 등에 지고 나름",
+        "related_terms": []
+      },
+      {
+        "concept": "소달구지",
+        "easy_explanation": "수레 위에 짐을 싣고 소가 끔",
+        "related_terms": []
+      },
+      {
+        "concept": "도착",
+        "easy_explanation": "버스 도착 안내 시스템을 통해 버스 도착 예정 시간을 확인할 수 있다.",
+        "related_terms": [
+          "버스"
+        ]
+      },
+      {
+        "concept": "알림",
+        "easy_explanation": "버스 도착 안내 시스템을 통해 버스 도착 예정 시간을 확인할 수 있다.",
+        "related_terms": [
+          "도착",
+          "버스"
+        ]
+      },
+      {
+        "concept": "마을",
+        "easy_explanation": "시장에서는 마을의 중요한 일을 마을 방송을 통해 알릴 수 있다.",
+        "related_terms": [
+          "방송",
+          "마을 방송"
+        ]
+      },
+      {
+        "concept": "방송",
+        "easy_explanation": "시장에서는 마을의 중요한 일을 마을 방송을 통해 알릴 수 있다.",
+        "related_terms": [
+          "마을",
+          "마을 방송"
+        ]
       }
     ]
   },
@@ -397,6 +501,7 @@
         "concept": "건물",
         "easy_explanation": "중심지의 오늘날의 모습을 살펴보면 높은 건물이 많습니다. 옛날에 밭이던 곳에 지금은 높은 건물이 들어섰습니다.",
         "related_terms": [
+          "중심지",
           "밭"
         ]
       },
@@ -417,6 +522,25 @@
         "easy_explanation": "다음 그림에서 “주차장”, “터미널”, “주택가”를 찾아서 ◯로 표시해 보세요.",
         "related_terms": [
           "주택"
+        ]
+      },
+      {
+        "concept": "중심지",
+        "easy_explanation": "사람이 많이 모여 중요한 활동을 하는 곳으로, 터미널, 시장, 은행, 병원 등 다양한 시설이 있는 곳",
+        "related_terms": [
+          "시설"
+        ]
+      },
+      {
+        "concept": "교통",
+        "easy_explanation": "사람이 오고 가거나 물건을 실어 나르는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "노선도",
+        "easy_explanation": "버스나 지하철이 지나는 길과 정류장을 나타낸 그림",
+        "related_terms": [
+          "버스"
         ]
       }
     ]
@@ -649,6 +773,34 @@
           "온돌",
           "아궁이"
         ]
+      },
+      {
+        "concept": "한옥",
+        "easy_explanation": "초가집(그림①)과 기와집(그림②)처럼 한국의 전통 집",
+        "related_terms": []
+      },
+      {
+        "concept": "양옥",
+        "easy_explanation": "주택(그림③)이나 아파트(그림④)와 같이 서양의 방식으로 지은 집",
+        "related_terms": [
+          "아파트",
+          "주택"
+        ]
+      },
+      {
+        "concept": "주생활",
+        "easy_explanation": "집과 관련된 생활",
+        "related_terms": []
+      },
+      {
+        "concept": "직선",
+        "easy_explanation": "반듯하게 곧은 선",
+        "related_terms": []
+      },
+      {
+        "concept": "곡선",
+        "easy_explanation": "부드럽게 굽은 선",
+        "related_terms": []
       }
     ]
   },
@@ -728,25 +880,32 @@
       {
         "concept": "촌락",
         "easy_explanation": "시골의 작은 마을",
-        "related_terms": []
+        "related_terms": [
+          "마을"
+        ]
       },
       {
         "concept": "등고선",
         "easy_explanation": "지도에서 높이가 같은 지점을 연결해서 그린 곡선",
         "related_terms": [
+          "연",
           "지도",
-          "연"
+          "곡선"
         ]
       },
       {
         "concept": "어촌",
         "easy_explanation": "물고기를 잡아 생활하는 사람들이 모여 사는 바닷가 마을",
-        "related_terms": []
+        "related_terms": [
+          "마을"
+        ]
       },
       {
         "concept": "농촌",
         "easy_explanation": "농사를 짓는 사람들이 주로 모여 사는 마을",
-        "related_terms": []
+        "related_terms": [
+          "마을"
+        ]
       },
       {
         "concept": "농업",
@@ -771,8 +930,8 @@
         "concept": "어업",
         "easy_explanation": "바다 주변의 어촌에서 발달한 산업",
         "related_terms": [
-          "산",
           "어촌",
+          "산",
           "산업"
         ]
       },
@@ -791,7 +950,9 @@
       {
         "concept": "시설",
         "easy_explanation": "고장에는 사람들에게 필요한 여러 가지 것",
-        "related_terms": []
+        "related_terms": [
+          "고장"
+        ]
       },
       {
         "concept": "환경 오염",
@@ -833,6 +994,7 @@
         "easy_explanation": "고장의 안전을 지키고 재산을 보호하는 일을 하는 시설",
         "related_terms": [
           "산",
+          "고장",
           "시설"
         ]
       },
@@ -853,9 +1015,9 @@
         "concept": "관광 자원",
         "easy_explanation": "사람들이 찾아가서 구경하는 자연 경치나 문화 시설",
         "related_terms": [
-          "문화",
           "시설",
-          "연"
+          "연",
+          "문화"
         ]
       },
       {
@@ -879,8 +1041,8 @@
         "concept": "공업 단지",
         "easy_explanation": "나라에서 미리 정해 놓고 시설을 갖추어 많은 공장이 들어서서 한 곳",
         "related_terms": [
-          "공장",
-          "시설"
+          "시설",
+          "공장"
         ]
       },
       {
@@ -906,7 +1068,8 @@
         "concept": "대중교통",
         "easy_explanation": "버스나 지하철처럼 여러 사람이 이용하는 교통",
         "related_terms": [
-          "버스"
+          "버스",
+          "교통"
         ]
       },
       {
@@ -923,6 +1086,36 @@
           "산",
           "산업"
         ]
+      },
+      {
+        "concept": "주택 문제",
+        "easy_explanation": "도시에는 집의 수가 너무 적거나 집값이 너무 비싸서 집을 찾기가 어려워요. 이것을 주택 문제라고 해요.",
+        "related_terms": [
+          "주택",
+          "도시"
+        ]
+      },
+      {
+        "concept": "교통 문제",
+        "easy_explanation": "길이 좁고 차가 많아서 생기는 문제",
+        "related_terms": []
+      },
+      {
+        "concept": "교통사고",
+        "easy_explanation": "자동차나 기차 등이 오고 가다가 서로 부딪치거나 사람을 치는 안 좋은 일",
+        "related_terms": [
+          "자동차"
+        ]
+      },
+      {
+        "concept": "대기 오염",
+        "easy_explanation": "우리를 둘러싼 공기가 더러워지는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "수질 오염",
+        "easy_explanation": "우리 주변에 있는 물이 더러워지는 것",
+        "related_terms": []
       }
     ]
   },
@@ -960,8 +1153,8 @@
         "concept": "후보자",
         "easy_explanation": "대표가 되기 위하여 선거에 참여하는 사람",
         "related_terms": [
-          "선거",
-          "참여"
+          "참여",
+          "선거"
         ]
       },
       {
@@ -976,6 +1169,28 @@
         "easy_explanation": "선거운동이 끝나고 자신이 뽑고 싶은 대표를 쪽지에 표시하는 것",
         "related_terms": [
           "선거"
+        ]
+      },
+      {
+        "concept": "지방 자치",
+        "easy_explanation": "지역 주민들과 그들이 뽑은 지역의 대표가 지역의 일을 스스로 해결하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "지방 자치 단체",
+        "easy_explanation": "서울 시청이 서울 시민을 위해 일하는 것처럼 지역 주민들을 위해 일하는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "지방 의회",
+        "easy_explanation": "주민들을 대표하여 지역의 중요한 일을 결정하는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "지방 정부",
+        "easy_explanation": "지방 의회에서 결정된 일을 직접 실천하는 시·도청과 같은 곳",
+        "related_terms": [
+          "지방 의회"
         ]
       }
     ]
@@ -1068,6 +1283,8 @@
         "concept": "성차별, 양성평등",
         "easy_explanation": "성차별: 여자라는 이유나 남자라는 이유 때문에 차별하는 것; 양성평등: 성과 상관없이 자기의 능력에 따라 공평한 대우를 받는 것",
         "related_terms": [
+          "양성평등",
+          "성차별",
           "차별"
         ]
       },
@@ -1076,6 +1293,8 @@
         "easy_explanation": "인구: 한 지역이나 나라에 살고 있는 사람의 수; 저출산: 아이를 적게 낳는 것; 고령화: 한 전체 인구에서 노인이 차지하는 부분이 많아지는 것",
         "related_terms": [
           "산",
+          "고령화",
+          "저출산",
           "인구"
         ]
       },
@@ -1092,6 +1311,58 @@
         "related_terms": [
           "차별"
         ]
+      },
+      {
+        "concept": "확대 가족",
+        "easy_explanation": "부모와 결혼한 부부가 함께 사는 가족",
+        "related_terms": [
+          "가족",
+          "결혼"
+        ]
+      },
+      {
+        "concept": "핵가족",
+        "easy_explanation": "부모와 결혼하지 않은 자녀가 함께 사는 가족",
+        "related_terms": [
+          "가족",
+          "결혼"
+        ]
+      },
+      {
+        "concept": "성차별",
+        "easy_explanation": "여자는 이유나 남자는 이유라는 이유 때문에 차별하는 것",
+        "related_terms": [
+          "차별"
+        ]
+      },
+      {
+        "concept": "양성평등",
+        "easy_explanation": "성과 상관없이 자기의 능력에 따라 공평한 대우를 받는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "저출산",
+        "easy_explanation": "아이를 적게 낳는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "고령화",
+        "easy_explanation": "전체 인구에서 노인이 차지하는 부분이 많아지는 것",
+        "related_terms": [
+          "인구"
+        ]
+      },
+      {
+        "concept": "장애인",
+        "easy_explanation": "신체의 일부에 장애가 있거나 정신적으로 문제가 있는 사람",
+        "related_terms": [
+          "장애"
+        ]
+      },
+      {
+        "concept": "장애",
+        "easy_explanation": "몸의 어느 부분이 제 역할을 하지 못하는 상태",
+        "related_terms": []
       }
     ]
   },
@@ -1143,6 +1414,35 @@
       {
         "concept": "질문지 조사",
         "easy_explanation": "미리 질문 내용을 만들어 여러 명에게 답하도록 하여 자료를 얻는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "대화",
+        "easy_explanation": "서로 의견을 주고받으며 이야기를 나누는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "타협",
+        "easy_explanation": "어떤 일에 대하여 서로 양보하며 의논하는 것",
+        "related_terms": [
+          "논"
+        ]
+      },
+      {
+        "concept": "다수결",
+        "easy_explanation": "어떤 일에 대하여 많은 사람의 의견에 따라 결정하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "3-4",
+    "unit": "머리말",
+    "concepts": [
+      {
+        "concept": "고장",
+        "easy_explanation": "사람이 태어나는 고향이나 지역",
         "related_terms": []
       }
     ]

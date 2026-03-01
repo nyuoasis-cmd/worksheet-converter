@@ -1,0 +1,918 @@
+[
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "비언어",
+        "easy_explanation": "표정, 손짓, 몸짓처럼 말 없이 이루어지는 의사소통",
+        "related_terms": []
+      },
+      {
+        "concept": "반언어",
+        "easy_explanation": "어조, 말투, 억양처럼 말은 있지만 언어는 아닌 의사소통",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "1 의사소통을 위한 효과적인 말하기",
+    "concepts": [
+      {
+        "concept": "표준어",
+        "easy_explanation": "교양 있는 사람들이 두루 쓰는 현대 서울말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "방언",
+        "easy_explanation": "어느 한 지방에서만 쓰는, 표준어가 아닌 말로 사투리라고도 한다.",
+        "related_terms": [
+          "표준어"
+        ]
+      },
+      {
+        "concept": "반말",
+        "easy_explanation": "사람이나 사물을 높이지 아니하는 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "높임말",
+        "easy_explanation": "사람이나 사물을 높여 이르는 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "대화",
+        "easy_explanation": "대화는 마주 대하며 이야기를 주고받는 말하기이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "강연",
+        "easy_explanation": "강연은 일정한 주제에 대하여 청중 앞에서 가르치거나 알려 주는 형식의 말하기이다.",
+        "related_terms": [
+          "주제"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "2 말하기 유형과 표현",
+    "concepts": [
+      {
+        "concept": "연설",
+        "easy_explanation": "대중 앞에서 자기 자신의 생각이나 주장을 말하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "발표",
+        "easy_explanation": "어떤 사실이나 결과, 작품 따위를 세상에 널리 드러내어 알리는 것",
+        "related_terms": [
+          "작품"
+        ]
+      },
+      {
+        "concept": "화제",
+        "easy_explanation": "이야기의 대상이 되는 문제. 이야깃거리",
+        "related_terms": []
+      },
+      {
+        "concept": "사실, 의견",
+        "easy_explanation": "사실은 실제로 있었던 일이나 현재 있는 일이다. 의견은 어떤 대상이나 현상에 대하여 가지는 생각이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "태도",
+        "easy_explanation": "어떤 일이나 상황을 대하는 자세",
+        "related_terms": []
+      },
+      {
+        "concept": "친밀도",
+        "easy_explanation": "사람 사이의 공감적인 인간관계",
+        "related_terms": []
+      },
+      {
+        "concept": "말하기 유형",
+        "easy_explanation": "대화, 강연, 연설, 발표",
+        "related_terms": [
+          "연설",
+          "강연",
+          "대화",
+          "발표"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "3 능동적 읽기",
+    "concepts": [
+      {
+        "concept": "능동적 읽기",
+        "easy_explanation": "적극적으로 질문하며 글을 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "질문 생성",
+        "easy_explanation": "알고 싶은 내용에 대해 질문을 만드는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "의도 파악",
+        "easy_explanation": "글쓴이의 생각이나 계획을 이해하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "4 공감적/비판적 읽기",
+    "concepts": [
+      {
+        "concept": "비판적 읽기",
+        "easy_explanation": "잘못된 내용이 없는지 확인하며 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "차이",
+        "easy_explanation": "외국에 알리는 방법에서 다른 점",
+        "related_terms": []
+      },
+      {
+        "concept": "입장",
+        "easy_explanation": "어떤 관점의 바탕을 이루는 기본 생각",
+        "related_terms": []
+      },
+      {
+        "concept": "공감적 읽기",
+        "easy_explanation": "글의 내용에 대해 나도 그렇다고 느끼면서 읽는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "5 논증",
+    "concepts": [
+      {
+        "concept": "논증",
+        "easy_explanation": "어떤 문제에 대한 생각이나 의견을 주장할 때 뒷받침하는 내용을 들어 결론을 이끌어 내는 과정",
+        "related_terms": []
+      },
+      {
+        "concept": "연역법",
+        "easy_explanation": "일반적인 원리에서 구체적이고 특수한 사실을 이끌어 내는 논증 방식",
+        "related_terms": [
+          "논증"
+        ]
+      },
+      {
+        "concept": "귀납법",
+        "easy_explanation": "구체적인 사실로부터 일반적인 원리를 이끌어 내는 논증 방식",
+        "related_terms": [
+          "논증"
+        ]
+      },
+      {
+        "concept": "타당성",
+        "easy_explanation": "어떤 판단이 옳거나 가치가 있다고 생각하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "표현 방식",
+        "easy_explanation": "생각이나 느낌을 언어나 몸짓으로 나타내기 위한 방법이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "강조",
+        "easy_explanation": "강조는 어떤 부분을 특별히 강하게 주장하거나 드러내는 것이다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "6 표현 방식",
+    "concepts": [
+      {
+        "concept": "비교",
+        "easy_explanation": "둘 이상의 물건이나 사람의 생각에 비추어 비슷한 점, 차이점 등을 찾아보는 것이다.",
+        "related_terms": [
+          "차이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "7 글의 유형과 여러 가지 표현",
+    "concepts": [
+      {
+        "concept": "보고서",
+        "easy_explanation": "조사, 실험, 관찰, 견학의 진행 과정이나 결과를 정리하여 알리는 글이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "조사 보고서",
+        "easy_explanation": "조사 보고서는 자료를 찾거나 면담을 하여 쓴 보고서이다.",
+        "related_terms": [
+          "보고서"
+        ]
+      },
+      {
+        "concept": "실험 보고서",
+        "easy_explanation": "실험 보고서는 실험한 뒤에 실험한 내용과 결과를 쓴 보고서이다.",
+        "related_terms": [
+          "보고서"
+        ]
+      },
+      {
+        "concept": "관찰 보고서",
+        "easy_explanation": "관찰 보고서는 대상을 오랫동안 자세히 본 뒤에 쓴 보고서이다.",
+        "related_terms": [
+          "보고서"
+        ]
+      },
+      {
+        "concept": "견학 보고서",
+        "easy_explanation": "견학 보고서는 장소에 방문하여 알게 된 사실을 쓴 보고서이다.",
+        "related_terms": [
+          "보고서"
+        ]
+      },
+      {
+        "concept": "건의문",
+        "easy_explanation": "건의문은 문제 상황에 대해 바라는 것이나 해결 방안을 적은 글이다.",
+        "related_terms": [
+          "문제 상황"
+        ]
+      },
+      {
+        "concept": "문제 상황",
+        "easy_explanation": "문제 상황은 이러지도 저러지도 못하는 어려운 상태이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "문제 해결 방안",
+        "easy_explanation": "문제 해결 방안은 문제 상황을 잘 마무리할 수 있는 방법이다.",
+        "related_terms": [
+          "문제 상황"
+        ]
+      },
+      {
+        "concept": "요청",
+        "easy_explanation": "요청은 필요한 어떤 일이나 행동을 부탁하는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "항의",
+        "easy_explanation": "항의는 못마땅한 생각이나 반대의 뜻을 주장하는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "요청, 항의",
+        "easy_explanation": "• 문제 상황에 대해 [요청]하거나 [항의]할 수 있다.",
+        "related_terms": [
+          "문제 상황",
+          "항의",
+          "요청"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "8 다양한 상황에서 글쓰기",
+    "concepts": [
+      {
+        "concept": "쓰기 윤리",
+        "easy_explanation": "글을 쓸 때 지켜야 할 바른 방법이나 생각",
+        "related_terms": []
+      },
+      {
+        "concept": "인용, 출처",
+        "easy_explanation": "인용은 남의 말이나 글을 가져오는 것이고, 출처는 그것을 가져온 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "표절",
+        "easy_explanation": "남의 말이나 글을 허락 없이 베끼는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "과장, 왜곡",
+        "easy_explanation": "과장은 과장한 것처럼 부풀려 쓰는 것이고, 왜곡은 사실과 다르게 쓰는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "인터넷 예절",
+        "easy_explanation": "인터넷 예절은 인터넷에서 글을 쓸 때 지켜야 할 예절이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "영상 언어",
+        "easy_explanation": "영상 언어는 영화, 텔레비전과 같은 영상으로 어떤 내용을 전달하고 표현하는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "영상물, 스토리보드",
+        "easy_explanation": "영상물은 영상 언어로 표현되는 작품이다. 스토리보드는 영상물의 장면을 그림으로 정리하여 계획한 것이다.",
+        "related_terms": [
+          "영상물",
+          "작품",
+          "스토리보드",
+          "영상 언어"
+        ]
+      },
+      {
+        "concept": "촬영, 편집",
+        "easy_explanation": "촬영은 사람, 사물, 풍경을 사진이나 영화로 찍는 일이다. 편집은 촬영한 것을 하나의 영상물로 완성하는 일이다.",
+        "related_terms": [
+          "편집",
+          "촬영",
+          "영상물"
+        ]
+      },
+      {
+        "concept": "영상물",
+        "easy_explanation": "자전거 타던 경험을 영상물로 만들어야지!.",
+        "related_terms": []
+      },
+      {
+        "concept": "스토리보드",
+        "easy_explanation": "영상물을 만들기 전에 [___]를 쓴다.",
+        "related_terms": [
+          "영상물"
+        ]
+      },
+      {
+        "concept": "스토리보드, 영상물",
+        "easy_explanation": "[___]로 계획한 뒤 [___]을 만든다.",
+        "related_terms": []
+      },
+      {
+        "concept": "촬영",
+        "easy_explanation": "자전거 타는 모습을 [___]한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "편집",
+        "easy_explanation": "촬영한 영상을 [___]한다.",
+        "related_terms": [
+          "촬영"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "9 어휘",
+    "concepts": [
+      {
+        "concept": "고유어, 한자어",
+        "easy_explanation": "고유어는 우리말(한국어)에 처음부터 있던 말이나 그것(처음부터 있던 말)에 기초하여 새로 만들어진 말이다. 한자어는 한자를 바탕으로 만들어진 말이다.",
+        "related_terms": [
+          "한자어",
+          "고유어"
+        ]
+      },
+      {
+        "concept": "외래어, 외국어",
+        "easy_explanation": "외래어는 외국에서 말을 빌려 와서 한국어처럼 쓰는 말이다. 외국어는 외국에서 들어왔지만 한국어로 바꿀 수 있는 말이다.",
+        "related_terms": [
+          "외래어"
+        ]
+      },
+      {
+        "concept": "유의어",
+        "easy_explanation": "유의어는 말소리는 다르지만 뜻이 비슷한 단어(어휘)이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "반의어",
+        "easy_explanation": "반의어는 서로 반대되는 의미를 가지고 있는 단어(어휘)이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "상의어, 하의어",
+        "easy_explanation": "상의어는 어떤 단어가 다른 단어를 포함하는 단어이고 하의어는 어떤 단어가 다른 단어에 포함되는 단어이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "다의어",
+        "easy_explanation": "다의어는 하나의 단어에 두 가지 이상의 뜻이 비슷한 관계가 있는 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "은어",
+        "easy_explanation": "은어는 다른 사람들이 알아듣지 못하도록 자기들끼리만 자주 사용하는 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "유행어",
+        "easy_explanation": "유행어는 짧은 시간에 걸쳐 여러 사람의 입에 오르내리다 사라지는 새로운 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "전문어",
+        "easy_explanation": "전문어는 전문적인 분야에서 일을 효과적으로 하기 위해 사용하는 말이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "은어, 유행어, 전문어",
+        "easy_explanation": "[은어], [유행어], [전문어]는 자주 사용하면 상대방과의 의사소통이 어려워질 수 있다.",
+        "related_terms": [
+          "유행어",
+          "은어",
+          "전문어"
+        ]
+      },
+      {
+        "concept": "외래어",
+        "easy_explanation": "다른 나라의 말이 들어와서 우리말처럼 쓰이는 낱말",
+        "related_terms": []
+      },
+      {
+        "concept": "고유어",
+        "easy_explanation": "처음부터 있던 말이나 그것에 기초하여 새로 만들어진 말",
+        "related_terms": []
+      },
+      {
+        "concept": "한자어",
+        "easy_explanation": "한자를 바탕으로 하여 만들어진 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "10 어문 규범",
+    "concepts": [
+      {
+        "concept": "띄어쓰기",
+        "easy_explanation": "문장의 각 단어를 띄어 쓰는 것을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "외래어 표기법",
+        "easy_explanation": "외래어를 한글로 표기하는 방법을 규칙으로 만든 것이다.",
+        "related_terms": [
+          "외래어"
+        ]
+      },
+      {
+        "concept": "음절의 끝소리 규칙",
+        "easy_explanation": "음절의 끝소리(받침)가 'ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ' 중 하나로 변하여 발음되는 현상",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "11 음운 변동",
+    "concepts": [
+      {
+        "concept": "음운 변동",
+        "easy_explanation": "음운 변동은 두 음운이 서로 만날 때, 소리 내기 좋게 음운이 달라지는 현상을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "음절의 끝소리 규칙 ① 홑받침",
+        "easy_explanation": "음절의 끝소리(받침)가 'ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ' 중 하나로 변하여 발음되는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "음절의 끝소리 규칙 ② 겹받침",
+        "easy_explanation": "음절의 끝소리(받침)가 'ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅇ' 중 하나로 변하여 발음되는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "자음 동화",
+        "easy_explanation": "자음 동화는 음절 끝 자음이 그 뒤에 오는 자음과 만날 때, 어느 한쪽 또는 양쪽이 서로 닮아서 소리가 바뀌는 것을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "문장 성분",
+        "easy_explanation": "문장을 만드는 데 일정한 역할을 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "주성분",
+        "easy_explanation": "문장을 만드는 데 꼭 필요한 성분 (주어, 서술어, 목적어, 보어)",
+        "related_terms": [
+          "보어",
+          "서술어",
+          "목적어",
+          "주어"
+        ]
+      },
+      {
+        "concept": "부속 성분",
+        "easy_explanation": "문장의 주성분을 꾸며 주는 성분 (관형어, 부사어)",
+        "related_terms": [
+          "부사어",
+          "주성분",
+          "관형어"
+        ]
+      },
+      {
+        "concept": "독립 성분",
+        "easy_explanation": "다른 문장 성분들과 직접적인 관계를 맺지 않고 혼자 쓰이는 성분 (독립어)",
+        "related_terms": [
+          "독립어",
+          "문장 성분"
+        ]
+      },
+      {
+        "concept": "주어",
+        "easy_explanation": "'나', '오빠가', '손이'는 문장에서 [주어]이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "자음동화",
+        "easy_explanation": "음절 끝 자음이 그 뒤에 오는 자음과 만날 때, 어느 한쪽 또는 양쪽이 서로 닮아서 소리가 바뀌는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "구개음화",
+        "easy_explanation": "음절의 끝소리 'ㄷ, ㅌ'이 모음 'ㅣ'를 만나 'ㅈ, ㅊ'으로 소리가 바뀌는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "음운 축약",
+        "easy_explanation": "자음과 자음, 모음과 모음이 만날 때 두 음운이 합쳐져 하나의 음운으로 줄어서 소리 나는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "음운 탈락",
+        "easy_explanation": "두 음운이 만날 때 한 음운이 없어지면서 소리 나지 않는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "음운 첨가",
+        "easy_explanation": "소리와 소리가 이어질 때, 없던 소리가 생겨 소리가 바뀌는 현상",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "12 문장 성분",
+    "concepts": [
+      {
+        "concept": "서술어",
+        "easy_explanation": "서술어는 주어의 동작, 성질, 상태를 설명한다.",
+        "related_terms": [
+          "주어"
+        ]
+      },
+      {
+        "concept": "목적어",
+        "easy_explanation": "목적어는 서술어의 동작 대상이다.",
+        "related_terms": [
+          "서술어"
+        ]
+      },
+      {
+        "concept": "보어",
+        "easy_explanation": "보어는 서술어 '되다, 아니다' 앞에서 '되다, 아니다'를 보충하는 말이다.",
+        "related_terms": [
+          "서술어"
+        ]
+      },
+      {
+        "concept": "관형어",
+        "easy_explanation": "관형어는 사물, 사람과 같이 대상을 나타내는 말을 꾸며 준다.",
+        "related_terms": []
+      },
+      {
+        "concept": "부사어",
+        "easy_explanation": "부사어는 주로 용언을 꾸미지만 관형어, 다른 부사어, 문장 전체를 꾸밀 수도 있다.",
+        "related_terms": [
+          "관형어"
+        ]
+      },
+      {
+        "concept": "독립어",
+        "easy_explanation": "독립어는 문장 안에서 다른 문장 성분들과 직접적인 관계를 맺지 않고 독립적으로 쓰인다.",
+        "related_terms": [
+          "문장 성분"
+        ]
+      },
+      {
+        "concept": "홑문장",
+        "easy_explanation": "주어와 서술어 관계가 한 번만 나타나는 문장",
+        "related_terms": [
+          "서술어",
+          "주어"
+        ]
+      },
+      {
+        "concept": "겹문장",
+        "easy_explanation": "주어와 서술어 관계가 두 번 이상 나타나는 문장",
+        "related_terms": [
+          "서술어",
+          "주어"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "13 문장 구조",
+    "concepts": [
+      {
+        "concept": "문장 구조",
+        "easy_explanation": "문장 구조에는 홑문장, 겹문장, 안은문장과 이어진문장이 있다.",
+        "related_terms": [
+          "홑문장",
+          "홑문장, 겹문장",
+          "겹문장",
+          "이어진문장",
+          "안은문장"
+        ]
+      },
+      {
+        "concept": "홑문장, 겹문장",
+        "easy_explanation": "홑문장은 주어와 서술어 관계가 한 번만 나타나는 문장이다. 겹문장은 주어와 서술어 관계가 두 번 이상 나타나는 문장이다.",
+        "related_terms": [
+          "서술어",
+          "홑문장",
+          "겹문장",
+          "주어"
+        ]
+      },
+      {
+        "concept": "이어진문장",
+        "easy_explanation": "이어진문장은 둘 이상의 홑문장이 연결어미 '-고, -(으)나, -아서/어서, -(으)러, -(으)면' 등으로 연결된 문장이다.",
+        "related_terms": [
+          "홑문장"
+        ]
+      },
+      {
+        "concept": "안긴문장",
+        "easy_explanation": "문장 속에 들어가 있는 절",
+        "related_terms": []
+      },
+      {
+        "concept": "안은문장",
+        "easy_explanation": "절을 포함하고 있는 문장",
+        "related_terms": []
+      },
+      {
+        "concept": "이어지는 문장",
+        "easy_explanation": "이어진 문장은 둘 이상의 홑문장이 연결어미 '-고', '-(으)나', '-아서/어서', '-(으)러', '-(으)면' 등으로 연결된 문장이다.",
+        "related_terms": [
+          "홑문장"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "14 문장 종결",
+    "concepts": [
+      {
+        "concept": "종결 표현",
+        "easy_explanation": "문장의 끝부분에 오는 표현",
+        "related_terms": []
+      },
+      {
+        "concept": "평서문",
+        "easy_explanation": "화자가 청자에게 하고 싶은 말을 평범하게 이야기하는 문장",
+        "related_terms": []
+      },
+      {
+        "concept": "의문문",
+        "easy_explanation": "화자가 청자에게 질문을 하여 그 대답을 요구하는 문장",
+        "related_terms": []
+      },
+      {
+        "concept": "명령문",
+        "easy_explanation": "화자가 청자에게 어떤 행동을 하라고 요구하는 문장",
+        "related_terms": []
+      },
+      {
+        "concept": "청유문",
+        "easy_explanation": "화자가 청자에게 어떤 행동을 하자고 요청하는 문장",
+        "related_terms": [
+          "요청"
+        ]
+      },
+      {
+        "concept": "감탄문",
+        "easy_explanation": "화자의 기쁨, 슬픔, 놀람 등 자신의 느낌을 나타내는 문장",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "15 수필과 희곡",
+    "concepts": [
+      {
+        "concept": "수필",
+        "easy_explanation": "일상생활 속에서 얻는 생각과 느낌을 특별한 형식에 따르지 않고 자유롭게 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "희곡",
+        "easy_explanation": "무대에서 공연하기 위해 쓰인 연극의 대본",
+        "related_terms": [
+          "연극"
+        ]
+      },
+      {
+        "concept": "해설",
+        "easy_explanation": "막이 오르기 전에 필요한 무대장치나 인물, 시간, 장소 등을 설명해 주는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "대사",
+        "easy_explanation": "연극에서 등장인물이 하는 말",
+        "related_terms": [
+          "연극"
+        ]
+      },
+      {
+        "concept": "지문",
+        "easy_explanation": "무대, 시간, 장소 및 인물의 행동과 표정을 지시하고 설명하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "무대 지시문",
+        "easy_explanation": "지문에서 무대, 시간, 장소 등을 지시하는 것",
+        "related_terms": [
+          "지문"
+        ]
+      },
+      {
+        "concept": "행동 지시문",
+        "easy_explanation": "지문에서 인물의 행동이나 표정을 지시하는 것",
+        "related_terms": [
+          "지문"
+        ]
+      },
+      {
+        "concept": "연극",
+        "easy_explanation": "어떤 사건을 배우의 말과 동작으로 무대에서 보여 주는 공연예술",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "16 반어와 역설",
+    "concepts": [
+      {
+        "concept": "반어",
+        "easy_explanation": "반어는 말하고 싶은 것과 반대로 말하는 표현법이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "역설",
+        "easy_explanation": "역설은 앞뒤가 맞지 않는 말을 함께 써서 새로운 진실을 드러내는 표현법이다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "17 작품 속의 말하는 이",
+    "concepts": [
+      {
+        "concept": "작가",
+        "easy_explanation": "시인, 소설가, 극작가, 수필가처럼 문학 작품을 쓰는 사람",
+        "related_terms": [
+          "수필",
+          "시인",
+          "작품",
+          "소설가"
+        ]
+      },
+      {
+        "concept": "시인",
+        "easy_explanation": "시를 쓰는 작가",
+        "related_terms": [
+          "작가"
+        ]
+      },
+      {
+        "concept": "시적 화자",
+        "easy_explanation": "시 속에서 말하는 이",
+        "related_terms": []
+      },
+      {
+        "concept": "소설가",
+        "easy_explanation": "소설을 쓰는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "서술자",
+        "easy_explanation": "소설 속에서 말하는 이다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "18 작품의 감상과 해석",
+    "concepts": [
+      {
+        "concept": "작품",
+        "easy_explanation": "문학, 미술, 음악 등의 예술 분야에서 예술가가 만들어 낸 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "감상",
+        "easy_explanation": "예술 작품을 이해하고 평가하고 즐기는 것이다.",
+        "related_terms": [
+          "작품"
+        ]
+      },
+      {
+        "concept": "해석",
+        "easy_explanation": "예술 작품의 내용을 판단하고 이해하는 일이다.",
+        "related_terms": [
+          "작품"
+        ]
+      },
+      {
+        "concept": "주제",
+        "easy_explanation": "작가가 하고 싶은 말",
+        "related_terms": [
+          "작가"
+        ]
+      },
+      {
+        "concept": "가치관",
+        "easy_explanation": "사람, 사물, 세상 등에 대해 가지는 태도",
+        "related_terms": [
+          "태도"
+        ]
+      },
+      {
+        "concept": "창작 의도",
+        "easy_explanation": "작가가 작품을 통해 전달하고자 하는 마음속의 생각",
+        "related_terms": [
+          "작품",
+          "작가"
+        ]
+      },
+      {
+        "concept": "깨달음",
+        "easy_explanation": "책을 읽으면서 무엇인가를 새롭게 알거나 느끼거나 이해하게 되는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "시대적 배경",
+        "easy_explanation": "시대적 배경은 문학 작품에서 사건이 펼쳐지는 시간적 환경이다.",
+        "related_terms": [
+          "작품"
+        ]
+      },
+      {
+        "concept": "사회문화적 상황",
+        "easy_explanation": "사회문화적 상황은 작품의 시간적 배경에서 나타나는 사회적, 문화적 특징이다. * 지배층: 다스리는 사람. 예) 왕, 귀족, 양반 등 / 피지배층: 다스림을 당하는 사람. 예) 평민, 천민 등",
+        "related_terms": [
+          "작품"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "중2",
+    "unit": "19 작품의 시대와 상황",
+    "concepts": [
+      {
+        "concept": "소통 맥락",
+        "easy_explanation": "시대적 배경, 사회문화적 상황 등 문학 작품을 둘러싼 모든 것",
+        "related_terms": [
+          "시대적 배경",
+          "사회문화적 상황",
+          "작품"
+        ]
+      }
+    ]
+  }
+]

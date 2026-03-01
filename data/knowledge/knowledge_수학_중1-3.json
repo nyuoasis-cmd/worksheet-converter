@@ -1,0 +1,1819 @@
+[
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "소수",
+        "easy_explanation": "약수가 2개뿐인 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "합성수",
+        "easy_explanation": "약수가 3개 이상인 수",
+        "related_terms": [
+          "수"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "01 자연수",
+    "concepts": [
+      {
+        "concept": "소인수분해",
+        "easy_explanation": "소인수의 곱으로 나타내는 것",
+        "related_terms": [
+          "인수",
+          "수"
+        ]
+      },
+      {
+        "concept": "최대공약수",
+        "easy_explanation": "공통인 약수 중 가장 큰 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "최소공배수",
+        "easy_explanation": "공통인 배수 중 가장 작은 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "최대공약수와 최소공배수",
+        "easy_explanation": "소인수분해를 이용하여 최대공약수와 최소공배수를 구하는 방법",
+        "related_terms": [
+          "인수",
+          "인수분해",
+          "수",
+          "해",
+          "최소공배수"
+        ]
+      },
+      {
+        "concept": "양의 부호",
+        "easy_explanation": "'+'를 이르는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "음의 부호",
+        "easy_explanation": "'-'를 이르는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "양수",
+        "easy_explanation": "양의 부호 +가 붙은 수",
+        "related_terms": [
+          "수",
+          "양의 부호",
+          "호"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "02 정수",
+    "concepts": [
+      {
+        "concept": "음수",
+        "easy_explanation": "음의 부호 -가 붙은 수를 음수라고 한다.",
+        "related_terms": [
+          "음의 부호",
+          "수",
+          "호"
+        ]
+      },
+      {
+        "concept": "수직선",
+        "easy_explanation": "수를 대응시킨 직선",
+        "related_terms": [
+          "직선",
+          "수",
+          "선"
+        ]
+      },
+      {
+        "concept": "절댓값",
+        "easy_explanation": "원점으로부터의 거리를 절댓값이라고 말하고, 기호로 | |를 사용한다.",
+        "related_terms": [
+          "호",
+          "원점"
+        ]
+      },
+      {
+        "concept": "정수",
+        "easy_explanation": "음의 정수, 0, 양의 정수를 합친 것",
+        "related_terms": [
+          "양의 정수",
+          "수",
+          "음의 정수"
+        ]
+      },
+      {
+        "concept": "양의 정수",
+        "easy_explanation": "자연수에 양의 부호 +를 붙인 수",
+        "related_terms": [
+          "수",
+          "양의 부호",
+          "호"
+        ]
+      },
+      {
+        "concept": "음의 정수",
+        "easy_explanation": "자연수에 음의 부호 -를 붙인 수",
+        "related_terms": [
+          "음의 부호",
+          "수",
+          "호"
+        ]
+      },
+      {
+        "concept": "양의 유리수",
+        "easy_explanation": "분자, 분모가 자연수인 분수에 양의 부호를 붙인 수",
+        "related_terms": [
+          "수",
+          "양의 부호",
+          "호"
+        ]
+      },
+      {
+        "concept": "음의 유리수",
+        "easy_explanation": "분자, 분모가 자연수인 분수에 음의 부호를 붙인 수",
+        "related_terms": [
+          "음의 부호",
+          "수",
+          "호"
+        ]
+      },
+      {
+        "concept": "유리수",
+        "easy_explanation": "양의 유리수, 0, 음의 유리수를 합친 것",
+        "related_terms": [
+          "수",
+          "음의 유리수",
+          "양의 유리수"
+        ]
+      },
+      {
+        "concept": "정수의 덧셈",
+        "easy_explanation": "두 수의 부호가 같은 경우에는 같은 부호와 두 절댓값의 합, 두 수의 부호가 다른 경우에는 절댓값이 큰 수의 부호와 두 절댓값의 차",
+        "related_terms": [
+          "절댓값",
+          "수",
+          "호"
+        ]
+      },
+      {
+        "concept": "정수의 뺄셈",
+        "easy_explanation": "덧셈으로 바꾸고, 빼는 수의 부호를 바꾼 후 덧셈하는 것",
+        "related_terms": [
+          "수",
+          "호"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "03 유리수",
+    "concepts": [
+      {
+        "concept": "역수",
+        "easy_explanation": "곱해서 1을 만드는 수",
+        "related_terms": [
+          "수",
+          "해"
+        ]
+      },
+      {
+        "concept": "유한소수",
+        "easy_explanation": "소수점 아래에 0이 아닌 숫자가 유한 개 나타나는 소수",
+        "related_terms": [
+          "수",
+          "소수"
+        ]
+      },
+      {
+        "concept": "무한소수",
+        "easy_explanation": "소수점 아래에 0이 아닌 숫자가 무한 개 나타나는 소수",
+        "related_terms": [
+          "수",
+          "소수"
+        ]
+      },
+      {
+        "concept": "기약분수",
+        "easy_explanation": "분모와 분자가 더 이상 약분되지 않는 분수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "순환 소수",
+        "easy_explanation": "같은 숫자가 규칙적으로 반복되는 소수",
+        "related_terms": [
+          "수",
+          "소수"
+        ]
+      },
+      {
+        "concept": "순환소수",
+        "easy_explanation": "분수로 나타낼 수 있는 무한소수",
+        "related_terms": [
+          "무한소수",
+          "수",
+          "소수"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "04 무리수와 실수",
+    "concepts": [
+      {
+        "concept": "제곱근",
+        "easy_explanation": "제곱하여 a가 되는 수, 즉 x²=a를 만족하는 x",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "무리수",
+        "easy_explanation": "순환하지 않는 무한소수",
+        "related_terms": [
+          "무한소수",
+          "수",
+          "소수"
+        ]
+      },
+      {
+        "concept": "실수",
+        "easy_explanation": "유리수와 무리수를 합쳐서 부르는 수",
+        "related_terms": [
+          "수",
+          "무리수",
+          "유리수"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "01 식의 연산",
+    "concepts": [
+      {
+        "concept": "다항식",
+        "easy_explanation": "하나 또는 두 개 이상의 항의 합으로 이루어진 식",
+        "related_terms": [
+          "항"
+        ]
+      },
+      {
+        "concept": "단항식",
+        "easy_explanation": "다항식 중에서 하나의 항으로만 이루어진 식",
+        "related_terms": [
+          "다항식",
+          "항"
+        ]
+      },
+      {
+        "concept": "차수",
+        "easy_explanation": "어떤 항에서 문자가 곱해진 개수",
+        "related_terms": [
+          "수",
+          "해",
+          "항"
+        ]
+      },
+      {
+        "concept": "일차식",
+        "easy_explanation": "차수가 1인 다항식",
+        "related_terms": [
+          "수",
+          "다항식",
+          "차수",
+          "항"
+        ]
+      },
+      {
+        "concept": "대입",
+        "easy_explanation": "문자 대신 어떤 수를 바꾸어 넣는 것",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "등식",
+        "easy_explanation": "등호(=)를 사용하여 나타낸 식",
+        "related_terms": [
+          "호"
+        ]
+      },
+      {
+        "concept": "동류항",
+        "easy_explanation": "같은 종류의 과일끼리 더하거나 빼는 것 (문자와 차수가 같은 항)",
+        "related_terms": [
+          "수",
+          "차수",
+          "항"
+        ]
+      },
+      {
+        "concept": "지수법칙",
+        "easy_explanation": "지수끼리의 계산을 간단히 정리한 규칙",
+        "related_terms": [
+          "지수",
+          "수"
+        ]
+      },
+      {
+        "concept": "전개",
+        "easy_explanation": "단항식과 다항식의 곱을 분배법칙을 이용하여 하나의 다항식으로 나타내는 것",
+        "related_terms": [
+          "단항식",
+          "다항식",
+          "분배법칙",
+          "항"
+        ]
+      },
+      {
+        "concept": "인수",
+        "easy_explanation": "다항식을 두 개 이상의 다항식의 곱으로 나타낼 때, 각각의 식",
+        "related_terms": [
+          "다항식",
+          "각",
+          "항"
+        ]
+      },
+      {
+        "concept": "인수분해",
+        "easy_explanation": "하나의 다항식을 두 개 이상의 인수의 곱으로 나타내는 것",
+        "related_terms": [
+          "인수",
+          "수",
+          "다항식",
+          "항"
+        ]
+      },
+      {
+        "concept": "완전제곱식",
+        "easy_explanation": "다항식의 제곱으로 된 식 또는 이 식에 수를 곱한 식",
+        "related_terms": [
+          "수",
+          "다항식",
+          "항"
+        ]
+      },
+      {
+        "concept": "좌변",
+        "easy_explanation": "등호의 왼쪽 부분",
+        "related_terms": [
+          "호"
+        ]
+      },
+      {
+        "concept": "우변",
+        "easy_explanation": "등호의 오른쪽 부분",
+        "related_terms": [
+          "호"
+        ]
+      },
+      {
+        "concept": "양변",
+        "easy_explanation": "좌변과 우변을 통틀어 이르는 말",
+        "related_terms": [
+          "좌변",
+          "우변"
+        ]
+      },
+      {
+        "concept": "방정식",
+        "easy_explanation": "x의 값에 따라 참이 되기도 하고 거짓이 되기도 하는 등식",
+        "related_terms": [
+          "등식"
+        ]
+      },
+      {
+        "concept": "해",
+        "easy_explanation": "방정식을 참이 되게 하는 x의 값",
+        "related_terms": [
+          "방정식"
+        ]
+      },
+      {
+        "concept": "근",
+        "easy_explanation": "방정식을 참이 되게 하는 x의 값",
+        "related_terms": [
+          "방정식"
+        ]
+      },
+      {
+        "concept": "항등식",
+        "easy_explanation": "x에 어떤 값을 대입하여도 항상 참이 되는 등식",
+        "related_terms": [
+          "등식",
+          "대입",
+          "항"
+        ]
+      },
+      {
+        "concept": "분배법칙",
+        "easy_explanation": "동류항끼리의 덧셈과 뺄셈은 분배법칙을 이용하여 간단히 한다.",
+        "related_terms": [
+          "동류항",
+          "항"
+        ]
+      },
+      {
+        "concept": "괄호를 푼다",
+        "easy_explanation": "괄호가 있는 경우에는 괄호를 먼저 풀고 동류항끼리 계산한다.",
+        "related_terms": [
+          "동류항",
+          "호",
+          "항"
+        ]
+      },
+      {
+        "concept": "지수",
+        "easy_explanation": "곱한 횟수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "밑",
+        "easy_explanation": "아래쪽에 있는 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "이항",
+        "easy_explanation": "한 변에 있는 항을 반대부호로 바꾸어 다른 변으로 옮기는 것",
+        "related_terms": [
+          "호",
+          "항"
+        ]
+      },
+      {
+        "concept": "일차방정식",
+        "easy_explanation": "방정식의 모든 항을 좌변으로 이항하여 정리하였을 때, '(일차식) = 0'의 꼴로 정리되는 것",
+        "related_terms": [
+          "좌변",
+          "이항",
+          "방정식",
+          "항",
+          "일차식"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "02 방정식과 부등식",
+    "concepts": [
+      {
+        "concept": "일차방정식 풀이",
+        "easy_explanation": "일차방정식을 푸는 단계: 괄호 풀기, 항 이항하기, x=(수) 형태로 만들기",
+        "related_terms": [
+          "일차방정식",
+          "수",
+          "호",
+          "이항",
+          "방정식"
+        ]
+      },
+      {
+        "concept": "일차부등식",
+        "easy_explanation": "좌변이 일차식으로 정리되는 부등식",
+        "related_terms": [
+          "좌변",
+          "등식",
+          "부등식",
+          "일차식"
+        ]
+      },
+      {
+        "concept": "부등호",
+        "easy_explanation": "등호(=)가 아닌 <, >, ≤, ≥ 기호",
+        "related_terms": [
+          "호"
+        ]
+      },
+      {
+        "concept": "부등식",
+        "easy_explanation": "부등호(<,>,≤,≥)를 사용하여 수 또는 식 사이의 대소 관계를 나타낸 식",
+        "related_terms": [
+          "부등호",
+          "수",
+          "호"
+        ]
+      },
+      {
+        "concept": "일차부등식 풀이",
+        "easy_explanation": "일차부등식을 푸는 방법: 양수로 나누면 부등호 방향 유지, 음수로 나누면 부등호 방향 변경",
+        "related_terms": [
+          "일차부등식",
+          "등식",
+          "부등호",
+          "양수",
+          "수"
+        ]
+      },
+      {
+        "concept": "연립일차방정식",
+        "easy_explanation": "두 방정식의 공통인 해를 구하기 위하여 두 식을 짝으로 묶어 나타낸 것",
+        "related_terms": [
+          "해",
+          "방정식",
+          "구"
+        ]
+      },
+      {
+        "concept": "이차방정식",
+        "easy_explanation": "모든 항을 좌변으로 이항하여 정리하였을 때, (이차식)=0의 모양으로 정리되는 식",
+        "related_terms": [
+          "이차식",
+          "좌변",
+          "이항",
+          "이차",
+          "항"
+        ]
+      },
+      {
+        "concept": "이차방정식의 해 또는 근",
+        "easy_explanation": "이차방정식을 참이 되게 하는 x의 값",
+        "related_terms": [
+          "이차방정식",
+          "이차",
+          "방정식"
+        ]
+      },
+      {
+        "concept": "좌표",
+        "easy_explanation": "수직선 위의 한 점에 대응하는 수",
+        "related_terms": [
+          "직선",
+          "수직선",
+          "수",
+          "선"
+        ]
+      },
+      {
+        "concept": "근의 공식",
+        "easy_explanation": "이차방정식 ax² + bx + c = 0의 해를 구하는 공식 x = (-b ± √(b² - 4ac)) / 2a",
+        "related_terms": [
+          "이차방정식",
+          "해",
+          "이차",
+          "방정식",
+          "구"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "01 좌표평면과 그래프",
+    "concepts": [
+      {
+        "concept": "순서쌍",
+        "easy_explanation": "두 수의 순서를 정하여 짝지어 나타낸 것",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "x축",
+        "easy_explanation": "가로를 나타내는 축",
+        "related_terms": [
+          "축"
+        ]
+      },
+      {
+        "concept": "y축",
+        "easy_explanation": "세로를 나타내는 축",
+        "related_terms": [
+          "축"
+        ]
+      },
+      {
+        "concept": "원점",
+        "easy_explanation": "두 좌표축이 만나는 점",
+        "related_terms": [
+          "좌표축",
+          "축",
+          "좌표"
+        ]
+      },
+      {
+        "concept": "좌표축",
+        "easy_explanation": "x축과 y축을 통틀어 이르는 말",
+        "related_terms": [
+          "축",
+          "x축",
+          "y축"
+        ]
+      },
+      {
+        "concept": "좌표평면",
+        "easy_explanation": "좌표축으로 구성된 평면",
+        "related_terms": [
+          "좌표축",
+          "축",
+          "좌표",
+          "구"
+        ]
+      },
+      {
+        "concept": "사분면",
+        "easy_explanation": "좌표평면이 네 부분으로 나뉘어진 각각의 부분",
+        "related_terms": [
+          "좌표",
+          "좌표평면",
+          "각"
+        ]
+      },
+      {
+        "concept": "변수",
+        "easy_explanation": "변하는 값",
+        "related_terms": []
+      },
+      {
+        "concept": "그래프",
+        "easy_explanation": "어떤 상황을 그림으로 나타낸 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "02 비례와 함수",
+    "concepts": [
+      {
+        "concept": "정비례",
+        "easy_explanation": "x의 값이 2배, 3배, 4배, …가 될 때, y의 값도 2배, 3배, 4배, …가 되는 관계",
+        "related_terms": []
+      },
+      {
+        "concept": "반비례",
+        "easy_explanation": "x의 값이 2배, 3배, 4배, …가 될 때, y의 값은 1/2배, 1/3배, 1/4배, …가 되는 관계",
+        "related_terms": []
+      },
+      {
+        "concept": "반비례 식",
+        "easy_explanation": "반비례 관계를 나타내는 식 y = a/x (a≠0)",
+        "related_terms": [
+          "반비례"
+        ]
+      },
+      {
+        "concept": "함수",
+        "easy_explanation": "x의 값이 변함에 따라 y의 값이 하나씩 정해지는 관계",
+        "related_terms": [
+          "해"
+        ]
+      },
+      {
+        "concept": "함수 기호",
+        "easy_explanation": "함수를 나타내는 기호 y = f(x)",
+        "related_terms": [
+          "수",
+          "호",
+          "함수"
+        ]
+      },
+      {
+        "concept": "함숫값",
+        "easy_explanation": "함수 y = f(x)에서 x에 따라 정해지는 f(x)의 값",
+        "related_terms": [
+          "수",
+          "해",
+          "함수"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "03 일차함수",
+    "concepts": [
+      {
+        "concept": "일차함수",
+        "easy_explanation": "y가 x에 대한 일차식으로 나타나는 y=ax+b꼴의 함수",
+        "related_terms": [
+          "수",
+          "함수",
+          "일차식"
+        ]
+      },
+      {
+        "concept": "일차함수의 그래프",
+        "easy_explanation": "일차함수 y=ax+b(a≠0)를 만족하는 순서쌍 (x, y)를 좌표평면에 점으로 나타낸 것",
+        "related_terms": [
+          "수",
+          "좌표",
+          "좌표평면",
+          "함수",
+          "일차함수"
+        ]
+      },
+      {
+        "concept": "직선",
+        "easy_explanation": "일차함수 y=ax+b(a≠0)의 x에 수 전체를 넣어 무수히 많은 순서쌍 (x, y)를 좌표평면에 점으로 나타냈을 때 일차함수의 그래프가 되는 것",
+        "related_terms": [
+          "수",
+          "좌표",
+          "좌표평면",
+          "그래프",
+          "함수"
+        ]
+      },
+      {
+        "concept": "일차함수 그래프 그리기",
+        "easy_explanation": "일차함수의 그래프는 두 점을 찾아 좌표평면에 나타내고 직선으로 연결하여 그린다.",
+        "related_terms": [
+          "직선",
+          "수",
+          "좌표",
+          "좌표평면",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "평행이동",
+        "easy_explanation": "한 도형을 일정한 방향으로 일정한 거리만큼 옮기는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "x절편",
+        "easy_explanation": "일차함수의 그래프가 x축과 만나는 점의 x좌표",
+        "related_terms": [
+          "축",
+          "x축",
+          "수",
+          "좌표",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "y절편",
+        "easy_explanation": "일차함수의 그래프가 y축과 만나는 점의 y좌표",
+        "related_terms": [
+          "축",
+          "y축",
+          "수",
+          "좌표",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "x절편, y절편 구하기",
+        "easy_explanation": "x절편은 y=0일 때 x의 값, y절편은 x=0일 때 y의 값",
+        "related_terms": [
+          "x절편",
+          "y절편"
+        ]
+      },
+      {
+        "concept": "기울기",
+        "easy_explanation": "직선이 기울어진 정도를 뜻하며, (y의 증가량) / (x의 증가량)으로 구한다.",
+        "related_terms": [
+          "직선",
+          "선",
+          "구"
+        ]
+      },
+      {
+        "concept": "직선의 방정식",
+        "easy_explanation": "일차방정식 ax+by+c=0 (a≠0, b≠0)의 그래프로, y에 관하여 풀면 일차함수 y = -a/b x - c/b의 그래프와 같다.",
+        "related_terms": [
+          "일차방정식",
+          "수",
+          "그래프",
+          "방정식",
+          "함수"
+        ]
+      },
+      {
+        "concept": "x=p, y=q 꼴의 그래프",
+        "easy_explanation": "x=p 꼴의 그래프는 y축에 평행한 직선이고, y=q 꼴의 그래프는 x축에 평행한 직선이다.",
+        "related_terms": [
+          "축",
+          "직선",
+          "x축",
+          "y축",
+          "평행"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "04 이차함수",
+    "concepts": [
+      {
+        "concept": "이차함수",
+        "easy_explanation": "함수 y = f(x)에서 f(x)가 x에 대한 이차식 즉, y = ax²+bx+c (a, b, c는 상수, a≠0)로 나타내어질 때, 이 함수를 이차함수라고 한다.",
+        "related_terms": [
+          "이차식",
+          "수",
+          "이차",
+          "함수"
+        ]
+      },
+      {
+        "concept": "포물선",
+        "easy_explanation": "물체를 던졌을 때 날아가는 모양과 같은 곡선",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "축",
+        "easy_explanation": "포물선은 선대칭 도형이고 그 대칭축을 포물선의 축",
+        "related_terms": [
+          "포물선",
+          "선"
+        ]
+      },
+      {
+        "concept": "꼭짓점",
+        "easy_explanation": "포물선과 축과의 교점이 포물선의 꼭짓점이다.",
+        "related_terms": [
+          "포물선",
+          "축",
+          "선"
+        ]
+      },
+      {
+        "concept": "이차함수의 그래프",
+        "easy_explanation": "이차함수 y = ax²+bx+c (a, b, c는 상수, a≠0)를 만족하는 순서쌍 (x, y)를 좌표평면에 점으로 나타낸 것을 이차함수의 그래프라고 한다.",
+        "related_terms": [
+          "이차함수",
+          "수",
+          "좌표",
+          "좌표평면",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "이차함수 y=ax²의 그래프를 그려보자.",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "라조기",
+        "easy_explanation": "중국 사전 지번의 음식을 덮고기름을 튀겨서 야채와 함께 볶은 것",
+        "related_terms": []
+      },
+      {
+        "concept": "조기",
+        "easy_explanation": "독도 옆에 있는 섬",
+        "related_terms": []
+      },
+      {
+        "concept": "편지",
+        "easy_explanation": "상대에게 전하고 싶은 말 등을 적어 보내는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "이동",
+        "easy_explanation": "y=ax+1의 그래프는 y=ax의 그래프를 y축 방향으로 1만큼 ○○○한 그래프이다.",
+        "related_terms": [
+          "축",
+          "y축",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "조하선",
+        "easy_explanation": "함수라는 용어를 처음 사용한 독일의 수학자",
+        "related_terms": [
+          "수학",
+          "수",
+          "함수"
+        ]
+      },
+      {
+        "concept": "기하",
+        "easy_explanation": "삼각형, 사각형, 원과 같은 수학 그림",
+        "related_terms": [
+          "수학",
+          "수",
+          "각"
+        ]
+      },
+      {
+        "concept": "수",
+        "easy_explanation": "두 양이 서로 같은 비율로 늘거나 주는 관계",
+        "related_terms": []
+      },
+      {
+        "concept": "수학",
+        "easy_explanation": "변화하는 여러 가지 값을 가지는 문자",
+        "related_terms": []
+      },
+      {
+        "concept": "이차",
+        "easy_explanation": "함수의 그래프가 x축과 만나는 점의 x-좌표를 ○○이라고 한다.",
+        "related_terms": [
+          "축",
+          "x축",
+          "수",
+          "좌표",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "하선",
+        "easy_explanation": "양의 값과 음의 값이 맞닿아 보이는 경계선",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "선",
+        "easy_explanation": "두 점을 직선으로 연결한 선",
+        "related_terms": [
+          "직선"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "01 기본 도형과 위치 관계",
+    "concepts": [
+      {
+        "concept": "각",
+        "easy_explanation": "두 선이 만나서 생기는 도형",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "평각",
+        "easy_explanation": "크기가 180°인 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "평행",
+        "easy_explanation": "공간에서 만나지 않는 두 선",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "꼬인 위치",
+        "easy_explanation": "공간에서 평행하지도 않고 서로 만나지도 않는 두 선",
+        "related_terms": [
+          "평행",
+          "선"
+        ]
+      },
+      {
+        "concept": "동위각",
+        "easy_explanation": "같은 위치에 있는 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "엇각",
+        "easy_explanation": "엇갈린 위치에 있는 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "교점과 교선",
+        "easy_explanation": "선과 선이 만나서 생기는 점을 교점이라고 한다. 면과 면이 만나서 생기는 선을 교선이라고 한다.",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "직선, 반직선, 선분",
+        "easy_explanation": "두 점 A,B를 지나는 똑바른 선을 직선이라고 한다. 직선을 반으로 자른 것을 반직선이라고 한다. 양쪽 모두 막혀 있는 것을 선분이라고 한다.",
+        "related_terms": [
+          "직선",
+          "선"
+        ]
+      },
+      {
+        "concept": "두 점 사이의 거리",
+        "easy_explanation": "가장 짧은 다리로 놓인 선분 AB의 길이를 두 점 사이의 거리라고 한다.",
+        "related_terms": [
+          "선"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "02 평면도형의 성질",
+    "concepts": [
+      {
+        "concept": "내각",
+        "easy_explanation": "안쪽에 있는 각",
+        "related_terms": [
+          "각",
+          "안"
+        ]
+      },
+      {
+        "concept": "외각",
+        "easy_explanation": "바깥쪽에 표시한 각",
+        "related_terms": [
+          "바깥",
+          "각"
+        ]
+      },
+      {
+        "concept": "원주율",
+        "easy_explanation": "원에서 원주를 지름으로 나눈 값으로, 항상 일정한 것",
+        "related_terms": [
+          "항"
+        ]
+      },
+      {
+        "concept": "호",
+        "easy_explanation": "원 위의 두 점으로 나누어진 원의 일부분",
+        "related_terms": []
+      },
+      {
+        "concept": "현",
+        "easy_explanation": "원 위의 두 점을 이은 선분",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "부채꼴",
+        "easy_explanation": "두 반지름과 호로 이루어진 도형",
+        "related_terms": [
+          "호"
+        ]
+      },
+      {
+        "concept": "활꼴",
+        "easy_explanation": "현과 호로 이루어진 도형",
+        "related_terms": [
+          "호",
+          "현"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "03 입체도형의 성질",
+    "concepts": [
+      {
+        "concept": "다면체",
+        "easy_explanation": "다각형으로만 둘러싸인 입체도형",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "각뿔대",
+        "easy_explanation": "각뿔을 밑면에 평행한 평면으로 자른 것",
+        "related_terms": [
+          "밑",
+          "평행",
+          "각"
+        ]
+      },
+      {
+        "concept": "정다면체",
+        "easy_explanation": "각 면이 모두 합동인 정다각형이고, 각 꼭짓점에 모이는 면의 개수가 모두 같은 다면체",
+        "related_terms": [
+          "합동",
+          "꼭짓점",
+          "수",
+          "다면체",
+          "각"
+        ]
+      },
+      {
+        "concept": "회전체",
+        "easy_explanation": "한 직선을 축으로 하여 평면도형을 회전시켜서 생기는 입체도형",
+        "related_terms": [
+          "축",
+          "직선",
+          "선"
+        ]
+      },
+      {
+        "concept": "회전축",
+        "easy_explanation": "회전체를 만들 때 축으로 사용하는 직선",
+        "related_terms": [
+          "축",
+          "직선",
+          "회전체",
+          "선"
+        ]
+      },
+      {
+        "concept": "겉넓이",
+        "easy_explanation": "입체도형을 둘러싸고 있는 면의 넓이의 합",
+        "related_terms": []
+      },
+      {
+        "concept": "부피",
+        "easy_explanation": "입체도형이 차지하는 공간의 크기",
+        "related_terms": []
+      },
+      {
+        "concept": "구",
+        "easy_explanation": "반원을 회전하여 만든 공 모양",
+        "related_terms": []
+      },
+      {
+        "concept": "합동",
+        "easy_explanation": "완전히 포개지는 모양",
+        "related_terms": []
+      },
+      {
+        "concept": "대변",
+        "easy_explanation": "한 각이 마주보는 변",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "대각",
+        "easy_explanation": "한 변이 마주보는 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "SSS 합동",
+        "easy_explanation": "세 변의 길이만 같아도 합동",
+        "related_terms": [
+          "합동"
+        ]
+      },
+      {
+        "concept": "SAS 합동",
+        "easy_explanation": "두 변의 길이와 그 끼인각만 같아도 합동",
+        "related_terms": [
+          "합동",
+          "각"
+        ]
+      },
+      {
+        "concept": "ASA 합동",
+        "easy_explanation": "한 변의 길이와 그 양 끝 각만 같아도 합동",
+        "related_terms": [
+          "합동",
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "04 삼각형과 사각형의 성질",
+    "concepts": [
+      {
+        "concept": "이등변삼각형",
+        "easy_explanation": "두 변의 길이가 같은 삼각형",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "꼭지각",
+        "easy_explanation": "길이가 같은 두 변이 만나 만들어지는 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "밑각",
+        "easy_explanation": "길이가 같은 두 변이 나머지 변과 만나 만들어지는 두 각",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "밑변",
+        "easy_explanation": "두 밑각의 공통인 변",
+        "related_terms": [
+          "밑",
+          "각",
+          "밑각"
+        ]
+      },
+      {
+        "concept": "수직이등분선",
+        "easy_explanation": "선분의 중점을 지나고 직각으로 만날 때",
+        "related_terms": [
+          "선",
+          "각"
+        ]
+      },
+      {
+        "concept": "바깥",
+        "easy_explanation": "바깥이라는 뜻",
+        "related_terms": []
+      },
+      {
+        "concept": "외접원",
+        "easy_explanation": "도형의 모든 꼭짓점을 지나면서 둘러싸는 원",
+        "related_terms": [
+          "꼭짓점"
+        ]
+      },
+      {
+        "concept": "외심",
+        "easy_explanation": "외접원의 중심",
+        "related_terms": [
+          "외접원"
+        ]
+      },
+      {
+        "concept": "안",
+        "easy_explanation": "안쪽이라는 뜻",
+        "related_terms": []
+      },
+      {
+        "concept": "내접원",
+        "easy_explanation": "도형의 모든 변을 접하도록 그리는 원",
+        "related_terms": []
+      },
+      {
+        "concept": "내심",
+        "easy_explanation": "내접원의 중심",
+        "related_terms": [
+          "내접원"
+        ]
+      },
+      {
+        "concept": "무게중심",
+        "easy_explanation": "도형을 올려놓았을 때 기울어지지 않는 점",
+        "related_terms": []
+      },
+      {
+        "concept": "평행사변형",
+        "easy_explanation": "사각형에서 마주보는 두 쌍의 변이 서로 평행한 것",
+        "related_terms": [
+          "평행",
+          "각"
+        ]
+      },
+      {
+        "concept": "직사각형",
+        "easy_explanation": "마주보는 두 변이 평행하고 네 각이 모두 직각인 사각형",
+        "related_terms": [
+          "평행",
+          "각"
+        ]
+      },
+      {
+        "concept": "마름모",
+        "easy_explanation": "마주보는 두 변이 평행하고 네 변의 길이가 모두 같은 사각형",
+        "related_terms": [
+          "평행",
+          "각"
+        ]
+      },
+      {
+        "concept": "정사각형",
+        "easy_explanation": "마주보는 두 변이 평행하고 네 각이 모두 직각이며 네 변의 길이가 모두 같은 사각형",
+        "related_terms": [
+          "평행",
+          "각"
+        ]
+      },
+      {
+        "concept": "직각삼각형 합동 조건 (빗변-예각)",
+        "easy_explanation": "빗변의 길이와 한 예각의 크기가 같으면 합동",
+        "related_terms": [
+          "합동",
+          "각"
+        ]
+      },
+      {
+        "concept": "직각삼각형 합동 조건 (빗변-다른 변)",
+        "easy_explanation": "빗변의 길이와 다른 한 변의 길이가 같으면 합동",
+        "related_terms": [
+          "합동"
+        ]
+      },
+      {
+        "concept": "삼각형의 외심",
+        "easy_explanation": "삼각형의 세 변의 중점에서 그은 수직이등분선 3개가 만나는 점",
+        "related_terms": [
+          "수",
+          "선",
+          "각",
+          "수직이등분선"
+        ]
+      },
+      {
+        "concept": "중선",
+        "easy_explanation": "삼각형의 한 꼭짓점에서 그 대변의 중점에 그은 선",
+        "related_terms": [
+          "꼭짓점",
+          "대변",
+          "선",
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "05 닮음과 피타고라스 정리",
+    "concepts": [
+      {
+        "concept": "닮음",
+        "easy_explanation": "한 도형을 같은 비율로 확대 또는 축소하여 얻은 도형",
+        "related_terms": [
+          "축"
+        ]
+      },
+      {
+        "concept": "SSS닮음",
+        "easy_explanation": "세 쌍의 변의 길이의 비가 같은 닮음",
+        "related_terms": [
+          "닮음"
+        ]
+      },
+      {
+        "concept": "SAS닮음",
+        "easy_explanation": "두 쌍의 변의 길이의 비가 같고, 그 끼인각이 같은 닮음",
+        "related_terms": [
+          "닮음",
+          "각"
+        ]
+      },
+      {
+        "concept": "AA닮음",
+        "easy_explanation": "두 쌍의 각의 크기가 같은 닮음",
+        "related_terms": [
+          "닮음",
+          "각"
+        ]
+      },
+      {
+        "concept": "닮음비",
+        "easy_explanation": "두 도형은 크기는 다르지만 모양이 같아 닮음이다.",
+        "related_terms": [
+          "닮음"
+        ]
+      },
+      {
+        "concept": "피타고라스 정리",
+        "easy_explanation": "직각삼각형에서 세 변의 길이 a, b, c에 대해 (단, c는 빗변의 길이) a²+b²=c² 이 성립하는 것",
+        "related_terms": [
+          "해",
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "06 삼각비",
+    "concepts": [
+      {
+        "concept": "삼각비",
+        "easy_explanation": "직각삼각형에서 각의 크기에 따라 결정되는 두 변의 길이의 비 (sinA, cosA, tanA)",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "삼각비의 값",
+        "easy_explanation": "특정 각도(예: 60°)에 대한 사인, 코사인, 탄젠트의 값",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "60°의 삼각비",
+        "easy_explanation": "60°의 사인, 코사인, 탄젠트를 60°의 삼각비라고 해. (sin60° = √3/2, cos60° = 1/2, tan60° = √3)",
+        "related_terms": [
+          "삼각비",
+          "해",
+          "각"
+        ]
+      },
+      {
+        "concept": "삼각비를 이용하여 삼각형의 선분의 길이 구하기",
+        "easy_explanation": "BC = AC × sin α, AB = AC × cos α",
+        "related_terms": []
+      },
+      {
+        "concept": "삼각비를 이용하여 삼각형의 넓이 구하기",
+        "easy_explanation": "삼각형의 넓이 = 1/2 × 두 변의 길이 × sin(끼인각)",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "사인(sinus)",
+        "easy_explanation": "인도에서 '현의 절반'을 지아 오르다(jya-ardha)로 불렀고, 라틴어로 번역되어 지금의 사인(sin)이 됨",
+        "related_terms": [
+          "현"
+        ]
+      },
+      {
+        "concept": "코사인(cosine)",
+        "easy_explanation": "남은 각의 사인",
+        "related_terms": [
+          "각"
+        ]
+      },
+      {
+        "concept": "탄젠트(tangent)",
+        "easy_explanation": "그림자 길이를 구하는 개념을 접선(tangent line)의 '기울기'와 연관지어 부르는 것",
+        "related_terms": [
+          "기울기",
+          "선",
+          "구"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "07 원의 성질",
+    "concepts": [
+      {
+        "concept": "현의 수직이등분선",
+        "easy_explanation": "현을 수직으로 이등분하는 선",
+        "related_terms": [
+          "수",
+          "현",
+          "선"
+        ]
+      },
+      {
+        "concept": "원의 접선",
+        "easy_explanation": "원과 한 점에서 접하는 직선",
+        "related_terms": [
+          "직선",
+          "선"
+        ]
+      },
+      {
+        "concept": "중심각",
+        "easy_explanation": "원의 중심 O에 대하여 ∠AOB를 호 AB에 대한 각",
+        "related_terms": [
+          "호",
+          "각"
+        ]
+      },
+      {
+        "concept": "원주각",
+        "easy_explanation": "AB위에 있지 않은 원 위의 한 점 P에 대하여 ∠APB를 호 AB에 대한 각",
+        "related_terms": [
+          "호",
+          "각"
+        ]
+      },
+      {
+        "concept": "원주각과 중심각의 관계",
+        "easy_explanation": "호 AB에 대한 원주각은 호 AB에 대한 중심각의 1/2",
+        "related_terms": [
+          "원주각",
+          "호",
+          "중심각",
+          "각"
+        ]
+      },
+      {
+        "concept": "접선의 길이",
+        "easy_explanation": "원 밖의 한 점에서 그 원에 그은 두 접선의 길이는 같다.",
+        "related_terms": [
+          "선"
+        ]
+      },
+      {
+        "concept": "중심각과 원주각",
+        "easy_explanation": "한 호에 대한 원주각의 크기는 그 호에 대한 중심각의 크기의 1/2이다.",
+        "related_terms": [
+          "원주각",
+          "호",
+          "중심각",
+          "각"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "01 자료의 정리와 해석",
+    "concepts": [
+      {
+        "concept": "자료",
+        "easy_explanation": "조사의 바탕이 되는 재료",
+        "related_terms": []
+      },
+      {
+        "concept": "변량",
+        "easy_explanation": "변하는 값, 조사한 자료를 숫자로 나타낸 것",
+        "related_terms": [
+          "자료"
+        ]
+      },
+      {
+        "concept": "계급",
+        "easy_explanation": "나누어진 구간들",
+        "related_terms": [
+          "구"
+        ]
+      },
+      {
+        "concept": "계급의 크기",
+        "easy_explanation": "일정한 간격",
+        "related_terms": []
+      },
+      {
+        "concept": "도수",
+        "easy_explanation": "같은 계급에 속하는 친구의 수",
+        "related_terms": [
+          "수",
+          "계급",
+          "구"
+        ]
+      },
+      {
+        "concept": "도수분포표",
+        "easy_explanation": "도수의 분포를 나타내는 표",
+        "related_terms": [
+          "수",
+          "도수"
+        ]
+      },
+      {
+        "concept": "히스토그램",
+        "easy_explanation": "도수분포표의 각 계급의 크기를 가로로, 도수를 세로로 하는 직사각형으로 나타낸 그래프",
+        "related_terms": [
+          "계급의 크기",
+          "직사각형",
+          "수",
+          "계급",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "도수분포다각형",
+        "easy_explanation": "히스토그램의 각 직사각형의 윗변의 중앙에 있는 점과 세로 양 끝에 도수가 0인 계급을 생각하고 그 중앙에 점을 찍어 선분으로 연결한 다각형 모양의 그래프",
+        "related_terms": [
+          "직사각형",
+          "히스토그램",
+          "수",
+          "계급",
+          "그래프"
+        ]
+      },
+      {
+        "concept": "상대도수",
+        "easy_explanation": "(계급의 도수)를 (도수의 총합)으로 나눈 비율",
+        "related_terms": [
+          "수",
+          "계급",
+          "도수"
+        ]
+      },
+      {
+        "concept": "사건",
+        "easy_explanation": "동일한 조건에서 반복하는 실험이나 관찰의 결과",
+        "related_terms": []
+      },
+      {
+        "concept": "경우의 수",
+        "easy_explanation": "사건이 일어나는 가짓수",
+        "related_terms": [
+          "수",
+          "사건"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "02 가능성과 확률",
+    "concepts": [
+      {
+        "concept": "확률",
+        "easy_explanation": "모든 경우가 일어날 가능성이 같은 어떤 실험이나 관찰에서, 일어날 수 있는 모든 경우의 수에 대한 특정 사건이 일어나는 경우의 수의 비율",
+        "related_terms": [
+          "수",
+          "경우의 수",
+          "사건"
+        ]
+      },
+      {
+        "concept": "대표값",
+        "easy_explanation": "전체 자료를 대표하는 값",
+        "related_terms": [
+          "자료"
+        ]
+      },
+      {
+        "concept": "평균",
+        "easy_explanation": "바구니에 담긴 사과의 개수는 평균 2개이다.",
+        "related_terms": [
+          "수",
+          "구"
+        ]
+      },
+      {
+        "concept": "중앙값",
+        "easy_explanation": "자료를 순서대로 나열했을 때 중앙에 위치한 값",
+        "related_terms": [
+          "자료"
+        ]
+      },
+      {
+        "concept": "최빈값",
+        "easy_explanation": "자료에서 가장 많이 나타나는 값",
+        "related_terms": [
+          "자료"
+        ]
+      },
+      {
+        "concept": "확률의 곱",
+        "easy_explanation": "두 사건 A, B가 서로 영향을 끼치지 않을 때, 사건 A가 일어날 확률을 p, 사건 B가 일어날 확률을 q라고 하면, 사건 A 또는 사건 B가 동시에 일어날 확률은 p × q 이다.",
+        "related_terms": [
+          "확률",
+          "사건"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "03 통계",
+    "concepts": [
+      {
+        "concept": "산포도",
+        "easy_explanation": "자료가 얼마나 퍼져있는지를 나타내는 값",
+        "related_terms": [
+          "자료"
+        ]
+      },
+      {
+        "concept": "분산",
+        "easy_explanation": "어떤 자료의 편차의 제곱의 평균",
+        "related_terms": [
+          "자료",
+          "평균",
+          "편차"
+        ]
+      },
+      {
+        "concept": "산점도",
+        "easy_explanation": "좌표평면에 점이 퍼져있는 그림",
+        "related_terms": [
+          "좌표",
+          "좌표평면"
+        ]
+      },
+      {
+        "concept": "상관관계",
+        "easy_explanation": "기온이 변하면 친구들이 먹는 아이스크림의 수도 변하는 관계",
+        "related_terms": [
+          "수",
+          "구"
+        ]
+      },
+      {
+        "concept": "양의 상관관계",
+        "easy_explanation": "한 변량(기온)이 높아지면 다른 변량(아이스크림 판매량)도 많아지는 관계",
+        "related_terms": [
+          "변량"
+        ]
+      },
+      {
+        "concept": "음의 상관관계",
+        "easy_explanation": "한 변량(기온)이 높아지면 다른 변량(난방비)이 줄어드는 관계",
+        "related_terms": [
+          "변량"
+        ]
+      },
+      {
+        "concept": "상관관계가 없다",
+        "easy_explanation": "두 변량 사이에 특별한 관계가 없는 경우",
+        "related_terms": [
+          "변량"
+        ]
+      },
+      {
+        "concept": "편차",
+        "easy_explanation": "변량에서 평균을 뺀 값",
+        "related_terms": [
+          "변량",
+          "평균"
+        ]
+      },
+      {
+        "concept": "표준편차",
+        "easy_explanation": "분산의 음이 아닌 제곱근",
+        "related_terms": [
+          "제곱근",
+          "분산",
+          "근"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "중1-3",
+    "unit": "Ⅱ 문자와 식",
+    "concepts": [
+      {
+        "concept": "항",
+        "easy_explanation": "식에서 수 또는 문자의 곱으로 이루어진 것",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "상수항",
+        "easy_explanation": "문자에 곱해진 계수를 제외한 수로만 이루어진 항",
+        "related_terms": [
+          "계수",
+          "수",
+          "해",
+          "항"
+        ]
+      },
+      {
+        "concept": "계수",
+        "easy_explanation": "문자에 곱해진 수",
+        "related_terms": [
+          "수",
+          "해"
+        ]
+      },
+      {
+        "concept": "다항식의 차수",
+        "easy_explanation": "다항식에서 차수가 가장 큰 항의 차수",
+        "related_terms": [
+          "수",
+          "다항식",
+          "차수",
+          "항"
+        ]
+      },
+      {
+        "concept": "이차식",
+        "easy_explanation": "차수가 2인 식",
+        "related_terms": [
+          "수",
+          "차수"
+        ]
+      },
+      {
+        "concept": "식의 값",
+        "easy_explanation": "문자에 수를 대입하여 얻은 결과",
+        "related_terms": [
+          "수",
+          "대입"
+        ]
+      }
+    ]
+  }
+]

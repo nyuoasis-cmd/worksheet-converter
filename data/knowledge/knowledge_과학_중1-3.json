@@ -1,0 +1,3307 @@
+[
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "lesson_27",
+    "concepts": [
+      {
+        "concept": "빅뱅 우주론",
+        "easy_explanation": "우주는 아주 작은 점에서 폭발하여 팽창하기 시작했다는 이론입니다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "1 지구계",
+    "concepts": [
+      {
+        "concept": "계; system; 系统(系统); 地層; система; hệ thống:",
+        "easy_explanation": "서로 영향을 주고받으며 상호작용하는 구성 요소들의 집합",
+        "related_terms": []
+      },
+      {
+        "concept": "지권",
+        "easy_explanation": "지표와 지구 내부로 이루어진 것",
+        "related_terms": []
+      },
+      {
+        "concept": "기권",
+        "easy_explanation": "지구를 둘러싼 대기로 여러 가지 기체로 이루어진 것",
+        "related_terms": []
+      },
+      {
+        "concept": "수권",
+        "easy_explanation": "바다, 강, 호수, 지하수, 빙하 등으로 이루어진 것",
+        "related_terms": []
+      },
+      {
+        "concept": "생물권",
+        "easy_explanation": "지구에 살고 있는 모든 생물",
+        "related_terms": []
+      },
+      {
+        "concept": "외권",
+        "easy_explanation": "기권의 바깥 영역인 우주 공간",
+        "related_terms": [
+          "기권"
+        ]
+      },
+      {
+        "concept": "지각; earth’s crust; 地殼(地壳); 地殼; земная кора; vỏ trái đất:",
+        "easy_explanation": "지구의 가장 바깥 껍질에 해당하는 얇은 층",
+        "related_terms": []
+      },
+      {
+        "concept": "맨틀; mantle; 地幔; マントル; мантия; lớp phủ:",
+        "easy_explanation": "지구의 지각과 핵 사이의 층",
+        "related_terms": [
+          "지각"
+        ]
+      },
+      {
+        "concept": "외핵; outer core; 外核; 外核; внешнее ядро; hạt nhân bên ngoài:",
+        "easy_explanation": "지구의 가장 중심부로 고체인 내핵과 액체인 외핵으로 이루어진 핵",
+        "related_terms": [
+          "외핵",
+          "내핵"
+        ]
+      },
+      {
+        "concept": "내핵; inner core; 内核(内核); 内核; внутреннее ядро; hạt nhân bên trong:",
+        "easy_explanation": "지구의 가장 중심부로 고체인 내핵과 액체인 외핵으로 이루어진 핵",
+        "related_terms": [
+          "외핵",
+          "내핵"
+        ]
+      },
+      {
+        "concept": "지각",
+        "easy_explanation": "위치에 따라 5-35 km의 두께를 가진다",
+        "related_terms": []
+      },
+      {
+        "concept": "맨틀",
+        "easy_explanation": "지하 30-2,900 km까지 이며, 지각과 맨틀의 경계를 모호면이라고 한다",
+        "related_terms": [
+          "모호면",
+          "지각"
+        ]
+      },
+      {
+        "concept": "자연재해",
+        "easy_explanation": "우리가 피할 수 없는 자연 현상으로 인간의 삶에 피해를 주는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "홍수",
+        "easy_explanation": "밤 사이에 비가 엄청 많이 오거나 오랫동안 비가 내려 강물이 넘쳐서 발생하는 현상",
+        "related_terms": [
+          "발생"
+        ]
+      },
+      {
+        "concept": "태풍",
+        "easy_explanation": "강한 바람과 큰 비를 동반하여 피해를 주는 자연재해",
+        "related_terms": [
+          "자연재해",
+          "바람"
+        ]
+      },
+      {
+        "concept": "지진",
+        "easy_explanation": "땅이 흔들려 건물이 무너지고 갈라지는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "가뭄",
+        "easy_explanation": "비가 오지 않거나 너무 적게 와서 물이 부족하고 땅이 갈라지는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "화산 폭발",
+        "easy_explanation": "지구 내부에 뜨겁고 끈적한 마그마가 땅을 뚫고 밖으로 터져 나오는 현상",
+        "related_terms": [
+          "마그마"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "2 판 구조론",
+    "concepts": [
+      {
+        "concept": "대륙 이동설",
+        "easy_explanation": "대륙들이 과거에 하나의 커다란 대륙이었다가 갈라져 현재의 모습을 가지게 되었다는 설",
+        "related_terms": []
+      },
+      {
+        "concept": "판게아",
+        "easy_explanation": "과거에 존재했던 하나의 커다란 대륙",
+        "related_terms": []
+      },
+      {
+        "concept": "판",
+        "easy_explanation": "지각과 맨틀 윗부분을 포함하는 약 100km까지의 암석층",
+        "related_terms": [
+          "맨틀",
+          "암석",
+          "지각"
+        ]
+      },
+      {
+        "concept": "판의 경계",
+        "easy_explanation": "지각 변동이 일어나는 판과 판 사이의 경계",
+        "related_terms": [
+          "일",
+          "판",
+          "지각"
+        ]
+      },
+      {
+        "concept": "지진대",
+        "easy_explanation": "지진이 많이 발생하는 지역",
+        "related_terms": [
+          "지진",
+          "발생"
+        ]
+      },
+      {
+        "concept": "화산",
+        "easy_explanation": "마그마가 지각 틈을 뚫고 올라와 용암 등을 분출하는 현상",
+        "related_terms": [
+          "마그마",
+          "용암",
+          "지각"
+        ]
+      },
+      {
+        "concept": "화산대",
+        "easy_explanation": "화산 활동이 활발한 지역",
+        "related_terms": [
+          "화산"
+        ]
+      },
+      {
+        "concept": "진도",
+        "easy_explanation": "지진의 세기를 사람의 느낌, 흔들림, 피해 정도로 나타낸 수치",
+        "related_terms": [
+          "지진"
+        ]
+      },
+      {
+        "concept": "규모",
+        "easy_explanation": "지진 발생 지점에서 방출된 에너지의 양",
+        "related_terms": [
+          "지진",
+          "발생",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "화석",
+        "easy_explanation": "멀리 떨어진 대륙에서 메소사우루스라는 동물과 글로소프테리스라는 식물이 공통적으로 발견된 것",
+        "related_terms": []
+      },
+      {
+        "concept": "유라시아판",
+        "easy_explanation": "우리나라가 전 세계 약 10여 개의 판 중 위치한 판",
+        "related_terms": [
+          "판"
+        ]
+      },
+      {
+        "concept": "베게너",
+        "easy_explanation": "해안선의 일치, 화석의 분포, 빙하 흔적과 이동 방향, 산맥의 연속성 등을 근거로 대륙이 이동한다는 가설을 주장한 사람",
+        "related_terms": [
+          "일",
+          "화석"
+        ]
+      },
+      {
+        "concept": "불의고리",
+        "easy_explanation": "화산 활동이 활발한 지역",
+        "related_terms": [
+          "화산"
+        ]
+      },
+      {
+        "concept": "대륙이동",
+        "easy_explanation": "오랜 세월 동안 거쳐 현재와 같이 6개의 대륙을 가지게 된 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "판의경계",
+        "easy_explanation": "판이 서로 다른 방향과 속도를 가지고 움직이기 때문에 지각 변동이 일어나는 곳",
+        "related_terms": [
+          "일",
+          "판",
+          "지각"
+        ]
+      },
+      {
+        "concept": "모호면",
+        "easy_explanation": "지각과 맨틀의 경계",
+        "related_terms": [
+          "맨틀",
+          "지각"
+        ]
+      },
+      {
+        "concept": "히말라야",
+        "easy_explanation": "대표적인 판의 경계 중 지각 변동으로 인해 솟은 산이 만들어진 곳 중 인도에 위치한 산",
+        "related_terms": [
+          "판의 경계",
+          "판",
+          "지각"
+        ]
+      },
+      {
+        "concept": "대륙이동설",
+        "easy_explanation": "독일 학자가 처음 주장한 것으로, 현재에는 흩어져 있는 대륙들이 과거에는 하나의 커다란 대륙이었고, 대륙들이 갈라져 현재와 같은 모습을 가지게 되었다는 내용",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "광물",
+        "easy_explanation": "암석을 구성하는 작은 알갱이이며, 원소로 이루어진 것",
+        "related_terms": [
+          "원소",
+          "암석"
+        ]
+      },
+      {
+        "concept": "암석",
+        "easy_explanation": "여러 가지 광물들이 모여 이루어진 고체",
+        "related_terms": [
+          "광물"
+        ]
+      },
+      {
+        "concept": "원소",
+        "easy_explanation": "물질을 이루는 기본 성분",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "3 지구 구성 물질",
+    "concepts": [
+      {
+        "concept": "색",
+        "easy_explanation": "맨눈으로 보이는 광물의 색",
+        "related_terms": [
+          "광물의 색",
+          "광물"
+        ]
+      },
+      {
+        "concept": "조흔색",
+        "easy_explanation": "조흔판에 긁었을 때 보이는 광물 가루의 색",
+        "related_terms": [
+          "색",
+          "광물",
+          "판"
+        ]
+      },
+      {
+        "concept": "굳기",
+        "easy_explanation": "광물의 단단한 정도",
+        "related_terms": [
+          "광물"
+        ]
+      },
+      {
+        "concept": "자성",
+        "easy_explanation": "자석이 물체를 끌어당기는 성질",
+        "related_terms": []
+      },
+      {
+        "concept": "염산 반응",
+        "easy_explanation": "광물의 성분 중 탄산 칼슘과 염산이 반응하여 이산화 탄소 기체가 발생하는 것",
+        "related_terms": [
+          "이산화 탄소",
+          "발생",
+          "광물"
+        ]
+      },
+      {
+        "concept": "광물의 색",
+        "easy_explanation": "광물의 색의 예시 (밝은 광물: 석영, 어두운 광물: 흑운모)",
+        "related_terms": [
+          "색",
+          "광물"
+        ]
+      },
+      {
+        "concept": "화성암",
+        "easy_explanation": "마그마가 식어 굳어져 만들어진 암석",
+        "related_terms": [
+          "마그마",
+          "암석"
+        ]
+      },
+      {
+        "concept": "화산암",
+        "easy_explanation": "지표로 흘러나온 용암이 빨리 식어 만들어진 암석 (예: 현무암, 유문암, 안산암)",
+        "related_terms": [
+          "암석",
+          "용암"
+        ]
+      },
+      {
+        "concept": "심성암",
+        "easy_explanation": "지하 깊은 곳의 마그마가 천천히 식어 만들어진 암석 (예: 반려암, 섬록암, 화강암)",
+        "related_terms": [
+          "마그마",
+          "암석"
+        ]
+      },
+      {
+        "concept": "마그마",
+        "easy_explanation": "식어 굳어져 화성암이 되는 물질",
+        "related_terms": [
+          "화성암"
+        ]
+      },
+      {
+        "concept": "용암",
+        "easy_explanation": "지표로 흘러나온 마그마",
+        "related_terms": [
+          "마그마"
+        ]
+      },
+      {
+        "concept": "화성암의 특징",
+        "easy_explanation": "화산암과 심성암의 결정 크기 차이",
+        "related_terms": [
+          "화산",
+          "화산암",
+          "심성암"
+        ]
+      },
+      {
+        "concept": "퇴적 작용",
+        "easy_explanation": "부서진 자갈, 모래, 진흙과 같은 퇴적물이 물이나 바람에 의해 운반되어 쌓이는 현상",
+        "related_terms": [
+          "바람"
+        ]
+      },
+      {
+        "concept": "퇴적암",
+        "easy_explanation": "퇴적물이 오랜 시간동안 쌓이고 다져져 단단하게 굳어진 암석",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "역암",
+        "easy_explanation": "자갈 크기의 퇴적물이 굳어진 암석",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "사암",
+        "easy_explanation": "주로 모래 크기의 퇴적물이 굳어진 암석",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "이암(세일)",
+        "easy_explanation": "진흙 크기의 퇴적물이 굳어진 암석",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "석회암",
+        "easy_explanation": "물에 녹아 있는 석회질 물질이나 산호, 조개 껍데기 등과 같은 생물의 유해가 쌓여 굳어진 암석",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "풍화 작용",
+        "easy_explanation": "지표의 암석이 잘게 부서지거나 물 또는 공기와 반응하여 성분이 변하는 과정",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "변성 작용",
+        "easy_explanation": "지표의 암석이 지하 깊은 곳으로 들어가 열과 압력을 받거나, 암석의 틈으로 마그마가 뚫고 들어오면 원래 암석의 구조와 성질이 변하는 과정",
+        "related_terms": [
+          "마그마",
+          "암석"
+        ]
+      },
+      {
+        "concept": "변성암",
+        "easy_explanation": "지하 깊은 곳에서 높은 열과 압력을 받아 성질이 변한 암석",
+        "related_terms": [
+          "암석"
+        ]
+      },
+      {
+        "concept": "엽리",
+        "easy_explanation": "변성암에서 관찰되는 줄무늬",
+        "related_terms": [
+          "변성암"
+        ]
+      },
+      {
+        "concept": "암석의 순환",
+        "easy_explanation": "화성암, 퇴적암, 변성암이 오랜 시간 동안 변화를 받아 서로 다른 암석으로 변해가는 과정",
+        "related_terms": [
+          "화성암",
+          "암석",
+          "퇴적암",
+          "변성암"
+        ]
+      },
+      {
+        "concept": "조암 광물",
+        "easy_explanation": "암석을 구성하는 주된 광물",
+        "related_terms": [
+          "암석",
+          "광물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "4 태양계 구성과 운동",
+    "concepts": [
+      {
+        "concept": "쌀알 무늬",
+        "easy_explanation": "태양 표면에 쌀알을 뿌려 놓은 듯한 무늬",
+        "related_terms": []
+      },
+      {
+        "concept": "흑점",
+        "easy_explanation": "태양 표면의 검은 얼룩, 주위보다 온도가 낮음",
+        "related_terms": []
+      },
+      {
+        "concept": "채층",
+        "easy_explanation": "태양 표면 바로 위의 대기층",
+        "related_terms": []
+      },
+      {
+        "concept": "코로나",
+        "easy_explanation": "채층 위로 멀리 뻗어 있는 하얗고 푸른 대기층",
+        "related_terms": [
+          "채층"
+        ]
+      },
+      {
+        "concept": "홍염",
+        "easy_explanation": "코로나까지 솟아오르는 불기둥",
+        "related_terms": [
+          "코로나"
+        ]
+      },
+      {
+        "concept": "플레어",
+        "easy_explanation": "흑점 주위의 거대한 폭발 현상",
+        "related_terms": [
+          "흑점"
+        ]
+      },
+      {
+        "concept": "내행성",
+        "easy_explanation": "지구 공전 궤도 안쪽으로 공전하는 행성",
+        "related_terms": [
+          "전하",
+          "공전"
+        ]
+      },
+      {
+        "concept": "외행성",
+        "easy_explanation": "지구 공전 궤도 바깥쪽에서 공전하는 행성",
+        "related_terms": [
+          "전하",
+          "공전"
+        ]
+      },
+      {
+        "concept": "지구형 행성",
+        "easy_explanation": "물리적 특징이 지구와 비슷한 행성",
+        "related_terms": []
+      },
+      {
+        "concept": "목성형 행성",
+        "easy_explanation": "물리적 특징이 목성과 비슷한 행성",
+        "related_terms": []
+      },
+      {
+        "concept": "자전",
+        "easy_explanation": "지구의 축을 중심으로 하루에 한 바퀴씩 회전하는 것",
+        "related_terms": [
+          "전하"
+        ]
+      },
+      {
+        "concept": "일주 운동",
+        "easy_explanation": "하늘의 천체가 하루에 한 바퀴씩 움직이는 겉보기 운동",
+        "related_terms": []
+      },
+      {
+        "concept": "공전",
+        "easy_explanation": "지구가 태양을 중심으로 일 년에 한 바퀴씩 회전하는 것",
+        "related_terms": [
+          "전하",
+          "일"
+        ]
+      },
+      {
+        "concept": "연주 운동",
+        "easy_explanation": "하늘의 천체가 하루에 약 1도씩 움직여 1년 후 원래 자리로 되돌아오는 겉보기 운동",
+        "related_terms": []
+      },
+      {
+        "concept": "달의 위상",
+        "easy_explanation": "달이 밝게 보이는 부분으로, 지구에서 보이는 달의 모양",
+        "related_terms": []
+      },
+      {
+        "concept": "삭",
+        "easy_explanation": "달이 태양과 같은 방향에 위치할 때는 밝은 부분이 보이지 않게 되는 때",
+        "related_terms": []
+      },
+      {
+        "concept": "망",
+        "easy_explanation": "달이 태양 반대편에 위치하여 보름달로 보일 때",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "상현",
+        "easy_explanation": "삭과 망 사이에 위치하여 오른쪽 반달이 보일 때",
+        "related_terms": [
+          "일",
+          "삭",
+          "망"
+        ]
+      },
+      {
+        "concept": "하현",
+        "easy_explanation": "망과 삭 사이에서 왼쪽 반달이 보일 때",
+        "related_terms": [
+          "일",
+          "삭",
+          "망"
+        ]
+      },
+      {
+        "concept": "일식",
+        "easy_explanation": "지구에서 볼 때 태양이 달에 의해 가려지는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "개기 일식",
+        "easy_explanation": "태양이 달에 의해 완전히 가려져 가려지는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "부분 일식",
+        "easy_explanation": "태양이 달에 의해 일부분만 가려지는 현상",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "월식",
+        "easy_explanation": "지구에서 볼 때 달이 지구의 그림자에 의해 가려지는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "개기 월식",
+        "easy_explanation": "달이 지구에 의해 완전히 가려져 붉게 보이는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "부분 월식",
+        "easy_explanation": "달이 지구에 의해 일부분만 가려지는 현상",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "지구의 공전",
+        "easy_explanation": "지구가 태양을 중심으로 일 년에 한 바퀴씩 회전하는 것",
+        "related_terms": [
+          "전하",
+          "일"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "5 별의 특성과 진화",
+    "concepts": [
+      {
+        "concept": "연주 시차",
+        "easy_explanation": "지구에서 일 년 동안 바라 본 전체의 방향 차이의 절반",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "겉보기 등급",
+        "easy_explanation": "맨눈에 보이는 별의 밝기",
+        "related_terms": []
+      },
+      {
+        "concept": "절대 등급",
+        "easy_explanation": "별이 일정한 거리(10 파섹)에 있다고 가정했을 때의 별의 밝기",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "표면 온도",
+        "easy_explanation": "별의 가장 바깥쪽 온도",
+        "related_terms": []
+      },
+      {
+        "concept": "별의 밝기와 등급",
+        "easy_explanation": "별의 겉보기 등급은 1 등급 차이마다 약 2.",
+        "related_terms": [
+          "겉보기 등급"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "lesson_02",
+    "concepts": [
+      {
+        "concept": "외핵",
+        "easy_explanation": "액체 상태의 핵",
+        "related_terms": []
+      },
+      {
+        "concept": "내핵",
+        "easy_explanation": "고체 상태의 핵",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "6 우주의 구조와 진화",
+    "concepts": [
+      {
+        "concept": "성단",
+        "easy_explanation": "많은 수의 별들이 좁은 공간에 함께 몰려 있는 별의 무리",
+        "related_terms": []
+      },
+      {
+        "concept": "성간 물질",
+        "easy_explanation": "별과 별 사이의 넓은 공간에 희박하게 있는 기체와 먼지",
+        "related_terms": []
+      },
+      {
+        "concept": "성운",
+        "easy_explanation": "성간 물질이 모여 구름처럼 보이는 것",
+        "related_terms": [
+          "성간 물질"
+        ]
+      },
+      {
+        "concept": "대폭발 우주론",
+        "easy_explanation": "과거의 우주는 지금보다 크기가 작고 온도가 높았으며, 대폭발 이후 모든 방향으로 균일하게 팽창하고 있다는 이론",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "혼합층",
+        "easy_explanation": "바람의 영향으로 해수가 잘 섞여 수온이 일정한 층",
+        "related_terms": [
+          "일",
+          "바람"
+        ]
+      },
+      {
+        "concept": "수온 약층",
+        "easy_explanation": "깊이에 따라 수온이 급격하게 낮아지는 층",
+        "related_terms": []
+      },
+      {
+        "concept": "심해층",
+        "easy_explanation": "햇빛이나 바람의 영향을 받지 않아 수온 변화가 거의 없는 층",
+        "related_terms": [
+          "빛",
+          "바람"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "7 해수의 성질과 순환",
+    "concepts": [
+      {
+        "concept": "염류",
+        "easy_explanation": "바닷물에 녹아 있는 물질",
+        "related_terms": []
+      },
+      {
+        "concept": "염분",
+        "easy_explanation": "바닷물 1 kg에 녹아 있는 염류의 총량을 g으로 나타낸 것",
+        "related_terms": [
+          "염류"
+        ]
+      },
+      {
+        "concept": "염분비 일정 법칙",
+        "easy_explanation": "해수에 포함된 각 염류들의 비율이 어느 바다에서나 거의 일정한 현상",
+        "related_terms": [
+          "일",
+          "염류"
+        ]
+      },
+      {
+        "concept": "해류",
+        "easy_explanation": "일정한 방향으로 지속적으로 움직이는 해수의 흐름",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "난류",
+        "easy_explanation": "저위도에서 고위도로 흐르는 따뜻한 해류",
+        "related_terms": [
+          "해류"
+        ]
+      },
+      {
+        "concept": "한류",
+        "easy_explanation": "고위도에서 저위도로 흐르는 차가운 해류",
+        "related_terms": [
+          "해류"
+        ]
+      },
+      {
+        "concept": "쿠로시오 해류",
+        "easy_explanation": "북태평양 서쪽 해역에서 북상하는 난류이자 우리나라 주변 해류의 근원",
+        "related_terms": [
+          "난류",
+          "해류"
+        ]
+      },
+      {
+        "concept": "동한난류",
+        "easy_explanation": "쿠로시오 해류의 일부가 갈라져 동해안을 따라 북쪽으로 흐르는 해류",
+        "related_terms": [
+          "일",
+          "쿠로시오 해류",
+          "해류"
+        ]
+      },
+      {
+        "concept": "제주난류",
+        "easy_explanation": "쿠로시오 해류의 일부가 갈라져 제주도로 흐르는 해류",
+        "related_terms": [
+          "일",
+          "쿠로시오 해류",
+          "해류"
+        ]
+      },
+      {
+        "concept": "황해난류",
+        "easy_explanation": "쿠로시오 해류의 일부가 갈라져 황해로 흐르는 해류",
+        "related_terms": [
+          "일",
+          "쿠로시오 해류",
+          "해류"
+        ]
+      },
+      {
+        "concept": "연해주한류",
+        "easy_explanation": "동해 북쪽에서 북한한류의 근원이 되는 한류",
+        "related_terms": [
+          "북한한류",
+          "한류"
+        ]
+      },
+      {
+        "concept": "북한한류",
+        "easy_explanation": "연해주한류에서 갈라져 나와 동해 북쪽에서 해안선을 따라 남쪽으로 흐르는 해류",
+        "related_terms": [
+          "연해주한류",
+          "한류",
+          "해류"
+        ]
+      },
+      {
+        "concept": "밀물",
+        "easy_explanation": "바닷물이 육지 쪽으로 밀려들어 해수면이 상승하는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "썰물",
+        "easy_explanation": "바다 쪽으로 빠져나가 해수면이 하강하는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "조석",
+        "easy_explanation": "밀물과 썰물로 해수면이 주기적으로 높아졌다 다시 낮아지는 현상",
+        "related_terms": [
+          "밀물",
+          "썰물",
+          "주기"
+        ]
+      },
+      {
+        "concept": "만조",
+        "easy_explanation": "밀물로 해수면이 가장 높아졌을 때",
+        "related_terms": [
+          "밀물"
+        ]
+      },
+      {
+        "concept": "간조",
+        "easy_explanation": "썰물로 해수면이 가장 낮아졌을 때",
+        "related_terms": [
+          "썰물"
+        ]
+      },
+      {
+        "concept": "조차",
+        "easy_explanation": "만조와 간조 때의 해수면 높이 차이",
+        "related_terms": [
+          "만조",
+          "간조"
+        ]
+      },
+      {
+        "concept": "사리",
+        "easy_explanation": "조차가 가장 크게 나타나는 시기",
+        "related_terms": [
+          "조차"
+        ]
+      },
+      {
+        "concept": "대조",
+        "easy_explanation": "조차가 가장 크게 나타나는 시기",
+        "related_terms": [
+          "조차"
+        ]
+      },
+      {
+        "concept": "조금",
+        "easy_explanation": "조차가 가장 작게 나타나는 시기",
+        "related_terms": [
+          "조차"
+        ]
+      },
+      {
+        "concept": "소조",
+        "easy_explanation": "조차가 가장 작게 나타나는 시기",
+        "related_terms": [
+          "조차"
+        ]
+      },
+      {
+        "concept": "죽방렴",
+        "easy_explanation": "조차가 큰 바다에서 좁은 바다 어귀에 대나무로 만든 그물을 세워 물고기를 잡는 전통 어업 방식",
+        "related_terms": [
+          "조차"
+        ]
+      },
+      {
+        "concept": "조력 발전",
+        "easy_explanation": "조차를 이용해 위치 에너지를 운동 에너지로 바꾸어 전기 에너지로 전환하는 발전 방식",
+        "related_terms": [
+          "운동 에너지",
+          "위치 에너지",
+          "에너지",
+          "조차",
+          "용해"
+        ]
+      },
+      {
+        "concept": "갯벌",
+        "easy_explanation": "썰물 때 바닷물이 빠져나가 드러나는 넓고 평평한 땅",
+        "related_terms": [
+          "썰물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "8 대기의 운동과 순환",
+    "concepts": [
+      {
+        "concept": "열권",
+        "easy_explanation": "지표면부터 약 80 km까지의 층으로, 위로 올라갈수록 기온이 높아진다.",
+        "related_terms": []
+      },
+      {
+        "concept": "중간권",
+        "easy_explanation": "지표면부터 약 50~80 km까지의 층으로, 위로 올라갈수록 기온이 낮아진다.",
+        "related_terms": []
+      },
+      {
+        "concept": "성층권",
+        "easy_explanation": "지표면부터 약 11~50 km까지의 층으로, 위로 올라갈수록 기온이 높아진다.",
+        "related_terms": []
+      },
+      {
+        "concept": "대류권",
+        "easy_explanation": "지표면부터 약 11 km까지의 층으로, 위로 올라갈수록 기온이 낮아진다.",
+        "related_terms": []
+      },
+      {
+        "concept": "태양 복사 에너지",
+        "easy_explanation": "태양이 복사의 형태로 방출하는 에너지",
+        "related_terms": [
+          "복사",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "지구 복사 에너지",
+        "easy_explanation": "지구가 복사의 형태로 방출하는 에너지",
+        "related_terms": [
+          "복사",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "복사 평형",
+        "easy_explanation": "물체가 흡수하는 복사 에너지양과 방출하는 복사 에너지양이 같은 상태",
+        "related_terms": [
+          "복사",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "온실 효과",
+        "easy_explanation": "복사 에너지가 대기에 의해 흡수되었다가 다시 지표로 방출되어 대기가 없을 때보다 평균 기온이 높게 유지되는 현상",
+        "related_terms": [
+          "복사",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "지구 온난화",
+        "easy_explanation": "대기 중으로 배출되는 온실 기체의 양이 증가하여 지구의 평균 기온이 상승하는 현상",
+        "related_terms": [
+          "온실 기체"
+        ]
+      },
+      {
+        "concept": "온실 기체",
+        "easy_explanation": "대기 중 [온실 기체]의 농도가 증가하면 [온실 효과]가 강화되어 더 높은 온도에서 복사 평형이 이루어지고 지구의 평균 기온이 [상승]한다.",
+        "related_terms": [
+          "복사 평형",
+          "온실 효과",
+          "복사"
+        ]
+      },
+      {
+        "concept": "이산화 탄소",
+        "easy_explanation": "[이산화 탄소]는 인간의 활동에 의해 대기 중으로 배출되는 온실 기체 중 가장 많은 양을 차지하는 대표적인 온실 기체이다.",
+        "related_terms": [
+          "온실 기체"
+        ]
+      },
+      {
+        "concept": "포화",
+        "easy_explanation": "공기가 수증기를 최대한 포함하고 있는 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "포화 수증기량",
+        "easy_explanation": "1 kg의 공기가 최대한 포함할 수 있는 수증기의 양",
+        "related_terms": []
+      },
+      {
+        "concept": "상대 습도",
+        "easy_explanation": "현재 기온에서의 포화 수증기량에 대한 실제 수증기량의 비율",
+        "related_terms": [
+          "포화",
+          "포화 수증기량"
+        ]
+      },
+      {
+        "concept": "이슬점",
+        "easy_explanation": "공기 중의 수증기가 응결하기 시작할 때의 온도",
+        "related_terms": [
+          "응결"
+        ]
+      },
+      {
+        "concept": "단열 팽창",
+        "easy_explanation": "외부와의 열 교환 없이 공기의 부피가 늘어나 온도가 낮아지는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "응결",
+        "easy_explanation": "공기가 이슬점 이하로 냉각되어 수증기가 물방울로 맺히는 현상",
+        "related_terms": [
+          "이슬점"
+        ]
+      },
+      {
+        "concept": "강수",
+        "easy_explanation": "구름에서 비나 눈이 지표로 내리는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "빙정설",
+        "easy_explanation": "중위도나 고위도 지방의 구름에서 얼음 알갱이가 커져 비나 눈으로 내리는 강수 과정",
+        "related_terms": [
+          "강수 과정",
+          "강수"
+        ]
+      },
+      {
+        "concept": "병합설",
+        "easy_explanation": "따뜻한 열대 지방이나 저위도 지방의 구름에서 물방울들이 부딪히고 합쳐져 비로 내리는 강수 과정",
+        "related_terms": [
+          "강수 과정",
+          "강수"
+        ]
+      },
+      {
+        "concept": "기압",
+        "easy_explanation": "대기가 누르는 힘 때문에 작용하는 압력",
+        "related_terms": [
+          "힘"
+        ]
+      },
+      {
+        "concept": "고기압",
+        "easy_explanation": "주변보다 기압이 높은 곳",
+        "related_terms": [
+          "기압"
+        ]
+      },
+      {
+        "concept": "저기압",
+        "easy_explanation": "주변보다 기압이 낮은 곳",
+        "related_terms": [
+          "기압"
+        ]
+      },
+      {
+        "concept": "바람",
+        "easy_explanation": "기압 차이로 인해 공기가 기압이 높은 곳에서 낮은 곳으로 이동하는 것",
+        "related_terms": [
+          "기압"
+        ]
+      },
+      {
+        "concept": "기단",
+        "easy_explanation": "광대한 지역에 걸쳐 형성되어 비교적 일정한 성질을 갖는 거대한 공기 덩어리",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "전선",
+        "easy_explanation": "발생지가 서로 다른 두 기단의 경계인 전선면과 지표면이 만나는 경계선",
+        "related_terms": [
+          "발생",
+          "기단"
+        ]
+      },
+      {
+        "concept": "한랭 전선",
+        "easy_explanation": "찬 기단이 따뜻한 기단 쪽으로 이동하여 따뜻한 기단 아래로 파고들면서 생기는 전선",
+        "related_terms": [
+          "기단",
+          "전선"
+        ]
+      },
+      {
+        "concept": "온난 전선",
+        "easy_explanation": "따뜻한 기단이 찬 기단 쪽으로 이동하여 찬 기단 위로 오르면서 생기는 전선",
+        "related_terms": [
+          "기단",
+          "전선"
+        ]
+      },
+      {
+        "concept": "폐색 전선",
+        "easy_explanation": "한랭 전선이 온난 전선보다 빠르게 이동하여 두 기단이 서로 겹쳐지는 전선",
+        "related_terms": [
+          "온난 전선",
+          "한랭 전선",
+          "기단",
+          "전선"
+        ]
+      },
+      {
+        "concept": "정체 전선",
+        "easy_explanation": "세력이 비슷한 두 기단이 반대 방향에서 확장하여 만나거나 크게 움직이지 않고 장시간 한곳에 머물러 있는 전선",
+        "related_terms": [
+          "기단",
+          "전선"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "1 식물의 구조와 기능",
+    "concepts": [
+      {
+        "concept": "광합성",
+        "easy_explanation": "식물이 빛에너지를 이용하여 스스로 양분을 만드는 과정",
+        "related_terms": [
+          "빛",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "엽록체",
+        "easy_explanation": "식물의 세포에서 광합성이 일어나는 곳",
+        "related_terms": [
+          "광합성",
+          "세포",
+          "일"
+        ]
+      },
+      {
+        "concept": "엽록소",
+        "easy_explanation": "엽록체에 들어 있는 초록색 색소",
+        "related_terms": [
+          "색",
+          "엽록체"
+        ]
+      },
+      {
+        "concept": "호흡",
+        "easy_explanation": "양분(포도당)을 분해하여 살아가는 데 필요한 에너지를 얻는 과정",
+        "related_terms": [
+          "에너지"
+        ]
+      },
+      {
+        "concept": "기공",
+        "easy_explanation": "잎의 뒷면 표피에 있는 작은 구멍",
+        "related_terms": []
+      },
+      {
+        "concept": "공변세포",
+        "easy_explanation": "기공을 둘러싸고 있는 세포",
+        "related_terms": [
+          "세포",
+          "기공"
+        ]
+      },
+      {
+        "concept": "증산 작용",
+        "easy_explanation": "식물 내의 물이 기공을 통해 수증기 형태로 빠져나가는 것",
+        "related_terms": [
+          "기공"
+        ]
+      },
+      {
+        "concept": "영양소",
+        "easy_explanation": "생물의 생명 활동에 필요한 물질",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "2 동물의 구조와 기능",
+    "concepts": [
+      {
+        "concept": "영양소 검출",
+        "easy_explanation": "영양소와 반응하여 색이 변하는 시약을 통해 음식물에 들어있는 영양소의 종류를 확인하는 것",
+        "related_terms": [
+          "색",
+          "영양소"
+        ]
+      },
+      {
+        "concept": "녹말 검출",
+        "easy_explanation": "아이오딘-아이오딘화 칼륨 용액으로 녹말 유무를 확인하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "포도당 검출",
+        "easy_explanation": "베네딕트 용액을 떨어뜨린 후 가열하여 포도당 유무를 확인하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "단백질 검출",
+        "easy_explanation": "뷰렛 용액(수산화 나트륨 수용액과 황산 구리(II) 수용액)으로 단백질 유무를 확인하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "지방 검출",
+        "easy_explanation": "수단(III) 용액으로 지방 유무를 확인하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "소화",
+        "easy_explanation": "영양소가 몸 속으로 흡수될 수 있을 정도로 작게 분해되는 과정",
+        "related_terms": [
+          "영양소"
+        ]
+      },
+      {
+        "concept": "소화 효소",
+        "easy_explanation": "영양소를 매우 작은 크기로 분해하는 물질",
+        "related_terms": [
+          "영양소"
+        ]
+      },
+      {
+        "concept": "아밀레이스",
+        "easy_explanation": "탄수화물을 분해하는 소화 효소",
+        "related_terms": [
+          "소화 효소",
+          "소화"
+        ]
+      },
+      {
+        "concept": "펩신",
+        "easy_explanation": "단백질을 분해하는 소화 효소",
+        "related_terms": [
+          "소화 효소",
+          "소화"
+        ]
+      },
+      {
+        "concept": "트립신",
+        "easy_explanation": "단백질을 분해하는 소화 효소",
+        "related_terms": [
+          "소화 효소",
+          "소화"
+        ]
+      },
+      {
+        "concept": "라 이 페 이 스",
+        "easy_explanation": "지방을 분해하는 소화 효소",
+        "related_terms": [
+          "소화 효소",
+          "소화"
+        ]
+      },
+      {
+        "concept": "쓸개즙",
+        "easy_explanation": "간에서 만들어져 지방의 소화를 돕는 물질",
+        "related_terms": [
+          "소화"
+        ]
+      },
+      {
+        "concept": "심장",
+        "easy_explanation": "주먹만 한 크기로 근육이 두껍게 발달되어 혈액을 순환시키는 기관",
+        "related_terms": [
+          "혈액",
+          "기관"
+        ]
+      },
+      {
+        "concept": "동맥",
+        "easy_explanation": "심장에서 나가는 혈액이 흐르는 혈관",
+        "related_terms": [
+          "심장",
+          "혈액"
+        ]
+      },
+      {
+        "concept": "정맥",
+        "easy_explanation": "심장으로 들어가는 혈액이 흐르는 혈관",
+        "related_terms": [
+          "심장",
+          "혈액"
+        ]
+      },
+      {
+        "concept": "모세 혈관",
+        "easy_explanation": "동맥과 정맥을 연결하며 온몸에 퍼져 있는 혈관",
+        "related_terms": [
+          "정맥",
+          "동맥"
+        ]
+      },
+      {
+        "concept": "심방",
+        "easy_explanation": "심장으로 혈액이 들어오는 부분",
+        "related_terms": [
+          "심장",
+          "혈액"
+        ]
+      },
+      {
+        "concept": "심실",
+        "easy_explanation": "심장에서 혈액이 나가는 부분",
+        "related_terms": [
+          "심장",
+          "혈액"
+        ]
+      },
+      {
+        "concept": "혈관의 구조",
+        "easy_explanation": "혈액이 흐르는 통로로 동맥, 모세 혈관, 정맥으로 이루어져 있다.",
+        "related_terms": [
+          "모세 혈관",
+          "혈액",
+          "정맥",
+          "동맥"
+        ]
+      },
+      {
+        "concept": "온몸 순환",
+        "easy_explanation": "심장에서 나간 혈액이 온몸의 세포에 산소와 영양소를 공급하고 노폐물을 받아 심장으로 돌아오는 순환",
+        "related_terms": [
+          "세포",
+          "심장",
+          "혈액",
+          "폐",
+          "영양소"
+        ]
+      },
+      {
+        "concept": "폐순환",
+        "easy_explanation": "심장에서 나간 혈액이 폐에서 이산화 탄소를 내보내고 산소를 받아 심장으로 돌아오는 순환",
+        "related_terms": [
+          "이산화 탄소",
+          "심장",
+          "혈액",
+          "폐"
+        ]
+      },
+      {
+        "concept": "혈액",
+        "easy_explanation": "혈관 속을 흐르는 물질로, 혈장과 혈구(적혈구, 백혈구, 혈소판)로 이루어져 있다.",
+        "related_terms": [
+          "혈장",
+          "백혈구",
+          "적혈구",
+          "혈소판",
+          "판"
+        ]
+      },
+      {
+        "concept": "적혈구",
+        "easy_explanation": "산소 운반을 담당하는 혈구",
+        "related_terms": []
+      },
+      {
+        "concept": "백혈구",
+        "easy_explanation": "몸에 들어온 세균을 잡아먹는 작용을 하는 혈구",
+        "related_terms": []
+      },
+      {
+        "concept": "혈소판",
+        "easy_explanation": "상처가 났을 때 피를 굳게 하는 작용을 하는 혈구",
+        "related_terms": []
+      },
+      {
+        "concept": "혈장",
+        "easy_explanation": "산소, 영양소, 이산화 탄소, 노폐물 운반을 담당하는 혈액의 액체 성분",
+        "related_terms": [
+          "이산화 탄소",
+          "혈액",
+          "폐",
+          "영양소"
+        ]
+      },
+      {
+        "concept": "기관",
+        "easy_explanation": "호흡 기관의 하나",
+        "related_terms": [
+          "호흡"
+        ]
+      },
+      {
+        "concept": "기관지",
+        "easy_explanation": "호흡 기관의 하나",
+        "related_terms": [
+          "호흡",
+          "기관"
+        ]
+      },
+      {
+        "concept": "폐",
+        "easy_explanation": "두께가 얇은 주머니인 폐포로 이루어져 있으며 흉강에 들어 있는 호흡 기관",
+        "related_terms": [
+          "폐포",
+          "호흡",
+          "기관"
+        ]
+      },
+      {
+        "concept": "폐포",
+        "easy_explanation": "폐를 이루는 얇은 주머니로, 기체 교환이 일어나는 곳",
+        "related_terms": [
+          "일",
+          "폐",
+          "기체 교환"
+        ]
+      },
+      {
+        "concept": "기체 교환",
+        "easy_explanation": "폐와 온몸의 세포에서 산소와 이산화 탄소가 교환되는 현상",
+        "related_terms": [
+          "이산화 탄소",
+          "세포",
+          "폐"
+        ]
+      },
+      {
+        "concept": "배설",
+        "easy_explanation": "세포에서 생긴 노폐물을 몸 밖으로 내보내는 작용",
+        "related_terms": [
+          "세포",
+          "폐"
+        ]
+      },
+      {
+        "concept": "콩팥",
+        "easy_explanation": "혈액 속의 노폐물을 걸러 내어 오줌을 만드는 기관",
+        "related_terms": [
+          "오줌",
+          "혈액",
+          "폐",
+          "기관"
+        ]
+      },
+      {
+        "concept": "네프론",
+        "easy_explanation": "오줌을 생성하는 기본 단위",
+        "related_terms": [
+          "오줌"
+        ]
+      },
+      {
+        "concept": "여과",
+        "easy_explanation": "혈액에 포함된 물질 중 크기가 작은 물질이 사구체에서 보먼주머니로 이동하는 현상",
+        "related_terms": [
+          "혈액"
+        ]
+      },
+      {
+        "concept": "재흡수",
+        "easy_explanation": "여과액에 포함된 물질 중 몸에 필요한 물질이 세뇨관에서 모세 혈관으로 이동하는 현상",
+        "related_terms": [
+          "모세 혈관",
+          "여과"
+        ]
+      },
+      {
+        "concept": "분비",
+        "easy_explanation": "사구체에서 미처 여과되지 못하고 혈액에 남아 있던 노폐물이 모세 혈관에서 세뇨관으로 이동하는 현상",
+        "related_terms": [
+          "모세 혈관",
+          "혈액",
+          "여과",
+          "폐"
+        ]
+      },
+      {
+        "concept": "오줌",
+        "easy_explanation": "네프론에서 여과, 재흡수, 분비를 거쳐 만들어지는 것",
+        "related_terms": [
+          "분비",
+          "네프론",
+          "재흡수",
+          "여과"
+        ]
+      },
+      {
+        "concept": "세포",
+        "easy_explanation": "생물을 구성하는 기본 단위",
+        "related_terms": []
+      },
+      {
+        "concept": "생물의 구성 단계",
+        "easy_explanation": "세포 → 조직 → 기관 → 기관계의 단계로 이루어진 것",
+        "related_terms": [
+          "세포",
+          "기관"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "3 자극과 반응",
+    "concepts": [
+      {
+        "concept": "시각",
+        "easy_explanation": "눈을 통해 빛을 받아들여 물체의 모양, 크기, 색깔, 거리 등을 구별하는 감각이다.",
+        "related_terms": [
+          "빛",
+          "색"
+        ]
+      },
+      {
+        "concept": "청각",
+        "easy_explanation": "귀를 통해 소리 자극을 받아들이는 감각이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "공막",
+        "easy_explanation": "눈의 가장 바깥에 있으며, 눈의 형태를 일정하게 유지한다.",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "홍채",
+        "easy_explanation": "동공의 크기를 변화시켜 눈으로 들어가는 빛의 양을 조절한다.",
+        "related_terms": [
+          "빛",
+          "동공"
+        ]
+      },
+      {
+        "concept": "동공",
+        "easy_explanation": "홍채 사이에 뚫려 있는 구멍으로, 빛이 들어가는 통로이다.",
+        "related_terms": [
+          "빛",
+          "홍채"
+        ]
+      },
+      {
+        "concept": "맥락막",
+        "easy_explanation": "검은색이 있어 눈 속을 어둡게 한다.",
+        "related_terms": [
+          "색"
+        ]
+      },
+      {
+        "concept": "망막",
+        "easy_explanation": "물체의 상이 맺히는 부분으로, 시각 세포가 있어 빛을 감지한다.",
+        "related_terms": [
+          "빛",
+          "시각",
+          "세포"
+        ]
+      },
+      {
+        "concept": "빛",
+        "easy_explanation": "눈으로 들어오는 자극",
+        "related_terms": []
+      },
+      {
+        "concept": "눈의 수정체",
+        "easy_explanation": "볼록 렌즈와 같이 빛을 굴절시켜 망막에 상이 맺히게 한다.",
+        "related_terms": [
+          "빛",
+          "망막",
+          "망"
+        ]
+      },
+      {
+        "concept": "유리체",
+        "easy_explanation": "눈 속을 채우고 있는 투명한 물질로, 눈의 형태를 유지한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "시각 신경",
+        "easy_explanation": "시각 세포에서 일어난 흥분 자극을 뇌로 전달한다.",
+        "related_terms": [
+          "시각",
+          "세포",
+          "일",
+          "뇌"
+        ]
+      },
+      {
+        "concept": "뇌",
+        "easy_explanation": "전달된 자극을 인식한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "외이도(귓구멍)",
+        "easy_explanation": "귓바퀴와 고막 사이의 통로",
+        "related_terms": [
+          "고막"
+        ]
+      },
+      {
+        "concept": "반고리관",
+        "easy_explanation": "몸의 회전을 감지한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "전정 기관",
+        "easy_explanation": "몸의 기울어짐을 감지한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "귀인두관",
+        "easy_explanation": "고막 바깥쪽과 안쪽의 압력을 같게 조절한다.",
+        "related_terms": [
+          "고막"
+        ]
+      },
+      {
+        "concept": "공기의 진동",
+        "easy_explanation": "소리 자극",
+        "related_terms": []
+      },
+      {
+        "concept": "고막",
+        "easy_explanation": "소리 자극이 오면 진동하는 얇은 막이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "귓속뼈",
+        "easy_explanation": "고막의 진동을 증폭시키는 작은 뼈이다.",
+        "related_terms": [
+          "고막"
+        ]
+      },
+      {
+        "concept": "달팽이관",
+        "easy_explanation": "청각 세포가 있어 진동을 자극으로 받아들인다.",
+        "related_terms": [
+          "세포",
+          "청각"
+        ]
+      },
+      {
+        "concept": "청각 신경",
+        "easy_explanation": "청각 세포에서 받아들인 자극을 뇌로 전달한다.",
+        "related_terms": [
+          "세포",
+          "청각",
+          "뇌"
+        ]
+      },
+      {
+        "concept": "후각",
+        "easy_explanation": "코에서 기체 상태의 화학 물질을 자극으로 받아들여 냄새를 느끼는 감각",
+        "related_terms": []
+      },
+      {
+        "concept": "미각",
+        "easy_explanation": "혀에서 액체 상태의 화학 물질을 자극으로 받아들여 맛을 느끼는 감각",
+        "related_terms": []
+      },
+      {
+        "concept": "피부 감각",
+        "easy_explanation": "피부에서 압력이나 온도 변화를 자극으로 느끼는 감각",
+        "related_terms": [
+          "피부"
+        ]
+      },
+      {
+        "concept": "맛봉오리",
+        "easy_explanation": "혀 표면의 돌기 옆에 있는 맛을 느끼는 기관",
+        "related_terms": [
+          "기관"
+        ]
+      },
+      {
+        "concept": "맛 세포",
+        "easy_explanation": "맛봉오리에 있으며 맛을 감지하는 세포",
+        "related_terms": [
+          "맛봉오리",
+          "세포"
+        ]
+      },
+      {
+        "concept": "피부",
+        "easy_explanation": "통점, 촉점, 압점, 온점, 냉점 등의 감각점이 분포하여 아픔, 접촉, 압력, 온도 변화를 느끼는 기관",
+        "related_terms": [
+          "감각점",
+          "기관"
+        ]
+      },
+      {
+        "concept": "감각점",
+        "easy_explanation": "몸의 부위에 따라 분포 정도가 다르며, 통증 등에 예민하게 반응하는 점",
+        "related_terms": []
+      },
+      {
+        "concept": "뉴런",
+        "easy_explanation": "감각 기관과 뇌, 뇌와 운동 기관 사이에서 신호를 전달하는 세포",
+        "related_terms": [
+          "세포",
+          "기관",
+          "뇌"
+        ]
+      },
+      {
+        "concept": "감각 뉴런",
+        "easy_explanation": "감각 기관의 자극을 연합 뉴런으로 전달하는 뉴런",
+        "related_terms": [
+          "연합 뉴런",
+          "뉴런",
+          "기관"
+        ]
+      },
+      {
+        "concept": "연합 뉴런",
+        "easy_explanation": "감각 뉴런의 자극을 판단하고 명령을 내리는 뉴런",
+        "related_terms": [
+          "감각 뉴런",
+          "뉴런",
+          "판"
+        ]
+      },
+      {
+        "concept": "운동 뉴런",
+        "easy_explanation": "연합 뉴런의 명령을 운동 기관으로 전달하는 뉴런",
+        "related_terms": [
+          "연합 뉴런",
+          "뉴런",
+          "기관"
+        ]
+      },
+      {
+        "concept": "중추 신경계",
+        "easy_explanation": "뇌와 척수로 이루어져 자극을 분석하고 명령을 내리는 신경계",
+        "related_terms": [
+          "신경계",
+          "뇌"
+        ]
+      },
+      {
+        "concept": "말초 신경계",
+        "easy_explanation": "중추 신경계와 연결된 감각 신경과 운동 신경",
+        "related_terms": [
+          "중추 신경계",
+          "신경계"
+        ]
+      },
+      {
+        "concept": "조건 반사",
+        "easy_explanation": "과거의 경험을 기억하여 대뇌에서 일어나는 반응",
+        "related_terms": [
+          "일",
+          "뇌"
+        ]
+      },
+      {
+        "concept": "무조건 반사",
+        "easy_explanation": "대뇌가 관여하기 전에 나타나는 무의식적인 반응",
+        "related_terms": [
+          "뇌"
+        ]
+      },
+      {
+        "concept": "내분비샘",
+        "easy_explanation": "호르몬을 만들어 혈관으로 직접 분비하는 조직이나 기관",
+        "related_terms": [
+          "분비",
+          "호르몬",
+          "기관"
+        ]
+      },
+      {
+        "concept": "호르몬",
+        "easy_explanation": "몸의 특정 부위에서 분비되어 여러 가지 작용을 조절하는 물질",
+        "related_terms": [
+          "분비"
+        ]
+      },
+      {
+        "concept": "항상성",
+        "easy_explanation": "외부 환경이 변하더라도 몸 안의 상태가 일정하게 유지되는 것",
+        "related_terms": [
+          "일"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "4 생식",
+    "concepts": [
+      {
+        "concept": "무성 생식",
+        "easy_explanation": "암수의 짝짓기 없이 자손을 만드는 생식 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "유성 생식",
+        "easy_explanation": "암수의 짝짓기를 통해 자손을 만드는 생식 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "유전자",
+        "easy_explanation": "생물이 갖는 특징을 결정하는 유전 정보가 저장되어 있는 것",
+        "related_terms": [
+          "유전"
+        ]
+      },
+      {
+        "concept": "염색체",
+        "easy_explanation": "핵 속에 들어 있는 물질로, 생물의 모양이나 특징을 결정하는 유전 정보를 자손에게 전달하는 역할",
+        "related_terms": [
+          "유전"
+        ]
+      },
+      {
+        "concept": "상동 염색체",
+        "easy_explanation": "모양과 크기가 같은 한 쌍의 염색체",
+        "related_terms": [
+          "염색체",
+          "색"
+        ]
+      },
+      {
+        "concept": "상염색체",
+        "easy_explanation": "남녀 공통으로 가진 염색체",
+        "related_terms": [
+          "염색체",
+          "색"
+        ]
+      },
+      {
+        "concept": "성염색체",
+        "easy_explanation": "성별을 결정하는 염색체",
+        "related_terms": [
+          "염색체",
+          "색"
+        ]
+      },
+      {
+        "concept": "염색사",
+        "easy_explanation": "세포 핵 속에 가느다란 실 모양으로 있는 염색체 형태",
+        "related_terms": [
+          "세포",
+          "염색체",
+          "색"
+        ]
+      },
+      {
+        "concept": "염색분체",
+        "easy_explanation": "막대 모양 염색체를 이루는 각각의 가닥",
+        "related_terms": [
+          "염색체",
+          "색"
+        ]
+      },
+      {
+        "concept": "체세포 분열",
+        "easy_explanation": "체세포가 분열을 통해 세포 수를 늘리는 것",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "생식세포 분열",
+        "easy_explanation": "생식세포가 만들어질 때 일어나는 세포 분열",
+        "related_terms": [
+          "세포",
+          "일"
+        ]
+      },
+      {
+        "concept": "핵분열",
+        "easy_explanation": "세포 분열의 한 과정으로 핵이 분열하는 것",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "세포질 분열",
+        "easy_explanation": "세포 분열의 한 과정으로 세포질이 분열하는 것",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "모세포",
+        "easy_explanation": "분열하기 전의 세포",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "딸세포",
+        "easy_explanation": "세포 분열 후 생긴 세포",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "성장",
+        "easy_explanation": "체세포 분열을 통해 몸집이 커지는 현상",
+        "related_terms": [
+          "세포",
+          "체세포 분열"
+        ]
+      },
+      {
+        "concept": "단세포",
+        "easy_explanation": "하나의 세포로 구성된 생물",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "감수 1분열",
+        "easy_explanation": "생식세포 분열의 첫 번째 분열",
+        "related_terms": [
+          "세포",
+          "생식세포 분열"
+        ]
+      },
+      {
+        "concept": "감수 2분열",
+        "easy_explanation": "생식세포 분열의 두 번째 분열",
+        "related_terms": [
+          "세포",
+          "생식세포 분열"
+        ]
+      },
+      {
+        "concept": "2가 염색체",
+        "easy_explanation": "감수 1분열 전기에서 상동 염색체끼리 짝을 지어 결합한 것",
+        "related_terms": [
+          "감수 1분열",
+          "염색체",
+          "색",
+          "상동 염색체"
+        ]
+      },
+      {
+        "concept": "4개",
+        "easy_explanation": "생식세포 분열 결과 만들어지는 딸세포의 수",
+        "related_terms": [
+          "딸세포",
+          "세포",
+          "생식세포 분열"
+        ]
+      },
+      {
+        "concept": "등일한 수의 염색체",
+        "easy_explanation": "암수 생식세포가 결합하여 생긴 자손이 부모와 가지는 염색체 수",
+        "related_terms": [
+          "세포",
+          "염색체",
+          "색"
+        ]
+      },
+      {
+        "concept": "정자",
+        "easy_explanation": "남자의 정소에서 만들어지는 생식세포",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "난자",
+        "easy_explanation": "여자의 난소에서 만들어지는 생식세포",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "수정",
+        "easy_explanation": "정자의 핵과 난자의 핵이 만나 수정란이 되는 것",
+        "related_terms": [
+          "난자",
+          "정자"
+        ]
+      },
+      {
+        "concept": "발생",
+        "easy_explanation": "수정란이 하나의 개체로 완성되어 가는 과정",
+        "related_terms": [
+          "수정"
+        ]
+      },
+      {
+        "concept": "유전",
+        "easy_explanation": "부모가 가지고 있는 형질이 자식에게 전달되는 현상",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "5 유전",
+    "concepts": [
+      {
+        "concept": "대립 형질",
+        "easy_explanation": "하나의 형질에 대해 뚜렷하게 대비되는 특징",
+        "related_terms": []
+      },
+      {
+        "concept": "순종과 잡종",
+        "easy_explanation": "유전 형질이 동일하게 유지되는 순종과, 서로 다른 형질이 섞인 잡종",
+        "related_terms": [
+          "유전",
+          "일"
+        ]
+      },
+      {
+        "concept": "우성과 열성",
+        "easy_explanation": "유전될 때 자손에게 나타나는 우성 형질과 나타나지 않는 열성 형질",
+        "related_terms": [
+          "유전"
+        ]
+      },
+      {
+        "concept": "표현형과 유전자형",
+        "easy_explanation": "겉으로 드러나는 표현형과 알파벳 기호로 나타내는 유전자형",
+        "related_terms": [
+          "유전",
+          "유전자"
+        ]
+      },
+      {
+        "concept": "분리의 법칙",
+        "easy_explanation": "생식세포를 만들 때 잡종 1대의 대립 유전자가 서로 다른 생식세포로 나뉘어 들어가는 것",
+        "related_terms": [
+          "유전",
+          "세포",
+          "유전자"
+        ]
+      },
+      {
+        "concept": "독립의 법칙",
+        "easy_explanation": "두 가지 종류의 대립 유전자가 서로 상관없이 독립적으로 유전되는 것",
+        "related_terms": [
+          "유전",
+          "유전자"
+        ]
+      },
+      {
+        "concept": "중간 유전",
+        "easy_explanation": "대립 유전자 사이의 우열 관계가 명확하지 않아 부모의 중간 형질이 나타나는 현상",
+        "related_terms": [
+          "유전",
+          "유전자"
+        ]
+      },
+      {
+        "concept": "미맹",
+        "easy_explanation": "PTC 용액의 쓴맛을 느끼지 못하는 형질",
+        "related_terms": []
+      },
+      {
+        "concept": "미맹 유전",
+        "easy_explanation": "우열의 원리와 분리의 법칙을 따르는 유전",
+        "related_terms": [
+          "유전",
+          "분리의 법칙"
+        ]
+      },
+      {
+        "concept": "반성 유전",
+        "easy_explanation": "남녀의 성에 따라 유전 형질이 나타나는 빈도가 다른 유전 현상",
+        "related_terms": [
+          "유전"
+        ]
+      },
+      {
+        "concept": "색맹",
+        "easy_explanation": "색깔을 구별하지 못하는 것",
+        "related_terms": [
+          "색"
+        ]
+      },
+      {
+        "concept": "색맹 유전자",
+        "easy_explanation": "X 염색체에 있으며 열성으로 유전되는 유전자",
+        "related_terms": [
+          "유전",
+          "유전자",
+          "염색체",
+          "색"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "6 진화와 다양성",
+    "concepts": [
+      {
+        "concept": "생물 다양성과 변이",
+        "easy_explanation": "생물 다양성: 어떤 지역에 살고 있는 생물의 다양한 정도; 변이: 같은 종류의 생물에서 나타나는 생김새나 특성의 차이",
+        "related_terms": []
+      },
+      {
+        "concept": "생물 분류",
+        "easy_explanation": "일정한 기준에 따라 생물을 비슷한 종류의 무리로 나누는 것",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "생물 분류 단계",
+        "easy_explanation": "종: 생물을 분류할 때 가장 기본이 되는 단위; 계: 생물을 분류할 때 더 큰 단위의 분류 단계",
+        "related_terms": []
+      },
+      {
+        "concept": "식물계",
+        "easy_explanation": "핵이 있는 세포로 이루어져 광합성을 하여 스스로 양분을 얻고 몸의 구조가 잘 발달된 생물 무리",
+        "related_terms": [
+          "광합성",
+          "세포"
+        ]
+      },
+      {
+        "concept": "동물계",
+        "easy_explanation": "핵이 있는 세포로 이루어져 광합성을 하지 못하고 먹이를 먹어 양분을 얻는 생물 무리",
+        "related_terms": [
+          "광합성",
+          "세포"
+        ]
+      },
+      {
+        "concept": "균계",
+        "easy_explanation": "핵이 있는 세포로 이루어져 운동성이 없고 양분을 스스로 만들 수 없어 죽은 생물을 분해하여 양분을 얻는 생물 무리",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "균류",
+        "easy_explanation": "엽록체가 없어 광합성을 하지 못하고, 몸 밖으로 특수한 물질을 분비하여 주위 영양분을 분해 흡수하는 생물",
+        "related_terms": [
+          "광합성",
+          "분비",
+          "엽록체"
+        ]
+      },
+      {
+        "concept": "원핵생물계",
+        "easy_explanation": "세포 안에 핵막이 없어 핵이 뚜렷이 구분되지 않는 생물 무리 (세균이 속함)",
+        "related_terms": [
+          "세포"
+        ]
+      },
+      {
+        "concept": "원생생물계",
+        "easy_explanation": "핵이 있는 세포로 이루어져 식물계, 균계, 동물계에 속하지 않는 생물을 모아놓은 무리",
+        "related_terms": [
+          "식물계",
+          "세포",
+          "동물계",
+          "균계"
+        ]
+      },
+      {
+        "concept": "원핵생물",
+        "easy_explanation": "핵막이 없고 단세포인 생물 (예: 대장균, 남세균)",
+        "related_terms": [
+          "단세포",
+          "세포"
+        ]
+      },
+      {
+        "concept": "원생생물",
+        "easy_explanation": "핵막이 있고 대부분 단세포인 생물 (예: 아메바, 다시마)",
+        "related_terms": [
+          "단세포",
+          "세포"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "1 물질의 구성 입자",
+    "concepts": [
+      {
+        "concept": "원소 기호",
+        "easy_explanation": "원소를 이름 대신 간단한 기호로 나타낸 것",
+        "related_terms": [
+          "원소"
+        ]
+      },
+      {
+        "concept": "불꽃 반응",
+        "easy_explanation": "금속 원소를 포함한 물질에 불꽃을 붙였을 때 금속 원소에 따라 독특한 색의 불꽃이 나타나는 것",
+        "related_terms": [
+          "원소",
+          "색"
+        ]
+      },
+      {
+        "concept": "선 스펙트럼",
+        "easy_explanation": "원소에 따라 특정한 위치에서만 밝은 선이 나타나는 스펙트럼",
+        "related_terms": [
+          "원소"
+        ]
+      },
+      {
+        "concept": "원자",
+        "easy_explanation": "원자는 물질을 구성하는 기본 입자이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "분자",
+        "easy_explanation": "분자는 독립된 입자로 존재하여 물질의 성질을 나타내는 가장 작은 입자이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "이온",
+        "easy_explanation": "이온은 전하를 띤 입자이다.",
+        "related_terms": [
+          "전하"
+        ]
+      },
+      {
+        "concept": "앙금",
+        "easy_explanation": "수용액 속에서 특정한 양이온과 음이온이 반응하여 물에 녹지 않는 물질",
+        "related_terms": [
+          "이온"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "2 물리적 성질과 화학적 성질",
+    "concepts": [
+      {
+        "concept": "균일 혼합물",
+        "easy_explanation": "성분 물질이 고르게 섞여 있는 혼합물",
+        "related_terms": [
+          "혼합물"
+        ]
+      },
+      {
+        "concept": "불균일 혼합물",
+        "easy_explanation": "성분 물질이 고르지 않게 섞여 있는 혼합물",
+        "related_terms": [
+          "혼합물"
+        ]
+      },
+      {
+        "concept": "끓는점",
+        "easy_explanation": "액체 물질이 끓어 기체가 되는 동안 일정하게 유지되는 온도",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "녹는점",
+        "easy_explanation": "고체 물질이 녹아 액체가 되는 동안 일정하게 유지되는 온도",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "어는점",
+        "easy_explanation": "액체 물질이 얼어 고체가 되는 동안 일정하게 유지되는 온도",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "물질의 특성",
+        "easy_explanation": "다른 물질과 구별되는 본래의 성질",
+        "related_terms": []
+      },
+      {
+        "concept": "순물질",
+        "easy_explanation": "끓는점, 어는점이 일정한 물질",
+        "related_terms": [
+          "일",
+          "어는점",
+          "끓는점"
+        ]
+      },
+      {
+        "concept": "혼합물",
+        "easy_explanation": "끓는점, 어는점이 일정하지 않은 물질",
+        "related_terms": [
+          "일",
+          "어는점",
+          "끓는점"
+        ]
+      },
+      {
+        "concept": "밀도",
+        "easy_explanation": "물질이 갖는 단위 부피당 질량",
+        "related_terms": [
+          "질량"
+        ]
+      },
+      {
+        "concept": "포화 용액",
+        "easy_explanation": "어떤 온도에서 일정한 양의 용매에 용질이 최대로 녹아 있는 용액",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "불포화 용액",
+        "easy_explanation": "포화 용액보다 적은 양의 용질이 녹아 있는 용액",
+        "related_terms": [
+          "포화",
+          "포화 용액"
+        ]
+      },
+      {
+        "concept": "용해도",
+        "easy_explanation": "어떤 온도에서 용매 100 g에 최대로 녹을 수 있는 용질의 g수",
+        "related_terms": []
+      },
+      {
+        "concept": "증류",
+        "easy_explanation": "액체 상태의 혼합물을 가열할 때 나오는 기체를 다시 냉각하여 순수한 액체 물질을 얻는 방법",
+        "related_terms": [
+          "혼합물"
+        ]
+      },
+      {
+        "concept": "분별 깔때기",
+        "easy_explanation": "서로 섞이지 않는 액체 혼합물을 분리하기 위해 사용하는 도구",
+        "related_terms": [
+          "혼합물"
+        ]
+      },
+      {
+        "concept": "재결정",
+        "easy_explanation": "두 물질의 용해도에 따른 용해도 차를 이용하여 불순물을 제거하고 순수한 결정을 얻는 방법",
+        "related_terms": [
+          "용해도",
+          "용해"
+        ]
+      },
+      {
+        "concept": "크로마토그래피",
+        "easy_explanation": "혼합물을 이루는 각 물질이 용매를 따라 이동하는 속도의 차를 이용한 혼합물의 분리 방법",
+        "related_terms": [
+          "혼합물"
+        ]
+      },
+      {
+        "concept": "확산",
+        "easy_explanation": "어떤 물질 속에 다른 물질이 섞여 들어가는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "증발",
+        "easy_explanation": "액체 표면에서 액체가 기체로 변하는 현상",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "3 물질의 상태",
+    "concepts": [
+      {
+        "concept": "기체의 압력",
+        "easy_explanation": "기체의 압력 또는 기압은 기체 입자가 일정한 넓이에 충돌할 때 가하는 힘의 크기를 말한다.",
+        "related_terms": [
+          "기압",
+          "힘",
+          "일"
+        ]
+      },
+      {
+        "concept": "보일 법칙",
+        "easy_explanation": "보일 법칙은 일정한 온도에서 일정량의 기체의 압력과 부피는 서로 반비례한다는 기체 법칙이다.",
+        "related_terms": [
+          "기체의 압력",
+          "일"
+        ]
+      },
+      {
+        "concept": "샤를 법칙",
+        "easy_explanation": "샤를 법칙은 일정한 압력에서 일정량의 기체의 부피는 온도가 높아지면 일정한 비율로 커진다는 기체 법칙이다.",
+        "related_terms": [
+          "일"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "4 물질의 상태 변화",
+    "concepts": [
+      {
+        "concept": "융해",
+        "easy_explanation": "고체 상태에서 액체 상태로 변하는 상태 변화",
+        "related_terms": [
+          "상태 변화"
+        ]
+      },
+      {
+        "concept": "응고",
+        "easy_explanation": "액체 상태에서 고체 상태로 변하는 상태 변화",
+        "related_terms": [
+          "상태 변화"
+        ]
+      },
+      {
+        "concept": "기화",
+        "easy_explanation": "액체 상태에서 기체 상태로 변하는 상태 변화",
+        "related_terms": [
+          "상태 변화"
+        ]
+      },
+      {
+        "concept": "액화",
+        "easy_explanation": "기체 상태에서 액체 상태로 변하는 상태 변화",
+        "related_terms": [
+          "상태 변화"
+        ]
+      },
+      {
+        "concept": "승화",
+        "easy_explanation": "고체 상태에서 기체 상태, 기체 상태에서 고체 상태로 액체 상태를 거치지 않고 변하는 상태 변화",
+        "related_terms": [
+          "상태 변화"
+        ]
+      },
+      {
+        "concept": "상태 변화",
+        "easy_explanation": "물질의 상태가 변하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "열에너지",
+        "easy_explanation": "물질의 온도와 상태를 바꿀 수 있는 에너지",
+        "related_terms": [
+          "에너지"
+        ]
+      },
+      {
+        "concept": "용해",
+        "easy_explanation": "고체가 액체로 변하는 상태 변화",
+        "related_terms": [
+          "상태 변화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "5 화학 반응",
+    "concepts": [
+      {
+        "concept": "물리 변화와 화학 변화",
+        "easy_explanation": "물질의 모양이나 크기 등의 겉모습만 달라질 뿐 그 물질이 가진 고유한 성질은 유지되는 변화",
+        "related_terms": []
+      },
+      {
+        "concept": "화학 반응식",
+        "easy_explanation": "화학식은 물질을 이루는 입자를 원소 기호로 나타낸 것이다.",
+        "related_terms": [
+          "원소",
+          "원소 기호"
+        ]
+      },
+      {
+        "concept": "계수",
+        "easy_explanation": "화학 반응식에서 화학식 앞에 적힌 숫자로, 반응에 참여하는 반응 물질과 반응 결과 만들어진 생성 물질의 분자 수를 나타낸다.",
+        "related_terms": [
+          "분자 수",
+          "분자",
+          "화학 반응식"
+        ]
+      },
+      {
+        "concept": "분자 수",
+        "easy_explanation": "반응에 참여하는 반응 물질과 반응 결과 만들어진 생성 물질의 수",
+        "related_terms": []
+      },
+      {
+        "concept": "양적 관계",
+        "easy_explanation": "화학 반응 전후의 반응 물질과 생성 물질 사이의 관계",
+        "related_terms": []
+      },
+      {
+        "concept": "질량 보존 법칙",
+        "easy_explanation": "반응 물질의 총 질량과 생성 물질의 총 질량이 같다는 화학 반응의 법칙",
+        "related_terms": [
+          "질량",
+          "화학 반응의 법칙"
+        ]
+      },
+      {
+        "concept": "배열",
+        "easy_explanation": "물질을 이루는 분자의 배치 방식",
+        "related_terms": [
+          "분자"
+        ]
+      },
+      {
+        "concept": "종류와 개수",
+        "easy_explanation": "물질을 이루는 분자의 유형과 수",
+        "related_terms": [
+          "분자"
+        ]
+      },
+      {
+        "concept": "일정 성분비 법칙",
+        "easy_explanation": "화합물의 성분 원소 사이에는 항상 일정한 질량비가 성립한다는 화학 반응의 법칙",
+        "related_terms": [
+          "질량",
+          "일",
+          "원소",
+          "화학 반응의 법칙"
+        ]
+      },
+      {
+        "concept": "화학 반응의 법칙",
+        "easy_explanation": "화학 반응이 일어날 때 반응 전과 후의 전체 질량은 항상 같다.",
+        "related_terms": [
+          "질량",
+          "일"
+        ]
+      },
+      {
+        "concept": "기체 반응 법칙",
+        "easy_explanation": "일정한 온도와 압력에서 기체가 반응하여 새로운 기체를 생성할 때 각 기체의 부피 사이에 간단한 정수비가 성립한다는 화학 반응의 법칙",
+        "related_terms": [
+          "일",
+          "화학 반응의 법칙"
+        ]
+      },
+      {
+        "concept": "화학 반응식의 계수와 기체 반응의 법칙",
+        "easy_explanation": "화학 반응식의 계수비는 기체의 분자 수 비 및 부피 비와 같지만, 질량 비와는 같지 않다.",
+        "related_terms": [
+          "계수",
+          "질량",
+          "분자 수",
+          "분자",
+          "화학 반응식"
+        ]
+      },
+      {
+        "concept": "발열 반응",
+        "easy_explanation": "화학 반응이 일어날 때 주위로 열에너지를 방출하여 주위의 온도를 높이는 반응",
+        "related_terms": [
+          "일",
+          "열에너지",
+          "에너지"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "6 에너지 출입",
+    "concepts": [
+      {
+        "concept": "흡열 반응",
+        "easy_explanation": "화학 반응이 일어날 때 주위로부터 열에너지를 흡수하는 반응",
+        "related_terms": [
+          "일",
+          "열에너지",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "힘",
+        "easy_explanation": "물체의 모양이나 운동 상태(빠르기나 운동 방향)를 변하게 하는 원인",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "1 힘",
+    "concepts": [
+      {
+        "concept": "중력",
+        "easy_explanation": "지구 중심 방향으로 지구가 물체를 당기는 힘",
+        "related_terms": [
+          "힘"
+        ]
+      },
+      {
+        "concept": "질량",
+        "easy_explanation": "장소가 달라져도 변하지 않는 물체의 고유한 양",
+        "related_terms": []
+      },
+      {
+        "concept": "무게",
+        "easy_explanation": "물체에 작용하는 중력의 크기",
+        "related_terms": [
+          "중력"
+        ]
+      },
+      {
+        "concept": "탄성력",
+        "easy_explanation": "변형된 물체가 원래 모양으로 돌아가려는 성질",
+        "related_terms": []
+      },
+      {
+        "concept": "마찰력",
+        "easy_explanation": "물체와 접촉면에서 물체의 미끄러짐을 방해하는 힘",
+        "related_terms": [
+          "힘"
+        ]
+      },
+      {
+        "concept": "부력",
+        "easy_explanation": "액체(또는 기체)가 그 속에 들어 있는 물체를 위로 올리려는 힘",
+        "related_terms": [
+          "힘"
+        ]
+      },
+      {
+        "concept": "등속 운동",
+        "easy_explanation": "물체의 속력이 변하지 않는 운동",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "2 시공간과 운동",
+    "concepts": [
+      {
+        "concept": "자유 낙하 운동",
+        "easy_explanation": "처음 속력이 0이었던 물체가 중력만을 받아 떨어지는 물체의 운동",
+        "related_terms": [
+          "중력"
+        ]
+      },
+      {
+        "concept": "중력 가속도 상수",
+        "easy_explanation": "자유 낙하 운동을 하는 물체의 매초 당 속력 변화량",
+        "related_terms": [
+          "자유 낙하 운동"
+        ]
+      },
+      {
+        "concept": "일",
+        "easy_explanation": "물체에 작용하는 힘의 방향으로 물체가 이동한(움직인) 경우",
+        "related_terms": [
+          "힘"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "3 일과 에너지",
+    "concepts": [
+      {
+        "concept": "에너지",
+        "easy_explanation": "일을 할 수 있는 능력",
+        "related_terms": [
+          "일"
+        ]
+      },
+      {
+        "concept": "위치 에너지",
+        "easy_explanation": "중력이 작용하는 공간에서 어떤 높이에 있는 물체가 가지고 있는 에너지",
+        "related_terms": [
+          "중력",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "운동 에너지",
+        "easy_explanation": "운동하는 물체가 가지고 있는 에너지",
+        "related_terms": [
+          "에너지"
+        ]
+      },
+      {
+        "concept": "역학적 에너지 보존 법칙",
+        "easy_explanation": "물체의 위치 에너지와 운동 에너지의 합이 마찰과 공기 저항을 무시하면 일정하게 보존되는 법칙",
+        "related_terms": [
+          "일",
+          "운동 에너지",
+          "위치 에너지",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "에너지 보존 법칙",
+        "easy_explanation": "에너지가 전환될 때, 에너지는 새로 생기거나 사라지지 않고 그 총량(전체의 양)이 항상 일정하게 보존되는 법칙",
+        "related_terms": [
+          "일",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "전하",
+        "easy_explanation": "전하(電(전기 전), 荷(짐 실을 하))는 전기 현상을 일으키는 원인으로, 양(+)전하와 음(-)전하가 있다.",
+        "related_terms": [
+          "일"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "4 전기",
+    "concepts": [
+      {
+        "concept": "대전",
+        "easy_explanation": "물체가 전기를 띠는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "대전체",
+        "easy_explanation": "전기를 띤 물체",
+        "related_terms": []
+      },
+      {
+        "concept": "전기력",
+        "easy_explanation": "전기를 띤 물체 사이에 작용하는 힘",
+        "related_terms": [
+          "힘"
+        ]
+      },
+      {
+        "concept": "정전기 유도",
+        "easy_explanation": "대전되지 않은 물체에 대전체를 가까이 할 때 대전체와 가까운 쪽은 대전체와 다른 종류의 전기를 띠게 되고, 먼 쪽은 대전체와 같은 종류의 전기를 띠게 되는 현상",
+        "related_terms": [
+          "대전",
+          "대전체"
+        ]
+      },
+      {
+        "concept": "검전기",
+        "easy_explanation": "정전기 유도 현상을 이용하여 물체의 대전 여부를 알아내는 기구",
+        "related_terms": [
+          "정전기 유도",
+          "대전"
+        ]
+      },
+      {
+        "concept": "전류",
+        "easy_explanation": "전하의 흐름이며, 전류의 방향은 전자의 이동 방향과 반대이다.",
+        "related_terms": [
+          "전하"
+        ]
+      },
+      {
+        "concept": "전압",
+        "easy_explanation": "전류를 흐르게 하는 원인",
+        "related_terms": [
+          "전류"
+        ]
+      },
+      {
+        "concept": "전기 저항",
+        "easy_explanation": "전류의 흐름을 방해하는 정도",
+        "related_terms": [
+          "전류"
+        ]
+      },
+      {
+        "concept": "옴의 법칙",
+        "easy_explanation": "회로에 흐르는 전류의 세기는 전압에 비례하고 저항에 반비례한다.",
+        "related_terms": [
+          "전류",
+          "전압"
+        ]
+      },
+      {
+        "concept": "저항의 직렬연결",
+        "easy_explanation": "같은 전류가 흐르는 하나의 전선에 저항을 일렬로 두 개 이상 연결하는 것",
+        "related_terms": [
+          "일",
+          "전선",
+          "전류"
+        ]
+      },
+      {
+        "concept": "저항의 병렬연결",
+        "easy_explanation": "같은 전류가 흐르는 하나의 전선을 여러 개로 나누어 각각의 전선에 저항을 하나씩만 연결하는 것",
+        "related_terms": [
+          "전선",
+          "전류"
+        ]
+      },
+      {
+        "concept": "소비 전력",
+        "easy_explanation": "1초 동안 전기 기구가 소모하는 전기 에너지의 양",
+        "related_terms": [
+          "에너지"
+        ]
+      },
+      {
+        "concept": "전력량",
+        "easy_explanation": "전기 기구가 일정 시간(hour) 동안 소모하는 전기 에너지의 양",
+        "related_terms": [
+          "일",
+          "에너지"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "5 자기",
+    "concepts": [
+      {
+        "concept": "자기력과 자기장",
+        "easy_explanation": "자석과 같이 자기적 성질을 지닌 물체 사이에 작용하는 힘",
+        "related_terms": [
+          "힘"
+        ]
+      },
+      {
+        "concept": "전류가 흐르는 전선이 받는 힘",
+        "easy_explanation": "자기장이 강한 쪽에서 약한 쪽으로 발생하는, 전류가 흐르는 전선이 받는 힘",
+        "related_terms": [
+          "힘",
+          "발생",
+          "전선",
+          "전류"
+        ]
+      },
+      {
+        "concept": "전동기",
+        "easy_explanation": "전기 에너지를 역학적 에너지로 바꾸는 장치",
+        "related_terms": [
+          "에너지"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "6 열",
+    "concepts": [
+      {
+        "concept": "전도",
+        "easy_explanation": "물질을 이루고 있는 입자의 운동이 이웃한 입자에 차례로 전달되면서 열이 이동하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "대류",
+        "easy_explanation": "액체나 기체를 이루는 입자가 직접 이동하면서 열이 이동하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "복사",
+        "easy_explanation": "물질을 이루는 입자의 도움 없이 열이 직접 이동하는 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "열평형",
+        "easy_explanation": "서로 접촉한 두 물체 사이에서 열이 이동하지 않아 물체의 온도가 더 이상 변하지 않는 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "비열",
+        "easy_explanation": "어떤 물질 1 kg의 온도를 1 ℃만큼 변화시키는 데 필요한 열량",
+        "related_terms": []
+      },
+      {
+        "concept": "열팽창",
+        "easy_explanation": "온도가 높아짐에 따라 물체의 길이와 부피가 증가하는 현상",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "7 파동",
+    "concepts": [
+      {
+        "concept": "파동",
+        "easy_explanation": "진동이 퍼져 나가는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "파원",
+        "easy_explanation": "파동이 만들어지는 곳",
+        "related_terms": [
+          "파동"
+        ]
+      },
+      {
+        "concept": "매질",
+        "easy_explanation": "파동을 전달하는 물질",
+        "related_terms": [
+          "파동"
+        ]
+      },
+      {
+        "concept": "진폭",
+        "easy_explanation": "진동의 중심에서 마루 또는 골까지의 수직 거리",
+        "related_terms": []
+      },
+      {
+        "concept": "파장",
+        "easy_explanation": "마루에서 다음 마루, 또는 골에서 다음 골까지의 거리",
+        "related_terms": []
+      },
+      {
+        "concept": "진동수",
+        "easy_explanation": "매질이 1초 동안 진동하는 횟수",
+        "related_terms": [
+          "매질"
+        ]
+      },
+      {
+        "concept": "주기",
+        "easy_explanation": "매질이 제자리에서 한 번 진동하는 데 걸린 시간",
+        "related_terms": [
+          "매질"
+        ]
+      },
+      {
+        "concept": "횡파",
+        "easy_explanation": "매질의 진동 방향과 파동의 진행 방향이 수직인 파동",
+        "related_terms": [
+          "파동",
+          "매질"
+        ]
+      },
+      {
+        "concept": "종파",
+        "easy_explanation": "매질의 진동 방향과 파동의 진행 방향이 나란한 파동",
+        "related_terms": [
+          "파동",
+          "매질"
+        ]
+      },
+      {
+        "concept": "소리의 크기, 높이, 음색",
+        "easy_explanation": "소리의 크기는 진폭, 높이는 진동수, 음색은 파형과 관계가 있다.",
+        "related_terms": [
+          "진폭",
+          "색",
+          "진동수"
+        ]
+      },
+      {
+        "concept": "광원",
+        "easy_explanation": "스스로 빛을 내는 물체",
+        "related_terms": [
+          "빛"
+        ]
+      },
+      {
+        "concept": "반사",
+        "easy_explanation": "파동이 다른 매질 경계에서 방향을 바꾸어 원래 매질로 돌아오는 현상",
+        "related_terms": [
+          "파동",
+          "매질"
+        ]
+      },
+      {
+        "concept": "물체를 보는 과정",
+        "easy_explanation": "물체에서 나온 빛이 눈에 들어와야 물체를 볼 수 있으며, 광원인 경우 직접, 광원이 아닌 경우 반사된 빛을 통해 본다.",
+        "related_terms": [
+          "빛",
+          "광원",
+          "반사"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "8 빛",
+    "concepts": [
+      {
+        "concept": "빛의 합성",
+        "easy_explanation": "두 가지 색 이상의 빛이 합쳐져서 또 다른 색의 빛으로 보이는 현상",
+        "related_terms": [
+          "빛",
+          "색"
+        ]
+      },
+      {
+        "concept": "평면거울에 의한 상",
+        "easy_explanation": "평면거울에 보이는 물체의 모습",
+        "related_terms": []
+      },
+      {
+        "concept": "볼록 거울과 오목 거울에 의한 상",
+        "easy_explanation": "볼록 거울은 물체보다 작고 바로 선 상을, 오목 거울은 거리에 따라 크고 바로 선 상 또는 뒤집힌 상을 만든다.",
+        "related_terms": []
+      },
+      {
+        "concept": "볼록 렌즈와 오목 렌즈에 의한 상",
+        "easy_explanation": "볼록 렌즈는 거리에 따라 크고 바로 선 상 또는 뒤집힌 상을, 오목 렌즈는 물체보다 작고 바로 선 상을 만든다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "과학",
+    "grade": "중1-3",
+    "unit": "[정답]",
+    "concepts": [
+      {
+        "concept": "강수 과정",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "기압과 바람",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "영양소 검출 방법",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "소화와 소화 효소",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "심장과 혈관",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "온몸 순환과 폐순환",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "사람의 호흡",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "사람의 배설",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "시각과 청각",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "후각, 미각, 피부 감각",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "신경계",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "조건 반사와 무조건 반사",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "내분비샘과 호르몬",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "무성 생식과 유성 생식",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "정자와 난자",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "수정과 발생",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "멘델의 유전 법칙",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "미명",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "식물계와 동물계",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "원핵생물계와 원생생물계",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "원소와 원소 기호",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "불꽃 반응과 스펙트럼",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "녹는점과 어는점",
+        "easy_explanation": "2.",
+        "related_terms": []
+      },
+      {
+        "concept": "재결정과 크로마토그래피",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "순물질과 혼합물",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "균일 혼합물과 불균일 혼합물",
+        "easy_explanation": "2.",
+        "related_terms": []
+      },
+      {
+        "concept": "확산과 증발",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "기체의 압력과 부피의 관계",
+        "easy_explanation": "2.",
+        "related_terms": []
+      },
+      {
+        "concept": "기체의 온도와 부피의 관계",
+        "easy_explanation": "2.",
+        "related_terms": []
+      },
+      {
+        "concept": "세 가지 상태와 입자 배열",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "용해와 응고",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "기화와 액화",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "상태 변화와 열에너지",
+        "easy_explanation": "없음.",
+        "related_terms": []
+      },
+      {
+        "concept": "열에너지를 흡수, 방출하는 상태 변화",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "일과 에너지의 관계",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "중력에 의한 위치 에너지",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "정리",
+        "easy_explanation": "일, 에너지, 운동, 위치, 역학적 에너지, 에너지 보존 법칙 등 관련 개념",
+        "related_terms": [
+          "일",
+          "에너지 보존 법칙",
+          "에너지"
+        ]
+      },
+      {
+        "concept": "전자기 유도",
+        "easy_explanation": "자기장에 의해 유도 전류가 발생",
+        "related_terms": [
+          "발생",
+          "전류"
+        ]
+      },
+      {
+        "concept": "발전기",
+        "easy_explanation": "회전을 통해 유도 전류 발생",
+        "related_terms": [
+          "발생",
+          "전류"
+        ]
+      },
+      {
+        "concept": "온도와 열",
+        "easy_explanation": "B와 열의 관계",
+        "related_terms": []
+      },
+      {
+        "concept": "열의 이동 방법",
+        "easy_explanation": "전도, 대류, 복사",
+        "related_terms": [
+          "전도",
+          "복사",
+          "대류"
+        ]
+      },
+      {
+        "concept": "파동의 모습",
+        "easy_explanation": "파장, 진동수",
+        "related_terms": [
+          "파장",
+          "진동수"
+        ]
+      },
+      {
+        "concept": "횡파와 종파",
+        "easy_explanation": "횡파, 종파",
+        "related_terms": [
+          "종파",
+          "횡파"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1128 @@
+[
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "머리말",
+    "concepts": [
+      {
+        "concept": "학교",
+        "easy_explanation": "공부를 하러 가는 곳",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "학교 1",
+    "concepts": [
+      {
+        "concept": "체육관",
+        "easy_explanation": "실내에서 운동을 할 수 있도록 만든 건물",
+        "related_terms": [
+          "건"
+        ]
+      },
+      {
+        "concept": "도서실",
+        "easy_explanation": "책을 모아 두고 사람들이 볼 수 있도록 만든 교실",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "과학실",
+        "easy_explanation": "과학을 공부하기 위해 만든 교실",
+        "related_terms": []
+      },
+      {
+        "concept": "컴퓨터실",
+        "easy_explanation": "학교에서 컴퓨터를 가지고 공부하는 교실",
+        "related_terms": [
+          "학교"
+        ]
+      },
+      {
+        "concept": "급식실",
+        "easy_explanation": "학교에서 선생님과 학생들이 식사할 수 있는 곳",
+        "related_terms": [
+          "학교",
+          "이"
+        ]
+      },
+      {
+        "concept": "교무실",
+        "easy_explanation": "선생님들께서 수업 준비와 여러 가지 일을 하기 위해서 있는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "보건실",
+        "easy_explanation": "학교에서 아픈 선생님이나 학생을 돌보는 곳",
+        "related_terms": [
+          "학교",
+          "이"
+        ]
+      },
+      {
+        "concept": "방송실",
+        "easy_explanation": "학교 전체에 방송을 내보내는 곳",
+        "related_terms": [
+          "학교"
+        ]
+      },
+      {
+        "concept": "에스컬레이터",
+        "easy_explanation": "에스컬레이터는 위아래로 자동으로 움직이는 계단. 승강기는 사람이나 물건을 위아래로 나르는 장치.",
+        "related_terms": [
+          "건",
+          "이",
+          "물건",
+          "승강기"
+        ]
+      },
+      {
+        "concept": "승강기",
+        "easy_explanation": "에스컬레이터는 위아래로 자동으로 움직이는 계단. 승강기는 사람이나 물건을 위아래로 나르는 장치.",
+        "related_terms": [
+          "에스컬레이터",
+          "건",
+          "이",
+          "물건"
+        ]
+      },
+      {
+        "concept": "생태 학습장",
+        "easy_explanation": "생태 학습장: 동물과 식물이 살아가는 환경을 공부할 수 있는 곳. 국기 게양대: 태극기를 높이 매달기 위해 설치한 긴 막대. 놀이터: 아이들이 놀 수 있도록 여러 놀이 기구들이 있는 곳. 교문: 학교에 오거나 나갈 때 이용하는 문.",
+        "related_terms": [
+          "동물",
+          "학교",
+          "놀이터",
+          "식물",
+          "태극기"
+        ]
+      },
+      {
+        "concept": "국기 게양대",
+        "easy_explanation": "생태 학습장: 동물과 식물이 살아가는 환경을 공부할 수 있는 곳. 국기 게양대: 태극기를 높이 매달기 위해 설치한 긴 막대. 놀이터: 아이들이 놀 수 있도록 여러 놀이 기구들이 있는 곳. 교문: 학교에 오거나 나갈 때 이용하는 문.",
+        "related_terms": [
+          "동물",
+          "학교",
+          "놀이터",
+          "식물",
+          "태극기"
+        ]
+      },
+      {
+        "concept": "놀이터",
+        "easy_explanation": "생태 학습장: 동물과 식물이 살아가는 환경을 공부할 수 있는 곳. 국기 게양대: 태극기를 높이 매달기 위해 설치한 긴 막대. 놀이터: 아이들이 놀 수 있도록 여러 놀이 기구들이 있는 곳. 교문: 학교에 오거나 나갈 때 이용하는 문.",
+        "related_terms": [
+          "동물",
+          "학교",
+          "식물",
+          "태극기",
+          "이"
+        ]
+      },
+      {
+        "concept": "교문",
+        "easy_explanation": "생태 학습장: 동물과 식물이 살아가는 환경을 공부할 수 있는 곳. 국기 게양대: 태극기를 높이 매달기 위해 설치한 긴 막대. 놀이터: 아이들이 놀 수 있도록 여러 놀이 기구들이 있는 곳. 교문: 학교에 오거나 나갈 때 이용하는 문.",
+        "related_terms": [
+          "동물",
+          "학교",
+          "놀이터",
+          "식물",
+          "태극기"
+        ]
+      },
+      {
+        "concept": "육교",
+        "easy_explanation": "찻길을 건너기 위해서 만든 큰 다리",
+        "related_terms": [
+          "건"
+        ]
+      },
+      {
+        "concept": "지하도",
+        "easy_explanation": "육교와 반대로 땅속으로 다니는 길",
+        "related_terms": [
+          "육교"
+        ]
+      },
+      {
+        "concept": "횡단보도",
+        "easy_explanation": "찻길에 흰색으로 그려진 사다리 모양의 그림",
+        "related_terms": []
+      },
+      {
+        "concept": "신호등",
+        "easy_explanation": "횡단보도에는 신호등이 있습니다.",
+        "related_terms": [
+          "이",
+          "횡단보도"
+        ]
+      },
+      {
+        "concept": "봄, 겨울",
+        "easy_explanation": "겨울은 춥고 봄은 따뜻하며, 봄에는 새싹을 볼 수 있는 계절",
+        "related_terms": [
+          "절"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "봄 1",
+    "concepts": [
+      {
+        "concept": "청소",
+        "easy_explanation": "청소는 더럽고 지저분한 것을 깨끗하게 치우는 거예요.",
+        "related_terms": []
+      },
+      {
+        "concept": "청소 도구",
+        "easy_explanation": "청소 도구는 청소할 때 필요한 물건이에요. 빗자루와 쓰레받기, 걸레와 대걸레, 청소기 등을 말해요.",
+        "related_terms": [
+          "청소",
+          "건",
+          "이",
+          "물건"
+        ]
+      },
+      {
+        "concept": "옷차림",
+        "easy_explanation": "옷차림은 옷을 입은 모양이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "생명",
+        "easy_explanation": "동물이나 식물과 같은 생물이 살 수 있게 하는 힘",
+        "related_terms": [
+          "동물",
+          "식물",
+          "이"
+        ]
+      },
+      {
+        "concept": "보호",
+        "easy_explanation": "위험하지 않게 지키고 보살피는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "잔디밭",
+        "easy_explanation": "짧고 가느다란 잔디를 많이 심은 풀밭",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "곤충",
+        "easy_explanation": "몸이 머리, 가슴, 배로 나뉘어 있는 작은 동물",
+        "related_terms": [
+          "동물",
+          "이"
+        ]
+      },
+      {
+        "concept": "나무",
+        "easy_explanation": "단단한 줄기에 가지와 잎이 달린 식물",
+        "related_terms": [
+          "식물",
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "가족 1",
+    "concepts": [
+      {
+        "concept": "가족",
+        "easy_explanation": "주로 한 집에 모여 사는 부모님, 자식, 형제",
+        "related_terms": []
+      },
+      {
+        "concept": "규칙",
+        "easy_explanation": "여러 사람이 지키도록 정해 놓은 약속",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "인사 예절",
+        "easy_explanation": "사람이 지켜야 하는 바르고 공손한 행동",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "전화 예절",
+        "easy_explanation": "예절은 사람이 지켜야 하는 바르고 공손한 행동이에요. 전화를 걸고 받을 때 예절 바르게 말하면 좋아요.",
+        "related_terms": [
+          "이",
+          "절"
+        ]
+      },
+      {
+        "concept": "식사 예절",
+        "easy_explanation": "식사 예절은 식사할 때 지켜야 하는 바르고 공손한 태도를 말해요.",
+        "related_terms": [
+          "절"
+        ]
+      },
+      {
+        "concept": "식사 습관",
+        "easy_explanation": "식사 습관은 식사할 때 여러 번 자주 저절로 몸에 익은 행동을 말해요.",
+        "related_terms": [
+          "절"
+        ]
+      },
+      {
+        "concept": "숙제",
+        "easy_explanation": "학교 선생님께서 내 주신 집에서 하는 공부",
+        "related_terms": [
+          "학교"
+        ]
+      },
+      {
+        "concept": "학용품",
+        "easy_explanation": "공부할 때 필요한 물건",
+        "related_terms": [
+          "건",
+          "물건"
+        ]
+      },
+      {
+        "concept": "정리 정돈",
+        "easy_explanation": "흩어져 있는 물건을 다시 제자리에 놓는 것",
+        "related_terms": [
+          "건",
+          "물건"
+        ]
+      },
+      {
+        "concept": "동물",
+        "easy_explanation": "자유롭게 몸을 움직일 수 있는 살아 있는 생물",
+        "related_terms": []
+      },
+      {
+        "concept": "식물",
+        "easy_explanation": "풀이나 나무처럼 살아 있지만 혼자 힘으로 걷거나 기어 다닐 수 없는 생물",
+        "related_terms": [
+          "나무",
+          "이"
+        ]
+      },
+      {
+        "concept": "빵집, 약국, 슈퍼마켓",
+        "easy_explanation": "빵집은 빵을 파는 가게이고, 약국은 약을 파는 곳이에요. 슈퍼마켓은 먹을 것과 생활에 필요한 물건을 파는 큰 가게예요.",
+        "related_terms": [
+          "건",
+          "이",
+          "물건"
+        ]
+      },
+      {
+        "concept": "여름",
+        "easy_explanation": "봄과 가을 사이에 있는 더운 계절",
+        "related_terms": [
+          "이",
+          "절"
+        ]
+      },
+      {
+        "concept": "물놀이",
+        "easy_explanation": "물에서 노는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "집안일",
+        "easy_explanation": "청소나 빨래, 요리 등 집 안에서 하는 일",
+        "related_terms": [
+          "청소"
+        ]
+      },
+      {
+        "concept": "가족 행사",
+        "easy_explanation": "가족이 함께하는 중요한 일",
+        "related_terms": [
+          "이",
+          "가족"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "여름 1",
+    "concepts": [
+      {
+        "concept": "소나기",
+        "easy_explanation": "갑자기 세게 내리다가 금방 그치는 비",
+        "related_terms": []
+      },
+      {
+        "concept": "무지개",
+        "easy_explanation": "비가 그치고 하늘에 나타나는 일곱 색의 빛줄기",
+        "related_terms": []
+      },
+      {
+        "concept": "태풍",
+        "easy_explanation": "많은 비가 내리면서 아주 센 바람이 부는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "유통 기한",
+        "easy_explanation": "우유팩의 위에 적혀 있는 날짜",
+        "related_terms": []
+      },
+      {
+        "concept": "등산",
+        "easy_explanation": "산에 오르는 것을 등산이라고 해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "준비물",
+        "easy_explanation": "필요할 때를 대비하여 미리 마련하여 두는 물건을 준비물이라고 해요.",
+        "related_terms": [
+          "건",
+          "이",
+          "물건"
+        ]
+      },
+      {
+        "concept": "방학 생활 계획",
+        "easy_explanation": "방학 동안 할 일을 자세히 생각해 보고 정하는 것을 방학 생활 계획이라고 해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "이웃",
+        "easy_explanation": "내가 사는 집 주변에 살고 있는 사람들을 이웃이라고 해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "인사",
+        "easy_explanation": "만나거나 헤어질 때 예의를 나타내는 말이나 행동을 인사라고 해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "에너지",
+        "easy_explanation": "에어컨이나 선풍기가 움직이도록 하는 힘을 에너지라고 해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "절약",
+        "easy_explanation": "돈이나 시간, 물건들을 꼭 필요한 데에만 아껴서 사용하는 것을 절약이라고 해요.",
+        "related_terms": [
+          "건",
+          "이",
+          "물건",
+          "절"
+        ]
+      },
+      {
+        "concept": "낭비",
+        "easy_explanation": "쓸데없이 함부로 사용하는 것을 낭비라고 해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "실내 온도",
+        "easy_explanation": "건물 안이나 방 안의 온도를 뜻해요.",
+        "related_terms": [
+          "건",
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "이웃 1",
+    "concepts": [
+      {
+        "concept": "배려",
+        "easy_explanation": "관심을 가지고 서로 보살피고 도와주는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "이름표",
+        "easy_explanation": "이름을 표시하여 적은 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "물건",
+        "easy_explanation": "연필, 책상, 공책, 신발, 옷, 침대 등 사람이 쓰려고 만든 모든 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "문구점",
+        "easy_explanation": "학용품과 관련된 물건을 파는 곳",
+        "related_terms": [
+          "건",
+          "학용품",
+          "물건"
+        ]
+      },
+      {
+        "concept": "옷 가게",
+        "easy_explanation": "옷과 관련된 물건을 파는 곳",
+        "related_terms": [
+          "건",
+          "물건"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "가을 1",
+    "concepts": [
+      {
+        "concept": "가을, 단풍",
+        "easy_explanation": "여름과 겨울 사이에 있는 선선한 계절; 가을에 나뭇잎이 노란 색이나 붉은 색으로 변하는 것",
+        "related_terms": [
+          "이",
+          "여름",
+          "절"
+        ]
+      },
+      {
+        "concept": "가을걷이",
+        "easy_explanation": "가을에 논과 밭에서 잘 익은 곡식 등을 거두어들이는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "운동회",
+        "easy_explanation": "여러 사람이 모여 여러 가지 운동 경기나 놀이를 하는 것",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "추석",
+        "easy_explanation": "한국의 명절",
+        "related_terms": [
+          "명절",
+          "절"
+        ]
+      },
+      {
+        "concept": "명절",
+        "easy_explanation": "설날이나 추석 같은 날을 말해요. 해마다 정해진 날에 명절이 돌아오지요. 이날은 가족과 친척들이 모여 음식을 나눠 먹고 즐겁게 지내요.",
+        "related_terms": [
+          "추석",
+          "이",
+          "가족",
+          "설날",
+          "친척"
+        ]
+      },
+      {
+        "concept": "설날",
+        "easy_explanation": "새해 첫날로 한국의 명절이에요.",
+        "related_terms": [
+          "이",
+          "명절",
+          "절"
+        ]
+      },
+      {
+        "concept": "단오",
+        "easy_explanation": "한국의 명절 중 하나예요.",
+        "related_terms": [
+          "명절",
+          "절"
+        ]
+      },
+      {
+        "concept": "정월 대보름",
+        "easy_explanation": "정월 대보름은 한국의 명절 중 하나예요.",
+        "related_terms": [
+          "명절",
+          "절"
+        ]
+      },
+      {
+        "concept": "동지",
+        "easy_explanation": "동지는 일 년 중에서 낮이 가장 짧은 날이에요. 한국의 명절 중 하나예요.",
+        "related_terms": [
+          "이",
+          "명절",
+          "절"
+        ]
+      },
+      {
+        "concept": "차례상",
+        "easy_explanation": "차례상은 돌아가신 할아버지, 할머니를 위해 여러 음식을 준비해서 올리는 것이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "한복",
+        "easy_explanation": "한복은 한국 사람들이 옛날부터 입던 옷이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "친척",
+        "easy_explanation": "아버지나 어머니 쪽의 가족들을 모두 가리키는 말",
+        "related_terms": [
+          "가족"
+        ]
+      },
+      {
+        "concept": "조상",
+        "easy_explanation": "돌아가신 할아버지들과 할머니들",
+        "related_terms": []
+      },
+      {
+        "concept": "달맞이",
+        "easy_explanation": "추석이나 정월 대보름에 둥근 달을 보면서 바라는 것을 기도하는 것",
+        "related_terms": [
+          "추석",
+          "이",
+          "정월 대보름"
+        ]
+      },
+      {
+        "concept": "소원",
+        "easy_explanation": "마음속으로 무엇인가가 꼭 이루어지기를 바라는 것",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "우리나라 1",
+    "concepts": [
+      {
+        "concept": "무궁화",
+        "easy_explanation": "한국을 나타내는 꽃이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "태극기",
+        "easy_explanation": "한국 국기예요.",
+        "related_terms": []
+      },
+      {
+        "concept": "애국가",
+        "easy_explanation": "한국을 나타내는 노래예요.",
+        "related_terms": []
+      },
+      {
+        "concept": "건",
+        "easy_explanation": "하늘",
+        "related_terms": []
+      },
+      {
+        "concept": "곤",
+        "easy_explanation": "땅",
+        "related_terms": []
+      },
+      {
+        "concept": "감",
+        "easy_explanation": "물",
+        "related_terms": []
+      },
+      {
+        "concept": "이",
+        "easy_explanation": "불",
+        "related_terms": []
+      },
+      {
+        "concept": "유관순",
+        "easy_explanation": "18살의 나이로 1919년 3월 1일 만세 운동에 참여했던 분이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "3·1절",
+        "easy_explanation": "1919년 3월 1일의 만세 운동을 기억하기 위해 만든 날이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "현충일",
+        "easy_explanation": "현충일은 나라를 위해 목숨을 바친 분들에게 감사하는 날이에요.",
+        "related_terms": [
+          "이",
+          "감"
+        ]
+      },
+      {
+        "concept": "제헌절",
+        "easy_explanation": "제헌절은 1948년 7월 17일에 처음으로 법을 발표한 것을 기억하기 위한 날이에요.",
+        "related_terms": [
+          "이",
+          "절"
+        ]
+      },
+      {
+        "concept": "한글날, 세종대왕",
+        "easy_explanation": "한글날은 세종대왕이 한글을 만든 것을 기억하기 위해 만든 날이에요.",
+        "related_terms": [
+          "이",
+          "한글"
+        ]
+      },
+      {
+        "concept": "개천절",
+        "easy_explanation": "오랜 옛날 한국이 처음으로 나라를 만들었던 것을 기억하기 위한 날이 개천절이에요.",
+        "related_terms": [
+          "이",
+          "절"
+        ]
+      },
+      {
+        "concept": "국군의 날",
+        "easy_explanation": "나라를 지키기 위해 만든 군인들을 말하며, 한국에 군대가 만들어진 것을 기억하고 축하하기 위해 만든 날",
+        "related_terms": []
+      },
+      {
+        "concept": "광복절",
+        "easy_explanation": "1945년 8월 15일, 일본에게 빼앗겼던 나라를 되찾은 것을 기억하고 축하하기 위해 만든 날",
+        "related_terms": [
+          "일본"
+        ]
+      },
+      {
+        "concept": "거북선, 이순신",
+        "easy_explanation": "이순신 장군은 일본과의 전쟁을 승리로 이끈 분이며, 거북선은 그가 만든 거북 모양의 철로 된 배",
+        "related_terms": [
+          "이순신",
+          "이",
+          "거북선",
+          "일본"
+        ]
+      },
+      {
+        "concept": "신사임당",
+        "easy_explanation": "훌륭한 학자인 율곡 이이의 어머니로, 바느질과 그림 그리기를 잘하고 좋은 어머니를 대표하는 분",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "절",
+        "easy_explanation": "스님들이 불상을 모시고 부처님의 말씀을 공부하는 곳",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "팔만대장경",
+        "easy_explanation": "부처님 말씀을 팔만 장의 나무판에 새겨 기록한 것",
+        "related_terms": [
+          "나무"
+        ]
+      },
+      {
+        "concept": "고인돌",
+        "easy_explanation": "큰 돌을 몇 개 둘러 세우고 그 위에 넓적한 돌을 덮어 놓은 오랜 옛날의 무덤",
+        "related_terms": []
+      },
+      {
+        "concept": "판소리",
+        "easy_explanation": "이야기에 몸짓을 섞어 가면서 부르는 노래",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "한글",
+        "easy_explanation": "한글말을 글자로 나타내기 위해 세종대왕이 만든 문자",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "3·1절, 유관순",
+        "easy_explanation": "3·1절은 1919년 3월 1일의 만세 운동을 기억하기 위해 만든 날. 유관순은 1919년 3월 1일 만세 운동에 참여했던 분.",
+        "related_terms": [
+          "유관순",
+          "3·1절",
+          "절"
+        ]
+      },
+      {
+        "concept": "이순신",
+        "easy_explanation": "오랜 옛날 일본과의 전쟁을 큰 승리로 이끈 분",
+        "related_terms": [
+          "이",
+          "일본"
+        ]
+      },
+      {
+        "concept": "거북선",
+        "easy_explanation": "거북 모양으로 생긴 배로, 단단한 철로 만들어진 배",
+        "related_terms": []
+      },
+      {
+        "concept": "경복궁",
+        "easy_explanation": "옛날 왕들이 살았던 궁궐",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "한옥",
+        "easy_explanation": "옛날 한국 사람들이 살았던 집",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "기와, 창호지, 짚",
+        "easy_explanation": "기와는 흙을 구워서 집의 지붕을 덮기 위하여 만든 것이에요. 창호지는 문을 바르는 데 쓰는 얇은 종이예요. 짚은 벼와 같은 곡식의 줄기와 잎이에요.",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "겨울 1",
+    "concepts": [
+      {
+        "concept": "나눔, 봉사",
+        "easy_explanation": "다음 그림을 보고 사람들이 무엇을 하고 있는지 말해 보세요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "나눔",
+        "easy_explanation": "다른 사람에게 베풀고 나누어 주는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "봉사",
+        "easy_explanation": "자신보다 남을 위하여 힘쓰고 노력하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "나2",
+    "concepts": [
+      {
+        "concept": "병원, 치과",
+        "easy_explanation": "병원: 병을 치료하는 곳; 치과: 이와 입 안의 병을 치료하는 곳",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "안과, 이비인후과",
+        "easy_explanation": "안과: 눈에 생긴 병을 치료하는 곳; 이비인후과: 귀, 코, 목구멍에 생긴 병을 치료하는 곳",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "정형외과, 피부과",
+        "easy_explanation": "정형외과: 다친 근육이나 뼈를 치료하는 곳; 피부과: 피부에 생긴 병을 치료하는 곳",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "한의원",
+        "easy_explanation": "한의원: 옛날부터 한국에서 발달한 의술로 병을 치료하는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "산부인과",
+        "easy_explanation": "여자들이 임신을 하거나 아기를 낳을 때 가는 병원",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "날씨",
+        "easy_explanation": "하늘이 맑은지, 흐린지, 비가 오는지, 눈이 오는지 말하는 거예요.",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "봄2",
+    "concepts": [
+      {
+        "concept": "재활용품",
+        "easy_explanation": "필요하지 않아 버리는 물건 중에서 다시 쓸 수 있는 물건",
+        "related_terms": [
+          "건",
+          "물건"
+        ]
+      },
+      {
+        "concept": "일기 예보",
+        "easy_explanation": "날씨를 미리 알려 주는 것",
+        "related_terms": [
+          "날씨"
+        ]
+      },
+      {
+        "concept": "봄나들이",
+        "easy_explanation": "봄 날씨를 느끼려고 밖으로 놀러 나가는 것",
+        "related_terms": [
+          "날씨"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "가족 2",
+    "concepts": [
+      {
+        "concept": "친가, 할아버지, 할머니",
+        "easy_explanation": "아버지의 아버지인 할아버지, 아버지의 어머니인 할머니, 그리고 아버지 쪽의 친척들을 친가라고 합니다.",
+        "related_terms": [
+          "친척"
+        ]
+      },
+      {
+        "concept": "외가, 외할아버지, 외할머니",
+        "easy_explanation": "어머니의 아버지인 외할아버지, 어머니의 어머니인 외할머니, 그리고 어머니 쪽의 친척들을 외가라고 합니다.",
+        "related_terms": [
+          "친척"
+        ]
+      },
+      {
+        "concept": "큰아버지, 큰어머니, 사촌",
+        "easy_explanation": "아버지의 형님인 큰아버지, 큰아버지의 아내인 큰어머니, 그리고 큰아버지와 큰어머니의 아이인 사촌을 말합니다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "고모, 고모부, 고종사촌",
+        "easy_explanation": "아버지의 여자 형제인 고모, 고모의 남편인 고모부, 그리고 고모와 고모부의 아이인 고종사촌을 말합니다.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "이모, 이모부, 이종사촌",
+        "easy_explanation": "이모는 어머니의 여자 형제, 이모부는 이모의 남편, 이종사촌은 이모와 이모부의 아이",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "외삼촌, 외숙모, 외사촌",
+        "easy_explanation": "외삼촌은 어머니의 남자 형제, 외숙모는 외삼촌의 아내, 외사촌은 외삼촌과 외숙모의 아이",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "해충",
+        "easy_explanation": "파리, 모기, 바퀴벌레처럼 사람에게 해를 끼치는 벌레",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "여름 2",
+    "concepts": [
+      {
+        "concept": "부채, 비옷",
+        "easy_explanation": "부채: 손으로 잡고 흔들어 바람을 일으키는 도구, 비옷: 비가 올 때 입는 옷",
+        "related_terms": []
+      },
+      {
+        "concept": "에어컨, 선풍기",
+        "easy_explanation": "에어컨: 차가운 공기를 내보내는 기계, 선풍기: 전기로 날개를 돌려 바람을 만드는 기계",
+        "related_terms": []
+      },
+      {
+        "concept": "마을",
+        "easy_explanation": "마을은 여러 집이 모여 있는 곳을 말해요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "주민 센터",
+        "easy_explanation": "주민 센터는 마을에 사는 사람들에게 필요한 여러 가지 일을 하는 곳이에요.",
+        "related_terms": [
+          "이",
+          "마을"
+        ]
+      },
+      {
+        "concept": "우체국",
+        "easy_explanation": "우체국은 편지를 보내거나 저금을 할 수 있는 곳이에요.",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "세탁소",
+        "easy_explanation": "세탁소는 빨래나 다림질을 하는 가게예요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "이웃 2",
+    "concepts": [
+      {
+        "concept": "마을 지도",
+        "easy_explanation": "우리 마을을 작게 그린 그림",
+        "related_terms": [
+          "마을"
+        ]
+      },
+      {
+        "concept": "공공장소, 공공 시설물",
+        "easy_explanation": "공공장소: 도서관, 공원, 은행 등 여러 사람이 함께 사용하는 장소; 공공 시설물: 공공장소에서 여러 사람이 함께 쓰는 물건",
+        "related_terms": [
+          "건",
+          "이",
+          "물건"
+        ]
+      },
+      {
+        "concept": "주민 센터, 우체국, 세탁소",
+        "easy_explanation": "주민 센터는 마음에 사는 사람들에게 필요한 여러 가지 일을 하는 곳이에요.; 우체국은 편지를 보내거나 저금을 할 수 있는 곳이에요.; 세탁소는 빨래나 다림질을 하는 가게예요.",
+        "related_terms": [
+          "이",
+          "세탁소",
+          "우체국",
+          "주민 센터"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "가을 2",
+    "concepts": [
+      {
+        "concept": "가을 행사",
+        "easy_explanation": "가을에 하는 학교의 중요한 일들",
+        "related_terms": [
+          "학교"
+        ]
+      },
+      {
+        "concept": "북한",
+        "easy_explanation": "한국의 북쪽에 있는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "중국",
+        "easy_explanation": "한국과 가까이 있으며 넓은 땅에 세계에서 가장 많은 수의 사람들이 사는 나라",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "일본",
+        "easy_explanation": "아시아의 동쪽에 있는 섬나라이고 일본어를 사용하는 나라",
+        "related_terms": [
+          "이"
+        ]
+      },
+      {
+        "concept": "러시아",
+        "easy_explanation": "한국과 가장 가까운 유럽국가로 세계에서 가장 넓은 땅을 가지고 있는 나라",
+        "related_terms": []
+      },
+      {
+        "concept": "전시회",
+        "easy_explanation": "그림과 만들기 작품을 다른 사람들에게 보여 주는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "학예회",
+        "easy_explanation": "지금까지 배운 노래와 춤, 장기를 가족에게 보여 주는 것",
+        "related_terms": [
+          "가족"
+        ]
+      },
+      {
+        "concept": "체험 학습",
+        "easy_explanation": "학교 밖에서 여러 가지를 체험할 수 있는 것",
+        "related_terms": [
+          "학교"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "통합",
+    "grade": "1-2",
+    "unit": "겨울 2",
+    "concepts": [
+      {
+        "concept": "동상",
+        "easy_explanation": "심한 추위 때문에 피부가 얼어서 상하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "난로",
+        "easy_explanation": "전기를 이용하여 실내를 따뜻하게 하는 기구",
+        "related_terms": [
+          "이"
+        ]
+      }
+    ]
+  }
+]

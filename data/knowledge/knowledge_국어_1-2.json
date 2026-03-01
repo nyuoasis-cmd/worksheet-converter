@@ -1,0 +1,519 @@
+[
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "바른 자세",
+        "easy_explanation": "바른 자세로 서 있습니다.",
+        "related_terms": []
+      },
+      {
+        "concept": "바르게",
+        "easy_explanation": "바르게 걸어갑니다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "1. 즐거운 마음으로",
+    "concepts": [
+      {
+        "concept": "바른 자세, 바르게",
+        "easy_explanation": "몸을 곧고 바르게 하는 모습이나 태도",
+        "related_terms": [
+          "바르게"
+        ]
+      },
+      {
+        "concept": "낱말",
+        "easy_explanation": "의미를 가진 글자의 묶음",
+        "related_terms": [
+          "글자"
+        ]
+      },
+      {
+        "concept": "한글",
+        "easy_explanation": "한국어를 쓰는 글자 체계. 세종대왕이 만들었다.",
+        "related_terms": [
+          "글자"
+        ]
+      },
+      {
+        "concept": "자음자",
+        "easy_explanation": "ㄱ, ㄴ, ㄷ 등과 같은 낱자",
+        "related_terms": [
+          "낱자"
+        ]
+      },
+      {
+        "concept": "모음자",
+        "easy_explanation": "ㅏ, ㅑ, ㅓ 등과 같은 낱자",
+        "related_terms": [
+          "낱자"
+        ]
+      },
+      {
+        "concept": "낱자",
+        "easy_explanation": "자음자 하나하나와 모음자 하나하나",
+        "related_terms": [
+          "자음자",
+          "모음자"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "2. 재미있는 낱자",
+    "concepts": [
+      {
+        "concept": "한글, 자음자, 모음자, 낱자",
+        "easy_explanation": "한글은 세종대왕이 만든 한국어 문자이며, 자음자는 소리를 내는 낱자, 모음자는 소리를 만드는 낱자, 낱자는 자음자나 모음자 하나하나를 말합니다.",
+        "related_terms": [
+          "낱자",
+          "자음자",
+          "한글",
+          "모음자"
+        ]
+      },
+      {
+        "concept": "순서",
+        "easy_explanation": "글씨를 쓸 때 획을 긋는 차례나, 사물이나 숫자가 배열된 차례.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "3. 글자를 만들어요",
+    "concepts": [
+      {
+        "concept": "받침",
+        "easy_explanation": "글자의 아래에 오는 자음",
+        "related_terms": [
+          "글자"
+        ]
+      },
+      {
+        "concept": "기분, 자신 있게",
+        "easy_explanation": "기분: 기쁘다, 슬프다, 무섭다 등 감정을 나타내는 말이며 얼굴 표정으로 알 수 있음. 자신 있게: 발표할 때 큰 소리로 또박또박 말하는 태도.",
+        "related_terms": []
+      },
+      {
+        "concept": "기쁘다, 슬프다, 겁먹다",
+        "easy_explanation": "기쁘다: 상을 받거나 좋은 일이 있을 때 느끼는 감정. 슬프다: 친구가 다치거나 안 좋은 일이 있을 때 느끼는 감정. 겁먹다: 무섭거나 두려운 상황에서 느끼는 감정.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "4. 기분을 말해요",
+    "concepts": [
+      {
+        "concept": "화나다, 무섭다, 걱정하다",
+        "easy_explanation": "장난감이 고장 나서 화나는 것, 큰 개를 보고 무서워하는 것, 시험을 걱정하는 것",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "행복하다, 놀라다, 미안하다",
+        "easy_explanation": "생일잔치를 해서 행복한 것, 문소리에 깜짝 놀라는 것, 친구에게 물을 쏟아 미안한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "말하는이, 듣는이",
+        "easy_explanation": "말하는 사람은 말하는이, 이야기를 듣는 사람은 듣는이",
+        "related_terms": [
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "5. 느낌이 솔솔",
+    "concepts": [
+      {
+        "concept": "시",
+        "easy_explanation": "글쓴이의 생각과 느낌을 리듬 있게 표현한 문학 작품",
+        "related_terms": []
+      },
+      {
+        "concept": "반복되는 말",
+        "easy_explanation": "같은 말이 여러 번 나오는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "그림책",
+        "easy_explanation": "그림과 글로 이야기를 나타내는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "제목",
+        "easy_explanation": "시나 그림책의 이름",
+        "related_terms": [
+          "시",
+          "그림책"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "6. 문장을 바르게",
+    "concepts": [
+      {
+        "concept": "문장",
+        "easy_explanation": "글에서 하나의 생각을 나타내는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "흉내 내는 말",
+        "easy_explanation": "어떤 소리나 모습, 움직임을 나타내는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "7. 알맞게 띄어 읽어요",
+    "concepts": [
+      {
+        "concept": "문장 부호",
+        "easy_explanation": "문장의 뜻을 정확히 전달하고, 문장을 읽고 쉽게 알 수 있도록 쓰는 부호",
+        "related_terms": [
+          "문장"
+        ]
+      },
+      {
+        "concept": "겪다",
+        "easy_explanation": "자신이 보거나 듣거나 느끼거나 한 일",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "8. 겪은 일을 써요",
+    "concepts": [
+      {
+        "concept": "그림일기",
+        "easy_explanation": "오늘 겪은 일 가운데 가장 기억에 남는 일을 그림과 글로 나타낸 일기",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "1. 느낌을 나누어요",
+    "concepts": [
+      {
+        "concept": "이야기",
+        "easy_explanation": "어떤 사실이나 있지 않은 일을 사실처럼 꾸며 재미있게 하는 말이나 글",
+        "related_terms": []
+      },
+      {
+        "concept": "생각이나 느낌 말하기",
+        "easy_explanation": "어떤 것에 대한 생각이나 감정을 표현하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "인물",
+        "easy_explanation": "이야기에 등장하는 사람 또는 동물",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "장면",
+        "easy_explanation": "어떤 곳에서 어떤 일이 벌어지는 모습",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "2. 바르고 정확하게",
+    "concepts": [
+      {
+        "concept": "글자",
+        "easy_explanation": "말을 적는 기호",
+        "related_terms": []
+      },
+      {
+        "concept": "인사말",
+        "easy_explanation": "상대방에게 인사를 하는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "4. 뜻을 살려 읽어요",
+    "concepts": [
+      {
+        "concept": "띄어 읽기",
+        "easy_explanation": "쐐기표와 겹쐐기표가 있는 곳에서 쉬어 읽는 것",
+        "related_terms": [
+          "겹쐐기표",
+          "쐐기표"
+        ]
+      },
+      {
+        "concept": "쐐기표",
+        "easy_explanation": "V를 쐐기표라고 하며, 조금 쉬어 읽는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "겹쐐기표",
+        "easy_explanation": "V를 겹쐐기표라고 하며, 쐐기표보다 길게 쉬어 읽는 것",
+        "related_terms": [
+          "쐐기표"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "5. 인상 깊었던 일",
+    "concepts": [
+      {
+        "concept": "꾸며 주는 말",
+        "easy_explanation": "뒤에 오는 말을 자세히 설명해 주는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "소리 내어 읽기",
+        "easy_explanation": "읽는 소리가 다른 사람에게 들리게 읽는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "7. 다정하게 지내요",
+    "concepts": [
+      {
+        "concept": "기분을 좋게 하는 말",
+        "easy_explanation": "듣는 사람을 기쁘게 하는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "글자와 다르게 소리 나는 낱말",
+        "easy_explanation": "글자로 쓸 때와 읽을 때 소리가 다른 낱말",
+        "related_terms": [
+          "낱말",
+          "글자"
+        ]
+      },
+      {
+        "concept": "발음",
+        "easy_explanation": "말의 소리를 내는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "9. 상상의 날개를 펴고",
+    "concepts": [
+      {
+        "concept": "인물의 모습과 행동",
+        "easy_explanation": "인물이 어떻게 생기고 어떻게 움직이는지를 가리켜요.",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "옛이야기",
+        "easy_explanation": "옛날부터 전해 내려오는 이야기",
+        "related_terms": [
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "2. 경험을 나누어요",
+    "concepts": [
+      {
+        "concept": "경험",
+        "easy_explanation": "실제로 해 보거나 겪어 본 것을 경험이라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "몸짓",
+        "easy_explanation": "몸을 움직이는 모양을 몸짓이라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "맞장구",
+        "easy_explanation": "남의 말에 대해 응답하고, 찬성하는 것을 맞장구라고 해요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "4. 생각을 전해요",
+    "concepts": [
+      {
+        "concept": "거칠고 험한 말, 고운 말",
+        "easy_explanation": "거칠고 험한 말: 말을 듣는 사람의 마음을 상하게 하는 말. 고운 말: 다른 사람의 기분을 생각하여 예의를 지켜 하는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "쪽지",
+        "easy_explanation": "글을 작은 종이",
+        "related_terms": []
+      },
+      {
+        "concept": "중요한 내용, 설명하는 글",
+        "easy_explanation": "설명하는 글: 사람들이 궁금해 하는 것을 읽는 사람이 이해하기 쉽도록 쓴 것. 중요한 내용: 설명하는 글에서 꼭 필요한 내용",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "6. 알기 쉽게 차례대로",
+    "concepts": [
+      {
+        "concept": "시간을 나타내는 말",
+        "easy_explanation": "일이 일어난 차례를 나타내는 말 중에 시간을 나타내는 말",
+        "related_terms": [
+          "시",
+          "일이 일어난 차례"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "10. 이야기 세상 속으로",
+    "concepts": [
+      {
+        "concept": "장소",
+        "easy_explanation": "어떤 일이 일어날 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "장소의 변화",
+        "easy_explanation": "장소가 바뀌는 것",
+        "related_terms": [
+          "장소"
+        ]
+      },
+      {
+        "concept": "일이 일어난 차례",
+        "easy_explanation": "어떤 일이 일어나는 순서",
+        "related_terms": [
+          "순서"
+        ]
+      },
+      {
+        "concept": "이어 주는 말",
+        "easy_explanation": "‘그리고’, ‘그래서’, ‘그러나’와 같은 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "11. 재미가 새록새록",
+    "concepts": [
+      {
+        "concept": "말 잇기 놀이",
+        "easy_explanation": "앞사람이 말한 낱말을 이어서 말하는 놀이",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "말 덧붙이기 놀이",
+        "easy_explanation": "앞사람의 말을 따라 한 후에 새로운 낱말을 말하는 놀이",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "말 전하기 놀이",
+        "easy_explanation": "앞사람이 하는 말을 잘 듣고 다음 사람에게 그대로 전달하는 놀이",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "2. 즐겁게 대화해요",
+    "concepts": [
+      {
+        "concept": "대화",
+        "easy_explanation": "마주 보고 이야기를 주고받는 것을 말해요.",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "인물의 표정",
+        "easy_explanation": "웃는 표정, 화난 얼굴 표정, 우는 얼굴 표정",
+        "related_terms": []
+      },
+      {
+        "concept": "질문하다, 대답하다",
+        "easy_explanation": "질문하다는 모르는 것이나 알고 싶은 것을 물어보는 것이고, 대답하다는 물어본 것이 무엇인지 말하는 거예요.",
+        "related_terms": []
+      },
+      {
+        "concept": "칭찬하는 말",
+        "easy_explanation": "좋은 일이나 잘한 일을 말해 주는 거예요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "1-2",
+    "unit": "6. 알고 싶어요",
+    "concepts": [
+      {
+        "concept": "소개하는 글, 대상",
+        "easy_explanation": "소개하는 글: 다른 사람에게 내가 알려주고자 하는 대상을 소개할 때 쓰는 글. 대상: 어떤 일에 목표가 되는 사람이나 물건.",
+        "related_terms": []
+      },
+      {
+        "concept": "겪은 일, 실감나게",
+        "easy_explanation": "겪은 일: 나에게 있었던 일. 실감나게: 실제처럼 생생하게.",
+        "related_terms": []
+      }
+    ]
+  }
+]

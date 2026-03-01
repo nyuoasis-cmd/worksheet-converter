@@ -1,0 +1,1171 @@
+[
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "위치",
+        "easy_explanation": "어떤 사물이나 사람이 있는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "방향",
+        "easy_explanation": "어떤 위치에서 다른 위치로 나아가는 쪽",
+        "related_terms": [
+          "위치"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "1. 내가 사는 세계",
+    "concepts": [
+      {
+        "concept": "지도",
+        "easy_explanation": "위에서 내려다 본 땅의 모습을 작게 줄여서 나타낸 그림",
+        "related_terms": []
+      },
+      {
+        "concept": "대륙",
+        "easy_explanation": "지구상의 넓은 땅",
+        "related_terms": []
+      },
+      {
+        "concept": "해양",
+        "easy_explanation": "넓고 큰 바다",
+        "related_terms": []
+      },
+      {
+        "concept": "위선",
+        "easy_explanation": "지구본에서 가로로 그어진 선",
+        "related_terms": []
+      },
+      {
+        "concept": "경선",
+        "easy_explanation": "지도에 그어진 세로선",
+        "related_terms": [
+          "지도"
+        ]
+      },
+      {
+        "concept": "지리 정보",
+        "easy_explanation": "우리가 살아가고 있는 지역에 대한 모든 지식",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "2. 우리와 다른 기후, 다른 생활",
+    "concepts": [
+      {
+        "concept": "기후",
+        "easy_explanation": "기후는 한 지역에서 오랫동안 나타나는 날씨이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "기온",
+        "easy_explanation": "기온은 공기의 온도이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "강수량",
+        "easy_explanation": "강수량은 눈, 비와 같이 땅에 내린 물의 양이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "거주",
+        "easy_explanation": "거주는 사람들이 한 장소에 사는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "열대 우림 기후",
+        "easy_explanation": "바나나, 망고 등의 열대 과일이 재배되는 기후",
+        "related_terms": [
+          "기후"
+        ]
+      },
+      {
+        "concept": "건조 기후",
+        "easy_explanation": "강수량이 적어 사막이 형성되는 기후",
+        "related_terms": [
+          "기후",
+          "강수량"
+        ]
+      },
+      {
+        "concept": "툰드라 기후",
+        "easy_explanation": "나무가 없는 땅으로 풀과 이끼가 자라는 기후",
+        "related_terms": [
+          "기후"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "3. 자연으로 떠나는 여행",
+    "concepts": [
+      {
+        "concept": "산지 지형",
+        "easy_explanation": "히말라야 산맥은 세계의 지붕이라 불리는 대표적인 [산지 지형]이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "해안 지형",
+        "easy_explanation": "대한민국은 삼면이 바다로 둘러싸여 있어 다양한 [해안 지형]이 나타난다.",
+        "related_terms": []
+      },
+      {
+        "concept": "관광지",
+        "easy_explanation": "제주도는 대한민국의 가장 큰 섬으로 아름다운 자연 경관이 나타나는 [관광지]이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "문화",
+        "easy_explanation": "한 사회의 사람들이 함께 살아가면서 가지게 된 생활 방식",
+        "related_terms": []
+      },
+      {
+        "concept": "종교",
+        "easy_explanation": "신이나 초자연적인 존재를 믿으며 삶의 의미를 찾는 문화 체계",
+        "related_terms": [
+          "문화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "4. 다양한 세계, 다양한 문화",
+    "concepts": [
+      {
+        "concept": "언어",
+        "easy_explanation": "생각이나 느낌을 나타내거나 전달하는 글 또는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "문화 지역",
+        "easy_explanation": "서로 비슷한 문화와 모습이 나타나는 곳",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화적 다양성",
+        "easy_explanation": "문화에 따라 사람들의 모습과 생각이 다양한 형태",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화 전파, 문화 변동",
+        "easy_explanation": "문화 전파: 새로운 문화가 다른 사회로 전해져 퍼지는 현상. 문화 변동: 문화의 모습과 특성이 변하는 현상.",
+        "related_terms": [
+          "문화 변동",
+          "문화 전파",
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화 공존",
+        "easy_explanation": "원래 있던 문화와 새로운 문화가 함께 나타나는 현상",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화 갈등",
+        "easy_explanation": "문화가 서로 다를 때 차이를 이해하지 못해 생기는 문제",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화 전파",
+        "easy_explanation": "햄버거가 한국에 들어온 것은 [문화 전파]이다.",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화 변동",
+        "easy_explanation": "문화 전파 후에 햄버거가 생긴 것은 [문화 변동]이다.",
+        "related_terms": [
+          "문화 전파",
+          "문화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "5. 지구 곳곳에서 일어나는 자연 재해",
+    "concepts": [
+      {
+        "concept": "자연 재해",
+        "easy_explanation": "지형과 관련된 자연 재해",
+        "related_terms": []
+      },
+      {
+        "concept": "화산",
+        "easy_explanation": "폭발로 화산재가 하늘을 뒤덮어 낮이 밤처럼 어두워지기도 하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "지진",
+        "easy_explanation": "땅이 갈라지고 건물이 무너져 피해가 발생하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "홍수",
+        "easy_explanation": "6~9월에 강수량이 집중되어 자주 발생하는 것",
+        "related_terms": [
+          "강수량"
+        ]
+      },
+      {
+        "concept": "가뭄",
+        "easy_explanation": "계속되면 물이 부족해지고 식량이 없어 굶주리는 사람이 늘어나는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "태풍",
+        "easy_explanation": "많은 비와 강한 바람으로 큰 피해를 가져오는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "사막화",
+        "easy_explanation": "사막 주변의 초원 지역이 점점 사막으로 변하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "6. 자원을 둘러싼 경쟁과 갈등",
+    "concepts": [
+      {
+        "concept": "자원",
+        "easy_explanation": "지우개와 연필을 만드는 데 필요한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "에너지",
+        "easy_explanation": "자동차를 움직이는 석유나 가스",
+        "related_terms": []
+      },
+      {
+        "concept": "자원 분포",
+        "easy_explanation": "자원이 바다에 퍼져 있는 상태",
+        "related_terms": [
+          "자원"
+        ]
+      },
+      {
+        "concept": "편재성",
+        "easy_explanation": "자원이 특정 지역에 집중된 상태",
+        "related_terms": [
+          "자원"
+        ]
+      },
+      {
+        "concept": "자원 개발",
+        "easy_explanation": "나무를 이용하여 종이를 만드는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "자원 분포, 편재성",
+        "easy_explanation": "자원 분포는 자원이 일정한 지역에 흩어져 있는 상태이다. 자원 분포의 편재성은 자원 분포가 고르지 않고 한 곳에 치우친 상태이다.",
+        "related_terms": [
+          "편재성",
+          "자원 분포",
+          "자원"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "7. 인구 변화와 인구 문제",
+    "concepts": [
+      {
+        "concept": "인구 이동",
+        "easy_explanation": "인구가 한 장소에서 다른 장소로 옮겨 가는 현상",
+        "related_terms": [
+          "인구"
+        ]
+      },
+      {
+        "concept": "인구 유입",
+        "easy_explanation": "인구가 모여드는 현상",
+        "related_terms": [
+          "인구"
+        ]
+      },
+      {
+        "concept": "인구 유출",
+        "easy_explanation": "인구가 빠져나가는 현상",
+        "related_terms": [
+          "인구"
+        ]
+      },
+      {
+        "concept": "인구 문제",
+        "easy_explanation": "인구 때문에 사회 발전이 어려워지는 일",
+        "related_terms": [
+          "인구"
+        ]
+      },
+      {
+        "concept": "도시",
+        "easy_explanation": "사람들이 많이 사는 사회의 중심이 되는 지역",
+        "related_terms": []
+      },
+      {
+        "concept": "촌락",
+        "easy_explanation": "평야에서 농사를 짓는 농촌, 바다 근처에서 물고기를 잡는 어촌, 산지에서 가축을 기르는 산지촌처럼 도시보다 작은 시골 마을",
+        "related_terms": [
+          "도시"
+        ]
+      },
+      {
+        "concept": "도시화",
+        "easy_explanation": "도시에 살고 있는 사람들이 많아지는 현상",
+        "related_terms": [
+          "도시"
+        ]
+      },
+      {
+        "concept": "인구",
+        "easy_explanation": "어떤 지역에 사는 사람의 수",
+        "related_terms": []
+      },
+      {
+        "concept": "인구 분포",
+        "easy_explanation": "인구가 일정한 범위에 흩어져 있는 상태",
+        "related_terms": [
+          "인구"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "8. 사람이 만든 삶터, 도시",
+    "concepts": [
+      {
+        "concept": "도심",
+        "easy_explanation": "도시의 중심 지역",
+        "related_terms": [
+          "도시"
+        ]
+      },
+      {
+        "concept": "도시 문제",
+        "easy_explanation": "도시에 많은 사람들이 모이면서 나타나는 다양한 문제",
+        "related_terms": [
+          "도시"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "9. 글로벌 경제활동과 지역 변화",
+    "concepts": [
+      {
+        "concept": "세계화",
+        "easy_explanation": "교통과 통신이 발달하면서 [세계화]가 빠르게 진행되고 있다.",
+        "related_terms": []
+      },
+      {
+        "concept": "지역화",
+        "easy_explanation": "강원도 횡성은 [지역화] 전략으로 한우를 널리 알렸다.",
+        "related_terms": []
+      },
+      {
+        "concept": "기업화",
+        "easy_explanation": "농업이 [기업화]되면서 기계를 이용하여 농사를 짓는다.",
+        "related_terms": []
+      },
+      {
+        "concept": "다국적 기업",
+        "easy_explanation": "[다국적 기업]은 한 국가에서만 머물지 않고 여러 국가에서 활동한다.",
+        "related_terms": [
+          "국가"
+        ]
+      },
+      {
+        "concept": "환경",
+        "easy_explanation": "우리를 둘러싸고 있는 모든 것으로 살아가는데 도움을 주는 주변의 자연이나 사회",
+        "related_terms": []
+      },
+      {
+        "concept": "환경 문제",
+        "easy_explanation": "인간과 자연의 환경에 나쁜 영향을 주는 것",
+        "related_terms": [
+          "환경"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "10. 환경 문제와 지속가능한 환경",
+    "concepts": [
+      {
+        "concept": "생태도시",
+        "easy_explanation": "환경 오염을 줄이고 사람과 자연이 조화롭게 사는 도시",
+        "related_terms": [
+          "환경",
+          "도시"
+        ]
+      },
+      {
+        "concept": "지속가능한 발전",
+        "easy_explanation": "환경 보호와 경제 발전이 함께 이루어지는 것",
+        "related_terms": [
+          "환경"
+        ]
+      },
+      {
+        "concept": "자연환경",
+        "easy_explanation": "사람들의 편의를 위해 만든 환경을 자연환경이라 한다.",
+        "related_terms": [
+          "환경"
+        ]
+      },
+      {
+        "concept": "인문환경",
+        "easy_explanation": "공장, 도로, 아파트",
+        "related_terms": []
+      },
+      {
+        "concept": "지속 가능한 발전",
+        "easy_explanation": "지속 가능한 발전을 위해서는 환경보호보다 경제발전이 더 중요하다.",
+        "related_terms": [
+          "환경"
+        ]
+      },
+      {
+        "concept": "국가",
+        "easy_explanation": "태극기, 무궁화, 애국가는 대한민국이라는 [국가]를 상징한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "영역",
+        "easy_explanation": "우리나라는 길게 뻗은 반도와 3,500여 개의 섬으로 이루어져 있어.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "11. 세계 속의 우리나라",
+    "concepts": [
+      {
+        "concept": "독도",
+        "easy_explanation": "대한민국 영토이며, 우리나라 영해의 동쪽 끝에 위치한 섬",
+        "related_terms": [
+          "위치"
+        ]
+      },
+      {
+        "concept": "남한, 북한",
+        "easy_explanation": "한반도의 남쪽 정권(남한)과 북쪽 정권(북한)",
+        "related_terms": []
+      },
+      {
+        "concept": "분단",
+        "easy_explanation": "하나의 국가였던 남한과 북한이 전쟁으로 인해 나눠진 상태",
+        "related_terms": [
+          "국가"
+        ]
+      },
+      {
+        "concept": "통일",
+        "easy_explanation": "남한과 북한이 서로 하나의 나라가 되는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "국제 문제",
+        "easy_explanation": "세계 여러 나라 사이에서 발생하는 갈등 또는 다툼을 말한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "국제기구",
+        "easy_explanation": "지구촌 문제를 해결하기 위해 국가 간 협력을 유도하는 기구이다.",
+        "related_terms": [
+          "지구촌",
+          "국가"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "12. 더불어 사는 세계",
+    "concepts": [
+      {
+        "concept": "국제 비정부 기구",
+        "easy_explanation": "여러 국가에서 발생하는 문제를 해결하고 공공의 이익을 위해 활동하는 시민단체",
+        "related_terms": [
+          "국가"
+        ]
+      },
+      {
+        "concept": "공정무역",
+        "easy_explanation": "개발도상국에서 만든 제품에 대해 정당한 가격을 내고 사는 것",
+        "related_terms": [
+          "가격"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "1. 개인과 사회생활",
+    "concepts": [
+      {
+        "concept": "사회화",
+        "easy_explanation": "사회에서 살아가는 데 필요한 내용을 배워서 익히는 과정",
+        "related_terms": []
+      },
+      {
+        "concept": "청소년기",
+        "easy_explanation": "아이가 몸과 마음의 변화를 겪으며 어른이 되어가는 중간 시기",
+        "related_terms": []
+      },
+      {
+        "concept": "자아 정체성",
+        "easy_explanation": "다른 사람과 다른 자신만의 특별함",
+        "related_terms": []
+      },
+      {
+        "concept": "사회집단",
+        "easy_explanation": "자신이 속해 있다는 느낌을 가지고 계속 만나는 단체",
+        "related_terms": []
+      },
+      {
+        "concept": "사회적 지위",
+        "easy_explanation": "한 사람이 자신이 속한 집단이나 관계에서 차지하는 위치",
+        "related_terms": [
+          "위치"
+        ]
+      },
+      {
+        "concept": "역할",
+        "easy_explanation": "지위에 따라 맡은 일 또는 해야 하는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "역할 갈등",
+        "easy_explanation": "역할이나 지위가 여러 가지일 때 고민하는 것",
+        "related_terms": [
+          "역할"
+        ]
+      },
+      {
+        "concept": "차별",
+        "easy_explanation": "다르게 대해야 할 올바른 이유 없이 다르게 대하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "자문화 중심주의",
+        "easy_explanation": "다른 문화를 무시하고 자신의 문화만 우수하다고 여기는 태도",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "문화 사대주의",
+        "easy_explanation": "자신의 문화를 무시하고 다른 사회의 문화를 우수하다고 여기는 태도",
+        "related_terms": [
+          "문화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "2. 문화의 이해",
+    "concepts": [
+      {
+        "concept": "문화 상대주의",
+        "easy_explanation": "다양한 문화의 차이를 이해하고 존중하는 태도",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "미디어, 대중 매체",
+        "easy_explanation": "미디어는 정보를 전달하는 도구이며, 대중 매체는 많은 사람에게 많은 양의 정보를 전달하는 도구",
+        "related_terms": [
+          "미디어",
+          "대중 매체"
+        ]
+      },
+      {
+        "concept": "대중문화",
+        "easy_explanation": "많은 사람들이 함께 만들고 즐기는 문화",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "정치",
+        "easy_explanation": "사람들이 함께 살아가면서 생기는 갈등을 해결하는 일",
+        "related_terms": []
+      },
+      {
+        "concept": "민주주의",
+        "easy_explanation": "국민이 나라의 주인으로 정치에 참여하는 방법",
+        "related_terms": [
+          "법",
+          "정치"
+        ]
+      },
+      {
+        "concept": "미디어",
+        "easy_explanation": "정보를 전달하는 도구",
+        "related_terms": []
+      },
+      {
+        "concept": "대중 매체",
+        "easy_explanation": "많은 사람인 대중에게 많은 양의 정보를 전달하는 도구이다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "3. 정치 생활과 민주주의",
+    "concepts": [
+      {
+        "concept": "인간 존엄성",
+        "easy_explanation": "모든 사람은 중요하고 소중하다고 생각하는 것을 인간 존엄성이라고 한다.",
+        "related_terms": []
+      },
+      {
+        "concept": "권리",
+        "easy_explanation": "권리는 어떤 것을 누릴 수 있는 힘이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "자유",
+        "easy_explanation": "자유는 자기 의지에 따라 선택하고 행동할 수 있는 힘이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "평등",
+        "easy_explanation": "평등은 모든 사람이 차별받지 않고, 똑같은 대우를 받는 것이다.",
+        "related_terms": [
+          "차별"
+        ]
+      },
+      {
+        "concept": "정부",
+        "easy_explanation": "정부는 법에 따라 나라의 살림을 하는 곳이다.",
+        "related_terms": [
+          "법"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "4. 정치과정과 시민 참여",
+    "concepts": [
+      {
+        "concept": "정치과정",
+        "easy_explanation": "서로 다른 의견을 주장하고, 나누고, 모아서 정책을 실행하는 과정",
+        "related_terms": []
+      },
+      {
+        "concept": "국회",
+        "easy_explanation": "국민들의 뜻에 따라 법을 만드는 곳",
+        "related_terms": [
+          "법"
+        ]
+      },
+      {
+        "concept": "법원",
+        "easy_explanation": "판결에 따라 처벌을 받는 곳",
+        "related_terms": []
+      },
+      {
+        "concept": "선거",
+        "easy_explanation": "국민이 정치에 참여하는 기본적인 방법",
+        "related_terms": [
+          "법",
+          "정치"
+        ]
+      },
+      {
+        "concept": "지방 자치 제도",
+        "easy_explanation": "지역 주민들이 자신들이 살고 있는 곳의 살림에 직접 참여하여 정하는 정치 방법",
+        "related_terms": [
+          "법",
+          "정치"
+        ]
+      },
+      {
+        "concept": "시민 참여",
+        "easy_explanation": "사회문제를 해결하기 위해 시민이 앞장서는 모습",
+        "related_terms": []
+      },
+      {
+        "concept": "정치 과정",
+        "easy_explanation": "사람들이 원하는 것을 정책으로 만드는 모든 단계",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "5. 일상생활과 법",
+    "concepts": [
+      {
+        "concept": "법",
+        "easy_explanation": "법은 한 나라에서 사람들이 함께 지키기로 약속하고 만든 규칙이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "사회규범",
+        "easy_explanation": "사회규범은 사회생활에서 지켜야 할 행동의 기준이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "분쟁",
+        "easy_explanation": "분쟁은 갈라져서 다투는 것이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "정의",
+        "easy_explanation": "정의는 진리에 맞고 올바른 도리이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "재판",
+        "easy_explanation": "법원이 옳고 그름을 밝히고 판단하는 과정",
+        "related_terms": [
+          "법원",
+          "법"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "6. 인권과 헌법",
+    "concepts": [
+      {
+        "concept": "인권",
+        "easy_explanation": "인권은 사람으로서 누구나 존중받고 행복하게 살기 위하여 누려야 할 권리이다.",
+        "related_terms": [
+          "권리"
+        ]
+      },
+      {
+        "concept": "인권 보장",
+        "easy_explanation": "인권 보장은 인간이 누리는 기본적 권리가 지켜지도록 보호하는 것이다.",
+        "related_terms": [
+          "인권",
+          "권리",
+          "지도"
+        ]
+      },
+      {
+        "concept": "헌법",
+        "easy_explanation": "헌법은 모든 법 중에서 가장 기본이 되고 중요한 최고법이다.",
+        "related_terms": [
+          "법"
+        ]
+      },
+      {
+        "concept": "기본권",
+        "easy_explanation": "기본권은 모든 사람이 인간으로서 당연히 누려야 할 기본적인 권리이다.",
+        "related_terms": [
+          "권리"
+        ]
+      },
+      {
+        "concept": "기본권 침해",
+        "easy_explanation": "국가나 다른 사람이 자신의 기본권을 부당하게 빼앗는 것",
+        "related_terms": [
+          "기본권",
+          "국가"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "7. 헌법과 국가기관",
+    "concepts": [
+      {
+        "concept": "입법",
+        "easy_explanation": "새로운 법률을 만들고 제정하는 과정 또는 기관",
+        "related_terms": [
+          "법"
+        ]
+      },
+      {
+        "concept": "행정",
+        "easy_explanation": "입법부에서 만든 법률을 집행하고, 법에 따라 나라의 살림을 하는 것",
+        "related_terms": [
+          "입법부",
+          "법",
+          "입법"
+        ]
+      },
+      {
+        "concept": "사법",
+        "easy_explanation": "법을 적용하고 판단하는 국가의 작용 또는 기능",
+        "related_terms": [
+          "법",
+          "국가"
+        ]
+      },
+      {
+        "concept": "헌법재판소",
+        "easy_explanation": "국가가 하는 일이 국민의 인권을 침해하는지, 법이 헌법에 맞는지 어긋나는지를 판단하는 기관",
+        "related_terms": [
+          "인권",
+          "헌법",
+          "법",
+          "국가"
+        ]
+      },
+      {
+        "concept": "입법부",
+        "easy_explanation": "새로운 법률을 만들고 제정하는 국가기관",
+        "related_terms": [
+          "법",
+          "국가기관",
+          "국가"
+        ]
+      },
+      {
+        "concept": "사법부",
+        "easy_explanation": "법을 적용하고 판단하며 죄를 지은 사람을 심판하는 국가기관",
+        "related_terms": [
+          "법",
+          "국가기관",
+          "국가"
+        ]
+      },
+      {
+        "concept": "행정부",
+        "easy_explanation": "입법부에서 만든 법률을 집행하고 나라의 살림을 하며 정책을 형성, 집행, 결정하는 국가기관",
+        "related_terms": [
+          "입법부",
+          "법",
+          "국가기관",
+          "국가",
+          "입법"
+        ]
+      },
+      {
+        "concept": "국가기관",
+        "easy_explanation": "나라의 일을 맡아보는 기관",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "8. 경제생활과 선택",
+    "concepts": [
+      {
+        "concept": "재화",
+        "easy_explanation": "재화는 우리 눈으로 볼 수 있거나 만질 수 있는 물건이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "서비스",
+        "easy_explanation": "서비스는 눈으로 보거나 만질 수 없지만 다른 사람들을 위해 하는 일이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "화폐",
+        "easy_explanation": "물건을 사거나 교환하기 위해 필요한 수단",
+        "related_terms": []
+      },
+      {
+        "concept": "소득",
+        "easy_explanation": "소득이란 경제 활동의 대가로 얻는 돈이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "생산",
+        "easy_explanation": "생산은 우리 생활에 필요한 재화와 서비스를 만드는 일을 말한다.",
+        "related_terms": [
+          "서비스",
+          "재화"
+        ]
+      },
+      {
+        "concept": "소비",
+        "easy_explanation": "소비는 사람들이 생활에 필요한 재화와 서비스를 사거나 이용하는 일이다.",
+        "related_terms": [
+          "서비스",
+          "재화"
+        ]
+      },
+      {
+        "concept": "경제활동",
+        "easy_explanation": "경제활동은 우리 생활에 필요한 재화나 서비스를 생산하고 소비하는 것과 관련된 모든 활동이다.",
+        "related_terms": [
+          "서비스",
+          "생산",
+          "소비",
+          "재화"
+        ]
+      },
+      {
+        "concept": "희소성",
+        "easy_explanation": "희소성이란 사람들이 필요하거나 원하는 것에 비하여 쓸 수 있는 돈이나 자원이 적은 것이다.",
+        "related_terms": [
+          "자원"
+        ]
+      },
+      {
+        "concept": "합리적 선택",
+        "easy_explanation": "합리적 선택은 적은 비용으로 큰 편익을 얻는 선택이다.",
+        "related_terms": []
+      },
+      {
+        "concept": "자산 관리",
+        "easy_explanation": "내가 앞으로 노인이 될 때까지 나의 수입과 지출에 관한 계획을 세우고 실천하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "신용",
+        "easy_explanation": "빌려 쓰고 갚을 수 있는 능력",
+        "related_terms": []
+      },
+      {
+        "concept": "문제 1",
+        "easy_explanation": "서비스는 우리 눈으로 볼 수 있거나 만질 수 있는 물건이다.",
+        "related_terms": [
+          "서비스"
+        ]
+      },
+      {
+        "concept": "문제 2",
+        "easy_explanation": "예전에는 물물교환이나 금속화폐를 사용했지만 요즘은 신용카드나 지폐를 사용한다.",
+        "related_terms": [
+          "화폐",
+          "신용"
+        ]
+      },
+      {
+        "concept": "문제 3",
+        "easy_explanation": "경제활동의 대가로 얻는 돈을 소득이라고 한다.",
+        "related_terms": [
+          "경제활동",
+          "소득"
+        ]
+      },
+      {
+        "concept": "문제 4",
+        "easy_explanation": "우리 생활에 필요한 재화와 서비스를 만드는 일을 소비라고 한다.",
+        "related_terms": [
+          "서비스",
+          "소비",
+          "재화"
+        ]
+      },
+      {
+        "concept": "문제 5",
+        "easy_explanation": "학생은 돈을 벌지 못하기 때문에 경제활동을 못한다.",
+        "related_terms": [
+          "경제활동"
+        ]
+      },
+      {
+        "concept": "문제 6",
+        "easy_explanation": "합리적 선택은 큰 비용으로 작은 편익을 얻기 위한 선택이다.",
+        "related_terms": [
+          "합리적 선택"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "9. 시장경제와 가격",
+    "concepts": [
+      {
+        "concept": "수요",
+        "easy_explanation": "소비자가 사려고 하는 재화와 서비스 양",
+        "related_terms": [
+          "서비스",
+          "소비",
+          "재화"
+        ]
+      },
+      {
+        "concept": "공급",
+        "easy_explanation": "공급자가 팔려는 재화와 서비스의 양",
+        "related_terms": [
+          "서비스",
+          "재화"
+        ]
+      },
+      {
+        "concept": "가격",
+        "easy_explanation": "가격은 상품의 가치를 돈으로 나타낸 것이다.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "10. 국민경제와 국제 거래",
+    "concepts": [
+      {
+        "concept": "국민경제",
+        "easy_explanation": "한 나라를 단위로 경제 활동을 파악하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "국제경제",
+        "easy_explanation": "여러 나라 사이에서 이루어지는 경제 활동",
+        "related_terms": []
+      },
+      {
+        "concept": "국내 총생산",
+        "easy_explanation": "일정 기간에 한 나라 안에서 생산된 재화와 서비스의 양을 돈으로 계산하여 합한 것",
+        "related_terms": [
+          "서비스",
+          "생산",
+          "재화"
+        ]
+      },
+      {
+        "concept": "물가",
+        "easy_explanation": "여러 상품들의 가격을 평균하여 구한 한 나라의 전반적인 가격 수준",
+        "related_terms": [
+          "가격"
+        ]
+      },
+      {
+        "concept": "고용",
+        "easy_explanation": "상대방에게 노동을 제공하고 보수를 받는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "실업",
+        "easy_explanation": "일하려는 의사와 일할 능력이 있지만 일자리가 없는 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "환율",
+        "easy_explanation": "두 나라 간의 화폐 교환 비율",
+        "related_terms": [
+          "화폐"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "11. 국제 사회와 국제 정치",
+    "concepts": [
+      {
+        "concept": "국제 사회",
+        "easy_explanation": "세계의 여러 나라가 교류하며 함께 살아가는 사회의 모습",
+        "related_terms": []
+      },
+      {
+        "concept": "지구촌",
+        "easy_explanation": "전 세계가 한 마을처럼 가까이 지내는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "경쟁, 갈등",
+        "easy_explanation": "경쟁은 같은 목표를 향해 서로가 앞서려고 겨루는 것이고, 갈등은 여러 가지 다른 생각이나 의견이 부딪히는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "공존",
+        "easy_explanation": "서로 다른 사람, 사회, 현상이 어우러져 함께 존재하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "외교",
+        "easy_explanation": "다른 나라와 정치적, 경제적, 문화적 관계를 맺는 일",
+        "related_terms": [
+          "정치",
+          "문화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "사회",
+    "grade": "중1-3",
+    "unit": "12. 사회 변동과 사회문제",
+    "concepts": [
+      {
+        "concept": "사회 변동",
+        "easy_explanation": "사회 질서나 모습이 변화하는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "산업화",
+        "easy_explanation": "생산이 기계화되고 공업이 중요해지는 사회로 변화하는 현상",
+        "related_terms": [
+          "생산"
+        ]
+      },
+      {
+        "concept": "정보화",
+        "easy_explanation": "정보가 매우 중요해지면서 사회 변화의 중심이 되는 현상",
+        "related_terms": []
+      },
+      {
+        "concept": "다문화",
+        "easy_explanation": "한 사회 안에 다양한 특징을 가진 문화가 함께 어울리는 현상",
+        "related_terms": [
+          "문화"
+        ]
+      },
+      {
+        "concept": "저출산, 고령화",
+        "easy_explanation": "저출산은 새로 태어나는 아기의 수가 심각하게 줄어드는 현상이고, 고령화는 전체 인구 가운데 노인이 점점 많아지는 현상",
+        "related_terms": [
+          "인구"
+        ]
+      }
+    ]
+  }
+]

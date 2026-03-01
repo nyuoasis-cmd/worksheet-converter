@@ -40,6 +40,21 @@
         "concept": "배수",
         "easy_explanation": "어떤 수를 1배, 2배, 3배……한 수",
         "related_terms": []
+      },
+      {
+        "concept": "공배수",
+        "easy_explanation": "두 수의 공통인 배수",
+        "related_terms": [
+          "배수"
+        ]
+      },
+      {
+        "concept": "최소공배수",
+        "easy_explanation": "두 수의 공배수 중 가장 작은 수",
+        "related_terms": [
+          "배수",
+          "공배수"
+        ]
       }
     ]
   },
@@ -165,8 +180,8 @@
         "concept": "모서리",
         "easy_explanation": "입체도형의 두 면이 만나는 선",
         "related_terms": [
-          "입체도형",
-          "면"
+          "면",
+          "입체도형"
         ]
       },
       {
@@ -198,39 +213,39 @@
         "concept": "각기둥",
         "easy_explanation": "꼭짓점, 모서리, 높이로 이루어져 있으며, 삼각기둥, 사각기둥, 오각기둥 등이 있다.",
         "related_terms": [
-          "모서리",
-          "꼭짓점"
+          "꼭짓점",
+          "모서리"
         ]
       },
       {
         "concept": "각뿔",
         "easy_explanation": "밑면이 다각형이고 옆면이 삼각형인 뿔 모양의 입체도형",
         "related_terms": [
-          "입체도형",
-          "면",
           "옆면",
-          "밑면"
+          "면",
+          "밑면",
+          "입체도형"
         ]
       },
       {
         "concept": "원기둥",
         "easy_explanation": "위아래 두 밑면이 서로 평행하고 합동인 원이며 옆면이 굽은 면으로 이루어진 기둥 모양의 입체도형",
         "related_terms": [
-          "입체도형",
-          "면",
-          "합동",
           "옆면",
-          "밑면"
+          "합동",
+          "면",
+          "밑면",
+          "입체도형"
         ]
       },
       {
         "concept": "원뿔",
         "easy_explanation": "밑면이 원이고 옆면이 굽은 면으로 이루어진 뿔 모양의 입체도형",
         "related_terms": [
-          "입체도형",
-          "면",
           "옆면",
+          "면",
           "밑면",
+          "입체도형",
           "굽은 면"
         ]
       },
@@ -238,29 +253,29 @@
         "concept": "원뿔의 모선",
         "easy_explanation": "원뿔의 꼭짓점에서 밑면의 둘레에 이르는 선분",
         "related_terms": [
+          "둘레",
           "꼭짓점",
           "면",
-          "원뿔",
           "밑면",
-          "둘레"
+          "원뿔"
         ]
       },
       {
         "concept": "밑면",
         "easy_explanation": "입체도형에서 아래에 놓이는 면이나 위아래에 있는 평행하고 합동인 면",
         "related_terms": [
-          "입체도형",
+          "합동",
           "면",
-          "합동"
+          "입체도형"
         ]
       },
       {
         "concept": "옆면",
         "easy_explanation": "입체도형에서 밑면을 제외한 옆을 둘러싸고 있는 면",
         "related_terms": [
-          "입체도형",
           "면",
-          "밑면"
+          "밑면",
+          "입체도형"
         ]
       },
       {
@@ -296,9 +311,9 @@
         "concept": "겨냥도",
         "easy_explanation": "보이는 모서리는 실선으로, 보이지 않는 모서리는 점선으로 그린 그림",
         "related_terms": [
+          "점선",
           "실선",
-          "모서리",
-          "점선"
+          "모서리"
         ]
       },
       {
@@ -307,6 +322,27 @@
         "related_terms": [
           "모서리"
         ]
+      },
+      {
+        "concept": "면, 모서리, 꼭짓점",
+        "easy_explanation": "면, 모서리, 꼭짓점을 찾아보세요.",
+        "related_terms": [
+          "꼭짓점",
+          "면",
+          "모서리"
+        ]
+      },
+      {
+        "concept": "모선",
+        "easy_explanation": "원뿔을 살펴보세요.",
+        "related_terms": [
+          "원뿔"
+        ]
+      },
+      {
+        "concept": "사각뿔",
+        "easy_explanation": "루브르 박물관에 있는 유리 피라미드 모양",
+        "related_terms": []
       }
     ]
   },
@@ -357,6 +393,14 @@
         "related_terms": [
           "면"
         ]
+      },
+      {
+        "concept": "밑변, 높이",
+        "easy_explanation": "도형의 밑면이 되는 변과 그 변에 수직으로 만나는 선분 또는 길이",
+        "related_terms": [
+          "면",
+          "밑면"
+        ]
       }
     ]
   },
@@ -379,24 +423,24 @@
         "concept": "올림",
         "easy_explanation": "구하려는 자리 미만의 수를 올려서 나타내는 방법",
         "related_terms": [
-          "구",
-          "미만"
+          "미만",
+          "구"
         ]
       },
       {
         "concept": "버림",
         "easy_explanation": "구하려는 자리 미만의 수를 버려서 나타내는 방법",
         "related_terms": [
-          "구",
-          "미만"
+          "미만",
+          "구"
         ]
       },
       {
         "concept": "반올림",
         "easy_explanation": "구하려는 자리 바로 아래 자리의 숫자가 0, 1, 2, 3, 4이면 버리고, 5, 6, 7, 8, 9이면 올리는 방법",
         "related_terms": [
-          "구",
-          "면"
+          "면",
+          "구"
         ]
       },
       {
@@ -410,10 +454,15 @@
         "concept": "원주율",
         "easy_explanation": "지름에 대한 원주의 비율",
         "related_terms": [
-          "원주",
           "비",
+          "원주",
           "비율"
         ]
+      },
+      {
+        "concept": "이하",
+        "easy_explanation": "어떤 수보다 작거나 같은 수",
+        "related_terms": []
       }
     ]
   },
@@ -426,9 +475,9 @@
         "concept": "직육면체의 겉넓이",
         "easy_explanation": "직육면체 여섯 면의 넓이의 합",
         "related_terms": [
-          "직육면체",
           "면",
-          "넓이"
+          "넓이",
+          "직육면체"
         ]
       },
       {
@@ -440,20 +489,20 @@
         "concept": "1 세제곱센티미터 (1 cm³)",
         "easy_explanation": "한 모서리가 1cm인 정육면체의 부피",
         "related_terms": [
-          "모서리",
-          "면",
           "정육면체",
-          "부피"
+          "면",
+          "부피",
+          "모서리"
         ]
       },
       {
         "concept": "1 세제곱미터 (1 m³)",
         "easy_explanation": "한 모서리가 1m인 정육면체의 부피",
         "related_terms": [
-          "모서리",
-          "면",
           "정육면체",
-          "부피"
+          "면",
+          "부피",
+          "모서리"
         ]
       }
     ]
@@ -498,9 +547,9 @@
         "concept": "비율",
         "easy_explanation": "(비교하는 양)을 (기준량)으로 나눈 값. 분수 또는 소수로 나타낼 수 있다.",
         "related_terms": [
-          "비교하는 양",
           "비",
-          "기준량"
+          "기준량",
+          "비교하는 양"
         ]
       },
       {
@@ -508,8 +557,8 @@
         "easy_explanation": "기준량을 100으로 할 때의 비율. 기호 %를 사용하여 나타낸다.",
         "related_terms": [
           "비",
-          "비율",
-          "기준량"
+          "기준량",
+          "비율"
         ]
       }
     ]
@@ -548,6 +597,11 @@
         "related_terms": [
           "비"
         ]
+      },
+      {
+        "concept": "가능성",
+        "easy_explanation": "사건이 일어날 [가능성]이 클 때 ~일 것 같다 라고 하며, 작을 때 ~아닐 것 같다 라고 한다.",
+        "related_terms": []
       }
     ]
   },
@@ -574,6 +628,13 @@
       {
         "concept": "반반이다",
         "easy_explanation": "두 가지 사건이 일어날 가능성이 같은 경우",
+        "related_terms": [
+          "가능성"
+        ]
+      },
+      {
+        "concept": "일어날 것 같다 / 아닐 것 같다",
+        "easy_explanation": "1.",
         "related_terms": []
       }
     ]

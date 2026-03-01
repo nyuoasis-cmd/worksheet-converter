@@ -1,0 +1,647 @@
+[
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "lesson_01",
+    "concepts": [
+      {
+        "concept": "묶어 세기",
+        "easy_explanation": "묶어 세기를 해 보세요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "1) 수",
+    "concepts": [
+      {
+        "concept": "수",
+        "easy_explanation": "물건의 수를 세어 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "일, 하나",
+        "easy_explanation": "과일의 수를 세어 보세요.",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "육, 여섯",
+        "easy_explanation": "장난감의 수를 세어 보세요.",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "영",
+        "easy_explanation": "아무것도 없는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "십, 열",
+        "easy_explanation": "달걀의 수를 세어 보세요.",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "묶음, 낱개",
+        "easy_explanation": "묶음과 낱개를 알아보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "십일, 열하나",
+        "easy_explanation": "수를 세어 보세요.",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "이십, 스물",
+        "easy_explanation": "20",
+        "related_terms": []
+      },
+      {
+        "concept": "삼십, 서른",
+        "easy_explanation": "30",
+        "related_terms": []
+      },
+      {
+        "concept": "사십, 마흔",
+        "easy_explanation": "40",
+        "related_terms": []
+      },
+      {
+        "concept": "오십, 쉰",
+        "easy_explanation": "50",
+        "related_terms": []
+      },
+      {
+        "concept": "육십, 예순",
+        "easy_explanation": "60",
+        "related_terms": []
+      },
+      {
+        "concept": "칠십, 일흔",
+        "easy_explanation": "70",
+        "related_terms": []
+      },
+      {
+        "concept": "팔십, 여든",
+        "easy_explanation": "80",
+        "related_terms": []
+      },
+      {
+        "concept": "구십, 아흔",
+        "easy_explanation": "90",
+        "related_terms": []
+      },
+      {
+        "concept": "수의 순서",
+        "easy_explanation": "숫자가 배열된 차례",
+        "related_terms": [
+          "배",
+          "차",
+          "자"
+        ]
+      },
+      {
+        "concept": "1 작은 수",
+        "easy_explanation": "어떤 수보다 1만큼 작은 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "1 큰 수",
+        "easy_explanation": "어떤 수보다 1만큼 큰 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "수의 크기 비교",
+        "easy_explanation": "두 수의 크기를 비교하는 것",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "짝수",
+        "easy_explanation": "둘씩 짝을 지을 수 있는 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "홀수",
+        "easy_explanation": "둘씩 짝을 지을 수 없는 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "뛰어 세기",
+        "easy_explanation": "일정한 수만큼 건너뛰며 세는 것",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "백",
+        "easy_explanation": "99 다음의 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "천",
+        "easy_explanation": "100이 10개 모인 수",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "천의 자리, 백의 자리, 십의 자리, 일의 자리",
+        "easy_explanation": "수의 각 자리가 나타내는 값",
+        "related_terms": [
+          "수",
+          "자"
+        ]
+      },
+      {
+        "concept": "세 자리 수",
+        "easy_explanation": "백의 자리, 십의 자리, 일의 자리로 이루어진 수",
+        "related_terms": [
+          "백",
+          "수",
+          "자"
+        ]
+      },
+      {
+        "concept": "네 자리 수",
+        "easy_explanation": "1000이 2, 100이 4, 10이 3, 1이 6이면 2436입니다. 2436은 이천사백삼십육이라고 읽습니다.",
+        "related_terms": [
+          "백",
+          "천"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "2) 덧셈과 뺄셈",
+    "concepts": [
+      {
+        "concept": "이어 세기",
+        "easy_explanation": "어떤 수부터 차례대로 계속 세는 것",
+        "related_terms": [
+          "수",
+          "차"
+        ]
+      },
+      {
+        "concept": "합",
+        "easy_explanation": "두 수나 양을 합한 결과",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "덧셈, 더하기",
+        "easy_explanation": "두 수나 양을 합하여 그 합을 구하는 계산",
+        "related_terms": [
+          "합",
+          "수"
+        ]
+      },
+      {
+        "concept": "덧셈식",
+        "easy_explanation": "덧셈을 나타내는 식",
+        "related_terms": []
+      },
+      {
+        "concept": "차",
+        "easy_explanation": "두 수의 크기를 비교하여 큰 수에서 작은 수를 뺀 값",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "뺄셈, 빼기",
+        "easy_explanation": "어떤 수에서 다른 수를 덜어 내는 계산",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "뺄셈식",
+        "easy_explanation": "뺄셈을 나타내는 수학식",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "모으기",
+        "easy_explanation": "모으기를 해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "가르기",
+        "easy_explanation": "가르기를 해 보세요.",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "3) 곱셈",
+    "concepts": [
+      {
+        "concept": "배",
+        "easy_explanation": "2의 3배는 얼마일까요?",
+        "related_terms": []
+      },
+      {
+        "concept": "곱셈, 곱하기",
+        "easy_explanation": "3 곱하기 5는 15와 같습니다. 3과 5의 곱은 15입니다.",
+        "related_terms": [
+          "곱하기"
+        ]
+      },
+      {
+        "concept": "곱셈식",
+        "easy_explanation": "곱셈식 4×3=12",
+        "related_terms": [
+          "곱셈"
+        ]
+      },
+      {
+        "concept": "곱셈",
+        "easy_explanation": "두 수의 곱을 구하는 연산",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "곱하기",
+        "easy_explanation": "두 수를 곱하는 행위나 그 기호",
+        "related_terms": [
+          "수"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "1) 여러 가지 모양",
+    "concepts": [
+      {
+        "concept": "모양",
+        "easy_explanation": "물건의 생김새",
+        "related_terms": []
+      },
+      {
+        "concept": "둥글다",
+        "easy_explanation": "모서리가 없고 둥근 모양이다",
+        "related_terms": [
+          "모양"
+        ]
+      },
+      {
+        "concept": "쌓다",
+        "easy_explanation": "물건을 포개어 올리다",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "2) 여러 가지 도형",
+    "concepts": [
+      {
+        "concept": "꼭짓점",
+        "easy_explanation": "도형에서 뾰족한 부분",
+        "related_terms": [
+          "분"
+        ]
+      },
+      {
+        "concept": "변",
+        "easy_explanation": "도형을 이루는 선분",
+        "related_terms": [
+          "분"
+        ]
+      },
+      {
+        "concept": "칠교판",
+        "easy_explanation": "7개의 조각으로 다양한 모양을 만드는 퍼즐",
+        "related_terms": [
+          "모양"
+        ]
+      },
+      {
+        "concept": "오각형",
+        "easy_explanation": "변이 5개인 도형",
+        "related_terms": [
+          "변"
+        ]
+      },
+      {
+        "concept": "육각형",
+        "easy_explanation": "변이 6개인 도형",
+        "related_terms": [
+          "변"
+        ]
+      },
+      {
+        "concept": "쌓기나무",
+        "easy_explanation": "쌓아서 여러 가지 모양을 만들 수 있는 블록",
+        "related_terms": [
+          "수",
+          "모양"
+        ]
+      },
+      {
+        "concept": "1층, 2층",
+        "easy_explanation": "건물의 층을 세는 단위. 1층은 가장 아래층, 2층은 그 위층.",
+        "related_terms": []
+      },
+      {
+        "concept": "앞, 뒤",
+        "easy_explanation": "어떤 것의 전면과 후면을 나타내는 위치",
+        "related_terms": []
+      },
+      {
+        "concept": "오른쪽, 왼쪽",
+        "easy_explanation": "공의 오른쪽과 왼쪽에는 어떤 물건이 있나요?.",
+        "related_terms": []
+      },
+      {
+        "concept": "위, 아래",
+        "easy_explanation": "그림에서 위와 아래를 찾아보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "사각형",
+        "easy_explanation": "네 개의 변과 네 개의 각으로 이루어진 도형",
+        "related_terms": [
+          "변"
+        ]
+      },
+      {
+        "concept": "길다",
+        "easy_explanation": "두 물체의 길이를 비교했을 때, 다른 물체보다 길이가 더 긴 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "짧다",
+        "easy_explanation": "두 물체의 길이를 비교했을 때, 다른 물체보다 길이가 더 짧은 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "높다",
+        "easy_explanation": "두 물체의 높이를 비교했을 때, 다른 물체보다 높이가 더 높은 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "낮다",
+        "easy_explanation": "두 물체의 높이를 비교했을 때, 다른 물체보다 높이가 더 낮은 상태",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "1) 비교하기",
+    "concepts": [
+      {
+        "concept": "길이 (길다, 짧다)",
+        "easy_explanation": "어느 줄이 더 길까요?.",
+        "related_terms": []
+      },
+      {
+        "concept": "높이 (높다, 낮다)",
+        "easy_explanation": "어느 것이 더 높을까요?.",
+        "related_terms": []
+      },
+      {
+        "concept": "무게 (무겁다, 가볍다)",
+        "easy_explanation": "누가 더 무거울까요?.",
+        "related_terms": []
+      },
+      {
+        "concept": "넓이",
+        "easy_explanation": "물체나 공간의 크기",
+        "related_terms": []
+      },
+      {
+        "concept": "담을 수 있는 양 (많다, 적다)",
+        "easy_explanation": "그릇에 담을 수 있는 물건의 양을 비교하는 것",
+        "related_terms": [
+          "수"
+        ]
+      },
+      {
+        "concept": "길이를 재다",
+        "easy_explanation": "물건의 길이를 비교하거나 측정하는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "2) 길이 재기",
+    "concepts": [
+      {
+        "concept": "뼘",
+        "easy_explanation": "손을 쫙 펴서 엄지손가락 끝에서 새끼손가락 끝까지의 길이",
+        "related_terms": []
+      },
+      {
+        "concept": "센티미터(cm)",
+        "easy_explanation": "길이를 나타내는 단위",
+        "related_terms": []
+      },
+      {
+        "concept": "자",
+        "easy_explanation": "길이를 재는 도구",
+        "related_terms": []
+      },
+      {
+        "concept": "어림, 약",
+        "easy_explanation": "정확하지는 않지만 대략적인 값을 짐작하거나 나타내는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "미터(m)",
+        "easy_explanation": "길이의 단위로, 100cm와 같음",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "3) 시각과 시간",
+    "concepts": [
+      {
+        "concept": "시",
+        "easy_explanation": "짧은바늘은 시를 가리켜요.",
+        "related_terms": []
+      },
+      {
+        "concept": "분",
+        "easy_explanation": "긴바늘은 분을 가리켜요.",
+        "related_terms": []
+      },
+      {
+        "concept": "시각",
+        "easy_explanation": "시각은 몇 시 몇 분으로 읽어요.",
+        "related_terms": [
+          "시",
+          "분"
+        ]
+      },
+      {
+        "concept": "몇 분 전",
+        "easy_explanation": "어떤 시각이 되기 몇 분 전을 나타내는 표현",
+        "related_terms": [
+          "시각",
+          "시",
+          "표",
+          "분"
+        ]
+      },
+      {
+        "concept": "시간",
+        "easy_explanation": "1시간은 60분",
+        "related_terms": [
+          "시",
+          "분"
+        ]
+      },
+      {
+        "concept": "오전, 오후",
+        "easy_explanation": "생활 계획표를 보고 오전과 오후를 알아보세요.",
+        "related_terms": [
+          "표"
+        ]
+      },
+      {
+        "concept": "1일, 1주일",
+        "easy_explanation": "1일은 24시간, 1주일은 7일",
+        "related_terms": [
+          "시간",
+          "시"
+        ]
+      },
+      {
+        "concept": "1개월, 1년",
+        "easy_explanation": "1년은 12개월",
+        "related_terms": []
+      },
+      {
+        "concept": "시계",
+        "easy_explanation": "여러 가지 시계를 살펴보세요.",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "시곗바늘",
+        "easy_explanation": "시계에서 시곗바늘을 살펴보세요.",
+        "related_terms": [
+          "시",
+          "시계"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "1) 규칙 찾기",
+    "concepts": [
+      {
+        "concept": "규칙",
+        "easy_explanation": "생활 속에서 규칙을 찾아 말해 보세요.",
+        "related_terms": []
+      },
+      {
+        "concept": "수 배열표",
+        "easy_explanation": "수 배열표에서 규칙을 찾아 말해 보세요.",
+        "related_terms": [
+          "규칙",
+          "배",
+          "수",
+          "표"
+        ]
+      },
+      {
+        "concept": "덧셈표",
+        "easy_explanation": "덧셈표에서 규칙을 찾아 말해 보세요.",
+        "related_terms": [
+          "규칙",
+          "표"
+        ]
+      },
+      {
+        "concept": "곱셈표",
+        "easy_explanation": "곱셈표에서 규칙을 찾아 말해 보세요.",
+        "related_terms": [
+          "규칙",
+          "곱셈",
+          "표"
+        ]
+      },
+      {
+        "concept": "분류 기준",
+        "easy_explanation": "물건이나 대상을 나누는 기준",
+        "related_terms": []
+      },
+      {
+        "concept": "분류",
+        "easy_explanation": "물건이나 대상을 일정한 기준에 따라 나누는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "수학",
+    "grade": "1-2",
+    "unit": "1) 자료 정리",
+    "concepts": [
+      {
+        "concept": "자료",
+        "easy_explanation": "조사하여 얻은 정보나 사실",
+        "related_terms": []
+      },
+      {
+        "concept": "표",
+        "easy_explanation": "조사한 자료를 알아보기 쉽게 나타낸 것",
+        "related_terms": [
+          "자료",
+          "자"
+        ]
+      },
+      {
+        "concept": "그래프",
+        "easy_explanation": "조사한 자료를 그림이나 막대로 나타낸 것",
+        "related_terms": [
+          "자료",
+          "자"
+        ]
+      }
+    ]
+  }
+]

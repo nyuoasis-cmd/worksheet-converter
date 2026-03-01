@@ -1,0 +1,1062 @@
+[
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "lesson_04",
+    "concepts": [
+      {
+        "concept": "인물",
+        "easy_explanation": "이야기에서 어떤 일을 하는 사람이나 사물",
+        "related_terms": [
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "1. 감동을 나누어요",
+    "concepts": [
+      {
+        "concept": "낭송, 암송",
+        "easy_explanation": "시의 느낌을 살려 소리 내어 읽는 것을 낭송이라고 하고, 시를 외워서 낭송하는 것을 암송이라고 합니다.",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "행, 연",
+        "easy_explanation": "시의 한 줄을 행이라고 하고, 시에서 몇 행을 묶어서 구분한 부분을 연이라고 합니다.",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "반복되는 말",
+        "easy_explanation": "시에서 되풀이하여 계속 등장하는 글자나 낱말, 또는 문장",
+        "related_terms": [
+          "문장",
+          "시",
+          "낱말"
+        ]
+      },
+      {
+        "concept": "실감 나게 읽기",
+        "easy_explanation": "실제로 경험하는 것처럼 생생하게 읽는 것",
+        "related_terms": [
+          "경험"
+        ]
+      },
+      {
+        "concept": "문장",
+        "easy_explanation": "완결된 생각을 표현하는 단위",
+        "related_terms": []
+      },
+      {
+        "concept": "문단",
+        "easy_explanation": "몇 개의 문장이 모여 하나의 중심 내용을 나타내는 글의 부분",
+        "related_terms": [
+          "문장"
+        ]
+      },
+      {
+        "concept": "중심 낱말",
+        "easy_explanation": "글에서 가장 중요한 낱말",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "중심 문장",
+        "easy_explanation": "문단의 내용을 대표하는 문장",
+        "related_terms": [
+          "문장",
+          "문단"
+        ]
+      },
+      {
+        "concept": "문장, 문단",
+        "easy_explanation": "완결된 생각을 표현하는 단위 (문장), 몇 개의 문장이 모여 하나의 중심 내용을 나타내는 글의 부분 (문단)",
+        "related_terms": [
+          "문장",
+          "문단"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "3. 중요한 내용을 적어요",
+    "concepts": [
+      {
+        "concept": "메모",
+        "easy_explanation": "무엇을 기억하기 위해서, 또는 다른 사람에게 말을 전달하기 위해서 기록하는 짧은 글",
+        "related_terms": []
+      },
+      {
+        "concept": "전화 대화",
+        "easy_explanation": "전화로 이야기를 주고받는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "예절",
+        "easy_explanation": "사람이 지켜야 할 절차나 질서",
+        "related_terms": [
+          "절차"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "4. 높임말을 바르게 사용해요",
+    "concepts": [
+      {
+        "concept": "높임말",
+        "easy_explanation": "나보다 나이가 많은 사람을 높일 때 쓰는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "마음을 전하는 글, 첫인사, 끝인사",
+        "easy_explanation": "편지처럼 마음을 전하는 글. 글의 시작 부분에 쓰는 인사를 첫인사, 마지막 부분에 쓰는 인사를 끝인사라고 함.",
+        "related_terms": [
+          "편지",
+          "첫인사",
+          "시",
+          "끝인사"
+        ]
+      },
+      {
+        "concept": "읽는 이",
+        "easy_explanation": "글을 읽는 사람",
+        "related_terms": []
+      },
+      {
+        "concept": "첫인사",
+        "easy_explanation": "“안녕? 잘 지내니?” 이 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "끝인사",
+        "easy_explanation": "“그럼 안녕!” 이 부분",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "5. 내용을 간추려요",
+    "concepts": [
+      {
+        "concept": "원인, 결과",
+        "easy_explanation": "어떤 일이 일어나게 된 이유를 원인이라고 하고, 그로 인하여 일어난 일은 결과라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "이어 주는 말",
+        "easy_explanation": "‘그래서’, ‘때문에’, ‘왜냐하면’과 같은 말들을 이어 주는 말이라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "간추리기",
+        "easy_explanation": "이야기를 짧게 줄이는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "특징",
+        "easy_explanation": "다른 것과 특별히 달라서 눈에 띄는 점",
+        "related_terms": []
+      },
+      {
+        "concept": "소개하는 글, 알맞은 낱말",
+        "easy_explanation": "쓰거나 말하려는 내용에 딱 맞는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "7. 아는 것을 떠올리며",
+    "concepts": [
+      {
+        "concept": "겪은 일",
+        "easy_explanation": "보고, 듣고, 직접 해 본 모든 일",
+        "related_terms": []
+      },
+      {
+        "concept": "경험",
+        "easy_explanation": "보고, 듣고, 직접 해 본 모든 일",
+        "related_terms": []
+      },
+      {
+        "concept": "떠올리다",
+        "easy_explanation": "기억하고 있는 일이나 잘 생각나지 않던 것을 생각 해 낸다",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "8. 마음을 전해요",
+    "concepts": [
+      {
+        "concept": "소리와 글자가 다른 낱말",
+        "easy_explanation": "소리와 글자가 다른 낱말",
+        "related_terms": [
+          "낱말"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "1. 재미가 솔솔",
+    "concepts": [
+      {
+        "concept": "시",
+        "easy_explanation": "노래 가사처럼 리듬을 살려 표현한 것",
+        "related_terms": []
+      },
+      {
+        "concept": "이야기",
+        "easy_explanation": "있을만한 일을 꾸며서 쓴 글",
+        "related_terms": []
+      },
+      {
+        "concept": "재미있는 부분",
+        "easy_explanation": "시나 이야기에서 즐거운 기분이나 느낌을 주는 부분",
+        "related_terms": [
+          "이야기",
+          "시"
+        ]
+      },
+      {
+        "concept": "사람인 것처럼 표현하다",
+        "easy_explanation": "동물, 식물, 사물이 말하고 행동하는 것처럼 표현하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "빗대어 표현하다",
+        "easy_explanation": "어떤 것을 직접 말하지 않고 비슷한 점이 있는 다른 것과 연결하여 표현하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "흉내 내는 말",
+        "easy_explanation": "‘깡충깡충’이나 ‘멍멍’과 같이 모양이나 소리를 나타내는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "2. 띄어쓰기를 잘해요",
+    "concepts": [
+      {
+        "concept": "온점, 반점",
+        "easy_explanation": "문장의 끝에 온점이라고 하고, 반점이라고 해요.",
+        "related_terms": [
+          "문장"
+        ]
+      },
+      {
+        "concept": "띄어쓰기",
+        "easy_explanation": "내용을 정확하게 전달하기 위해서 글자 사이를 띄어서 적는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "일의 순서",
+        "easy_explanation": "어떤 일이 차례에 따라 하나씩 일어나는 과정",
+        "related_terms": []
+      },
+      {
+        "concept": "부탁하는 글",
+        "easy_explanation": "다른 사람에게 어떤 일을 해 달라고 말하는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "낱말",
+        "easy_explanation": "산, 나무, 사과처럼 뜻을 가지고 있으면서 홀로 쓰일 수 있는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "3. 내용을 간추려 보아요",
+    "concepts": [
+      {
+        "concept": "이야기의 흐름",
+        "easy_explanation": "이야기 속에 어떤 일이 일어나면서 이야기가 펼쳐지는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "훈화",
+        "easy_explanation": "가르침을 주는 말이나 이야기",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "듣기의 과정",
+        "easy_explanation": "어떤 내용을 들을 때 '듣기 전', '듣기 중', '듣기 후'의 순서를 거치는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "5. 낱말의 짜임",
+    "concepts": [
+      {
+        "concept": "쪼갤 수 있는 낱말",
+        "easy_explanation": "둘 이상으로 나눌 수 있는 낱말",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "쪼갤 수 없는 낱말",
+        "easy_explanation": "더 이상 나눌 수 없는 낱말",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "일의 순서나 방법을 설명하는 글",
+        "easy_explanation": "일의 순서나 방법을 설명하는 글",
+        "related_terms": [
+          "일의 순서"
+        ]
+      },
+      {
+        "concept": "글쓴이나 인물의 마음 짐작하기",
+        "easy_explanation": "글을 읽고 글쓴이나 인물의 마음이 어떠한지 생각해 보는 것",
+        "related_terms": [
+          "인물"
+        ]
+      },
+      {
+        "concept": "편지",
+        "easy_explanation": "다른 사람에게 하고 싶은 말을 써서 보내는 글",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "6. 글에 담긴 마음",
+    "concepts": [
+      {
+        "concept": "일기",
+        "easy_explanation": "그날 겪은 일 중에서 기억에 남는 일과 그에 대한 생각이나 느낌을 쓴 글",
+        "related_terms": [
+          "겪은 일"
+        ]
+      },
+      {
+        "concept": "극본",
+        "easy_explanation": "영화나 연극, 드라마를 만들기 위해 쓴 글",
+        "related_terms": [
+          "영화"
+        ]
+      },
+      {
+        "concept": "감동적인 부분",
+        "easy_explanation": "기쁨이나 슬픔과 같은 강한 느낌을 받는 부분",
+        "related_terms": []
+      },
+      {
+        "concept": "짐작하다",
+        "easy_explanation": "'짐작하다'는 일이 되어가는 상황을 대강 알아차리는 것을 말해요. 그래서 글을 읽고 글쓴이나 인물의 마음이 어떠한지 생각해 보는 것을 글쓴이나 인물의 마음 짐작하기라고 해요.",
+        "related_terms": [
+          "상황",
+          "글쓴이나 인물의 마음 짐작하기",
+          "인물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "7. 감동을 느껴 보아요",
+    "concepts": [
+      {
+        "concept": "장면",
+        "easy_explanation": "무슨 일이 일어나는 모습이나 모양",
+        "related_terms": []
+      },
+      {
+        "concept": "인물의 말과 행동",
+        "easy_explanation": "이야기에는 인물이 등장해요. 인물은 자신의 생각과 마음을 말과 행동으로 나타내요.",
+        "related_terms": [
+          "이야기",
+          "인물"
+        ]
+      },
+      {
+        "concept": "감상문",
+        "easy_explanation": "무엇을 보거나 듣거나 읽고 나서 느낀 것을 쓴 글",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "8. 실감 나게 말해요",
+    "concepts": [
+      {
+        "concept": "읽기 전 활동",
+        "easy_explanation": "글을 이해하기 위해 제목, 표지 그림으로 예상해 보는 것, 경험을 떠올리는 것을 읽기 전 활동이라고 해요.",
+        "related_terms": [
+          "경험"
+        ]
+      },
+      {
+        "concept": "소개말",
+        "easy_explanation": "책의 소개말은 책 속의 내용을 간단히 알 수 있도록 소개하는 글이에요.",
+        "related_terms": [
+          "소개하는 글"
+        ]
+      },
+      {
+        "concept": "예측하기",
+        "easy_explanation": "책을 읽기 전에 하는 활동 중의 하나를 예측하기라고 해요.",
+        "related_terms": []
+      },
+      {
+        "concept": "실감 나게 말하기",
+        "easy_explanation": "실감 나게 말하기는 들은 이야기나 읽은 책을 잘 이해해서 다시 말하는 것이에요.",
+        "related_terms": [
+          "이야기",
+          "시"
+        ]
+      },
+      {
+        "concept": "만화, 영화",
+        "easy_explanation": "만화: 다양한 이야기들을 그림으로 재미있게 표현한 것, 영화: 어떤 이야기를 움직이는 영상으로 촬영해서 보는 것",
+        "related_terms": [
+          "이야기",
+          "만화",
+          "영화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "9. 마음을 읽어요",
+    "concepts": [
+      {
+        "concept": "만화",
+        "easy_explanation": "다양한 이야기들을 그림으로 재미있게 표현한 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "영화",
+        "easy_explanation": "어떤 이야기를 움직이는 영상으로 촬영해서 보는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      },
+      {
+        "concept": "영화관",
+        "easy_explanation": "영화를 보는 장소",
+        "related_terms": [
+          "영화"
+        ]
+      },
+      {
+        "concept": "집착하기",
+        "easy_explanation": "어떤 장면에서 뒤 이어질 사건을 예측하는 것",
+        "related_terms": [
+          "장면"
+        ]
+      },
+      {
+        "concept": "실감 나게 표현하기",
+        "easy_explanation": "이야기 속 인물의 마음을 짐작하여 표현하는 방법",
+        "related_terms": [
+          "이야기",
+          "인물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "1. 이야기 속으로",
+    "concepts": [
+      {
+        "concept": "사건, 배경",
+        "easy_explanation": "사건은 이야기에서 일어나는 일이에요. 배경은 이야기에서 어떤 일이 일어나는 시간과 장소예요.",
+        "related_terms": [
+          "이야기",
+          "시"
+        ]
+      },
+      {
+        "concept": "줄거리",
+        "easy_explanation": "줄거리는 이야기의 중심이 되는 내용이에요. 인물의 성격과 배경, 사건이 잘 드러나도록 내용을 간추리면 줄거리가 돼요.",
+        "related_terms": [
+          "이야기",
+          "인물",
+          "인물의 성격"
+        ]
+      },
+      {
+        "concept": "인물의 성격",
+        "easy_explanation": "성격은 사람마다 가지고 있는 성질이나 성품이에요. 이야기에 나오는 인물의 말과 행동을 통해 인물의 성격을 알 수 있어요.",
+        "related_terms": [
+          "인물의 말과 행동",
+          "이야기",
+          "인물"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "2. 회의를 해요",
+    "concepts": [
+      {
+        "concept": "회의",
+        "easy_explanation": "어떤 문제가 있을 경우에 한 장소에서 일정한 절차에 따라 서로 의견을 나누고 알맞은 방법을 결정하는 것",
+        "related_terms": [
+          "절차",
+          "의견"
+        ]
+      },
+      {
+        "concept": "주제",
+        "easy_explanation": "대화나 회의 등의 중심이 되는 문제",
+        "related_terms": [
+          "회의"
+        ]
+      },
+      {
+        "concept": "국민의례",
+        "easy_explanation": "공식적인 행사에서 국가에 대한 경례, 애국가가 제창과 같이 국민으로서 행하는 절차",
+        "related_terms": [
+          "절차"
+        ]
+      },
+      {
+        "concept": "개회",
+        "easy_explanation": "회의나 공식적인 모임을 시작하는 것",
+        "related_terms": [
+          "회의",
+          "시"
+        ]
+      },
+      {
+        "concept": "폐회",
+        "easy_explanation": "[개회 폐회]는 행사나 회의가 시작해서 끝나는 것을 말해요.",
+        "related_terms": [
+          "개회",
+          "회의",
+          "시"
+        ]
+      },
+      {
+        "concept": "사회자",
+        "easy_explanation": "회의의 진행을 보는 사람",
+        "related_terms": [
+          "회의"
+        ]
+      },
+      {
+        "concept": "기록자",
+        "easy_explanation": "회의의 내용을 기록하는 사람",
+        "related_terms": [
+          "회의"
+        ]
+      },
+      {
+        "concept": "토론 참여자",
+        "easy_explanation": "회의에 참여하는 사람",
+        "related_terms": [
+          "회의"
+        ]
+      },
+      {
+        "concept": "의견",
+        "easy_explanation": "어떤 것에 대해 나름대로 판단하여 가지는 생각",
+        "related_terms": []
+      },
+      {
+        "concept": "표결",
+        "easy_explanation": "투표를 해서 결정하는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "절차",
+        "easy_explanation": "일을 해 나갈 때 거쳐야 하는 순서나 방법",
+        "related_terms": []
+      },
+      {
+        "concept": "설명하는 문장",
+        "easy_explanation": "어떤 것을 알기 쉽게 풀어서 말하는 문장",
+        "related_terms": [
+          "문장"
+        ]
+      },
+      {
+        "concept": "무엇인가를 묻는 문장",
+        "easy_explanation": "듣는 사람에게 물어보고 대답을 들으려고 하는 문장",
+        "related_terms": [
+          "문장"
+        ]
+      },
+      {
+        "concept": "무엇을 하도록 시키는 문장",
+        "easy_explanation": "무엇을 시키거나 행동하게 하는 문장",
+        "related_terms": [
+          "문장",
+          "시"
+        ]
+      },
+      {
+        "concept": "함께 하기를 요청하는 문장",
+        "easy_explanation": "듣는 사람에게 어떤 것을 같이 하자고 부탁하는 문장",
+        "related_terms": [
+          "문장"
+        ]
+      },
+      {
+        "concept": "느낌을 표현하는 문장",
+        "easy_explanation": "말하는 사람이 자기의 느낌을 드러내는 문장",
+        "related_terms": [
+          "문장"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "3. 문장을 알맞게",
+    "concepts": [
+      {
+        "concept": "어휘 이해",
+        "easy_explanation": "1.",
+        "related_terms": []
+      },
+      {
+        "concept": "의도",
+        "easy_explanation": "의도는 무엇을 하고자 하는 마음속의 생각이나 계획이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "상황",
+        "easy_explanation": "상황은 일이 진행되어 가는 형편이나 모양이에요.",
+        "related_terms": []
+      },
+      {
+        "concept": "문장의 끝맺음",
+        "easy_explanation": "다음 소리 내어 읽고, 문장의 끝 부분이 서로 어떻게 다른지 이야기해 보세요.",
+        "related_terms": [
+          "문장",
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "4. 짜임새 있는 문단",
+    "concepts": [
+      {
+        "concept": "문단의 구조",
+        "easy_explanation": "문단이 어떻게 이루어져 있는지 살펴보는 것",
+        "related_terms": [
+          "문단"
+        ]
+      },
+      {
+        "concept": "덧붙임 문장",
+        "easy_explanation": "중심 문장을 도와주는 문장",
+        "related_terms": [
+          "문장",
+          "중심 문장"
+        ]
+      },
+      {
+        "concept": "중심 생각",
+        "easy_explanation": "중심이 되는 생각. 글쓴이가 글에서 말하고자 하는 가장 중요한 내용",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "5. 서로 다른 느낌",
+    "concepts": [
+      {
+        "concept": "작품",
+        "easy_explanation": "그림, 조각, 시, 소설 등 새롭게 만들어 낸 것",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "독서 토론",
+        "easy_explanation": "독서를 한 후 여러 명이 모여서 읽은 내용에 대해 서로 다른 생각을 이야기하는 것",
+        "related_terms": [
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "6. 소중한 정보",
+    "concepts": [
+      {
+        "concept": "뉴스",
+        "easy_explanation": "새로운 소식",
+        "related_terms": []
+      },
+      {
+        "concept": "시청",
+        "easy_explanation": "텔레비전 방송을 눈으로 보고 귀로 듣는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "인터넷",
+        "easy_explanation": "전 세계의 컴퓨터가 서로 연결된 통신망",
+        "related_terms": []
+      },
+      {
+        "concept": "휴대 전화",
+        "easy_explanation": "손에 들고 다니는 전화기",
+        "related_terms": []
+      },
+      {
+        "concept": "정보",
+        "easy_explanation": "어떤 사실에 대해 정리한 지식이나 자료",
+        "related_terms": [
+          "자료"
+        ]
+      },
+      {
+        "concept": "저작권",
+        "easy_explanation": "글, 그림, 음악, 영화, 게임 등을 만든 사람이 자신이 만든 것에 대해 가지는 권리",
+        "related_terms": [
+          "영화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "7. 국어사전과 함께",
+    "concepts": [
+      {
+        "concept": "사람이나 사물의 이름을 나타내는 말",
+        "easy_explanation": "사람이나 동물, 사물의 이름을 나타내는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "사람이나 사물의 움직임을 나타내는 말",
+        "easy_explanation": "사람이나 사물의 움직임을 나타내는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "사람이나 사물의 성질이나 모양을 나타내는 말",
+        "easy_explanation": "사람이나 사물의 성질이나 모양을 나타내는 말",
+        "related_terms": []
+      },
+      {
+        "concept": "모양이 바뀌는, 바뀌지 않는 낱말",
+        "easy_explanation": "모양이 바뀌는 낱말과 모양이 바뀌지 않는 낱말",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "기본형",
+        "easy_explanation": "상황에 따라서 낱말의 모양이 바뀌는데 이를 대표하는 낱말",
+        "related_terms": [
+          "상황",
+          "낱말"
+        ]
+      },
+      {
+        "concept": "영상 매체",
+        "easy_explanation": "텔레비전으로 보는 것들, 컴퓨터로 보는 동영상, 만화 영화나 영화 같은 것",
+        "related_terms": [
+          "만화",
+          "영화"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "10. 감동을 표현해요",
+    "concepts": [
+      {
+        "concept": "감동",
+        "easy_explanation": "마음이 움직이는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "공감",
+        "easy_explanation": "다른 사람의 생각이나 느낌을 나도 같이 느끼는 것",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "1. 이야기를 간추려요",
+    "concepts": [
+      {
+        "concept": "시간적 배경",
+        "easy_explanation": "이야기 속에서 사건이 벌어지는 시간",
+        "related_terms": [
+          "이야기",
+          "시"
+        ]
+      },
+      {
+        "concept": "공간적 배경",
+        "easy_explanation": "사건이 벌어지는 장소",
+        "related_terms": []
+      },
+      {
+        "concept": "문제 상황",
+        "easy_explanation": "고쳐야 되는, 문제를 일으키는 상태",
+        "related_terms": []
+      },
+      {
+        "concept": "제안",
+        "easy_explanation": "이렇게 하면 좋겠다고 의견을 내는 것",
+        "related_terms": [
+          "의견"
+        ]
+      },
+      {
+        "concept": "까닭",
+        "easy_explanation": "의견을 내는 이유",
+        "related_terms": [
+          "의견"
+        ]
+      },
+      {
+        "concept": "제안하는 글",
+        "easy_explanation": "문제 상황, 제안, 까닭의 내용을 가진 글",
+        "related_terms": [
+          "까닭",
+          "상황",
+          "제안",
+          "문제 상황"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "4. 글 속의 생각을 찾아",
+    "concepts": [
+      {
+        "concept": "소리는 같지만 뜻이 다른 낱말",
+        "easy_explanation": "소리는 같지만 뜻이 다른 낱말",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "한 낱말이 여러 가지 뜻으로 사용되는 경우",
+        "easy_explanation": "한 낱말이 여러 가지 뜻으로 사용되는 경우",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "컴퓨터를 사용한 글쓰기",
+        "easy_explanation": "글의 내용을 더하거나, 지우거나, 옮겨서 고치기가 편리한 글쓰기",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "5. 컴퓨터로 글을 써요",
+    "concepts": [
+      {
+        "concept": "초대장",
+        "easy_explanation": "어떤 자리나 모임에 참여해 달라고 적어서 보내는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "컴퓨터 편집 기능",
+        "easy_explanation": "컴퓨터 편집 기능을 이용하면 컴퓨터를 이용해 글을 쓸 때 글자 모양 바꾸기, 맞춤법 검사, 그림 넣기 등을 손쉽게 할 수 있어요.",
+        "related_terms": []
+      },
+      {
+        "concept": "시화",
+        "easy_explanation": "시와 함께 그린 그림",
+        "related_terms": [
+          "시"
+        ]
+      },
+      {
+        "concept": "독서 감상문",
+        "easy_explanation": "책을 읽고 자기 생각이나 느낌을 적은 글",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "6. 우리말 여행을 떠나요",
+    "concepts": [
+      {
+        "concept": "표준어",
+        "easy_explanation": "온 국민이 생각을 주고받기 위하여 한 나라에서 표준으로 정한 말",
+        "related_terms": []
+      },
+      {
+        "concept": "방언",
+        "easy_explanation": "표준어와는 다른, 어떤 지역이나 지방에서만 쓰는 언어",
+        "related_terms": [
+          "표준어"
+        ]
+      },
+      {
+        "concept": "학급 회의",
+        "easy_explanation": "학급 친구들의 의견을 알아보기 위하여 하는 회의",
+        "related_terms": [
+          "회의",
+          "의견"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "8. 정보를 나누어요",
+    "concepts": [
+      {
+        "concept": "발표",
+        "easy_explanation": "어떤 내용을 널리 드러내어 알리는 것",
+        "related_terms": []
+      },
+      {
+        "concept": "태도",
+        "easy_explanation": "발표할 때의 자세, 목소리, 말투 등",
+        "related_terms": [
+          "발표"
+        ]
+      },
+      {
+        "concept": "자료",
+        "easy_explanation": "필요한 정보를 얻기 위해 이용하는 정보나 재료",
+        "related_terms": [
+          "정보"
+        ]
+      },
+      {
+        "concept": "자료 조사",
+        "easy_explanation": "발표할 내용을 명확히 알기 위하여 자세히 살펴보거나 찾아보는 것",
+        "related_terms": [
+          "발표"
+        ]
+      },
+      {
+        "concept": "발표 태도",
+        "easy_explanation": "발표할 때의 자세, 목소리, 말투 등",
+        "related_terms": [
+          "발표"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "9. 시와 이야기에 담긴 세상",
+    "concepts": [
+      {
+        "concept": "현실 세계, 이야기의 세계",
+        "easy_explanation": "우리가 살아가는 있는 그대로의 모습을 현실 세계라고 합니다. 이야기의 세계는 이야기를 만든 사람이 현실 세계와 비슷하게 꾸며 만든 것이에요.",
+        "related_terms": [
+          "이야기"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "6. 알맞게 소개해요",
+    "concepts": [
+      {
+        "concept": "소개하는 글",
+        "easy_explanation": "자기를 소개하는 글도 있지만 다른 사람이나 물건을 소개하는 글",
+        "related_terms": []
+      },
+      {
+        "concept": "알맞은 낱말",
+        "easy_explanation": "쓰거나 말하려는 내용에 딱 맞는 말",
+        "related_terms": []
+      }
+    ]
+  },
+  {
+    "subject": "국어",
+    "grade": "3-4",
+    "unit": "2. 제안하고 실천하고",
+    "concepts": [
+      {
+        "concept": "먹다",
+        "easy_explanation": "여러 가지 뜻으로 사용되는 낱말 (예: 음식을 먹다, 마음을 먹다, 나이를 먹다)",
+        "related_terms": [
+          "낱말"
+        ]
+      },
+      {
+        "concept": "바람",
+        "easy_explanation": "여러 가지 뜻으로 사용되는 낱말 (예: 부는 바람, 공기 바람, 마음에 바람이 들다)",
+        "related_terms": [
+          "낱말"
+        ]
+      }
+    ]
+  }
+]

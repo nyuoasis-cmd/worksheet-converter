@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
 어휘 DB 병합 스크립트
-data/vocab/vocab_*.json 파일을 전부 읽어 vocab_all.json으로 병합합니다.
-같은 term_ko가 여러 교과에 있으면 subject를 배열로 합칩니다.
+data/vocab/vocab_*.json 파일을 전부 읽어 vocab_final.json으로 병합합니다.
+- krdict 소스: subject+grade 분리 스키마
+- edu4mc 소스: subject+grade 분리 스키마
+같은 term_ko가 여러 교과에 있으면 subjects 배열로 합칩니다.
 """
 
 import json
@@ -10,11 +12,14 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "vocab"
 
+# 병합에서 제외할 파일 (이전 병합 결과물)
+EXCLUDE_FILES = {"vocab_all.json", "vocab_all_before_google.json", "vocab_final.json"}
+
 
 def merge_vocab():
     """모든 vocab_*.json을 병합한다."""
     vocab_files = sorted(DATA_DIR.glob("vocab_*.json"))
-    vocab_files = [f for f in vocab_files if f.name != "vocab_all.json"]
+    vocab_files = [f for f in vocab_files if f.name not in EXCLUDE_FILES]
 
     if not vocab_files:
         print("병합할 파일이 없습니다.")
@@ -67,7 +72,7 @@ def merge_vocab():
     result = list(merged.values())
 
     # 저장
-    output_file = DATA_DIR / "vocab_all.json"
+    output_file = DATA_DIR / "vocab_final.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
@@ -85,13 +90,14 @@ def merge_vocab():
         fname = vocab_file.stem  # e.g. vocab_science_e34
         subject_counts[fname] = len(entries)
 
-    # 교과명 매핑
+    # 교과명 매핑 (파일명 → 표시명)
     name_map = {
-        "vocab_science_e34": "과학3-4",
-        "vocab_social_e34": "사회3-4",
-        "vocab_math_e34": "수학3-4",
-        "vocab_science_e56": "과학5-6",
-        "vocab_social_e56": "사회5-6",
+        "vocab_science_e34": "과학3-4(krdict)",
+        "vocab_social_e34": "사회3-4(krdict)",
+        "vocab_math_e34": "수학3-4(krdict)",
+        "vocab_science_e56": "과학5-6(krdict)",
+        "vocab_social_e56": "사회5-6(krdict)",
+        "vocab_edu4mc": "edu4mc",
     }
 
     parts = []

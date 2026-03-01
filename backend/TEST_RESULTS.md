@@ -1,4 +1,13 @@
-# 변환 테스트 결과 (2026-02-28)
+# 변환 테스트 결과 (2026-03-01 업데이트)
+
+## 변경 사항 (3/1)
+- RAG 소스 교체: `data/terms/` (107개) → `data/vocab/vocab_final.json` (638개)
+- knowledge DB 연결: `data/knowledge/knowledge_*.json` (17개 교재, 2,450개 개념)
+- rag_service.py: 신규 스키마 (flat 번역 필드, subjects 배열) 대응
+
+---
+
+# 변환 테스트 결과 (2026-02-28 원본)
 
 ## 테스트 환경
 - Gemini 모델: gemini-2.5-flash
