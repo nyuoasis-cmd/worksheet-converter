@@ -4,7 +4,7 @@
     "description": "모드1: RAG 힌트 없음, 다국어 없음",
     "status": 200,
     "mode": "prompt_only",
-    "html_length": 2713,
+    "html_length": 2468,
     "success": true
   },
   {
@@ -12,7 +12,7 @@
     "description": "모드2: RAG 힌트(과학 3-4학년), 베트남어+중국어",
     "status": 200,
     "mode": "rag",
-    "html_length": 3551,
+    "html_length": 3433,
     "success": true
   },
   {

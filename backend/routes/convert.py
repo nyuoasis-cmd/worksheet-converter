@@ -267,6 +267,9 @@ def _wrap_html_for_pdf(body_html: str) -> str:
   .ws-grid-2 {{ display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 12px 0; }}
   .ws-grid-3 {{ display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 12px 0; }}
   .ws-grid-item {{ border: 1px solid #E0E0E0; border-radius: 8px; padding: 12px; overflow: hidden; }}
+  .ws-grid-img-item {{ overflow: hidden; text-align: center; }}
+  .ws-grid-img-item .image-region {{ margin-bottom: 0; }}
+  .ws-grid-img-item .image-region img {{ border-radius: 8px; width: 100%; height: auto; }}
   .ws-blank {{ display: inline-block; width: 60px; height: 24px; border-bottom: 2px solid #333; margin: 0 4px; vertical-align: middle; }}
   table {{ border-collapse: collapse; max-width: 100%; table-layout: fixed; }}
   td, th {{ border: 1px solid #ccc; padding: 4px 8px; word-break: break-word; font-size: 12px; }}

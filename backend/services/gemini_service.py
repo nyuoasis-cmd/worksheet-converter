@@ -11,7 +11,7 @@ from google.genai import types
 
 from backend.config import GEMINI_API_KEY, GEMINI_MODEL
 from backend.prompts.convert_prompt import build_prompt
-from backend.services.image_service import extract_and_embed_images
+from backend.services.image_service import detect_image_grid, extract_and_embed_images
 
 
 def _get_client() -> genai.Client:
@@ -73,6 +73,9 @@ def convert_worksheet(
 
     # Gemini가 HTML 안에 **bold** 마크다운을 출력하는 경우 변환
     html = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", html)
+
+    # bbox 기반 이미지 그리드 감지 (extract 전에 실행 — data-bbox 속성 필요)
+    html = detect_image_grid(html)
 
     # 이미지 바운딩 박스 추출 + base64 삽입
     html = extract_and_embed_images(html, image_bytes)
