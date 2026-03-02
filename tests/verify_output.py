@@ -29,6 +29,7 @@ IMAGE_LABEL_MAP = {
     "vi": "Hình",
     "en": "Picture",
     "fil": "Larawan",
+    "ru": "Рисунок",
 }
 
 # 테스트 케이스별 언어 설정 (run_convert_test.py와 동기화)
