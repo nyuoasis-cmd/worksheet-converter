@@ -3,6 +3,7 @@
 파이프라인:
   1. Gemini 1회 → 쉬운 한국어 HTML (구조 확정)
   2. 언어 선택 시 → Google Translate로 텍스트만 번역 + ko-ref 주입
+  PDF: PyMuPDF로 페이지별 PNG 렌더링 후 각 페이지 처리 → 합산 반환
 """
 
 import io
@@ -10,7 +11,7 @@ import io
 import requests as req_lib
 from flask import Blueprint, request, jsonify
 
-from backend.config import MAX_IMAGE_SIZE_MB, ALLOWED_EXTENSIONS
+from backend.config import MAX_IMAGE_SIZE_MB, ALLOWED_EXTENSIONS, MAX_PDF_PAGES
 from backend.services.gemini_service import convert_worksheet
 from backend.services.rag_service import build_rag_context
 from backend.services.translation_service import translate_html
@@ -54,17 +55,7 @@ def convert():
     if len(image_bytes) > MAX_IMAGE_SIZE_MB * 1024 * 1024:
         return jsonify({"error": f"이미지 크기는 {MAX_IMAGE_SIZE_MB}MB 이하여야 합니다."}), 400
 
-    # MIME 타입 결정
     ext = file.filename.rsplit(".", 1)[1].lower()
-    mime_map = {
-        "png": "image/png",
-        "jpg": "image/jpeg",
-        "jpeg": "image/jpeg",
-        "webp": "image/webp",
-        "gif": "image/gif",
-        "bmp": "image/bmp",
-    }
-    mime_type = mime_map.get(ext, "image/png")
 
     # 옵션 파싱
     languages_str = request.form.get("languages", "")
@@ -81,16 +72,35 @@ def convert():
 
     languages = [l.strip() for l in languages_str.split(",") if l.strip()] if languages_str else []
 
-    # RAG 조회 (한국어 전용 — 언어 번역은 포함하지 않음)
+    # RAG 조회
     rag_context = build_rag_context(
         subject=subject,
         grade_group=grade_group,
-        languages=None,  # Gemini는 한국어만 생성하므로 번역 불필요
+        languages=None,
     )
-
     mode = "rag" if rag_context else "prompt_only"
 
-    # Step 1: Gemini → 쉬운 한국어 HTML (구조 1회 확정)
+    # PDF: 페이지별 PNG 렌더링 후 각 페이지 변환
+    if ext == "pdf":
+        try:
+            html = _convert_pdf(image_bytes, rag_context, difficulty, languages)
+        except RuntimeError as e:
+            return jsonify({"error": str(e)}), 500
+        except Exception as e:
+            return jsonify({"error": f"PDF 변환 중 오류가 발생했습니다: {str(e)}"}), 500
+        return jsonify({"html": html, "mode": mode})
+
+    # 이미지: MIME 타입 결정 후 단일 변환
+    mime_map = {
+        "png": "image/png",
+        "jpg": "image/jpeg",
+        "jpeg": "image/jpeg",
+        "webp": "image/webp",
+        "gif": "image/gif",
+        "bmp": "image/bmp",
+    }
+    mime_type = mime_map.get(ext, "image/png")
+
     try:
         html = convert_worksheet(
             image_bytes=image_bytes,
@@ -103,12 +113,10 @@ def convert():
     except Exception as e:
         return jsonify({"error": f"변환 중 오류가 발생했습니다: {str(e)}"}), 500
 
-    # Step 2: 언어 선택 시 → Google Translate로 텍스트만 번역
     if languages:
         try:
             html = translate_html(html, languages)
         except Exception as e:
-            # 번역 실패 시 한국어 HTML 그대로 반환 (구조는 이미 확정)
             import logging
             logging.getLogger(__name__).error("번역 실패, 한국어 HTML 반환: %s", e)
 
@@ -154,6 +162,58 @@ def convert_pdf():
 def convert_hwpx():
     """HTML을 HWPX로 변환한다. (추후 구현)"""
     return jsonify({"error": "HWPX 변환은 아직 구현되지 않았습니다."}), 501
+
+
+def _convert_pdf(
+    pdf_bytes: bytes,
+    rag_context: str,
+    difficulty: str,
+    languages: list[str],
+) -> str:
+    """PDF를 페이지별 PNG로 렌더링 후 각 페이지 변환 → 합산 HTML 반환."""
+    try:
+        import fitz  # PyMuPDF
+    except ImportError:
+        raise RuntimeError("PDF 지원 라이브러리(PyMuPDF)가 설치되지 않았습니다. pip install pymupdf")
+
+    doc = fitz.open(stream=pdf_bytes, filetype="pdf")
+    total_pages = min(doc.page_count, MAX_PDF_PAGES)
+
+    page_htmls = []
+    for i in range(total_pages):
+        page = doc[i]
+        # 150 DPI 기준 렌더링 (품질 vs 속도 균형)
+        mat = fitz.Matrix(150 / 72, 150 / 72)
+        pix = page.get_pixmap(matrix=mat)
+        png_bytes = pix.tobytes("png")
+
+        page_html = convert_worksheet(
+            image_bytes=png_bytes,
+            mime_type="image/png",
+            rag_context=rag_context,
+            difficulty_level=difficulty,
+        )
+        if languages:
+            try:
+                page_html = translate_html(page_html, languages)
+            except Exception as e:
+                import logging
+                logging.getLogger(__name__).error("페이지 %d 번역 실패: %s", i + 1, e)
+
+        page_htmls.append(page_html)
+
+    doc.close()
+
+    if len(page_htmls) == 1:
+        return page_htmls[0]
+
+    # 다중 페이지: 페이지 구분선 포함 합산
+    combined = ""
+    for idx, h in enumerate(page_htmls):
+        if idx > 0:
+            combined += f'<div class="page-divider" style="border-top:2px dashed #ccc;margin:24px 0;text-align:center;color:#999;font-size:13px;">— {idx + 1}페이지 —</div>'
+        combined += h
+    return combined
 
 
 def _weasyprint_url_fetcher(url: str, timeout: int = 15) -> dict:

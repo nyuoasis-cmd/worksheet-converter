@@ -22,5 +22,6 @@ KNOWLEDGE_DIR = os.path.join(DATA_DIR, "knowledge")
 
 VOCAB_FINAL_PATH = os.path.join(VOCAB_DIR, "vocab_final.json")
 
-MAX_IMAGE_SIZE_MB = 10
-ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg", "webp", "gif", "bmp"}
+MAX_IMAGE_SIZE_MB = 20
+ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg", "webp", "gif", "bmp", "pdf"}
+MAX_PDF_PAGES = 5  # PDF 페이지 수 제한
