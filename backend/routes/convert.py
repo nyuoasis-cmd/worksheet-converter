@@ -1,4 +1,9 @@
-"""API 라우트 — /api/convert 엔드포인트 1개로 모든 변환 처리."""
+"""API 라우트 — /api/convert 엔드포인트 1개로 모든 변환 처리.
+
+파이프라인:
+  1. Gemini 1회 → 쉬운 한국어 HTML (구조 확정)
+  2. 언어 선택 시 → Google Translate로 텍스트만 번역 + ko-ref 주입
+"""
 
 import io
 
@@ -7,7 +12,8 @@ from flask import Blueprint, request, jsonify
 
 from backend.config import MAX_IMAGE_SIZE_MB, ALLOWED_EXTENSIONS
 from backend.services.gemini_service import convert_worksheet
-from backend.services.rag_service import build_rag_context, search_vocab
+from backend.services.rag_service import build_rag_context
+from backend.services.translation_service import translate_html
 
 convert_bp = Blueprint("convert", __name__)
 
@@ -19,6 +25,9 @@ def _allowed_file(filename: str) -> bool:
 @convert_bp.route("/api/convert", methods=["POST"])
 def convert():
     """문제지 이미지를 쉬운 한국어 HTML로 변환한다.
+
+    파이프라인:
+        이미지 → Gemini(1회, 한국어) → [Google Translate(텍스트만)] → HTML
 
     요청:
         - image: 문제지 이미지 파일 (multipart/form-data)
@@ -72,35 +81,36 @@ def convert():
 
     languages = [l.strip() for l in languages_str.split(",") if l.strip()] if languages_str else []
 
-    # RAG 조회 (데이터 없으면 빈 문자열, 에러 아님)
+    # RAG 조회 (한국어 전용 — 언어 번역은 포함하지 않음)
     rag_context = build_rag_context(
         subject=subject,
         grade_group=grade_group,
-        languages=languages if languages else None,
+        languages=None,  # Gemini는 한국어만 생성하므로 번역 불필요
     )
 
     mode = "rag" if rag_context else "prompt_only"
 
-    selected_languages_str = ", ".join(languages) if languages else ""
-
-    # glossary 후처리용 어휘 데이터 조회
-    vocab_items = search_vocab(subject=subject, grade_group=grade_group, languages=languages if languages else None) if languages else []
-
-    # Gemini 변환
+    # Step 1: Gemini → 쉬운 한국어 HTML (구조 1회 확정)
     try:
         html = convert_worksheet(
             image_bytes=image_bytes,
             mime_type=mime_type,
             rag_context=rag_context,
-            selected_languages=selected_languages_str,
             difficulty_level=difficulty,
-            vocab=vocab_items,
-            languages=languages,
         )
     except RuntimeError as e:
         return jsonify({"error": str(e)}), 500
     except Exception as e:
         return jsonify({"error": f"변환 중 오류가 발생했습니다: {str(e)}"}), 500
+
+    # Step 2: 언어 선택 시 → Google Translate로 텍스트만 번역
+    if languages:
+        try:
+            html = translate_html(html, languages)
+        except Exception as e:
+            # 번역 실패 시 한국어 HTML 그대로 반환 (구조는 이미 확정)
+            import logging
+            logging.getLogger(__name__).error("번역 실패, 한국어 HTML 반환: %s", e)
 
     return jsonify({"html": html, "mode": mode})
 
@@ -142,19 +152,12 @@ def convert_pdf():
 
 @convert_bp.route("/api/convert/hwpx", methods=["POST"])
 def convert_hwpx():
-    """HTML을 HWPX로 변환한다. (추후 구현)
-
-    요청:
-        - html: 변환할 HTML 문자열 (JSON body)
-
-    응답:
-        HWPX 파일 (application/octet-stream)
-    """
+    """HTML을 HWPX로 변환한다. (추후 구현)"""
     return jsonify({"error": "HWPX 변환은 아직 구현되지 않았습니다."}), 501
 
 
 def _weasyprint_url_fetcher(url: str, timeout: int = 15) -> dict:
-    """WeasyPrint용 URL fetcher — Google Fonts에 브라우저 User-Agent를 사용해 올바른 폰트 CSS를 받는다."""
+    """WeasyPrint용 URL fetcher — Google Fonts에 브라우저 User-Agent를 사용."""
     headers = {}
     if "fonts.googleapis.com" in url or "fonts.gstatic.com" in url:
         headers["User-Agent"] = (
@@ -194,6 +197,16 @@ def _wrap_html_for_pdf(body_html: str) -> str:
   .question-type-label {{ font-size: 13px; font-weight: 700; color: #1E40AF; background: #EFF6FF; border-left: 3px solid #3B82F6; padding: 5px 12px; margin: 16px 0 8px; border-radius: 0 4px 4px 0; }}
   .question {{ margin-bottom: 18px; page-break-inside: avoid; }}
   .image-hint {{ font-size: 12px; color: #7C3AED; background: #F5F3FF; border: 1px solid #DDD6FE; border-radius: 6px; padding: 6px 12px; margin-bottom: 8px; }}
+  .image-region {{ margin-bottom: 12px; text-align: center; }}
+  .image-region img {{ max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #DDD6FE; }}
+  .image-region .image-desc {{ font-size: 12px; color: #7C3AED; margin-top: 4px; font-style: italic; }}
+  .image-region .ko-ref {{ display: block; font-size: 11px; color: #94A3B8; margin-top: 1px; }}
+  .ws-two-col {{ display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; margin: 12px 0; }}
+  .ws-col-img {{ text-align: center; }}
+  .ws-col-img img {{ max-width: 100%; border-radius: 4px; }}
+  .ws-grid-2 {{ display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 12px 0; }}
+  .ws-grid-item {{ border: 1px solid #E0E0E0; border-radius: 8px; padding: 12px; }}
+  .ws-blank {{ display: inline-block; width: 60px; height: 24px; border-bottom: 2px solid #333; margin: 0 4px; vertical-align: middle; }}
   .question-text {{ margin-bottom: 8px; }}
   .choices {{ margin-left: 20px; }}
   .choice {{ margin-bottom: 4px; }}

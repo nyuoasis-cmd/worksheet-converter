@@ -14,6 +14,7 @@ if _env_path.exists():
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = "gemini-2.5-flash"
+GOOGLE_TRANSLATE_API_KEY = os.environ.get("GOOGLE_TRANSLATE_API_KEY", "")
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 VOCAB_DIR = os.path.join(DATA_DIR, "vocab")

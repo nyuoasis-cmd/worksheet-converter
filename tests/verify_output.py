@@ -92,21 +92,26 @@ def check_multilingual(html: str, languages: list[str]) -> tuple[bool, str]:
 
 
 def check_image_labels(html: str, languages: list[str]) -> tuple[bool, str]:
-    """검증 4: 이미지 힌트 레이블 언어 매칭."""
+    """검증 4: 이미지 힌트/이미지 영역 레이블 언어 매칭."""
+    # image-hint (텍스트 설명) + image-region .image-desc (실제 이미지 삽입 후) 양쪽 검색
     image_hints = re.findall(r'class="image-hint"[^>]*>(.*?)</(?:div|p)', html, re.DOTALL)
-    if not image_hints:
-        return True, "image-hint 없음 (스킵)"
-    # 이미지 힌트가 있을 때만 언어 매칭 확인
+    image_descs = re.findall(r'class="image-desc"[^>]*>(.*?)</(?:p|div)', html, re.DOTALL)
+    all_labels = image_hints + image_descs
+    if not all_labels:
+        return True, "image-hint/image-region 없음 (스킵)"
+    # 이미지 레이블이 있을 때만 언어 매칭 확인
     issues = []
     for lang in languages:
         expected_label = IMAGE_LABEL_MAP.get(lang)
-        if expected_label and image_hints:
-            found = any(expected_label in hint for hint in image_hints)
+        if expected_label and all_labels:
+            found = any(expected_label in label for label in all_labels)
             if not found:
                 issues.append(f"{lang}→'{expected_label}' 미발견")
     if issues:
         return False, f"레이블 불일치: {', '.join(issues)}"
-    return True, f"이미지 힌트 {len(image_hints)}개, 레이블 정상"
+    hint_count = len(image_hints)
+    desc_count = len(image_descs)
+    return True, f"이미지 레이블 {hint_count + desc_count}개 (hint={hint_count}, region={desc_count}), 정상"
 
 
 def check_markdown_residue(html: str) -> tuple[bool, str]:

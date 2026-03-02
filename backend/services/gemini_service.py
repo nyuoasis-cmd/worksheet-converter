@@ -1,9 +1,9 @@
 """Gemini Vision API 호출 서비스.
 
 이미지 → OCR + 쉬운 한국어 변환을 단일 호출로 처리한다.
+다국어 번역은 translation_service에서 별도 처리.
 """
 
-import base64
 import re
 
 from google import genai
@@ -11,7 +11,7 @@ from google.genai import types
 
 from backend.config import GEMINI_API_KEY, GEMINI_MODEL
 from backend.prompts.convert_prompt import build_prompt
-from backend.services.glossary_postprocess import apply_glossary_postprocess
+from backend.services.image_service import extract_and_embed_images
 
 
 def _get_client() -> genai.Client:
@@ -24,30 +24,25 @@ def convert_worksheet(
     image_bytes: bytes,
     mime_type: str,
     rag_context: str = "",
-    selected_languages: str = "",
     difficulty_level: str = "쉬움",
-    vocab: list[dict] = None,
-    languages: list[str] = None,
 ) -> str:
     """문제지 이미지를 받아 쉬운 한국어 HTML로 변환한다.
+
+    Gemini는 항상 한국어만 생성. 다국어 번역은 translation_service 담당.
 
     Args:
         image_bytes: 이미지 바이너리 데이터.
         mime_type: 이미지 MIME 타입 (예: "image/png").
         rag_context: RAG 조회 결과. 빈 문자열이면 모드1.
-        selected_languages: 쉼표 구분 외국어 목록.
         difficulty_level: 변환 난이도.
-        vocab: glossary 후처리용 어휘 리스트.
-        languages: glossary 후처리용 언어 코드 리스트.
 
     Returns:
-        변환된 HTML 문자열.
+        쉬운 한국어 HTML 문자열.
     """
     client = _get_client()
 
     system_prompt = build_prompt(
         rag_context=rag_context,
-        selected_languages=selected_languages,
         difficulty_level=difficulty_level,
     )
 
@@ -79,12 +74,7 @@ def convert_worksheet(
     # Gemini가 HTML 안에 **bold** 마크다운을 출력하는 경우 변환
     html = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", html)
 
-    # 빈 괄호 잔재 제거: "; ( )", ": ( )" (데이터 없는 언어 슬롯)
-    # 주의: 독립 "( )" 패턴은 학생 작성용 빈칸일 수 있으므로 보존
-    html = re.sub(r"[;:]\s*\(\s*\)", "", html)  # "; ( )" 또는 ": ( )" 패턴만 제거
-
-    # glossary 기반 강제 치환 (ko-ref 역참조)
-    if vocab and languages:
-        html = apply_glossary_postprocess(html, vocab, languages)
+    # 이미지 바운딩 박스 추출 + base64 삽입
+    html = extract_and_embed_images(html, image_bytes)
 
     return html
