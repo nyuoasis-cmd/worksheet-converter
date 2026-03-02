@@ -11,6 +11,7 @@ import re
 from PIL import Image
 
 MAX_WIDTH_PX = 800
+MAX_FALLBACK_WIDTH_PX = 320  # bbox 없는 fallback 이미지: 최대 320px
 JPEG_QUALITY = 80
 BBOX_COORD_MAX = 1000
 MIN_CROP_PX = 20
@@ -89,7 +90,11 @@ def _crop_and_encode(image: Image.Image, bbox: tuple[int, int, int, int]) -> str
 
 
 def _make_full_image_base64(image: Image.Image) -> str:
-    """원본 전체 이미지 → base64 JPEG (fallback용)."""
+    """원본 전체 이미지 → base64 JPEG (fallback용, MAX_FALLBACK_WIDTH_PX 제한)."""
+    if image.width > MAX_FALLBACK_WIDTH_PX:
+        ratio = MAX_FALLBACK_WIDTH_PX / image.width
+        new_h = int(image.height * ratio)
+        image = image.resize((MAX_FALLBACK_WIDTH_PX, new_h), Image.LANCZOS)
     return _encode_image(image)
 
 
