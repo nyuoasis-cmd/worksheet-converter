@@ -1,6 +1,6 @@
 """RAG 조회 서비스.
 
-data/vocab/vocab_final.json (638개) 과 data/knowledge/knowledge_*.json (2,450개 개념)에서
+data/vocab/vocab_final.json (18,265개) 과 data/knowledge/knowledge_*.json (2,450개 개념)에서
 관련 어휘 및 교과 지식을 검색하여 프롬프트의 rag_context 문자열로 조립한다.
 
 스키마:
@@ -50,13 +50,17 @@ def _load_knowledge() -> list[dict]:
 
 
 def _match_subject_grade(subjects_arr: list[str], subject: str, grade_group: Optional[str]) -> bool:
-    """subjects 배열 ["과학 3-4", ...] 에서 subject/grade_group 매칭."""
+    """subjects 배열 ["과학 3-4", ...] 에서 subject/grade_group 매칭.
+
+    학년 없는 항목 (예: "과학")은 해당 과목의 모든 학년에 매칭된다.
+    """
     for s in subjects_arr:
         parts = s.split(" ", 1)
         s_subj = parts[0]
         s_grade = parts[1] if len(parts) > 1 else ""
         if s_subj == subject:
-            if grade_group is None or grade_group == s_grade:
+            # 학년 없는 용어 → 전학년 매칭
+            if not s_grade or grade_group is None or grade_group == s_grade:
                 return True
     return False
 
@@ -65,8 +69,13 @@ def search_vocab(
     subject: Optional[str] = None,
     grade_group: Optional[str] = None,
     languages: Optional[list[str]] = None,
+    max_terms: int = 500,
 ) -> list[dict]:
-    """vocab_final.json에서 조건에 맞는 용어 반환."""
+    """vocab_final.json에서 조건에 맞는 용어 반환.
+
+    languages가 지정되면 해당 언어 번역이 있는 용어를 우선 정렬한다.
+    max_terms 상한을 적용하여 프롬프트 길이를 제어한다.
+    """
     all_vocab = _load_vocab()
     if not subject and not grade_group:
         return []
@@ -81,7 +90,13 @@ def search_vocab(
             continue
         filtered.append(term)
 
-    return filtered
+    # 선택 언어 번역이 있는 용어를 앞으로 정렬
+    if languages:
+        def _has_translation(t):
+            return sum(1 for lang in languages if t.get(lang, "")) > 0
+        filtered.sort(key=lambda t: (not _has_translation(t), t.get("term_ko", "")))
+
+    return filtered[:max_terms]
 
 
 def search_knowledge(

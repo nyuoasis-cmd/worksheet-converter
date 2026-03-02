@@ -11,6 +11,7 @@ from google.genai import types
 
 from backend.config import GEMINI_API_KEY, GEMINI_MODEL
 from backend.prompts.convert_prompt import build_prompt
+from backend.services.glossary_postprocess import apply_glossary_postprocess
 
 
 def _get_client() -> genai.Client:
@@ -25,6 +26,8 @@ def convert_worksheet(
     rag_context: str = "",
     selected_languages: str = "",
     difficulty_level: str = "쉬움",
+    vocab: list[dict] = None,
+    languages: list[str] = None,
 ) -> str:
     """문제지 이미지를 받아 쉬운 한국어 HTML로 변환한다.
 
@@ -34,6 +37,8 @@ def convert_worksheet(
         rag_context: RAG 조회 결과. 빈 문자열이면 모드1.
         selected_languages: 쉼표 구분 외국어 목록.
         difficulty_level: 변환 난이도.
+        vocab: glossary 후처리용 어휘 리스트.
+        languages: glossary 후처리용 언어 코드 리스트.
 
     Returns:
         변환된 HTML 문자열.
@@ -77,5 +82,9 @@ def convert_worksheet(
     # 빈 괄호 잔재 제거: "; ( )", ": ( )" (데이터 없는 언어 슬롯)
     # 주의: 독립 "( )" 패턴은 학생 작성용 빈칸일 수 있으므로 보존
     html = re.sub(r"[;:]\s*\(\s*\)", "", html)  # "; ( )" 또는 ": ( )" 패턴만 제거
+
+    # glossary 기반 강제 치환 (ko-ref 역참조)
+    if vocab and languages:
+        html = apply_glossary_postprocess(html, vocab, languages)
 
     return html

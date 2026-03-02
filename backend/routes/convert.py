@@ -7,7 +7,7 @@ from flask import Blueprint, request, jsonify
 
 from backend.config import MAX_IMAGE_SIZE_MB, ALLOWED_EXTENSIONS
 from backend.services.gemini_service import convert_worksheet
-from backend.services.rag_service import build_rag_context
+from backend.services.rag_service import build_rag_context, search_vocab
 
 convert_bp = Blueprint("convert", __name__)
 
@@ -63,6 +63,13 @@ def convert():
     subject = request.form.get("subject", None)
     grade_group = request.form.get("grade_group", None)
 
+    # 언어가 선택된 경우 과목/학년 필수
+    if languages_str and (not subject or not grade_group):
+        return jsonify({
+            "error": "다국어 변환 시 과목과 학년을 선택해주세요.",
+            "code": "MISSING_SUBJECT_GRADE"
+        }), 400
+
     languages = [l.strip() for l in languages_str.split(",") if l.strip()] if languages_str else []
 
     # RAG 조회 (데이터 없으면 빈 문자열, 에러 아님)
@@ -76,6 +83,9 @@ def convert():
 
     selected_languages_str = ", ".join(languages) if languages else ""
 
+    # glossary 후처리용 어휘 데이터 조회
+    vocab_items = search_vocab(subject=subject, grade_group=grade_group, languages=languages if languages else None) if languages else []
+
     # Gemini 변환
     try:
         html = convert_worksheet(
@@ -84,6 +94,8 @@ def convert():
             rag_context=rag_context,
             selected_languages=selected_languages_str,
             difficulty_level=difficulty,
+            vocab=vocab_items,
+            languages=languages,
         )
     except RuntimeError as e:
         return jsonify({"error": str(e)}), 500

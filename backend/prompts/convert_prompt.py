@@ -141,8 +141,19 @@ def build_prompt(
     Returns:
         완성된 시스템 프롬프트 문자열.
     """
+    # RAG 데이터가 있으면 용어표 준수 지시를 앞에 추가
+    if rag_context:
+        rag_block = (
+            "### 핵심 용어 번역 규칙 (반드시 준수)\n"
+            "아래 용어표에 있는 한국어 용어가 원문에 등장하면, 반드시 용어표의 번역을 그대로 사용하세요.\n"
+            "용어표에 없는 용어만 자체 번역하세요. 용어표의 번역을 임의로 변경하지 마세요.\n\n"
+            + rag_context
+        )
+    else:
+        rag_block = "(참고 자료 없음 — 당신의 지식으로 변환하세요)"
+
     return SYSTEM_PROMPT.format(
-        rag_context=rag_context if rag_context else "(참고 자료 없음 — 당신의 지식으로 변환하세요)",
+        rag_context=rag_block,
         selected_languages=selected_languages if selected_languages else "(선택된 외국어 없음)",
         difficulty_level=difficulty_level or "쉬움",
     )

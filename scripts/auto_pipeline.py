@@ -34,7 +34,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from backend.config import GEMINI_API_KEY
 from backend.services.gemini_service import convert_worksheet
-from backend.services.rag_service import build_rag_context
+from backend.services.rag_service import build_rag_context, search_vocab
 from tests.verify_output import verify_html as structural_verify
 from tests.verify_visual import verify_visual
 
@@ -113,12 +113,21 @@ def step1_convert(image_path: Path, metadata: dict, error_feedback: str = "") ->
         feedback_section = f"\n\n### 이전 변환의 문제점 (반드시 수정하세요)\n{error_feedback}\n"
         rag_context = feedback_section + rag_context
 
+    # glossary 후처리용 어휘 데이터 조회
+    vocab_items = search_vocab(
+        subject=metadata.get("subject") or None,
+        grade_group=metadata.get("grade_group") or None,
+        languages=lang_list,
+    ) if lang_list else []
+
     html = convert_worksheet(
         image_bytes=image_bytes,
         mime_type=mime_type,
         rag_context=rag_context,
         selected_languages=languages,
         difficulty_level=metadata.get("difficulty", "쉬움"),
+        vocab=vocab_items,
+        languages=lang_list or [],
     )
 
     print(f"    HTML 생성 완료 ({len(html)} 바이트)")
