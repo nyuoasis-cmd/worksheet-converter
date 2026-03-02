@@ -74,8 +74,8 @@ def convert_worksheet(
     # Gemini가 HTML 안에 **bold** 마크다운을 출력하는 경우 변환
     html = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", html)
 
-    # 빈 괄호 잔재 제거: "; ( )", ": ( )", "( )" 등 (데이터 없는 언어 슬롯)
-    html = re.sub(r"[;:]\s*\(\s*\)", "", html)  # "; ( )" 또는 ": ( )" 패턴
-    html = re.sub(r"\(\s*\)", "", html)  # 독립 "( )" 패턴
+    # 빈 괄호 잔재 제거: "; ( )", ": ( )" (데이터 없는 언어 슬롯)
+    # 주의: 독립 "( )" 패턴은 학생 작성용 빈칸일 수 있으므로 보존
+    html = re.sub(r"[;:]\s*\(\s*\)", "", html)  # "; ( )" 또는 ": ( )" 패턴만 제거
 
     return html
