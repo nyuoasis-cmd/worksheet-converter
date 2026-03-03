@@ -250,8 +250,7 @@ def _wrap_html_for_pdf(body_html: str) -> str:
     src: local('Noto Sans CJK JP'), local('NotoSansCJKjp-Regular'), local('NotoSansJP-Regular');
   }}
   body {{ font-family: 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans CJK JP', 'Noto Sans CJK KR', 'UnDotum', sans-serif; margin: 20mm; font-size: 14px; line-height: 1.6; }}
-  .worksheet-header {{ page-break-after: avoid; margin-bottom: 16px; }}
-  .worksheet-header + * {{ page-break-before: avoid; }}
+  .worksheet-header {{ page-break-inside: avoid; margin-bottom: 16px; }}
   .worksheet-header h1 {{ font-size: 20px; margin-bottom: 4px; }}
   .worksheet-header .grade {{ color: #666; margin-bottom: 0; }}
   .question-type-label {{ font-size: 13px; font-weight: 700; color: #1E40AF; background: #EFF6FF; border-left: 3px solid #3B82F6; padding: 5px 12px; margin: 16px 0 8px; border-radius: 0 4px 4px 0; }}
