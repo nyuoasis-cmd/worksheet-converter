@@ -17,7 +17,7 @@ from typing import Optional
 
 from backend.config import VOCAB_FINAL_PATH, KNOWLEDGE_DIR
 
-LANG_LABELS = {"vi": "베트남어", "zh": "중국어", "en": "영어", "ja": "일본어", "tl": "필리핀어"}
+LANG_LABELS = {"vi": "베트남어", "zh": "중국어", "en": "영어", "ja": "일본어", "tl": "필리핀어", "ru": "러시아어"}
 
 
 @lru_cache(maxsize=1)
