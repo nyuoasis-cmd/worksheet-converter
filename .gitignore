@@ -9,3 +9,7 @@ verify/*.png
 verify/*.jpg
 verify/*.jpeg
 verify/*.webp
+*.bak
+*.bak2
+logs/
+*:Zone.Identifier
