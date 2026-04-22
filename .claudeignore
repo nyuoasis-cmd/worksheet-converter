@@ -1,0 +1,25 @@
+# 의존성
+node_modules/
+__pycache__/
+.venv/
+venv/
+
+# 빌드 산출물
+dist/
+build/
+.nuxt/
+.turbo/
+.cache/
+
+# 버전 관리
+.git/
+
+# 로그/임시
+*.log
+*.tmp
+.DS_Store
+
+# 환경
+.env
+.env.local
+.env.*.local
